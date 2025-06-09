@@ -25,6 +25,9 @@ labels = [
 label2id = {label: idx for idx, label in enumerate(labels)}
 id2label = {idx: label for label, idx in label2id.items()}
 df['label'] = df['label'].map(label2id)
+df = df[df['label'].notna()]  # remove unmapped labels
+df['label'] = df['label'].astype(int)  # ensure integer labels for stratify
+
 
 
 # Split into train/val
