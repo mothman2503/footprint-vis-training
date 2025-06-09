@@ -11,13 +11,21 @@ import os
 df = pd.read_csv("final_balanced_multilingual_dataset.csv")
 df = df.rename(columns={"query_or_title": "text", "iab_label": "label"})
 
+
 # Encode labels
-df = df[df['label'].notna()]  # remove rows with missing labels
-df['label'] = df['label'].astype(str)  # ensure all labels are strings
-unique_labels = sorted(df['label'].unique())
-label2id = {label: i for i, label in enumerate(unique_labels)}
-id2label = {i: label for label, i in label2id.items()}
+labels = [
+    "IAB1 Arts & Entertainment", "IAB2 Automotive", "IAB3 Business", "IAB4 Careers",
+    "IAB5 Education", "IAB6 Family & Parenting", "IAB7 Health & Fitness", "IAB8 Food & Drink",
+    "IAB9 Hobbies & Interests", "IAB10 Home & Garden", "IAB11 Law, Gov’t & Politics",
+    "IAB12 News", "IAB13 Personal Finance", "IAB14 Society", "IAB15 Science", "IAB16 Pets",
+    "IAB17 Sports", "IAB18 Style & Fashion", "IAB19 Technology & Computing", "IAB20 Travel",
+    "IAB21 Real Estate", "IAB22 Shopping", "IAB23 Religion & Spirituality", "IAB24 Uncategorized"
+]
+
+label2id = {label: idx for idx, label in enumerate(labels)}
+id2label = {idx: label for label, idx in label2id.items()}
 df['label'] = df['label'].map(label2id)
+
 
 # Split into train/val
 train_df, val_df = train_test_split(df, test_size=0.1, stratify=df['label'], random_state=42)
