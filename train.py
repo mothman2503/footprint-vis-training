@@ -12,6 +12,8 @@ df = pd.read_csv("final_balanced_multilingual_dataset.csv")
 df = df.rename(columns={"query_or_title": "text", "iab_label": "label"})
 
 # Encode labels
+df = df[df['label'].notna()]  # remove rows with missing labels
+df['label'] = df['label'].astype(str)  # ensure all labels are strings
 unique_labels = sorted(df['label'].unique())
 label2id = {label: i for i, label in enumerate(unique_labels)}
 id2label = {i: label for label, i in label2id.items()}
