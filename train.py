@@ -82,6 +82,6 @@ trainer = Trainer(
 )
 
 # Train and save
-trainer.train(resume_from_checkpoint="output/checkpoint-20404")
+trainer.train()
 trainer.save_model("./output/final_model")
 tokenizer.save_pretrained("./output/final_model")
