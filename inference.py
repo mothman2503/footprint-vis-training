@@ -10,7 +10,7 @@ tokenizer = BertTokenizerFast.from_pretrained(model_path)
 model.eval()
 
 # Your test query
-query = "Biryani with raita and rice"
+query = "pizza"
 
 # Tokenize
 inputs = tokenizer(query, return_tensors="pt", truncation=True, padding=True)
