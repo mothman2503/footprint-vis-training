@@ -45,10 +45,10 @@ for start_idx in range(0, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
     end_idx = start_idx + BATCH_SIZE
 
     # Auto-resume → skip batch if already processed
-    batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
-    if os.path.exists(batch_filename):
-        print(f"⏩ Skipping already processed batch {start_idx} to {end_idx}...")
-        continue
+    #batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
+    #if os.path.exists(batch_filename):
+    #    print(f"⏩ Skipping already processed batch {start_idx} to {end_idx}...")
+    #    continue
 
     batch_texts = texts[start_idx:end_idx]
 
