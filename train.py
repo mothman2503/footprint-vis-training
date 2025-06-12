@@ -41,7 +41,7 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 texts = df["text"].tolist()
 
 # Loop in batches (save every BATCH_SIZE rows)
-for start_idx in range(0, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
+for start_idx in range(6000, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
     end_idx = start_idx + BATCH_SIZE
     batch_texts = texts[start_idx:end_idx]
 
