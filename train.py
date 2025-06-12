@@ -1,4 +1,4 @@
-# zero_shot_labeling.py (optimized for batched inference)
+# train.py (robust version with auto-resume + empty string handling)
 from transformers import pipeline
 import pandas as pd
 import json
@@ -41,18 +41,32 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 texts = df["text"].tolist()
 
 # Loop in batches (save every BATCH_SIZE rows)
-for start_idx in range(6000, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
+for start_idx in range(0, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
     end_idx = start_idx + BATCH_SIZE
+
+    # Auto-resume → skip batch if already processed
+    batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
+    if os.path.exists(batch_filename):
+        print(f"⏩ Skipping already processed batch {start_idx} to {end_idx}...")
+        continue
+
     batch_texts = texts[start_idx:end_idx]
 
     batch_results = []
-    print(f"🚀 Processing batch {start_idx} to {end_idx}...")
+    print(f"\n🚀 Processing batch {start_idx} to {end_idx}...")
 
     # Loop in inference sub-batches
     for infer_start in range(0, len(batch_texts), INFER_BATCH_SIZE):
         infer_end = infer_start + INFER_BATCH_SIZE
         infer_texts = batch_texts[infer_start:infer_end]
 
+        # Filter empty strings
+        infer_texts = [t for t in infer_texts if t.strip() != ""]
+        if len(infer_texts) == 0:
+            print(f"⚠️ Skipping empty infer_texts at batch {start_idx}-{end_idx}, sub-batch {infer_start}-{infer_end}")
+            continue
+
+        # Run zero-shot
         outputs = classifier(infer_texts, candidate_labels)
 
         # If single input → outputs is dict; if multiple → list of dicts
@@ -69,19 +83,11 @@ for start_idx in range(6000, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
 
             batch_results.append((text, full_label, score))
 
-        print(f"Processed {infer_end} / {len(batch_texts)} in current batch...")
+        print(f"Processed {min(infer_end, len(batch_texts))} / {len(batch_texts)} in current batch...")
 
     # Save this batch to CSV
     batch_df = pd.DataFrame(batch_results, columns=["text", "iab_label", "confidence"])
-    batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
     batch_df.to_csv(batch_filename, index=False)
     print(f"✅ Saved {batch_filename}!")
 
-print("🎉 All batches processed!")
-
-# Optional: merge all batch CSVs into one final CSV (uncomment if you want)
-import glob
-all_files = glob.glob(os.path.join(OUTPUT_FOLDER, "labeled_batch_*.csv"))
-final_df = pd.concat([pd.read_csv(f) for f in all_files], ignore_index=True)
-final_df.to_csv("labeled_zero_shot_output.csv", index=False)
-print("✅ Merged all batches into labeled_zero_shot_output.csv!")
+print("\n🎉 All batches processed!")
