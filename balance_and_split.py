@@ -51,6 +51,15 @@ if not under_sampled_classes.empty:
 else:
     print(f"\n✅ All classes have at least {MAX_SAMPLES_PER_CLASS} samples.")
 
+# ✅ IMPORTANT: Remove classes with < 2 samples before stratified split
+min_samples_needed = 2
+valid_classes = balanced_df["iab_label"].value_counts()
+valid_classes = valid_classes[valid_classes >= min_samples_needed].index.tolist()
+
+balanced_df = balanced_df[balanced_df["iab_label"].isin(valid_classes)].reset_index(drop=True)
+
+print(f"\n✅ Classes kept for splitting (≥ {min_samples_needed} samples): {valid_classes}")
+
 # Split → first split off test set
 train_val_df, test_df = train_test_split(
     balanced_df, test_size=0.1, stratify=balanced_df["iab_label"], random_state=42
