@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 INPUT_FILE = "labeled_zero_shot_output_combined.csv"
 OUTPUT_FOLDER = "balanced_split_output"
 MAX_SAMPLES_PER_CLASS = 2000  # Adjust this → e.g. 1000, 2000, etc.
-CONFIDENCE_THRESHOLD = 0.5  # Filter out examples below this confidence
+CONFIDENCE_THRESHOLD = 0.3  # Filter out examples below this confidence
 
 # Load data
 df = pd.read_csv(INPUT_FILE)
