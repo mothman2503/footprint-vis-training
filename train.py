@@ -1,4 +1,4 @@
-# train.py (robust version with auto-resume + empty string handling)
+# train.py (robust version with auto-resume + empty string handling + auto JSON/JSONL detect)
 from transformers import pipeline
 import pandas as pd
 import json
@@ -11,9 +11,16 @@ INFER_BATCH_SIZE = 16  # How many texts to send to model at once → T4: 8–16 
 TOTAL_ROWS = 300000  # Or len(texts) if smaller!
 OUTPUT_FOLDER = "output_chunks"
 
-# Load your data
+# Load your data — auto-detect JSON or JSONL
 with open(INPUT_FILE, "r") as f:
-    data = [json.loads(line) for line in f]
+    first_char = f.read(1)
+    f.seek(0)  # reset file pointer
+    if first_char == "[":
+        print("Detected JSON array format.")
+        data = json.load(f)
+    else:
+        print("Detected JSONL format.")
+        data = [json.loads(line) for line in f]
 
 df = pd.DataFrame(data)
 df = df[["text"]]  # Only keep the "text" column
@@ -45,10 +52,10 @@ for start_idx in range(0, min(TOTAL_ROWS, len(texts)), BATCH_SIZE):
     end_idx = start_idx + BATCH_SIZE
 
     # Auto-resume → skip batch if already processed
-    #batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
-    #if os.path.exists(batch_filename):
-    #    print(f"⏩ Skipping already processed batch {start_idx} to {end_idx}...")
-    #    continue
+    batch_filename = os.path.join(OUTPUT_FOLDER, f"labeled_batch_{start_idx}_{end_idx}.csv")
+    if os.path.exists(batch_filename):
+        print(f"⏩ Skipping already processed batch {start_idx} to {end_idx}...")
+        continue
 
     batch_texts = texts[start_idx:end_idx]
 
