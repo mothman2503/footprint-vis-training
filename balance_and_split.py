@@ -7,15 +7,25 @@ from sklearn.model_selection import train_test_split
 INPUT_FILE = "labeled_zero_shot_output_combined.csv"
 OUTPUT_FOLDER = "balanced_split_output"
 MAX_SAMPLES_PER_CLASS = 2000  # Adjust this → e.g. 1000, 2000, etc.
+CONFIDENCE_THRESHOLD = 0.5  # Filter out examples below this confidence
 
 # Load data
 df = pd.read_csv(INPUT_FILE)
+
+# Filter out low confidence rows
+initial_count = len(df)
+df = df[df["confidence"] >= CONFIDENCE_THRESHOLD].reset_index(drop=True)
+filtered_count = len(df)
+
+print(f"\n✅ Filtered examples below confidence {CONFIDENCE_THRESHOLD}:")
+print(f"→ Initial count: {initial_count}")
+print(f"→ After filtering: {filtered_count}")
 
 # Make output folder
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 
 # Show initial class distribution
-print("Initial class distribution:")
+print("\nInitial class distribution after filtering:")
 print(df["iab_label"].value_counts())
 
 # Balance dataset → downsample big classes
