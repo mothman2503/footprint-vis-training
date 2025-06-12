@@ -4,7 +4,7 @@ import os
 from sklearn.model_selection import train_test_split
 
 # CONFIG
-INPUT_FILE = "labeled_zero_shot_output.csv"
+INPUT_FILE = "labeled_zero_shot_output_combined.csv"
 OUTPUT_FOLDER = "balanced_split_output"
 MAX_SAMPLES_PER_CLASS = 2000  # Adjust this → e.g. 1000, 2000, etc.
 
