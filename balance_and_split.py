@@ -28,10 +28,10 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 print("\nInitial class distribution after filtering:")
 print(df["iab_label"].value_counts())
 
-# Balance dataset → downsample big classes
+# Balance dataset → downsample big classes → take top-confidence samples first
 balanced_df = (
     df.groupby("iab_label")
-    .apply(lambda x: x.sample(min(len(x), MAX_SAMPLES_PER_CLASS), random_state=42))
+    .apply(lambda x: x.sort_values("confidence", ascending=False).head(MAX_SAMPLES_PER_CLASS))
     .reset_index(drop=True)
 )
 
@@ -51,7 +51,7 @@ if not under_sampled_classes.empty:
 else:
     print(f"\n✅ All classes have at least {MAX_SAMPLES_PER_CLASS} samples.")
 
-# ✅ IMPORTANT: Remove classes with < 2 samples before stratified split
+# ✅ Remove classes with < 2 samples before stratified split
 min_samples_needed = 2
 valid_classes = balanced_df["iab_label"].value_counts()
 valid_classes = valid_classes[valid_classes >= min_samples_needed].index.tolist()
@@ -80,3 +80,33 @@ print(f"\n✅ Saved balanced splits to: {OUTPUT_FOLDER}")
 print(f"→ Train: {len(train_df)} rows")
 print(f"→ Val:   {len(val_df)} rows")
 print(f"→ Test:  {len(test_df)} rows")
+
+# ✅ Generate metadata CSV per split → safe even if "source" column missing
+def generate_metadata(df, split_name):
+    # Check if "source" column exists
+    source_exists = "source" in df.columns
+    
+    if source_exists:
+        meta = df.groupby("iab_label").agg(
+            num_samples = ("text", "count"),
+            avg_confidence = ("confidence", "mean"),
+            num_synthetic = ("source", lambda x: (x == "synthetic").sum()),
+            num_natural = ("source", lambda x: (x == "natural").sum())
+        ).reset_index()
+
+        meta["pct_synthetic"] = (meta["num_synthetic"] / meta["num_samples"]).round(3)
+        meta["pct_natural"] = (meta["num_natural"] / meta["num_samples"]).round(3)
+    else:
+        print(f"\n⚠️ No 'source' column found → generating metadata without source breakdown.")
+        meta = df.groupby("iab_label").agg(
+            num_samples = ("text", "count"),
+            avg_confidence = ("confidence", "mean")
+        ).reset_index()
+
+    meta.to_csv(os.path.join(OUTPUT_FOLDER, f"metadata_{split_name}.csv"), index=False)
+    print(f"✅ Saved metadata_{split_name}.csv")
+
+# Generate metadata for each split
+generate_metadata(train_df, "train")
+generate_metadata(val_df, "val")
+generate_metadata(test_df, "test")
