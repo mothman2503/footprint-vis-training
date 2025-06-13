@@ -7,7 +7,7 @@ from sklearn.model_selection import train_test_split
 INPUT_FILE = "labeled_zero_shot_output_combined.csv"
 OUTPUT_FOLDER = "balanced_split_output"
 MAX_SAMPLES_PER_CLASS = 2000  # Adjust this → e.g. 1000, 2000, etc.
-CONFIDENCE_THRESHOLD = 0.3  # Filter out examples below this confidence
+CONFIDENCE_THRESHOLD = 0.35  # Filter out examples below this confidence
 
 # Load data
 df = pd.read_csv(INPUT_FILE)
@@ -81,9 +81,8 @@ print(f"→ Train: {len(train_df)} rows")
 print(f"→ Val:   {len(val_df)} rows")
 print(f"→ Test:  {len(test_df)} rows")
 
-# ✅ Generate metadata CSV per split → safe even if "source" column missing
-def generate_metadata(df, split_name):
-    # Check if "source" column exists
+# ✅ Generate metadata CSV → works even if source missing
+def generate_metadata(df, filename):
     source_exists = "source" in df.columns
     
     if source_exists:
@@ -103,10 +102,25 @@ def generate_metadata(df, split_name):
             avg_confidence = ("confidence", "mean")
         ).reset_index()
 
-    meta.to_csv(os.path.join(OUTPUT_FOLDER, f"metadata_{split_name}.csv"), index=False)
-    print(f"✅ Saved metadata_{split_name}.csv")
+    meta.to_csv(os.path.join(OUTPUT_FOLDER, filename), index=False)
+    print(f"✅ Saved {filename}")
 
-# Generate metadata for each split
-generate_metadata(train_df, "train")
-generate_metadata(val_df, "val")
-generate_metadata(test_df, "test")
+# ✅ Generate metadata for train/val/test and full balanced data
+generate_metadata(train_df, "metadata_train.csv")
+generate_metadata(val_df, "metadata_val.csv")
+generate_metadata(test_df, "metadata_test.csv")
+generate_metadata(balanced_df, "metadata_balanced.csv")
+
+# ✅ Save separate CSV per class from balanced_df
+print(f"\n✅ Saving one CSV per class to: {OUTPUT_FOLDER}/class_*.csv")
+
+for label in balanced_df["iab_label"].unique():
+    df_class = balanced_df[balanced_df["iab_label"] == label].reset_index(drop=True)
+    
+    # Safe file name → replace spaces and special chars
+    label_safe = label.replace(" ", "_").replace("’", "").replace("’", "").replace(",", "").replace("–", "-")
+    class_filename = os.path.join(OUTPUT_FOLDER, f"class_{label_safe}.csv")
+    
+    df_class.to_csv(class_filename, index=False)
+    print(f"✅ Saved {class_filename} ({len(df_class)} rows)")
+
