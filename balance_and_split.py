@@ -110,17 +110,3 @@ generate_metadata(train_df, "metadata_train.csv")
 generate_metadata(val_df, "metadata_val.csv")
 generate_metadata(test_df, "metadata_test.csv")
 generate_metadata(balanced_df, "metadata_balanced.csv")
-
-# ✅ Save separate CSV per class from balanced_df
-print(f"\n✅ Saving one CSV per class to: {OUTPUT_FOLDER}/class_*.csv")
-
-for label in balanced_df["iab_label"].unique():
-    df_class = balanced_df[balanced_df["iab_label"] == label].reset_index(drop=True)
-    
-    # Safe file name → replace spaces and special chars
-    label_safe = label.replace(" ", "_").replace("’", "").replace("’", "").replace(",", "").replace("–", "-")
-    class_filename = os.path.join(OUTPUT_FOLDER, f"class_{label_safe}.csv")
-    
-    df_class.to_csv(class_filename, index=False)
-    print(f"✅ Saved {class_filename} ({len(df_class)} rows)")
-

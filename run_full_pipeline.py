@@ -1,8 +1,11 @@
-# run_full_pipeline.py
+# run_full_pipeline.py (FINAL VERSION — with classes/ and word_frequencies/ folders)
+
 import subprocess
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
+import re
+from collections import Counter
 
 # Paths to your component scripts
 merge_script = "merge_batches_from_chunks.py"         # your combine script → this must save labeled_zero_shot_output_combined.csv
@@ -59,5 +62,63 @@ if "pct_synthetic" in meta.columns:
 else:
     print("\n⚠️ No 'source' column found → skipping source composition plot.")
 
-print("\n🎉 FULL PIPELINE COMPLETE! Outputs in balanced_split_output/ 🚀")
+# Step 4 — Save one CSV per class → balanced_split_output/classes/
+print("\n=== STEP 4: Saving per-class CSVs ===")
 
+train_file = "balanced_split_output/train.csv"
+train_df = pd.read_csv(train_file)
+
+# Make folder balanced_split_output/classes/ if not exist
+classes_folder = "balanced_split_output/classes"
+os.makedirs(classes_folder, exist_ok=True)
+
+# Save one CSV per class
+for label in train_df["iab_label"].unique():
+    df_class = train_df[train_df["iab_label"] == label].reset_index(drop=True)
+    
+    label_safe = label.replace(" ", "_").replace("’", "").replace(",", "").replace("–", "-")
+    class_filename = os.path.join(classes_folder, f"class_{label_safe}.csv")
+    
+    df_class.to_csv(class_filename, index=False)
+    print(f"✅ Saved {class_filename} ({len(df_class)} rows)")
+
+# Step 5 — Visualizing word variation per class → balanced_split_output/word_frequencies/
+print("\n=== STEP 5: Visualizing word variation per class ===")
+
+# Make folder balanced_split_output/word_frequencies/ if not exist
+word_freq_folder = "balanced_split_output/word_frequencies"
+os.makedirs(word_freq_folder, exist_ok=True)
+
+# Simple tokenizer → split on non-word characters
+def tokenize(text):
+    return re.findall(r'\b\w+\b', str(text).lower())
+
+# Process each class
+for label in train_df["iab_label"].unique():
+    class_df = train_df[train_df["iab_label"] == label]
+    
+    all_words = []
+    for text in class_df["text"]:
+        all_words.extend(tokenize(text))
+    
+    word_counts = Counter(all_words)
+    most_common = word_counts.most_common(20)  # top 20 words
+    
+    words, counts = zip(*most_common) if most_common else ([], [])
+    
+    plt.figure(figsize=(10, 6))
+    plt.bar(words, counts, color="skyblue")
+    plt.title(f"Top 20 Words in Class: {label}")
+    plt.ylabel("Frequency")
+    plt.xticks(rotation=45, ha="right")
+    plt.tight_layout()
+    
+    label_safe = label.replace(" ", "_").replace("’", "").replace(",", "").replace("–", "-")
+    word_freq_filename = os.path.join(word_freq_folder, f"word_freq_{label_safe}.png")
+    
+    plt.savefig(word_freq_filename)
+    plt.close()
+    
+    print(f"✅ Saved {word_freq_filename}")
+
+print("\n🎉 FULL PIPELINE COMPLETE! Outputs in balanced_split_output/ 🚀")

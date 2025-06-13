@@ -3,7 +3,7 @@ import glob
 import os
 
 # Find all folders starting with "output_chunks_"
-output_folders = glob.glob("output_chunks_*")
+output_folders = glob.glob("output_chunks/output_chunks_*")
 
 # Collect all batch CSV files from all matching folders
 batch_files = []
@@ -24,9 +24,9 @@ for file, folder in batch_files:
     df = pd.read_csv(file)
     
     # Determine source based on folder name
-    if folder.startswith("output_chunks_synthetic"):
+    if folder.startswith("output_chunks/output_chunks_synthetic"):
         df["source"] = "synthetic"
-    elif folder.startswith("output_chunks_natural"):
+    elif folder.startswith("output_chunks/output_chunks_natural"):
         df["source"] = "natural"
     else:
         df["source"] = "unknown"  # fallback (safe guard)
