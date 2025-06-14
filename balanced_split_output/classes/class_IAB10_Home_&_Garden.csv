@@ -1,62 +1,19 @@
-text,iab_label,confidence,source,labels
-teak garden tables,IAB10 Home & Garden,0.37,synthetic,
-irish stone carved garden animals,IAB10 Home & Garden,0.38,synthetic,
-irish slate garden sculptures,IAB10 Home & Garden,0.38,synthetic,
-english sunken garden design,IAB10 Home & Garden,0.35,synthetic,
-dwarf planet discovered astronomers solar systems backyard,IAB10 Home & Garden,0.37,natural,
-organizing garden shed,IAB10 Home & Garden,0.41,synthetic,
-english cottage garden planters,IAB10 Home & Garden,0.49,synthetic,
-japanese stone basin gardens,IAB10 Home & Garden,0.35,synthetic,
-terracotta garden tiles,IAB10 Home & Garden,0.44,synthetic,
-Environmental safety within the home and garden is a growing concern as people become more aware of the potential health risks associated with exposure to toxic chemicals.,IAB10 Home & Garden,0.62,synthetic,
-growing strawberries at home,IAB10 Home & Garden,0.35,synthetic,
-"Gardening can be done in a variety of settings, including backyards, patios, and even indoors.",IAB10 Home & Garden,0.36,synthetic,
-balinese coral stone garden walls,IAB10 Home & Garden,0.43,synthetic,
-english garden follies,IAB10 Home & Garden,0.55,synthetic,
-english rose garden design,IAB10 Home & Garden,0.36,synthetic,
-wicker garden storage boxes,IAB10 Home & Garden,0.4,synthetic,
-venetian glass mosaic garden tiles,IAB10 Home & Garden,0.36,synthetic,
-mosquitoes spring garden test positive west nile virus,IAB10 Home & Garden,0.37,natural,
-choosing wood for garden furniture,IAB10 Home & Garden,0.39,synthetic,
-irish peat moss garden blocks,IAB10 Home & Garden,0.36,synthetic,
-english knot gardens,IAB10 Home & Garden,0.39,synthetic,
-fix leaking garden hose,IAB10 Home & Garden,0.65,synthetic,
-russian birch plywood garden furniture,IAB10 Home & Garden,0.36,synthetic,
-painted wood garden gates,IAB10 Home & Garden,0.36,synthetic,
-french zinc garden watering cans,IAB10 Home & Garden,0.35,synthetic,
-greek marble garden stools,IAB10 Home & Garden,0.35,synthetic,
-gelzinis td garden gets blame disaster,IAB10 Home & Garden,0.42,natural,
-indian phad painting garden screens,IAB10 Home & Garden,0.37,synthetic,
-english garden sundials,IAB10 Home & Garden,0.51,synthetic,
-spanish iron scroll garden gates,IAB10 Home & Garden,0.41,synthetic,
-greek mosaic floor garden pathways,IAB10 Home & Garden,0.39,synthetic,
-irish stone garden walling,IAB10 Home & Garden,0.37,synthetic,
-balinese carved garden gates,IAB10 Home & Garden,0.39,synthetic,
-organic community home gardening combat climate change,IAB10 Home & Garden,0.55,natural,
-painted iron garden shelves,IAB10 Home & Garden,0.42,synthetic,
-concrete garden planters,IAB10 Home & Garden,0.35,synthetic,
-scottish slate roof garden sheds,IAB10 Home & Garden,0.35,synthetic,
-balinese garden stepping stones,IAB10 Home & Garden,0.47,synthetic,
-three men busted drug charges near td garden,IAB10 Home & Garden,0.63,natural,
-solar garden lights,IAB10 Home & Garden,0.35,synthetic,
-venetian stained glass garden windows,IAB10 Home & Garden,0.38,synthetic,
-irish linen damask garden covers,IAB10 Home & Garden,0.36,synthetic,
-building a British cottage garden,IAB10 Home & Garden,0.45,synthetic,
-slate garden pathways,IAB10 Home & Garden,0.37,synthetic,
-greek mosaic garden borders,IAB10 Home & Garden,0.38,synthetic,
-balinese coconut fiber garden mats,IAB10 Home & Garden,0.42,synthetic,
-hive mind home gardeners help save bees food supply,IAB10 Home & Garden,0.43,natural,
-building a colonial American garden,IAB10 Home & Garden,0.37,synthetic,
-scottish river pebble garden paths,IAB10 Home & Garden,0.37,synthetic,
-english garden copper lanterns,IAB10 Home & Garden,0.54,synthetic,
-thai celadon pottery garden stools,IAB10 Home & Garden,0.35,synthetic,
-english wooden garden cold frames,IAB10 Home & Garden,0.39,synthetic,
-balinese garden statues,IAB10 Home & Garden,0.37,synthetic,
-house gop proposes healthy school lunch optout,IAB10 Home & Garden,0.56,natural,
-solar powered garden lights,IAB10 Home & Garden,0.42,synthetic,
-kim kardashian wed exclusive garden,IAB10 Home & Garden,0.45,natural,
-"Landscaping is an important part of home and garden design, and it can have a significant impact on the overall appearance and functionality of a property.",IAB10 Home & Garden,0.39,synthetic,
-balinese garden water spouts,IAB10 Home & Garden,0.38,synthetic,
-english garden maze hedges,IAB10 Home & Garden,0.62,synthetic,
-stone pebble garden paths,IAB10 Home & Garden,0.44,synthetic,
-keeping gardening,IAB10 Home & Garden,0.38,natural,
+text,labels,confidence,source,iab_label
+"The remodeling and construction industry is a major part of the home and garden sector, and it has a significant impact on the economy.",,0.85,synthetic,IAB10 Home & Garden
+fix leaking garden hose,,0.65,synthetic,IAB10 Home & Garden
+three men busted drug charges near td garden,,0.63,natural,IAB10 Home & Garden
+Environmental safety within the home and garden is a growing concern as people become more aware of the potential health risks associated with exposure to toxic chemicals.,,0.62,synthetic,IAB10 Home & Garden
+english garden maze hedges,,0.62,synthetic,IAB10 Home & Garden
+house gop proposes healthy school lunch optout,,0.56,natural,IAB10 Home & Garden
+english garden follies,,0.55,synthetic,IAB10 Home & Garden
+organic community home gardening combat climate change,,0.55,natural,IAB10 Home & Garden
+english garden copper lanterns,,0.54,synthetic,IAB10 Home & Garden
+create zen garden at home,,0.53,synthetic,IAB10 Home & Garden
+indoor herb garden setup,,0.52,synthetic,IAB10 Home & Garden
+english garden sundials,,0.51,synthetic,IAB10 Home & Garden
+english cottage garden planters,,0.49,synthetic,IAB10 Home & Garden
+garden irrigation system setup,,0.48,synthetic,IAB10 Home & Garden
+balinese garden stepping stones,,0.47,synthetic,IAB10 Home & Garden
+least 86 treated emergency officials incident td garden,,0.45,natural,IAB10 Home & Garden
+kim kardashian wed exclusive garden,,0.45,natural,IAB10 Home & Garden
+building a British cottage garden,,0.45,synthetic,IAB10 Home & Garden

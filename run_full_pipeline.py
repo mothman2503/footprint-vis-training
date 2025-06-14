@@ -50,10 +50,14 @@ plt.savefig("balanced_split_output/avg_confidence.png")
 plt.close()
 
 # % synthetic vs natural
-if "pct_synthetic" in meta.columns:
-    meta_plot = meta[["iab_label", "pct_synthetic", "pct_natural"]].set_index("iab_label")
-    meta_plot.plot.bar(stacked=True, figsize=(12,6), color=["#ff9999", "#99ccff"])
-    plt.title("Source Composition (% Synthetic vs Natural)")
+if {"pct_synthetic", "pct_natural", "pct_manual"}.issubset(meta.columns):
+    meta_plot = meta[["iab_label", "pct_synthetic", "pct_natural", "pct_manual"]].set_index("iab_label")
+    meta_plot.plot.bar(
+        stacked=True,
+        figsize=(12,6),
+        color=["#ff9999", "#99ccff", "#a0e57c"]
+    )
+    plt.title("Source Composition (% Synthetic, Natural, Manual)")
     plt.ylabel("%")
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
@@ -71,16 +75,6 @@ train_df = pd.read_csv(train_file)
 # Make folder balanced_split_output/classes/ if not exist
 classes_folder = "balanced_split_output/classes"
 os.makedirs(classes_folder, exist_ok=True)
-
-# Save one CSV per class
-for label in train_df["iab_label"].unique():
-    df_class = train_df[train_df["iab_label"] == label].reset_index(drop=True)
-    
-    label_safe = label.replace(" ", "_").replace("’", "").replace(",", "").replace("–", "-")
-    class_filename = os.path.join(classes_folder, f"class_{label_safe}.csv")
-    
-    df_class.to_csv(class_filename, index=False)
-    print(f"✅ Saved {class_filename} ({len(df_class)} rows)")
 
 # Step 5 — Visualizing word variation per class → balanced_split_output/word_frequencies/
 print("\n=== STEP 5: Visualizing word variation per class ===")

@@ -12,11 +12,13 @@ for folder in output_folders:
     for file in files:
         batch_files.append((file, folder))  # store both file and folder info
 
+    files = glob.glob(os.path.join(folder, "missing_*.csv"))
+    for file in files:
+        batch_files.append((file, folder))  # store both file and folder info
+        
+
 # Optional: print how many files found
 print(f"Found {len(batch_files)} batch files in {len(output_folders)} folders.")
-
-# Sort files by start index in filename (optional, for order)
-batch_files.sort(key=lambda x: int(x[0].split("_")[-2]))
 
 # Load and concatenate all batches
 df_list = []
@@ -28,6 +30,8 @@ for file, folder in batch_files:
         df["source"] = "synthetic"
     elif folder.startswith("output_chunks/output_chunks_natural"):
         df["source"] = "natural"
+    elif folder.startswith("output_chunks/output_chunks_manual"):
+        df["source"] = "manual"
     else:
         df["source"] = "unknown"  # fallback (safe guard)
     
