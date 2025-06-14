@@ -1,62 +1,95 @@
 import os
+import csv
 import json
-from transformers import AutoModelForCausalLM, AutoTokenizer
-import torch
-from tqdm import tqdm
 import random
+import re
+from transformers import pipeline
+from tqdm import tqdm
 
-# — CONFIGURATION —
-MODEL_NAME = "gpt2-medium"
-OUTPUT_FOLDER = "iab_generated_queries"
-N_PER_SUBCAT = 100
-MAX_TOKENS = 32
-TEMPERATURE = 0.9
-TOP_P = 0.9
-DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
-
-# Load subcategories from JSON file
+# Load IAB subcategories
 with open("iab_subcategories.json", "r") as f:
-    IAB_SUBCATEGORIES = json.load(f)
+    subcategories = json.load(f)
 
+# Output directory
+output_dir = "output_chunks/output_chunks_synthetic_GPT2"
+os.makedirs(output_dir, exist_ok=True)
 
-# — MODEL LOADING —
-tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-model = AutoModelForCausalLM.from_pretrained(MODEL_NAME).to(DEVICE)
-model.eval()
+# Set up GPT-2 generator
+generator = pipeline("text-generation", model="gpt2", device=0)  # Remove device=0 if not using GPU
 
-os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+# Parameters
+queries_per_category = 10
+confidence = 0.8
 
-# — GENERATION —
-for subcat in tqdm(IAB_SUBCATEGORIES, desc="Generating queries"):
-    prompt_base = f"Search query about {subcat.lower()}:"
-    generated = []
+# Extract plain topic name and parent category
+def extract_topic(label):
+    match = re.search(r"IAB\d+-\d+\s+(.*)", label)
+    return match.group(1) if match else label
 
-    while len(generated) < N_PER_SUBCAT:
-        prompt = prompt_base
-        input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(DEVICE)
+def extract_parent_category(label):
+    match = re.match(r"(IAB\d+)-\d+", label)
+    return match.group(1) if match else label.split("-")[0]
 
-        out = model.generate(
-            input_ids,
-            max_length=input_ids.shape[1] + MAX_TOKENS,
-            do_sample=True,
-            temperature=TEMPERATURE,
-            top_p=TOP_P,
-            num_return_sequences=1,
-            pad_token_id=tokenizer.eos_token_id
-        )
+# Prompt templates for variation
+prompt_templates = [
+    "Example of a search query about {}:",
+    "What is a realistic search query for someone interested in {}?",
+    "Write a common Google search query on the topic of {}.",
+    "Give me a sample web search related to {}."
+]
 
-        text = tokenizer.decode(out[0][input_ids.shape[1]:], skip_special_tokens=True)
-        text = text.split("?")[0].split(".")[0].strip()
+def build_prompt(topic):
+    template = random.choice(prompt_templates)
+    return template.format(topic.lower())
 
-        if 2 <= len(text.split()) <= 8 and text.lower() not in [q.lower() for q in generated]:
-            generated.append(text)
+# Filtering function for GPT-2 output
+def clean_text(text):
+    text = text.strip().replace("\n", " ")
+    if len(text) < 10:
+        return None
+    if any(x in text.lower() for x in ["<query", "</", "xmlns", "mailto:", "select *", "<a href"]):
+        return None
+    if text.lower().startswith("iab"):
+        return None
+    return text
 
-    # Save to file
-    safe_filename = "labeled_batch_" + subcat.replace(" ", "_").replace("/", "-")
-    out_path = os.path.join(OUTPUT_FOLDER, f"{safe_filename}.json")
-    with open(out_path, "w") as f:
-        json.dump(generated, f, indent=2, ensure_ascii=False)
+# Generate and save queries for each subcategory
+for label in tqdm(subcategories):
+    topic = extract_topic(label)
+    parent = extract_parent_category(label)
+    prompt = build_prompt(topic)
 
-    print(f"✅ {subcat} DONE!", OUTPUT_FOLDER)
+    generations = generator(
+        [prompt] * queries_per_category,
+        max_length=25,
+        num_return_sequences=1,
+        do_sample=True,
+        temperature=0.9,
+        top_k=50,
+    )
 
-print("✅ ALL DONE! Queries saved in:", OUTPUT_FOLDER)
+    results = []
+    for gen in generations:
+        gen_text = gen[0]["generated_text"].replace(prompt, "").strip()
+        cleaned = clean_text(gen_text)
+        if cleaned:
+            results.append({
+                "text": cleaned,
+                "iab_label": parent,
+                "confidence": confidence
+            })
+
+    if not results:
+        print(f"Skipped {label} (no valid results).")
+        continue
+
+    safe_label = label.replace(" ", "_").replace("/", "_").replace("&", "and")
+    filename = f"labeled_batch_{safe_label}.csv"
+    filepath = os.path.join(output_dir, filename)
+
+    with open(filepath, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=["text", "iab_label", "confidence"])
+        writer.writeheader()
+        writer.writerows(results)
+
+    print(f"✅ Saved {len(results)} entries for {label} to {filepath}")
