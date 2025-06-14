@@ -57,6 +57,6 @@ for subcat in tqdm(IAB_SUBCATEGORIES, desc="Generating queries"):
     with open(out_path, "w") as f:
         json.dump(generated, f, indent=2, ensure_ascii=False)
 
-    printf("✅ %s DONE!", subcat, OUTPUT_FOLDER)
+    print(f"✅ {subcat} DONE!", OUTPUT_FOLDER)
 
 print("✅ ALL DONE! Queries saved in:", OUTPUT_FOLDER)
