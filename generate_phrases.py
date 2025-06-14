@@ -52,9 +52,11 @@ for subcat in tqdm(IAB_SUBCATEGORIES, desc="Generating queries"):
             generated.append(text)
 
     # Save to file
-    safe_filename = subcat.replace(" ", "_").replace("/", "-")
+    safe_filename = "labeled_batch_" + subcat.replace(" ", "_").replace("/", "-")
     out_path = os.path.join(OUTPUT_FOLDER, f"{safe_filename}.json")
     with open(out_path, "w") as f:
         json.dump(generated, f, indent=2, ensure_ascii=False)
 
-print("✅ DONE! Queries saved in:", OUTPUT_FOLDER)
+    printf("✅ %s DONE!", subcat, OUTPUT_FOLDER)
+
+print("✅ ALL DONE! Queries saved in:", OUTPUT_FOLDER)
