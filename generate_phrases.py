@@ -6,11 +6,11 @@ import re
 from transformers import pipeline
 from tqdm import tqdm
 
-# Load structured IAB categories
+# Load structured IAB category data
 with open("iab_categories.json", "r") as f:
     category_data = json.load(f)
 
-# Flatten subcategories for processing
+# Flatten all subcategories
 subcategories = []
 for parent_code, entry in category_data.items():
     for subcat in entry["subcategories"]:
@@ -24,38 +24,29 @@ for parent_code, entry in category_data.items():
 output_dir = "output_chunks/output_chunks_synthetic_GPT2"
 os.makedirs(output_dir, exist_ok=True)
 
-# Set up GPT-2 generator
-generator = pipeline("text-generation", model="gpt2", device=0)  # Remove device=0 if not using GPU
+# GPT-2 setup
+generator = pipeline("text-generation", model="gpt2", device=0)  # remove device=0 if no GPU
 
-# Parameters
 queries_per_category = 10
 confidence = 0.8
 
-# Prompt templates
-prompt_templates = [
-    "What would someone search on Google if they were interested in {}?",
-    "Write an example of a search someone might type about {}.",
-    "Give a realistic search engine query related to {}.",
-    "What is a sample search query for the topic of {}?"
-]
-
+# Prompt with direct instruction for short, query-only answer
 def build_prompt(topic):
-    template = random.choice(prompt_templates)
-    return template.format(topic.lower())
+    return f"Return only a short (2-5 words) search query about {topic.lower()}:"
 
-# Aggressive filtering
+# Clean GPT output
 def clean_text(text):
-    text = text.strip().replace("\n", " ").replace('"', '').strip()
-    if len(text) < 10:
+    text = text.strip().replace("\n", " ").replace('"', '').replace(":", "").strip()
+    if len(text.split()) < 2 or len(text.split()) > 6:
         return None
-    bad_patterns = ["<", ">", "http", "SELECT", "FROM", "game->", "pokemon", "{", "}", "&&", "||", "::", "==", "youtube.com"]
-    if any(bad in text for bad in bad_patterns):
-        return None
-    if re.search(r"[{}<>|\[\]]", text):
+    if any(x in text.lower() for x in [
+        "what would someone", "search query about", "example of", 
+        "return only", "<", ">", "::", "youtube", "mailto:", "SELECT", "FROM"
+    ]):
         return None
     return text
 
-# Generate and save queries
+# Generate queries
 for item in tqdm(subcategories):
     topic = item["subcategory_name"]
     parent = item["parent"]
@@ -64,10 +55,10 @@ for item in tqdm(subcategories):
 
     generations = generator(
         [prompt] * queries_per_category,
-        max_length=25,
+        max_length=20,
         num_return_sequences=1,
         do_sample=True,
-        temperature=0.9,
+        temperature=1.0,
         top_k=50,
     )
 
