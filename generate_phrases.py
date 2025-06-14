@@ -5,6 +5,8 @@ import csv
 from pathlib import Path
 from dotenv import load_dotenv
 
+print("🚀 Script started")
+
 # Load environment variables from .env (optional)
 load_dotenv()
 api_key = os.getenv("OPENAI_API_KEY")
