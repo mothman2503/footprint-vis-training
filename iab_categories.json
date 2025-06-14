@@ -600,7 +600,7 @@
     ]
   },
   "IAB9": {
-    "name": null,
+    "name": "Hobbies & Interests",
     "subcategories": [
       {
         "code": "IAB9-1",
@@ -729,7 +729,7 @@
     ]
   },
   "IAB10": {
-    "name": null,
+    "name": "Home & Garden",
     "subcategories": [
       {
         "code": "IAB10-1",
@@ -770,7 +770,7 @@
     ]
   },
   "IAB11": {
-    "name": null,
+    "name": "Law, Gov’t & Politics",
     "subcategories": [
       {
         "code": "IAB11-1",
@@ -795,7 +795,7 @@
     ]
   },
   "IAB12": {
-    "name": null,
+    "name": "News",
     "subcategories": [
       {
         "code": "IAB12-1",
@@ -812,7 +812,7 @@
     ]
   },
   "IAB13": {
-    "name": null,
+    "name": "Personal Finance",
     "subcategories": [
       {
         "code": "IAB13-1",
@@ -865,7 +865,7 @@
     ]
   },
   "IAB14": {
-    "name": null,
+    "name": "Society",
     "subcategories": [
       {
         "code": "IAB14-1",
@@ -902,7 +902,7 @@
     ]
   },
   "IAB15": {
-    "name": null,
+    "name": "Science",
     "subcategories": [
       {
         "code": "IAB15-1",
@@ -947,7 +947,7 @@
     ]
   },
   "IAB16": {
-    "name": null,
+    "name": "Pets",
     "subcategories": [
       {
         "code": "IAB16-1",
@@ -980,7 +980,7 @@
     ]
   },
   "IAB17": {
-    "name": null,
+    "name": "Sports",
     "subcategories": [
       {
         "code": "IAB17-1",
@@ -1161,7 +1161,7 @@
     ]
   },
   "IAB18": {
-    "name": null,
+    "name": "Style & Fashion",
     "subcategories": [
       {
         "code": "IAB18-1",
@@ -1190,7 +1190,7 @@
     ]
   },
   "IAB19": {
-    "name": null,
+    "name": "Technology & Computing",
     "subcategories": [
       {
         "code": "IAB19-1",
@@ -1339,7 +1339,7 @@
     ]
   },
   "IAB20": {
-    "name": null,
+    "name": "Travel",
     "subcategories": [
       {
         "code": "IAB20-1",
@@ -1452,7 +1452,7 @@
     ]
   },
   "IAB21": {
-    "name": null,
+    "name": "Real Estate",
     "subcategories": [
       {
         "code": "IAB21-1",
@@ -1469,7 +1469,7 @@
     ]
   },
   "IAB22": {
-    "name": null,
+    "name": "Shopping",
     "subcategories": [
       {
         "code": "IAB22-1",
@@ -1490,7 +1490,7 @@
     ]
   },
   "IAB23": {
-    "name": null,
+    "name": "Religion & Spirituality",
     "subcategories": [
       {
         "code": "IAB23-1",
@@ -1533,9 +1533,5 @@
         "name": "Pagan/Wiccan"
       }
     ]
-  },
-  "IAB24": {
-    "name": "Uncategorized",
-    "subcategories": []
   }
 }
