@@ -1,105 +1,52 @@
 import os
 import csv
+import openai
 import json
-import random
-import re
-from transformers import pipeline
 from tqdm import tqdm
 
-# Load structured IAB category data
-with open("iab_categories.json", "r") as f:
-    category_data = json.load(f)
+# Load your API key
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Flatten all subcategories
-subcategories = []
-for parent_code, entry in category_data.items():
-    for subcat in entry["subcategories"]:
-        subcategories.append({
-            "parent": parent_code,
-            "subcategory_code": subcat["code"],
-            "subcategory_name": subcat["name"]
-        })
+# Load categories
+with open("iab_categories.json") as f:
+    categories = json.load(f)
 
 # Output directory
-output_dir = "output_chunks/output_chunks_synthetic_GPT2"
-os.makedirs(output_dir, exist_ok=True)
+os.makedirs("output_chunks/output_chunks_gpt35", exist_ok=True)
 
-# GPT-2 (or medium if available)
-generator = pipeline("text-generation", model="gpt2-medium", device=0)  # use gpt2 if gpt2-medium is unavailable
-
-queries_per_category = 10
-confidence = 0.8
-
-# Example few-shot queries
-few_shot_examples = [
-    "Search query: best historical novels",
-    "Search query: celebrity gossip today",
-    "Search query: how to grill ribs",
-    "Search query: guitar chords for beginners"
-]
-
-# Prompt using examples
-def build_prompt(topic):
-    examples_text = "\n".join(random.sample(few_shot_examples, 2))
-    return f"{examples_text}\nSearch query:"
-
-# Clean and validate output
-def clean_text(text):
-    text = text.strip().replace("\n", " ").replace('"', '').strip()
-    if "Search query:" in text:
-        text = text.split("Search query:")[-1].strip()
-    if len(text.split()) < 2 or len(text.split()) > 6:
+# Generation function using ChatCompletion
+def generate_query(topic):
+    system = "You are a helpful assistant that generates realistic, short search queries."
+    user = f"Give me a single 2-5 word search query someone might type related to: {topic}"
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
+            max_tokens=30,
+            temperature=0.8
+        )
+        return response["choices"][0]["message"]["content"].strip()
+    except Exception as e:
         return None
-    if any(x in text.lower() for x in [
-        "example of", "<", ">", "::", "youtube", "mailto:", "SELECT", "FROM"
-    ]):
-        return None
-    return text
 
-# Generate queries
-for item in tqdm(subcategories):
-    topic = item["subcategory_name"]
-    parent = item["parent"]
-    label = f"{item['subcategory_code']} {item['subcategory_name']}"
-    prompt = build_prompt(topic)
+# Generate and save queries
+for parent, info in tqdm(categories.items()):
+    for subcat in info["subcategories"]:
+        topic = subcat["name"]
+        code = subcat["code"]
+        filename = f"labeled_batch_{code}_{topic.replace(' ', '_').replace('/', '_')}.csv"
+        filepath = os.path.join("output_chunks/output_chunks_gpt35", filename)
 
-    generations = generator(
-        [prompt] * queries_per_category,
-        max_length=25,
-        num_return_sequences=1,
-        do_sample=True,
-        temperature=0.9,
-        top_k=50,
-    )
+        queries = []
+        for _ in range(10):
+            query = generate_query(topic)
+            if query:
+                queries.append({"text": query, "iab_label": parent, "confidence": 0.95})
 
-    results = []
-    for gen in generations:
-        gen_text = gen[0]["generated_text"]
-        cleaned = clean_text(gen_text)
-        if cleaned:
-            results.append({
-                "text": cleaned,
-                "iab_label": parent,
-                "confidence": confidence
-            })
+        # Save CSV
+        with open(filepath, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=["text", "iab_label", "confidence"])
+            writer.writeheader()
+            writer.writerows(queries)
 
-    # Retry once if empty
-    if not results:
-        print(f"⚠️ Retrying {label} with fallback...")
-        fallback_query = f"{topic.lower()} tips"
-        results = [{
-            "text": fallback_query,
-            "iab_label": parent,
-            "confidence": confidence
-        }]
-
-    safe_label = label.replace(" ", "_").replace("/", "_").replace("&", "and")
-    filename = f"labeled_batch_{safe_label}.csv"
-    filepath = os.path.join(output_dir, filename)
-
-    with open(filepath, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["text", "iab_label", "confidence"])
-        writer.writeheader()
-        writer.writerows(results)
-
-    print(f"✅ Saved {len(results)} entries for {label} → {filepath}")
+        print(f"✅ {filename} saved with {len(queries)} queries.")
