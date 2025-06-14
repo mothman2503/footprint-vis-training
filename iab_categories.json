@@ -1,4 +1,604 @@
 {
+  "IAB1": {
+    "name": "Arts & Entertainment",
+    "subcategories": [
+      {
+        "code": "IAB1-1",
+        "name": "Books & Literature"
+      },
+      {
+        "code": "IAB1-2",
+        "name": "Celebrity Fan/Gossip"
+      },
+      {
+        "code": "IAB1-3",
+        "name": "Fine Art"
+      },
+      {
+        "code": "IAB1-4",
+        "name": "Humor"
+      },
+      {
+        "code": "IAB1-5",
+        "name": "Movies"
+      },
+      {
+        "code": "IAB1-6",
+        "name": "Music"
+      },
+      {
+        "code": "IAB1-7",
+        "name": "Television"
+      }
+    ]
+  },
+  "IAB2": {
+    "name": "Automotive",
+    "subcategories": [
+      {
+        "code": "IAB2-1",
+        "name": "Auto Parts"
+      },
+      {
+        "code": "IAB2-2",
+        "name": "Auto Repair"
+      },
+      {
+        "code": "IAB2-3",
+        "name": "Buying/Selling Cars"
+      },
+      {
+        "code": "IAB2-4",
+        "name": "Car Culture"
+      },
+      {
+        "code": "IAB2-5",
+        "name": "Certified Pre-Owned"
+      },
+      {
+        "code": "IAB2-6",
+        "name": "Convertible"
+      },
+      {
+        "code": "IAB2-7",
+        "name": "Coupe"
+      },
+      {
+        "code": "IAB2-8",
+        "name": "Crossover"
+      },
+      {
+        "code": "IAB2-9",
+        "name": "Diesel"
+      },
+      {
+        "code": "IAB2-10",
+        "name": "Electric Vehicle"
+      },
+      {
+        "code": "IAB2-11",
+        "name": "Hatchback"
+      },
+      {
+        "code": "IAB2-12",
+        "name": "Hybrid"
+      },
+      {
+        "code": "IAB2-13",
+        "name": "Luxury"
+      },
+      {
+        "code": "IAB2-14",
+        "name": "MiniVan"
+      },
+      {
+        "code": "IAB2-15",
+        "name": "Mororcycles"
+      },
+      {
+        "code": "IAB2-16",
+        "name": "Off-Road Vehicles"
+      },
+      {
+        "code": "IAB2-17",
+        "name": "Performance Vehicles"
+      },
+      {
+        "code": "IAB2-18",
+        "name": "Pickup"
+      },
+      {
+        "code": "IAB2-19",
+        "name": "Road-Side Assistance"
+      },
+      {
+        "code": "IAB2-20",
+        "name": "Sedan"
+      },
+      {
+        "code": "IAB2-21",
+        "name": "Trucks & Accessories"
+      },
+      {
+        "code": "IAB2-22",
+        "name": "Vintage Cars"
+      },
+      {
+        "code": "IAB2-23",
+        "name": "Wagon"
+      }
+    ]
+  },
+  "IAB3": {
+    "name": "Business",
+    "subcategories": [
+      {
+        "code": "IAB3-1",
+        "name": "Advertising"
+      },
+      {
+        "code": "IAB3-2",
+        "name": "Agriculture"
+      },
+      {
+        "code": "IAB3-3",
+        "name": "Biotech/Biomedical"
+      },
+      {
+        "code": "IAB3-4",
+        "name": "Business Software"
+      },
+      {
+        "code": "IAB3-5",
+        "name": "Construction"
+      },
+      {
+        "code": "IAB3-6",
+        "name": "Forestry"
+      },
+      {
+        "code": "IAB3-7",
+        "name": "Government"
+      },
+      {
+        "code": "IAB3-8",
+        "name": "Green Solutions"
+      },
+      {
+        "code": "IAB3-9",
+        "name": "Human Resources"
+      },
+      {
+        "code": "IAB3-10",
+        "name": "Logistics"
+      },
+      {
+        "code": "IAB3-11",
+        "name": "Marketing"
+      },
+      {
+        "code": "IAB3-12",
+        "name": "Metals"
+      }
+    ]
+  },
+  "IAB4": {
+    "name": "Careers",
+    "subcategories": [
+      {
+        "code": "IAB4-1",
+        "name": "Career Planning"
+      },
+      {
+        "code": "IAB4-2",
+        "name": "College"
+      },
+      {
+        "code": "IAB4-3",
+        "name": "Financial Aid"
+      },
+      {
+        "code": "IAB4-4",
+        "name": "Job Fairs"
+      },
+      {
+        "code": "IAB4-5",
+        "name": "Job Search"
+      },
+      {
+        "code": "IAB4-6",
+        "name": "Resume Writing/Advice"
+      },
+      {
+        "code": "IAB4-7",
+        "name": "Nursing"
+      },
+      {
+        "code": "IAB4-8",
+        "name": "Scholarships"
+      },
+      {
+        "code": "IAB4-9",
+        "name": "Telecommuting"
+      },
+      {
+        "code": "IAB4-10",
+        "name": "U.S. Military"
+      },
+      {
+        "code": "IAB4-11",
+        "name": "Career Advice"
+      }
+    ]
+  },
+  "IAB5": {
+    "name": "Education",
+    "subcategories": [
+      {
+        "code": "IAB5-1",
+        "name": "7-12 Education"
+      },
+      {
+        "code": "IAB5-2",
+        "name": "Adult Education"
+      },
+      {
+        "code": "IAB5-3",
+        "name": "Art History"
+      },
+      {
+        "code": "IAB5-4",
+        "name": "College Administration"
+      },
+      {
+        "code": "IAB5-5",
+        "name": "College Life"
+      },
+      {
+        "code": "IAB5-6",
+        "name": "Distance Learning"
+      },
+      {
+        "code": "IAB5-7",
+        "name": "English as a 2nd Language"
+      },
+      {
+        "code": "IAB5-8",
+        "name": "Language Learning"
+      },
+      {
+        "code": "IAB5-9",
+        "name": "Graduate School"
+      },
+      {
+        "code": "IAB5-10",
+        "name": "Homeschooling"
+      },
+      {
+        "code": "IAB5-11",
+        "name": "Homework/Study Tips"
+      },
+      {
+        "code": "IAB5-12",
+        "name": "K-6 Educators"
+      },
+      {
+        "code": "IAB5-13",
+        "name": "Private School"
+      },
+      {
+        "code": "IAB5-14",
+        "name": "Special Education"
+      },
+      {
+        "code": "IAB5-15",
+        "name": "Studying Business"
+      }
+    ]
+  },
+  "IAB6": {
+    "name": "Family & Parenting",
+    "subcategories": [
+      {
+        "code": "IAB6-1",
+        "name": "Adoption"
+      },
+      {
+        "code": "IAB6-2",
+        "name": "Babies & Toddlers"
+      },
+      {
+        "code": "IAB6-3",
+        "name": "Daycare/Pre School"
+      },
+      {
+        "code": "IAB6-4",
+        "name": "Family Internet"
+      },
+      {
+        "code": "IAB6-5",
+        "name": "Parenting - K-6 Kids"
+      },
+      {
+        "code": "IAB6-6",
+        "name": "Parenting teens"
+      },
+      {
+        "code": "IAB6-7",
+        "name": "Pregnancy"
+      },
+      {
+        "code": "IAB6-8",
+        "name": "Special Needs Kids"
+      },
+      {
+        "code": "IAB6-9",
+        "name": "Eldercare"
+      }
+    ]
+  },
+  "IAB7": {
+    "name": "Health & Fitness",
+    "subcategories": [
+      {
+        "code": "IAB7-1",
+        "name": "Exercise"
+      },
+      {
+        "code": "IAB7-2",
+        "name": "A.D.D."
+      },
+      {
+        "code": "IAB7-3",
+        "name": "AIDS/HIV"
+      },
+      {
+        "code": "IAB7-4",
+        "name": "Allergies"
+      },
+      {
+        "code": "IAB7-5",
+        "name": "Alternative Medicine"
+      },
+      {
+        "code": "IAB7-6",
+        "name": "Arthritis"
+      },
+      {
+        "code": "IAB7-7",
+        "name": "Asthma"
+      },
+      {
+        "code": "IAB7-8",
+        "name": "Autism/PDD"
+      },
+      {
+        "code": "IAB7-9",
+        "name": "Bipolar Disorder"
+      },
+      {
+        "code": "IAB7-10",
+        "name": "Brain Tumor"
+      },
+      {
+        "code": "IAB7-11",
+        "name": "Cancer"
+      },
+      {
+        "code": "IAB7-12",
+        "name": "Cholesterol"
+      },
+      {
+        "code": "IAB7-13",
+        "name": "Chronic Fatigue Syndrome"
+      },
+      {
+        "code": "IAB7-14",
+        "name": "Chronic Pain"
+      },
+      {
+        "code": "IAB7-15",
+        "name": "Cold & Flu"
+      },
+      {
+        "code": "IAB7-16",
+        "name": "Deafness"
+      },
+      {
+        "code": "IAB7-17",
+        "name": "Dental Care"
+      },
+      {
+        "code": "IAB7-18",
+        "name": "Depression"
+      },
+      {
+        "code": "IAB7-19",
+        "name": "Dermatology"
+      },
+      {
+        "code": "IAB7-20",
+        "name": "Diabetes"
+      },
+      {
+        "code": "IAB7-21",
+        "name": "Epilepsy"
+      },
+      {
+        "code": "IAB7-22",
+        "name": "GERD/Acid Reflux"
+      },
+      {
+        "code": "IAB7-23",
+        "name": "Headaches/Migraines"
+      },
+      {
+        "code": "IAB7-24",
+        "name": "Heart Disease"
+      },
+      {
+        "code": "IAB7-25",
+        "name": "Herbs for Health"
+      },
+      {
+        "code": "IAB7-26",
+        "name": "Holistic Healing"
+      },
+      {
+        "code": "IAB7-27",
+        "name": "IBS/Crohn\u2019s Disease"
+      },
+      {
+        "code": "IAB7-28",
+        "name": "Incest/Abuse Support"
+      },
+      {
+        "code": "IAB7-29",
+        "name": "Incontinence"
+      },
+      {
+        "code": "IAB7-30",
+        "name": "Infertility"
+      },
+      {
+        "code": "IAB7-31",
+        "name": "Men\u2019s Health"
+      },
+      {
+        "code": "IAB7-32",
+        "name": "Nutrition"
+      },
+      {
+        "code": "IAB7-33",
+        "name": "Orthopedics"
+      },
+      {
+        "code": "IAB7-34",
+        "name": "Panic/Anxiety Disorders"
+      },
+      {
+        "code": "IAB7-35",
+        "name": "Pediatrics"
+      },
+      {
+        "code": "IAB7-36",
+        "name": "Physical Therapy"
+      },
+      {
+        "code": "IAB7-37",
+        "name": "Psychology/Psychiatry"
+      },
+      {
+        "code": "IAB7-38",
+        "name": "Senor Health"
+      },
+      {
+        "code": "IAB7-39",
+        "name": "Sexuality"
+      },
+      {
+        "code": "IAB7-40",
+        "name": "Sleep Disorders"
+      },
+      {
+        "code": "IAB7-41",
+        "name": "Smoking Cessation"
+      },
+      {
+        "code": "IAB7-42",
+        "name": "Substance Abuse"
+      },
+      {
+        "code": "IAB7-43",
+        "name": "Thyroid Disease"
+      },
+      {
+        "code": "IAB7-44",
+        "name": "Weight Loss"
+      },
+      {
+        "code": "IAB7-45",
+        "name": "Women\u2019s Health"
+      }
+    ]
+  },
+  "IAB8": {
+    "name": "Food & Drink",
+    "subcategories": [
+      {
+        "code": "IAB8-1",
+        "name": "American Cuisine"
+      },
+      {
+        "code": "IAB8-2",
+        "name": "Barbecues & Grilling"
+      },
+      {
+        "code": "IAB8-3",
+        "name": "Cajun/Creole"
+      },
+      {
+        "code": "IAB8-4",
+        "name": "Chinese Cuisine"
+      },
+      {
+        "code": "IAB8-5",
+        "name": "Cocktails/Beer"
+      },
+      {
+        "code": "IAB8-6",
+        "name": "Coffee/Tea"
+      },
+      {
+        "code": "IAB8-7",
+        "name": "Cuisine-Specific"
+      },
+      {
+        "code": "IAB8-8",
+        "name": "Desserts & Baking"
+      },
+      {
+        "code": "IAB8-9",
+        "name": "Dining Out"
+      },
+      {
+        "code": "IAB8-10",
+        "name": "Food Allergies"
+      },
+      {
+        "code": "IAB8-11",
+        "name": "French Cuisine"
+      },
+      {
+        "code": "IAB8-12",
+        "name": "Health/Lowfat Cooking"
+      },
+      {
+        "code": "IAB8-13",
+        "name": "Italian Cuisine"
+      },
+      {
+        "code": "IAB8-14",
+        "name": "Japanese Cuisine"
+      },
+      {
+        "code": "IAB8-15",
+        "name": "Mexican Cuisine"
+      },
+      {
+        "code": "IAB8-16",
+        "name": "Vegan"
+      },
+      {
+        "code": "IAB8-17",
+        "name": "Vegetarian"
+      },
+      {
+        "code": "IAB8-18",
+        "name": "Wine"
+      }
+    ]
+  },
   "IAB9": {
     "name": null,
     "subcategories": [
