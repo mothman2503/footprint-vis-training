@@ -6,9 +6,19 @@ import re
 from transformers import pipeline
 from tqdm import tqdm
 
-# Load IAB subcategories
-with open("iab_subcategories.json", "r") as f:
-    subcategories = json.load(f)
+# Load structured IAB categories
+with open("iab_categories.json", "r") as f:
+    category_data = json.load(f)
+
+# Flatten subcategories for processing
+subcategories = []
+for parent_code, entry in category_data.items():
+    for subcat in entry["subcategories"]:
+        subcategories.append({
+            "parent": parent_code,
+            "subcategory_code": subcat["code"],
+            "subcategory_name": subcat["name"]
+        })
 
 # Output directory
 output_dir = "output_chunks/output_chunks_synthetic_GPT2"
@@ -21,42 +31,35 @@ generator = pipeline("text-generation", model="gpt2", device=0)  # Remove device
 queries_per_category = 10
 confidence = 0.8
 
-# Extract plain topic name and parent category
-def extract_topic(label):
-    match = re.search(r"IAB\d+-\d+\s+(.*)", label)
-    return match.group(1) if match else label
-
-def extract_parent_category(label):
-    match = re.match(r"(IAB\d+)-\d+", label)
-    return match.group(1) if match else label.split("-")[0]
-
-# Prompt templates for variation
+# Prompt templates
 prompt_templates = [
-    "Example of a search query about {}:",
-    "What is a realistic search query for someone interested in {}?",
-    "Write a common Google search query on the topic of {}.",
-    "Give me a sample web search related to {}."
+    "What would someone search on Google if they were interested in {}?",
+    "Write an example of a search someone might type about {}.",
+    "Give a realistic search engine query related to {}.",
+    "What is a sample search query for the topic of {}?"
 ]
 
 def build_prompt(topic):
     template = random.choice(prompt_templates)
     return template.format(topic.lower())
 
-# Filtering function for GPT-2 output
+# Aggressive filtering
 def clean_text(text):
-    text = text.strip().replace("\n", " ")
+    text = text.strip().replace("\n", " ").replace('"', '').strip()
     if len(text) < 10:
         return None
-    if any(x in text.lower() for x in ["<query", "</", "xmlns", "mailto:", "select *", "<a href"]):
+    bad_patterns = ["<", ">", "http", "SELECT", "FROM", "game->", "pokemon", "{", "}", "&&", "||", "::", "==", "youtube.com"]
+    if any(bad in text for bad in bad_patterns):
         return None
-    if text.lower().startswith("iab"):
+    if re.search(r"[{}<>|\[\]]", text):
         return None
     return text
 
-# Generate and save queries for each subcategory
-for label in tqdm(subcategories):
-    topic = extract_topic(label)
-    parent = extract_parent_category(label)
+# Generate and save queries
+for item in tqdm(subcategories):
+    topic = item["subcategory_name"]
+    parent = item["parent"]
+    label = f"{item['subcategory_code']} {item['subcategory_name']}"
     prompt = build_prompt(topic)
 
     generations = generator(
@@ -80,7 +83,7 @@ for label in tqdm(subcategories):
             })
 
     if not results:
-        print(f"Skipped {label} (no valid results).")
+        print(f"⚠️ Skipped {label} (no valid results).")
         continue
 
     safe_label = label.replace(" ", "_").replace("/", "_").replace("&", "and")
@@ -92,4 +95,4 @@ for label in tqdm(subcategories):
         writer.writeheader()
         writer.writerows(results)
 
-    print(f"✅ Saved {len(results)} entries for {label} to {filepath}")
+    print(f"✅ Saved {len(results)} entries for {label} → {filepath}")
