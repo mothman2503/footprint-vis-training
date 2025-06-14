@@ -1,52 +1,56 @@
-import os
-import csv
-import openai
 import json
-from tqdm import tqdm
+import os
+import openai
+import csv
+from pathlib import Path
 
-# Load your API key
+# Set OpenAI API key from environment variable
 openai.api_key = os.getenv("OPENAI_API_KEY")
+if not openai.api_key:
+    raise EnvironmentError("OPENAI_API_KEY environment variable not set")
 
-# Load categories
-with open("iab_categories.json") as f:
-    categories = json.load(f)
+# Load IAB categories
+with open("iab_categories.json", "r") as f:
+    iab_categories = json.load(f)
 
 # Output directory
-os.makedirs("output_chunks/output_chunks_gpt35", exist_ok=True)
+output_dir = Path("generated_phrases_gpt35")
+output_dir.mkdir(parents=True, exist_ok=True)
 
-# Generation function using ChatCompletion
-def generate_query(topic):
-    system = "You are a helpful assistant that generates realistic, short search queries."
-    user = f"Give me a single 2-5 word search query someone might type related to: {topic}"
+# Generation settings
+NUM_QUERIES = 10
+TEMPERATURE = 0.8
+MAX_TOKENS = 50
+
+def generate_queries(iab_code, label):
+    system_msg = f"You are a helpful assistant that writes example search queries for the topic '{label}'."
+    user_msg = f"Generate {NUM_QUERIES} search queries someone might use online about '{label}'. Start each with the answer (2–5 words), then a dash, and then the query."
+
     try:
         response = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
-            messages=[{"role": "system", "content": system}, {"role": "user", "content": user}],
-            max_tokens=30,
-            temperature=0.8
+            messages=[
+                {"role": "system", "content": system_msg},
+                {"role": "user", "content": user_msg}
+            ],
+            temperature=TEMPERATURE,
+            max_tokens=MAX_TOKENS * NUM_QUERIES,
         )
-        return response["choices"][0]["message"]["content"].strip()
+        content = response.choices[0].message["content"]
+        lines = content.strip().split("\n")
+        return [line.strip() for line in lines if line.strip()]
     except Exception as e:
-        return None
+        print(f"❌ Error generating for {iab_code}: {e}")
+        return []
 
-# Generate and save queries
-for parent, info in tqdm(categories.items()):
-    for subcat in info["subcategories"]:
-        topic = subcat["name"]
-        code = subcat["code"]
-        filename = f"labeled_batch_{code}_{topic.replace(' ', '_').replace('/', '_')}.csv"
-        filepath = os.path.join("output_chunks/output_chunks_gpt35", filename)
+# Loop through categories and generate
+for iab_code, label in iab_categories.items():
+    queries = generate_queries(iab_code, label)
+    output_file = output_dir / f"labeled_batch_{iab_code.replace('-', '_')}_{label.replace(' ', '_')}.csv"
 
-        queries = []
-        for _ in range(10):
-            query = generate_query(topic)
-            if query:
-                queries.append({"text": query, "iab_label": parent, "confidence": 0.95})
-
-        # Save CSV
-        with open(filepath, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=["text", "iab_label", "confidence"])
-            writer.writeheader()
-            writer.writerows(queries)
-
-        print(f"✅ {filename} saved with {len(queries)} queries.")
+    with open(output_file, "w", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["text", "iab_label", "confidence"])
+        for q in queries:
+            writer.writerow([q, iab_code.split("-")[0], 0.9])
+        print(f"✅ {output_file.name} saved with {len(queries)} queries.")
