@@ -1,9 +1,9 @@
 import os
 import json
-import openai
 import csv
 from pathlib import Path
 from dotenv import load_dotenv
+from openai import OpenAI
 
 print("🚀 Script started")
 
@@ -13,8 +13,8 @@ api_key = os.getenv("OPENAI_API_KEY")
 if not api_key:
     raise EnvironmentError("❌ OPENAI_API_KEY not set in environment variables.")
 
-# Use new OpenAI client
-client = openai.OpenAI(api_key=api_key)
+# OpenAI client (v1+)
+client = OpenAI(api_key=api_key)
 
 # Load IAB categories
 with open("iab_categories.json", "r") as f:
@@ -26,9 +26,9 @@ output_dir.mkdir(parents=True, exist_ok=True)
 
 # Generation config
 TEMPERATURE = 0.8
-MAX_TOKENS = 40
+MAX_TOKENS = 60
 NUM_QUERIES = 10
-CONFIDENCE = 0.85  # Adjust if needed
+CONFIDENCE = 0.85
 
 # Prompt template
 PROMPT_TEMPLATE = (
@@ -46,24 +46,28 @@ def generate_queries(iab_code, label):
                 {"role": "user", "content": prompt}
             ],
             temperature=TEMPERATURE,
-            max_tokens=MAX_TOKENS,
-            n=NUM_QUERIES,
+            max_tokens=MAX_TOKENS
         )
-        texts = [choice.message.content.strip() for choice in response.choices]
-        return texts
+
+        text = response.choices[0].message.content.strip().split("\n")
+        queries = [line.strip("•-1234567890. ").strip() for line in text if line.strip()]
+        return queries
     except Exception as e:
         print(f"❌ Error generating for {iab_code}-{label}: {e}")
         return []
 
-# Loop over IAB categories and generate queries
+# Loop through IAB hierarchy
 for parent_code, parent_data in iab_categories.items():
+    parent_label = parent_data.get("name", "")
     for sub_code, sub_label in parent_data.get("children", {}).items():
+        print(f"🧠 Generating queries for {sub_code} — {sub_label}")
         queries = generate_queries(sub_code, sub_label)
         if not queries:
             print(f"⚠️ No queries for {sub_code} - {sub_label}")
             continue
 
-        output_file = output_dir / f"labeled_batch_{sub_code.replace('-', '_')}_{sub_label.replace(' ', '_')}.csv"
+        filename = f"labeled_batch_{sub_code.replace('-', '_')}_{sub_label.replace(' ', '_').replace('&', 'and')}.csv"
+        output_file = output_dir / filename
         with output_file.open("w", newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow(["text", "iab_label", "confidence"])
