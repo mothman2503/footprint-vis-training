@@ -11,7 +11,8 @@ import argparse
 # --- CONFIG ---
 MODEL_CHOICES = {
     "distilbert": "distilbert-base-uncased",
-    "tinybert": "prajjwal1/bert-tiny"
+    "tinybert": "prajjwal1/bert-tiny",
+    "bert": "bert-base-uncased"
 }
 
 # --- LOAD DATA ---
@@ -20,11 +21,9 @@ def load_and_prepare_data(train_path, val_path, test_path):
     val_df = pd.read_csv(val_path)
     test_df = pd.read_csv(test_path)
 
-    # Drop unused column
     for df in [train_df, val_df, test_df]:
         df.drop(columns=["labels"], inplace=True, errors="ignore")
 
-    # Encode labels
     le = LabelEncoder()
     train_df["label"] = le.fit_transform(train_df["iab_label"])
     val_df["label"] = le.transform(val_df["iab_label"])
@@ -46,7 +45,7 @@ def compute_metrics(eval_pred: EvalPrediction):
     }
 
 # --- MAIN TRAINING FUNCTION ---
-def train_model(model_name_key, train_file, val_file, test_file, output_dir):
+def train_model(model_name_key, train_file, val_file, test_file, output_dir, use_weights):
     model_name = MODEL_CHOICES[model_name_key]
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=24)
@@ -57,8 +56,7 @@ def train_model(model_name_key, train_file, val_file, test_file, output_dir):
     val_dataset = Dataset.from_dict({**tokenize_data(val_df, tokenizer), "label": val_df["label"].tolist()})
     test_dataset = Dataset.from_dict({**tokenize_data(test_df, tokenizer), "label": test_df["label"].tolist()})
 
-    # Sample weights from confidence
-    train_weights = torch.tensor(train_df["confidence"].values, dtype=torch.float32)
+    train_weights = torch.tensor(train_df["confidence"].values, dtype=torch.float32) if use_weights else torch.ones(len(train_df))
 
     def compute_loss_with_weights(model, inputs, return_outputs=False):
         labels = inputs.pop("labels")
@@ -113,6 +111,8 @@ if __name__ == "__main__":
     parser.add_argument("--val_file", default="val.csv")
     parser.add_argument("--test_file", default="test.csv")
     parser.add_argument("--output_dir", default="./model_output")
+    parser.add_argument("--no_confidence_weights", action="store_true")
     args = parser.parse_args()
 
-    train_model(args.model, args.train_file, args.val_file, args.test_file, args.output_dir)
+    use_weights = not args.no_confidence_weights
+    train_model(args.model, args.train_file, args.val_file, args.test_file, args.output_dir, use_weights)
