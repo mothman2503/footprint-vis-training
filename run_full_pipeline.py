@@ -50,15 +50,15 @@ plt.savefig("balanced_split_output/avg_confidence.png")
 plt.close()
 
 # % synthetic vs natural
-if {"pct_synthetic", "pct_natural", "pct_manual"}.issubset(meta.columns):
-    meta_plot = meta[["iab_label", "pct_synthetic", "pct_natural", "pct_manual"]].set_index("iab_label")
+if {"pct_synthetic", "pct_pseudo_labeled", "pct_scraped", "pct_subcategories"}.issubset(meta.columns):
+    meta_plot = meta[["iab_label", "Synthetic", "Pseudo Labeled", "Scraped", "Subcategories"]].set_index("iab_label")
     meta_plot.plot.bar(
         stacked=True,
-        figsize=(12,6),
-        color=["#ff9999", "#99ccff", "#a0e57c"]
+        figsize=(10,8),
+        color=["#a6cee3", "#1f78b4", "#b2df8a", "#33a02c" ]
     )
-    plt.title("Source Composition (% Synthetic, Natural, Manual)")
-    plt.ylabel("%")
+    plt.title("Source Composition (Synthetic, Pseudo Labeled, Scraped, Subcategories)")
+    plt.ylabel("#")
     plt.xticks(rotation=45, ha="right")
     plt.tight_layout()
     plt.savefig("balanced_split_output/source_composition.png")
@@ -113,6 +113,5 @@ for label in train_df["iab_label"].unique():
     plt.savefig(word_freq_filename)
     plt.close()
     
-    print(f"✅ Saved {word_freq_filename}")
 
 print("\n🎉 FULL PIPELINE COMPLETE! Outputs in balanced_split_output/ 🚀")

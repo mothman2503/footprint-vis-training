@@ -1,0 +1,1639 @@
+text,confidence,iab_label
+"religion taojia(""school of the tao"")",0.85,IAB23 Religion & Spirituality
+"religion fajia('school of law"")zonghengjia(""school of diplomacy"")",0.85,IAB23 Religion & Spirituality
+"religion mojia(""school of mo"")mingjia(""school of names"")",0.85,IAB23 Religion & Spirituality
+"religion nongjia(""school of agrarianism"")",0.85,IAB23 Religion & Spirituality
+"religion rujia(""school of scholars"")",0.85,IAB23 Religion & Spirituality
+religion yangism,0.85,IAB23 Religion & Spirituality
+"religion yinyangjia(""school of yin yang"")",0.85,IAB23 Religion & Spirituality
+"religion zajia(""school of syncretism"")",0.85,IAB23 Religion & Spirituality
+"religion zonghengjia(""school of diplomacy"")",0.85,IAB23 Religion & Spirituality
+"religion mingjia(""school of names"")",0.85,IAB23 Religion & Spirituality
+religion confucian ritual religion,0.85,IAB23 Religion & Spirituality
+religion current texts confucianism,0.85,IAB23 Religion & Spirituality
+religion donglin movement,0.85,IAB23 Religion & Spirituality
+religion han learning,0.85,IAB23 Religion & Spirituality
+religion korean confucianismdonghaksilhak,0.85,IAB23 Religion & Spirituality
+religion lingnan confucianism,0.85,IAB23 Religion & Spirituality
+religion neo-confucianismcheng-zhu schooledo neo-confucianismtongcheng schoolyangmingismtaizhou school,0.85,IAB23 Religion & Spirituality
+religion new confucianismconfucian churchindonesian confucianismconfucian academyprogressive confucianism,0.85,IAB23 Religion & Spirituality
+religion new textchangzhou schoolgongyang schoolholy confucian church,0.85,IAB23 Religion & Spirituality
+religion old text,0.85,IAB23 Religion & Spirituality
+religion tianzuism,0.85,IAB23 Religion & Spirituality
+religion taigu school,0.85,IAB23 Religion & Spirituality
+religion donghak,0.85,IAB23 Religion & Spirituality
+religion silhak,0.85,IAB23 Religion & Spirituality
+religion cheng-zhu school,0.85,IAB23 Religion & Spirituality
+religion edo neo-confucianism,0.85,IAB23 Religion & Spirituality
+religion tongcheng school,0.85,IAB23 Religion & Spirituality
+religion yangmingismtaizhou school,0.85,IAB23 Religion & Spirituality
+religion taizhou school,0.85,IAB23 Religion & Spirituality
+religion confucian churchindonesian confucianismconfucian academy,0.85,IAB23 Religion & Spirituality
+religion progressive confucianism,0.85,IAB23 Religion & Spirituality
+religion indonesian confucianism,0.85,IAB23 Religion & Spirituality
+religion confucian academy,0.85,IAB23 Religion & Spirituality
+religion changzhou school,0.85,IAB23 Religion & Spirituality
+religion gongyang schoolholy confucian church,0.85,IAB23 Religion & Spirituality
+religion holy confucian church,0.85,IAB23 Religion & Spirituality
+religion dokyo,0.85,IAB23 Religion & Spirituality
+religion korean taoism,0.85,IAB23 Religion & Spirituality
+religion kunlun,0.85,IAB23 Religion & Spirituality
+religion new taoism,0.85,IAB23 Religion & Spirituality
+religion qigongzhong gong,0.85,IAB23 Religion & Spirituality
+"religion quanzhen school(""school of the fulfilled virtue"")",0.85,IAB23 Religion & Spirituality
+"religion shangqing school(""school of the highest clarity"")",0.85,IAB23 Religion & Spirituality
+"religion way of the five pecks of riceway of the celestial mastersnorthern celestial masterszhengyi dao(""way of the right oneness"")",0.85,IAB23 Religion & Spirituality
+religion zhong gong,0.85,IAB23 Religion & Spirituality
+"religion way of the celestial mastersnorthern celestial masterszhengyi dao(""way of the right oneness"")",0.85,IAB23 Religion & Spirituality
+religion northern celestial masters,0.85,IAB23 Religion & Spirituality
+"religion zhengyi dao(""way of the right oneness"")",0.85,IAB23 Religion & Spirituality
+"religion dragon gate taoismwuliupai(""school of wu-liu"")",0.85,IAB23 Religion & Spirituality
+religion huang–lao,0.85,IAB23 Religion & Spirituality
+religion kōshin,0.85,IAB23 Religion & Spirituality
+"religion xuanxue(""neo-taoism"")",0.85,IAB23 Religion & Spirituality
+"religion yao taoism(""meishanism"")",0.85,IAB23 Religion & Spirituality
+"religion wuliupai(""school of wu-liu"")",0.85,IAB23 Religion & Spirituality
+"religion pre-sectarian buddhism(theorized)mahayanachinese buddhismtiantaitendaicheontaehuayan schoolbaiyunzong(syncretic)daśabhūmikāchan buddhismseon buddhismjogye orderkwan um schooltaego orderthiền buddhismtiep hien ordertrúc lâm(syncretic)zen buddhismjapanese zencaodong schoolsōtōkeizanlinejakuenlinegiin linelinji schoolotokan linerinzaiōbakufuke-shūsanbo kyodanmadhyamakasanlunprasaṅgikasvatantrikanichiren buddhismfuju-fusehonmon butsuryū-shūkempon hokkenichirenismnichiren shōshūnichiren shūpure land buddhismjōdo shinshūhonganji-haōtani-haohigashiyuzu nembutsuseizanjōdo-shūchinzeiyogācāraeast asian yogācāranikaya buddhism(also called ""hinayana"")theravadasangharaj nikayamahasthabir nikayadwara nikayashwegyin nikayathudhamma nikayaamarapura–rāmañña nikāyagalduwa forest traditionsiam nikayasri lankan forest traditiondhammayuttika nikayathai forest traditionmaha nikaya(thailand)dhammakaya movementvipassana movement(united states)vajrayanaazhaliismbongthingismchinese esoteric buddhismnewar buddhismindonesian esoteric buddhismshingon buddhismtachikawa-ryūsouthern esoteric buddhismtibetan buddhismbon(syncretic)gelugyellow shamanism(syncretic)kagyudagpo kagyukarma kagyudrukpa kagyushangpa kagyunyingmasakyajonangbodongpa",0.85,IAB23 Religion & Spirituality
+religion navayana,0.85,IAB23 Religion & Spirituality
+religion mahayanachinese buddhismtiantaitendaicheontaehuayan schoolbaiyunzong(syncretic)daśabhūmikāchan buddhismseon buddhismjogye orderkwan um schooltaego orderthiền buddhismtiep hien ordertrúc lâm(syncretic)zen buddhismjapanese zencaodong schoolsōtōkeizanlinejakuenlinegiin linelinji schoolotokan linerinzaiōbakufuke-shūsanbo kyodanmadhyamakasanlunprasaṅgikasvatantrikanichiren buddhismfuju-fusehonmon butsuryū-shūkempon hokkenichirenismnichiren shōshūnichiren shūpure land buddhismjōdo shinshūhonganji-haōtani-haohigashiyuzu nembutsuseizanjōdo-shūchinzeiyogācāraeast asian yogācāra,0.85,IAB23 Religion & Spirituality
+"religion nikaya buddhism(also called ""hinayana"")theravadasangharaj nikayamahasthabir nikayadwara nikayashwegyin nikayathudhamma nikayaamarapura–rāmañña nikāyagalduwa forest traditionsiam nikayasri lankan forest traditiondhammayuttika nikayathai forest traditionmaha nikaya(thailand)dhammakaya movementvipassana movement(united states)",0.85,IAB23 Religion & Spirituality
+religion vajrayanaazhaliismbongthingismchinese esoteric buddhismnewar buddhismindonesian esoteric buddhismshingon buddhismtachikawa-ryūsouthern esoteric buddhismtibetan buddhismbon(syncretic)gelugyellow shamanism(syncretic)kagyudagpo kagyukarma kagyudrukpa kagyushangpa kagyunyingmasakyajonangbodongpa,0.85,IAB23 Religion & Spirituality
+religion chinese buddhismtiantaitendaicheontaehuayan schoolbaiyunzong(syncretic)daśabhūmikāchan buddhismseon buddhismjogye orderkwan um schooltaego orderthiền buddhismtiep hien ordertrúc lâm(syncretic)zen buddhismjapanese zencaodong schoolsōtōkeizanlinejakuenlinegiin linelinji schoolotokan linerinzaiōbakufuke-shūsanbo kyodan,0.85,IAB23 Religion & Spirituality
+religion madhyamakasanlunprasaṅgikasvatantrika,0.85,IAB23 Religion & Spirituality
+religion nichiren buddhismfuju-fusehonmon butsuryū-shūkempon hokkenichirenismnichiren shōshūnichiren shū,0.85,IAB23 Religion & Spirituality
+religion pure land buddhismjōdo shinshūhonganji-haōtani-haohigashiyuzu nembutsuseizanjōdo-shūchinzei,0.85,IAB23 Religion & Spirituality
+religion yogācāraeast asian yogācāra,0.85,IAB23 Religion & Spirituality
+religion tiantaitendaicheontae,0.85,IAB23 Religion & Spirituality
+religion huayan schoolbaiyunzong(syncretic)daśabhūmikā,0.85,IAB23 Religion & Spirituality
+religion chan buddhismseon buddhismjogye orderkwan um schooltaego orderthiền buddhismtiep hien ordertrúc lâm(syncretic)zen buddhismjapanese zencaodong schoolsōtōkeizanlinejakuenlinegiin linelinji schoolotokan linerinzaiōbakufuke-shūsanbo kyodan,0.85,IAB23 Religion & Spirituality
+religion tendai,0.85,IAB23 Religion & Spirituality
+religion cheontae,0.85,IAB23 Religion & Spirituality
+religion baiyunzong(syncretic),0.85,IAB23 Religion & Spirituality
+religion daśabhūmikā,0.85,IAB23 Religion & Spirituality
+religion seon buddhismjogye orderkwan um schooltaego order,0.85,IAB23 Religion & Spirituality
+religion thiền buddhismtiep hien ordertrúc lâm(syncretic),0.85,IAB23 Religion & Spirituality
+religion zen buddhismjapanese zencaodong schoolsōtōkeizanlinejakuenlinegiin linelinji schoolotokan linerinzaiōbakufuke-shūsanbo kyodan,0.85,IAB23 Religion & Spirituality
+religion jogye orderkwan um school,0.85,IAB23 Religion & Spirituality
+religion taego order,0.85,IAB23 Religion & Spirituality
+religion kwan um school,0.85,IAB23 Religion & Spirituality
+religion tiep hien order,0.85,IAB23 Religion & Spirituality
+religion trúc lâm(syncretic),0.85,IAB23 Religion & Spirituality
+religion japanese zen,0.85,IAB23 Religion & Spirituality
+religion caodong schoolsōtōkeizanlinejakuenlinegiin line,0.85,IAB23 Religion & Spirituality
+religion linji schoolotokan linerinzaiōbakufuke-shū,0.85,IAB23 Religion & Spirituality
+religion sanbo kyodan,0.85,IAB23 Religion & Spirituality
+religion sōtōkeizanlinejakuenlinegiin line,0.85,IAB23 Religion & Spirituality
+religion keizanline,0.85,IAB23 Religion & Spirituality
+religion jakuenline,0.85,IAB23 Religion & Spirituality
+religion giin line,0.85,IAB23 Religion & Spirituality
+religion otokan linerinzai,0.85,IAB23 Religion & Spirituality
+religion ōbaku,0.85,IAB23 Religion & Spirituality
+religion fuke-shū,0.85,IAB23 Religion & Spirituality
+religion rinzai,0.85,IAB23 Religion & Spirituality
+religion sanlun,0.85,IAB23 Religion & Spirituality
+religion prasaṅgika,0.85,IAB23 Religion & Spirituality
+religion svatantrika,0.85,IAB23 Religion & Spirituality
+religion fuju-fuse,0.85,IAB23 Religion & Spirituality
+religion honmon butsuryū-shū,0.85,IAB23 Religion & Spirituality
+religion kempon hokke,0.85,IAB23 Religion & Spirituality
+religion nichirenism,0.85,IAB23 Religion & Spirituality
+religion nichiren shōshū,0.85,IAB23 Religion & Spirituality
+religion nichiren shū,0.85,IAB23 Religion & Spirituality
+religion jōdo shinshūhonganji-haōtani-haohigashiyuzu nembutsuseizan,0.85,IAB23 Religion & Spirituality
+religion jōdo-shūchinzei,0.85,IAB23 Religion & Spirituality
+religion honganji-ha,0.85,IAB23 Religion & Spirituality
+religion ōtani-haohigashi,0.85,IAB23 Religion & Spirituality
+religion yuzu nembutsu,0.85,IAB23 Religion & Spirituality
+religion seizan,0.85,IAB23 Religion & Spirituality
+religion ohigashi,0.85,IAB23 Religion & Spirituality
+religion chinzei,0.85,IAB23 Religion & Spirituality
+religion east asian yogācāra,0.85,IAB23 Religion & Spirituality
+religion theravadasangharaj nikayamahasthabir nikayadwara nikayashwegyin nikayathudhamma nikayaamarapura–rāmañña nikāyagalduwa forest traditionsiam nikayasri lankan forest traditiondhammayuttika nikayathai forest traditionmaha nikaya(thailand)dhammakaya movement,0.85,IAB23 Religion & Spirituality
+religion vipassana movement(united states),0.85,IAB23 Religion & Spirituality
+religion sangharaj nikaya,0.85,IAB23 Religion & Spirituality
+religion mahasthabir nikaya,0.85,IAB23 Religion & Spirituality
+religion dwara nikaya,0.85,IAB23 Religion & Spirituality
+religion shwegyin nikaya,0.85,IAB23 Religion & Spirituality
+religion thudhamma nikaya,0.85,IAB23 Religion & Spirituality
+religion amarapura–rāmañña nikāyagalduwa forest tradition,0.85,IAB23 Religion & Spirituality
+religion siam nikaya,0.85,IAB23 Religion & Spirituality
+religion sri lankan forest tradition,0.85,IAB23 Religion & Spirituality
+religion dhammayuttika nikayathai forest tradition,0.85,IAB23 Religion & Spirituality
+religion maha nikaya(thailand)dhammakaya movement,0.85,IAB23 Religion & Spirituality
+religion galduwa forest tradition,0.85,IAB23 Religion & Spirituality
+religion thai forest tradition,0.85,IAB23 Religion & Spirituality
+religion dhammakaya movement,0.85,IAB23 Religion & Spirituality
+religion azhaliism,0.85,IAB23 Religion & Spirituality
+religion bongthingism,0.85,IAB23 Religion & Spirituality
+religion chinese esoteric buddhism,0.85,IAB23 Religion & Spirituality
+religion newar buddhism,0.85,IAB23 Religion & Spirituality
+religion indonesian esoteric buddhism,0.85,IAB23 Religion & Spirituality
+religion shingon buddhismtachikawa-ryū,0.85,IAB23 Religion & Spirituality
+religion southern esoteric buddhism,0.85,IAB23 Religion & Spirituality
+religion tibetan buddhismbon(syncretic)gelugyellow shamanism(syncretic)kagyudagpo kagyukarma kagyudrukpa kagyushangpa kagyunyingmasakyajonangbodongpa,0.85,IAB23 Religion & Spirituality
+religion tachikawa-ryū,0.85,IAB23 Religion & Spirituality
+religion bon(syncretic),0.85,IAB23 Religion & Spirituality
+religion gelugyellow shamanism(syncretic),0.85,IAB23 Religion & Spirituality
+religion kagyudagpo kagyukarma kagyudrukpa kagyushangpa kagyu,0.85,IAB23 Religion & Spirituality
+religion nyingma,0.85,IAB23 Religion & Spirituality
+religion sakya,0.85,IAB23 Religion & Spirituality
+religion jonang,0.85,IAB23 Religion & Spirituality
+religion bodongpa,0.85,IAB23 Religion & Spirituality
+religion yellow shamanism(syncretic),0.85,IAB23 Religion & Spirituality
+religion dagpo kagyukarma kagyudrukpa kagyu,0.85,IAB23 Religion & Spirituality
+religion shangpa kagyu,0.85,IAB23 Religion & Spirituality
+religion karma kagyu,0.85,IAB23 Religion & Spirituality
+religion drukpa kagyu,0.85,IAB23 Religion & Spirituality
+religion āstika(orthodox schools)nyayamimamsasamkhyavaisheshikavedantaadvaita vedantaakshar-purushottam darshanbhedabhedaachintya bheda abhedadvaitadvaitadvaita vedantapratyabhijnashaiva siddhantashiva advaitashuddhadvaitavishishtadvaitayoga (philosophy),0.85,IAB23 Religion & Spirituality
+religion nyaya,0.85,IAB23 Religion & Spirituality
+religion mimamsa,0.85,IAB23 Religion & Spirituality
+religion samkhya,0.85,IAB23 Religion & Spirituality
+religion vaisheshika,0.85,IAB23 Religion & Spirituality
+religion vedantaadvaita vedantaakshar-purushottam darshanbhedabhedaachintya bheda abhedadvaitadvaitadvaita vedantapratyabhijnashaiva siddhantashiva advaitashuddhadvaitavishishtadvaita,0.85,IAB23 Religion & Spirituality
+religion yoga (philosophy),0.85,IAB23 Religion & Spirituality
+religion advaita vedanta,0.85,IAB23 Religion & Spirituality
+religion akshar-purushottam darshan,0.85,IAB23 Religion & Spirituality
+religion bhedabhedaachintya bheda abhedadvaitadvaita,0.85,IAB23 Religion & Spirituality
+religion dvaita vedanta,0.85,IAB23 Religion & Spirituality
+religion pratyabhijna,0.85,IAB23 Religion & Spirituality
+religion shaiva siddhanta,0.85,IAB23 Religion & Spirituality
+religion shiva advaita,0.85,IAB23 Religion & Spirituality
+religion shuddhadvaita,0.85,IAB23 Religion & Spirituality
+religion vishishtadvaita,0.85,IAB23 Religion & Spirituality
+religion achintya bheda abheda,0.85,IAB23 Religion & Spirituality
+religion dvaitadvaita,0.85,IAB23 Religion & Spirituality
+religion ajivika,0.85,IAB23 Religion & Spirituality
+religion ajñana,0.85,IAB23 Religion & Spirituality
+religion akiriya,0.85,IAB23 Religion & Spirituality
+religion buddhism,0.85,IAB23 Religion & Spirituality
+religion jainism,0.85,IAB23 Religion & Spirituality
+religion sassatavada,0.85,IAB23 Religion & Spirituality
+religion ganapatya,0.85,IAB23 Religion & Spirituality
+religion sant matdadupanthkabir panthravidassia religionsadh,0.85,IAB23 Religion & Spirituality
+religion satya mahima dharma,0.85,IAB23 Religion & Spirituality
+religion saura,0.85,IAB23 Religion & Spirituality
+religion smartism,0.85,IAB23 Religion & Spirituality
+religion śrauta,0.85,IAB23 Religion & Spirituality
+religion tantrakaulanewar hinduism,0.85,IAB23 Religion & Spirituality
+religion zunism(disputedly hindu),0.85,IAB23 Religion & Spirituality
+religion dadupanth,0.85,IAB23 Religion & Spirituality
+religion kabir panth,0.85,IAB23 Religion & Spirituality
+religion ravidassia religion,0.85,IAB23 Religion & Spirituality
+religion sadh,0.85,IAB23 Religion & Spirituality
+religion aghori,0.85,IAB23 Religion & Spirituality
+religion kapalika,0.85,IAB23 Religion & Spirituality
+religion kashmir shaivism,0.85,IAB23 Religion & Spirituality
+religion kaumaram,0.85,IAB23 Religion & Spirituality
+religion nathadinath sampradayainchegeri sampradaya,0.85,IAB23 Religion & Spirituality
+religion pashupata shaivism,0.85,IAB23 Religion & Spirituality
+religion veerashaivismlingayatism,0.85,IAB23 Religion & Spirituality
+religion adinath sampradaya,0.85,IAB23 Religion & Spirituality
+religion inchegeri sampradaya,0.85,IAB23 Religion & Spirituality
+religion lingayatism,0.85,IAB23 Religion & Spirituality
+religion caribbean shaktism,0.85,IAB23 Religion & Spirituality
+religion srikula,0.85,IAB23 Religion & Spirituality
+religion kaulanewar hinduism,0.85,IAB23 Religion & Spirituality
+religion newar hinduism,0.85,IAB23 Religion & Spirituality
+religion balmikism,0.85,IAB23 Religion & Spirituality
+religion bhagavata tradition,0.85,IAB23 Religion & Spirituality
+religion brahma sampradayamadhva traditiongaudiya vaishnavismmanipuri vaishnavismharidasa,0.85,IAB23 Religion & Spirituality
+religion ekasarana dharma,0.85,IAB23 Religion & Spirituality
+religion kapadi sampradaya,0.85,IAB23 Religion & Spirituality
+religion mahanubhava,0.85,IAB23 Religion & Spirituality
+religion nimbarka sampradaya,0.85,IAB23 Religion & Spirituality
+religion pranami/pranami sampraday,0.85,IAB23 Religion & Spirituality
+religion radha vallabh sampradaya,0.85,IAB23 Religion & Spirituality
+religion ramsnehi sampradaya,0.85,IAB23 Religion & Spirituality
+religion rudra sampradayapushtimarg,0.85,IAB23 Religion & Spirituality
+religion sri vaishnavismramanandi sampradayathenkalaismanavala mamunigal sabha,0.85,IAB23 Religion & Spirituality
+religion vaishnava-sahajiya,0.85,IAB23 Religion & Spirituality
+religion warkari,0.85,IAB23 Religion & Spirituality
+religion madhva tradition,0.85,IAB23 Religion & Spirituality
+religion gaudiya vaishnavismmanipuri vaishnavism,0.85,IAB23 Religion & Spirituality
+religion haridasa,0.85,IAB23 Religion & Spirituality
+religion manipuri vaishnavism,0.85,IAB23 Religion & Spirituality
+religion pushtimarg,0.85,IAB23 Religion & Spirituality
+religion ramanandi sampradaya,0.85,IAB23 Religion & Spirituality
+religion thenkalaismanavala mamunigal sabha,0.85,IAB23 Religion & Spirituality
+religion manavala mamunigal sabha,0.85,IAB23 Religion & Spirituality
+religion banjara hinduism,0.85,IAB23 Religion & Spirituality
+religion baul,0.85,IAB23 Religion & Spirituality
+religion bhil hinduism,0.85,IAB23 Religion & Spirituality
+religion folk hinduism,0.85,IAB23 Religion & Spirituality
+religion dyaoism,0.85,IAB23 Religion & Spirituality
+religion indonesian hinduismbalinese hinduismjavanese hinduismtenggerese hinduismkaharingannaurusnuaulu religion,0.85,IAB23 Religion & Spirituality
+religion balinese hinduism,0.85,IAB23 Religion & Spirituality
+religion javanese hinduismtenggerese hinduism,0.85,IAB23 Religion & Spirituality
+religion kaharingan,0.85,IAB23 Religion & Spirituality
+religion naurusnuaulu religion,0.85,IAB23 Religion & Spirituality
+religion tenggerese hinduism,0.85,IAB23 Religion & Spirituality
+religion nuaulu religion,0.85,IAB23 Religion & Spirituality
+religion śvētāmbaramurtipujakasthānakavāsī,0.85,IAB23 Religion & Spirituality
+religion yapaniya(historical),0.85,IAB23 Religion & Spirituality
+religion taran panth,0.85,IAB23 Religion & Spirituality
+religion murtipujaka,0.85,IAB23 Religion & Spirituality
+religion sthānakavāsī,0.85,IAB23 Religion & Spirituality
+religion tat khalsa,0.85,IAB23 Religion & Spirituality
+religion udasi,0.85,IAB23 Religion & Spirituality
+religion nanakpanthi,0.85,IAB23 Religion & Spirituality
+religion nirankari,0.85,IAB23 Religion & Spirituality
+religion nirmala,0.85,IAB23 Religion & Spirituality
+religion sewapanthi,0.85,IAB23 Religion & Spirituality
+religion nihang,0.85,IAB23 Religion & Spirituality
+religion taksali,0.85,IAB23 Religion & Spirituality
+religion mina,0.85,IAB23 Religion & Spirituality
+religion ramraiya,0.85,IAB23 Religion & Spirituality
+religion namdhari,0.85,IAB23 Religion & Spirituality
+religion akhand kirtani,0.85,IAB23 Religion & Spirituality
+religion 3ho,0.85,IAB23 Religion & Spirituality
+religion sanatan sikh,0.85,IAB23 Religion & Spirituality
+religion ananda yoga,0.85,IAB23 Religion & Spirituality
+religion bhakti yoga,0.85,IAB23 Religion & Spirituality
+religion hatha yogabihar school of yoga,0.85,IAB23 Religion & Spirituality
+religion integral yoga,0.85,IAB23 Religion & Spirituality
+religion jivamukti yoga,0.85,IAB23 Religion & Spirituality
+religion jnana yoga,0.85,IAB23 Religion & Spirituality
+religion karma yoga,0.85,IAB23 Religion & Spirituality
+religion kripalu yoga,0.85,IAB23 Religion & Spirituality
+religion kriya yoga,0.85,IAB23 Religion & Spirituality
+religion kundalini yoga,0.85,IAB23 Religion & Spirituality
+religion raja yoga,0.85,IAB23 Religion & Spirituality
+religion sahaja yoga,0.85,IAB23 Religion & Spirituality
+religion siddha yoga,0.85,IAB23 Religion & Spirituality
+religion sivananda yoga,0.85,IAB23 Religion & Spirituality
+religion surat shabd yoga,0.85,IAB23 Religion & Spirituality
+religion tantric yoga,0.85,IAB23 Religion & Spirituality
+religion bihar school of yoga,0.85,IAB23 Religion & Spirituality
+religion arianism,0.85,IAB23 Religion & Spirituality
+religion jewish christianitypauline christianityproto-orthodox christianitygreat churchnicene christianitychalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion johannine community,0.85,IAB23 Religion & Spirituality
+religion proto-gnosticismgnosticismbogomilismcainitescatharismpaulicianismsethianismvalentinianismsimonians,0.85,IAB23 Religion & Spirituality
+religion marcionism,0.85,IAB23 Religion & Spirituality
+religion pauline christianityproto-orthodox christianitygreat churchnicene christianitychalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion proto-orthodox christianitygreat churchnicene christianitychalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion great churchnicene christianitychalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion nicene christianitychalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion chalcedonian christianityneo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion neo-chalcedonism,0.85,IAB23 Religion & Spirituality
+religion gnosticismbogomilismcainitescatharismpaulicianismsethianismvalentinianismsimonians,0.85,IAB23 Religion & Spirituality
+religion bogomilism,0.85,IAB23 Religion & Spirituality
+religion cainites,0.85,IAB23 Religion & Spirituality
+religion catharism,0.85,IAB23 Religion & Spirituality
+religion paulicianism,0.85,IAB23 Religion & Spirituality
+religion sethianismvalentinianism,0.85,IAB23 Religion & Spirituality
+religion simonians,0.85,IAB23 Religion & Spirituality
+religion valentinianism,0.85,IAB23 Religion & Spirituality
+"religion church of the east(called ""nestorianism"")ancient church of the eastassyrian church of the eastchaldean syrian church",0.85,IAB23 Religion & Spirituality
+"religion eastern catholic churchesalbanian greek catholic churchbelarusian greek catholic churchbulgarian greek catholic churchbyzantine catholic church of croatia and serbiachaldean catholic churchgreek byzantine catholic churchhungarian byzantine catholic churchitalo-albanian catholic church(a.k.a. the ""italo-greek catholic church"")macedonian catholic churchmaronite churchmelkite greek catholic churchromanian greek catholic churchrussian greek catholic churchruthenian greek catholic church(a.k.a. the ""byzantine catholic church"" in the united states)slovak greek catholic churchsyriac catholic churchsyro-malankara catholic churchsyro-malabar churchukrainian greek catholic church(independent eastern catholic churches)ukrainian orthodox greek catholic church",0.85,IAB23 Religion & Spirituality
+"religion eastern orthodox church(officially the ""orthodox catholic church"")albanian orthodox churchbulgarian orthodox churchgeorgian orthodox churchgreek orthodox churchold believersromanian orthodox churchrussian orthodox churchbelarusian orthodox churchserbian orthodox churchtrue orthodox churchold calendaristsukrainian orthodox church",0.85,IAB23 Religion & Spirituality
+"religion oriental orthodox churches(a.k.a. ""non-chalcedonian"" or ""miaphysite""/""monophysite"")armenian apostolic churchcoptic orthodox churchsyriac orthodox churchjacobite syrian christian church(of thest. thomas christiansin india)ethiopian orthodox churcheritrean orthodox churchmalankara orthodox syrian church(of thest. thomas christiansin india)",0.85,IAB23 Religion & Spirituality
+religion spiritual christianity,0.85,IAB23 Religion & Spirituality
+religion ancient church of the east,0.85,IAB23 Religion & Spirituality
+religion assyrian church of the eastchaldean syrian church,0.85,IAB23 Religion & Spirituality
+religion chaldean syrian church,0.85,IAB23 Religion & Spirituality
+religion albanian greek catholic church,0.85,IAB23 Religion & Spirituality
+religion belarusian greek catholic church,0.85,IAB23 Religion & Spirituality
+religion bulgarian greek catholic church,0.85,IAB23 Religion & Spirituality
+religion byzantine catholic church of croatia and serbia,0.85,IAB23 Religion & Spirituality
+religion chaldean catholic church,0.85,IAB23 Religion & Spirituality
+religion greek byzantine catholic church,0.85,IAB23 Religion & Spirituality
+religion hungarian byzantine catholic church,0.85,IAB23 Religion & Spirituality
+"religion italo-albanian catholic church(a.k.a. the ""italo-greek catholic church"")",0.85,IAB23 Religion & Spirituality
+religion macedonian catholic church,0.85,IAB23 Religion & Spirituality
+religion maronite church,0.85,IAB23 Religion & Spirituality
+religion melkite greek catholic church,0.85,IAB23 Religion & Spirituality
+religion romanian greek catholic church,0.85,IAB23 Religion & Spirituality
+religion russian greek catholic church,0.85,IAB23 Religion & Spirituality
+"religion ruthenian greek catholic church(a.k.a. the ""byzantine catholic church"" in the united states)",0.85,IAB23 Religion & Spirituality
+religion slovak greek catholic church,0.85,IAB23 Religion & Spirituality
+religion syriac catholic church,0.85,IAB23 Religion & Spirituality
+religion syro-malankara catholic church,0.85,IAB23 Religion & Spirituality
+religion syro-malabar church,0.85,IAB23 Religion & Spirituality
+religion ukrainian greek catholic church,0.85,IAB23 Religion & Spirituality
+religion (independent eastern catholic churches)ukrainian orthodox greek catholic church,0.85,IAB23 Religion & Spirituality
+religion ukrainian orthodox greek catholic church,0.85,IAB23 Religion & Spirituality
+religion albanian orthodox church,0.85,IAB23 Religion & Spirituality
+religion bulgarian orthodox church,0.85,IAB23 Religion & Spirituality
+religion georgian orthodox church,0.85,IAB23 Religion & Spirituality
+religion greek orthodox church,0.85,IAB23 Religion & Spirituality
+religion old believers,0.85,IAB23 Religion & Spirituality
+religion romanian orthodox church,0.85,IAB23 Religion & Spirituality
+religion russian orthodox churchbelarusian orthodox church,0.85,IAB23 Religion & Spirituality
+religion serbian orthodox church,0.85,IAB23 Religion & Spirituality
+religion true orthodox churchold calendarists,0.85,IAB23 Religion & Spirituality
+religion ukrainian orthodox church,0.85,IAB23 Religion & Spirituality
+religion belarusian orthodox church,0.85,IAB23 Religion & Spirituality
+religion old calendarists,0.85,IAB23 Religion & Spirituality
+religion armenian apostolic church,0.85,IAB23 Religion & Spirituality
+religion coptic orthodox church,0.85,IAB23 Religion & Spirituality
+religion syriac orthodox churchjacobite syrian christian church(of thest. thomas christiansin india),0.85,IAB23 Religion & Spirituality
+religion ethiopian orthodox church,0.85,IAB23 Religion & Spirituality
+religion eritrean orthodox church,0.85,IAB23 Religion & Spirituality
+religion malankara orthodox syrian church(of thest. thomas christiansin india),0.85,IAB23 Religion & Spirituality
+religion jacobite syrian christian church(of thest. thomas christiansin india),0.85,IAB23 Religion & Spirituality
+religion proto-protestantismbrethren of the free spirit(historical)hussites(historical)czech brethrenmoravianslollardy(historical)strigolniki(historical)waldensians,0.85,IAB23 Religion & Spirituality
+"religion protestantismanabaptists(radical protestants)amishhutteritesmennonitesriver brethrenschwarzenau brethrenanglicanismanglo-catholicismcontinuing anglican movementevangelical anglicanismbaptistsblack churchblack theologycharismatic christianitypentecostalism(""first wave"")oneness pentecostalismword of faithcharismatic movement(""second wave"")neo-charismatic movement(""third wave"")christian deismconfessing movementevangelicalismprogressive christianityprotestant fundamentalismlutheranismevangelical catholicneo-lutheranismpietismmethodismcalvinistic methodistsholiness movementwesleyanismpuritansquakersreformed churchesamyraldism(a.k.a.""four-point calvinism"")arminianismchristian reconstructionismcongregational churchescontinental reformed churchesswiss reformeddutch reformedfrench huguenotneo-calvinismnew calvinismpresbyterianismzwinglianismreformed eastern christianityrestoration movement(a.k.a. ""restorationism"")adventismseventh-day adventist churchchurches of christbible student movementjehovah's witnesseslatter day saint movementthe church of jesus christ of latter-day saintsmormon fundamentalismswedenborgianism(a.k.a. ""the new church"")unitarianism",0.85,IAB23 Religion & Spirituality
+"religion roman catholic church/latin church(a.k.a. ""roman catholicism"" or ""catholicism"")black catholicismcharismatic catholicsgallicanismindependent catholic churches(a.k.a ""independent catholicism"")old catholic churchliberal catholicismmodernist catholicstraditionalist catholicssedevacantismsedeprivationismultramontanism",0.85,IAB23 Religion & Spirituality
+religion brethren of the free spirit(historical),0.85,IAB23 Religion & Spirituality
+religion hussites(historical)czech brethrenmoravians,0.85,IAB23 Religion & Spirituality
+religion lollardy(historical),0.85,IAB23 Religion & Spirituality
+religion strigolniki(historical),0.85,IAB23 Religion & Spirituality
+religion waldensians,0.85,IAB23 Religion & Spirituality
+religion czech brethren,0.85,IAB23 Religion & Spirituality
+religion moravians,0.85,IAB23 Religion & Spirituality
+religion anabaptists(radical protestants)amishhutteritesmennonitesriver brethrenschwarzenau brethren,0.85,IAB23 Religion & Spirituality
+religion anglicanismanglo-catholicismcontinuing anglican movementevangelical anglicanism,0.85,IAB23 Religion & Spirituality
+religion baptists,0.85,IAB23 Religion & Spirituality
+religion black churchblack theology,0.85,IAB23 Religion & Spirituality
+"religion charismatic christianitypentecostalism(""first wave"")oneness pentecostalismword of faithcharismatic movement(""second wave"")neo-charismatic movement(""third wave"")",0.85,IAB23 Religion & Spirituality
+religion christian deism,0.85,IAB23 Religion & Spirituality
+religion confessing movement,0.85,IAB23 Religion & Spirituality
+religion evangelicalismprogressive christianityprotestant fundamentalism,0.85,IAB23 Religion & Spirituality
+religion lutheranismevangelical catholicneo-lutheranismpietism,0.85,IAB23 Religion & Spirituality
+religion methodismcalvinistic methodistsholiness movementwesleyanism,0.85,IAB23 Religion & Spirituality
+religion puritans,0.85,IAB23 Religion & Spirituality
+religion quakers,0.85,IAB23 Religion & Spirituality
+"religion reformed churchesamyraldism(a.k.a.""four-point calvinism"")arminianismchristian reconstructionismcongregational churchescontinental reformed churchesswiss reformeddutch reformedfrench huguenotneo-calvinismnew calvinismpresbyterianismzwinglianism",0.85,IAB23 Religion & Spirituality
+religion reformed eastern christianity,0.85,IAB23 Religion & Spirituality
+"religion restoration movement(a.k.a. ""restorationism"")adventismseventh-day adventist churchchurches of christbible student movementjehovah's witnesseslatter day saint movementthe church of jesus christ of latter-day saintsmormon fundamentalism",0.85,IAB23 Religion & Spirituality
+"religion swedenborgianism(a.k.a. ""the new church"")",0.85,IAB23 Religion & Spirituality
+religion unitarianism,0.85,IAB23 Religion & Spirituality
+religion amish,0.85,IAB23 Religion & Spirituality
+religion hutterites,0.85,IAB23 Religion & Spirituality
+religion mennonites,0.85,IAB23 Religion & Spirituality
+religion river brethren,0.85,IAB23 Religion & Spirituality
+religion schwarzenau brethren,0.85,IAB23 Religion & Spirituality
+religion anglo-catholicism,0.85,IAB23 Religion & Spirituality
+religion continuing anglican movement,0.85,IAB23 Religion & Spirituality
+religion evangelical anglicanism,0.85,IAB23 Religion & Spirituality
+religion black theology,0.85,IAB23 Religion & Spirituality
+"religion pentecostalism(""first wave"")oneness pentecostalismword of faith",0.85,IAB23 Religion & Spirituality
+"religion charismatic movement(""second wave"")neo-charismatic movement(""third wave"")",0.85,IAB23 Religion & Spirituality
+religion oneness pentecostalism,0.85,IAB23 Religion & Spirituality
+religion word of faith,0.85,IAB23 Religion & Spirituality
+"religion neo-charismatic movement(""third wave"")",0.85,IAB23 Religion & Spirituality
+religion progressive christianity,0.85,IAB23 Religion & Spirituality
+religion protestant fundamentalism,0.85,IAB23 Religion & Spirituality
+religion evangelical catholic,0.85,IAB23 Religion & Spirituality
+religion neo-lutheranism,0.85,IAB23 Religion & Spirituality
+religion pietism,0.85,IAB23 Religion & Spirituality
+religion calvinistic methodists,0.85,IAB23 Religion & Spirituality
+religion holiness movement,0.85,IAB23 Religion & Spirituality
+religion wesleyanism,0.85,IAB23 Religion & Spirituality
+"religion amyraldism(a.k.a.""four-point calvinism"")",0.85,IAB23 Religion & Spirituality
+religion arminianism,0.85,IAB23 Religion & Spirituality
+religion christian reconstructionism,0.85,IAB23 Religion & Spirituality
+religion congregational churches,0.85,IAB23 Religion & Spirituality
+religion continental reformed churchesswiss reformeddutch reformedfrench huguenot,0.85,IAB23 Religion & Spirituality
+religion neo-calvinism,0.85,IAB23 Religion & Spirituality
+religion new calvinism,0.85,IAB23 Religion & Spirituality
+religion presbyterianism,0.85,IAB23 Religion & Spirituality
+religion zwinglianism,0.85,IAB23 Religion & Spirituality
+religion swiss reformed,0.85,IAB23 Religion & Spirituality
+religion dutch reformed,0.85,IAB23 Religion & Spirituality
+religion french huguenot,0.85,IAB23 Religion & Spirituality
+religion adventismseventh-day adventist church,0.85,IAB23 Religion & Spirituality
+religion churches of christ,0.85,IAB23 Religion & Spirituality
+religion bible student movementjehovah's witnesses,0.85,IAB23 Religion & Spirituality
+religion latter day saint movementthe church of jesus christ of latter-day saintsmormon fundamentalism,0.85,IAB23 Religion & Spirituality
+religion seventh-day adventist church,0.85,IAB23 Religion & Spirituality
+religion jehovah's witnesses,0.85,IAB23 Religion & Spirituality
+religion the church of jesus christ of latter-day saints,0.85,IAB23 Religion & Spirituality
+religion mormon fundamentalism,0.85,IAB23 Religion & Spirituality
+religion black catholicism,0.85,IAB23 Religion & Spirituality
+religion charismatic catholics,0.85,IAB23 Religion & Spirituality
+religion gallicanism,0.85,IAB23 Religion & Spirituality
+"religion independent catholic churches(a.k.a ""independent catholicism"")old catholic church",0.85,IAB23 Religion & Spirituality
+religion liberal catholicism,0.85,IAB23 Religion & Spirituality
+religion modernist catholics,0.85,IAB23 Religion & Spirituality
+religion traditionalist catholicssedevacantismsedeprivationism,0.85,IAB23 Religion & Spirituality
+religion ultramontanism,0.85,IAB23 Religion & Spirituality
+religion old catholic church,0.85,IAB23 Religion & Spirituality
+religion sedevacantism,0.85,IAB23 Religion & Spirituality
+religion sedeprivationism,0.85,IAB23 Religion & Spirituality
+religion cult of el tío,0.85,IAB23 Religion & Spirituality
+religion cult of maría lionza,0.85,IAB23 Religion & Spirituality
+religion cult of santa muerte,0.85,IAB23 Religion & Spirituality
+religion esoteric christianitychristian theosophychristopaganismmartinism,0.85,IAB23 Religion & Spirituality
+religion folk christianityfolk catholicismgalician folk religionfolk orthodoxy,0.85,IAB23 Religion & Spirituality
+religion god worshipping society(historical),0.85,IAB23 Religion & Spirituality
+religion judaizers(judeo-christian)christian kabbalahmessianic judaism,0.85,IAB23 Religion & Spirituality
+religion rizalista,0.85,IAB23 Religion & Spirituality
+religion samaritan christians,0.85,IAB23 Religion & Spirituality
+religion spiritual baptist,0.85,IAB23 Religion & Spirituality
+religion christian theosophy,0.85,IAB23 Religion & Spirituality
+religion christopaganism,0.85,IAB23 Religion & Spirituality
+religion martinism,0.85,IAB23 Religion & Spirituality
+religion folk catholicismgalician folk religion,0.85,IAB23 Religion & Spirituality
+religion folk orthodoxy,0.85,IAB23 Religion & Spirituality
+religion galician folk religion,0.85,IAB23 Religion & Spirituality
+religion christian kabbalah,0.85,IAB23 Religion & Spirituality
+religion messianic judaism,0.85,IAB23 Religion & Spirituality
+religion american civil religion,0.85,IAB23 Religion & Spirituality
+religion christian universalism,0.85,IAB23 Religion & Spirituality
+religion nondenominational christianity,0.85,IAB23 Religion & Spirituality
+religion nontrinitarianism,0.85,IAB23 Religion & Spirituality
+religion azraqi(historical),0.85,IAB23 Religion & Spirituality
+religion haruriyyah(historical),0.85,IAB23 Religion & Spirituality
+religion ibadi,0.85,IAB23 Religion & Spirituality
+religion najdat(historical),0.85,IAB23 Religion & Spirituality
+religion sufri(historical),0.85,IAB23 Religion & Spirituality
+religion alevismaliansbektashismkurdish alevism,0.85,IAB23 Religion & Spirituality
+religion alawites(nusayris),0.85,IAB23 Religion & Spirituality
+religion isma'ilismmustaalidawoodi bohraalavi bohraatba-i-malakatba-i-malak badaratba-i-malak vakilhebtiahs bohraprogressive dawoodi bohrasulaymaninizari,0.85,IAB23 Religion & Spirituality
+religion twelverja'fari jurisprudenceakhbarishaykhismusuli,0.85,IAB23 Religion & Spirituality
+religion zaidiyyahjarudiyahbatriyya,0.85,IAB23 Religion & Spirituality
+religion alians,0.85,IAB23 Religion & Spirituality
+religion bektashism,0.85,IAB23 Religion & Spirituality
+religion kurdish alevism,0.85,IAB23 Religion & Spirituality
+religion mustaalidawoodi bohraalavi bohraatba-i-malakatba-i-malak badaratba-i-malak vakilhebtiahs bohraprogressive dawoodi bohrasulaymani,0.85,IAB23 Religion & Spirituality
+religion nizari,0.85,IAB23 Religion & Spirituality
+religion dawoodi bohraalavi bohraatba-i-malakatba-i-malak badaratba-i-malak vakilhebtiahs bohraprogressive dawoodi bohra,0.85,IAB23 Religion & Spirituality
+religion sulaymani,0.85,IAB23 Religion & Spirituality
+religion alavi bohra,0.85,IAB23 Religion & Spirituality
+religion atba-i-malakatba-i-malak badaratba-i-malak vakil,0.85,IAB23 Religion & Spirituality
+religion hebtiahs bohra,0.85,IAB23 Religion & Spirituality
+religion progressive dawoodi bohra,0.85,IAB23 Religion & Spirituality
+religion atba-i-malak badar,0.85,IAB23 Religion & Spirituality
+religion atba-i-malak vakil,0.85,IAB23 Religion & Spirituality
+religion ja'fari jurisprudenceakhbarishaykhismusuli,0.85,IAB23 Religion & Spirituality
+religion akhbari,0.85,IAB23 Religion & Spirituality
+religion shaykhism,0.85,IAB23 Religion & Spirituality
+religion usuli,0.85,IAB23 Religion & Spirituality
+religion jarudiyah,0.85,IAB23 Religion & Spirituality
+religion batriyya,0.85,IAB23 Religion & Spirituality
+religion bektashi order,0.85,IAB23 Religion & Spirituality
+religion chishti order,0.85,IAB23 Religion & Spirituality
+religion kubrawiyakhufiyya,0.85,IAB23 Religion & Spirituality
+religion mevlevi order,0.85,IAB23 Religion & Spirituality
+religion mouride,0.85,IAB23 Religion & Spirituality
+religion naqshbandijahriyya,0.85,IAB23 Religion & Spirituality
+religion ni'matullāhī,0.85,IAB23 Religion & Spirituality
+religion qadiriyya,0.85,IAB23 Religion & Spirituality
+religion roshani,0.85,IAB23 Religion & Spirituality
+religion shadhili,0.85,IAB23 Religion & Spirituality
+religion suhrawardiyya,0.85,IAB23 Religion & Spirituality
+religion sufi order international,0.85,IAB23 Religion & Spirituality
+religion tijaniyyah,0.85,IAB23 Religion & Spirituality
+religion universal sufism,0.85,IAB23 Religion & Spirituality
+religion khufiyya,0.85,IAB23 Religion & Spirituality
+religion jahriyya,0.85,IAB23 Religion & Spirituality
+religion kalam/fiqhash'arimalikishafi'ihanbalimaturidihanafibarelvideobandigedimu,0.85,IAB23 Religion & Spirituality
+religion atharisalafimadkhalismwahhabismahle hadithislamismislamic modernism,0.85,IAB23 Religion & Spirituality
+religion ash'arimalikishafi'ihanbali,0.85,IAB23 Religion & Spirituality
+religion maturidihanafibarelvideobandigedimu,0.85,IAB23 Religion & Spirituality
+religion maliki,0.85,IAB23 Religion & Spirituality
+religion shafi'i,0.85,IAB23 Religion & Spirituality
+religion hanbali,0.85,IAB23 Religion & Spirituality
+religion hanafibarelvideobandigedimu,0.85,IAB23 Religion & Spirituality
+religion barelvi,0.85,IAB23 Religion & Spirituality
+religion deobandi,0.85,IAB23 Religion & Spirituality
+religion gedimu,0.85,IAB23 Religion & Spirituality
+religion salafimadkhalismwahhabismahle hadithislamism,0.85,IAB23 Religion & Spirituality
+religion islamic modernism,0.85,IAB23 Religion & Spirituality
+religion madkhalism,0.85,IAB23 Religion & Spirituality
+religion wahhabism,0.85,IAB23 Religion & Spirituality
+religion ahle hadith,0.85,IAB23 Religion & Spirituality
+religion islamism,0.85,IAB23 Religion & Spirituality
+religion abangan,0.85,IAB23 Religion & Spirituality
+religion ali-illahism,0.85,IAB23 Religion & Spirituality
+religion din-i ilahi,0.85,IAB23 Religion & Spirituality
+religion kafirism,0.85,IAB23 Religion & Spirituality
+religion pagal panthis,0.85,IAB23 Religion & Spirituality
+religion persian mysticism,0.85,IAB23 Religion & Spirituality
+religion satpanthbarmati panth,0.85,IAB23 Religion & Spirituality
+religion wetu telu,0.85,IAB23 Religion & Spirituality
+religion barmati panth,0.85,IAB23 Religion & Spirituality
+religion ahmadiyya,0.85,IAB23 Religion & Spirituality
+religion avicennism,0.85,IAB23 Religion & Spirituality
+religion chinese islam,0.85,IAB23 Religion & Spirituality
+religion european islam,0.85,IAB23 Religion & Spirituality
+religion illuminationism,0.85,IAB23 Religion & Spirituality
+religion jadid,0.85,IAB23 Religion & Spirituality
+religion liberal movements within islam,0.85,IAB23 Religion & Spirituality
+religion mahdavia,0.85,IAB23 Religion & Spirituality
+religion mahdist movement,0.85,IAB23 Religion & Spirituality
+religion muʿtazila,0.85,IAB23 Religion & Spirituality
+religion quranism,0.85,IAB23 Religion & Spirituality
+religion riaz ahmed gohar shahimessiah foundation international,0.85,IAB23 Religion & Spirituality
+religion transcendent theosophy,0.85,IAB23 Religion & Spirituality
+religion zikrism,0.85,IAB23 Religion & Spirituality
+religion messiah foundation international,0.85,IAB23 Religion & Spirituality
+religion biblists,0.85,IAB23 Religion & Spirituality
+religion essenesbana'imhemerobaptists(possible ancestor of mandaeism)maghāriyanasoraeans(ancestor of mandaeism),0.85,IAB23 Religion & Spirituality
+religion hellenistic judaism,0.85,IAB23 Religion & Spirituality
+religion houses of hillel and shammai,0.85,IAB23 Religion & Spirituality
+religion hypsistarianism,0.85,IAB23 Religion & Spirituality
+religion magarites,0.85,IAB23 Religion & Spirituality
+religion messianic sectsebioniteselcesaites,0.85,IAB23 Religion & Spirituality
+religion nazirite,0.85,IAB23 Religion & Spirituality
+religion okbarites,0.85,IAB23 Religion & Spirituality
+religion pharisees(ancestor of rabbinic judaism),0.85,IAB23 Religion & Spirituality
+religion sabbateansfrankism,0.85,IAB23 Religion & Spirituality
+religion sadducees(possible ancestor of karaite judaism)boethusians,0.85,IAB23 Religion & Spirituality
+religion second temple judaism,0.85,IAB23 Religion & Spirituality
+religion synagogal judaism,0.85,IAB23 Religion & Spirituality
+religion therapeutae,0.85,IAB23 Religion & Spirituality
+religion yudghanites,0.85,IAB23 Religion & Spirituality
+religion zealots (judea)sicarii,0.85,IAB23 Religion & Spirituality
+religion bana'im,0.85,IAB23 Religion & Spirituality
+religion hemerobaptists(possible ancestor of mandaeism),0.85,IAB23 Religion & Spirituality
+religion maghāriya,0.85,IAB23 Religion & Spirituality
+religion nasoraeans(ancestor of mandaeism),0.85,IAB23 Religion & Spirituality
+religion ebionites,0.85,IAB23 Religion & Spirituality
+religion elcesaites,0.85,IAB23 Religion & Spirituality
+religion frankism,0.85,IAB23 Religion & Spirituality
+religion boethusians,0.85,IAB23 Religion & Spirituality
+religion sicarii,0.85,IAB23 Religion & Spirituality
+religion lurianic kabbalah,0.85,IAB23 Religion & Spirituality
+religion merkabah mysticism,0.85,IAB23 Religion & Spirituality
+religion practical kabbalah,0.85,IAB23 Religion & Spirituality
+religion prophetic kabbalah,0.85,IAB23 Religion & Spirituality
+religion folk judaism,0.85,IAB23 Religion & Spirituality
+religion haymanot,0.85,IAB23 Religion & Spirituality
+religion karaite judaism,0.85,IAB23 Religion & Spirituality
+religion qemant judaism,0.85,IAB23 Religion & Spirituality
+religion conservative judaism(a.k.a.masorti judaism),0.85,IAB23 Religion & Spirituality
+religion humanistic judaism,0.85,IAB23 Religion & Spirituality
+religion jewish renewal,0.85,IAB23 Religion & Spirituality
+religion orthodox judaismcarlebach movementharedi judaism(a.k.a. ultra-orthodox)dor daimhardalharedi burqa secthasidic judaismmisnagdimsephardic haredimodern orthodox judaismopen orthodox judaismmusar movementreligious zionism,0.85,IAB23 Religion & Spirituality
+religion reconstructionist judaism,0.85,IAB23 Religion & Spirituality
+religion reform judaism,0.85,IAB23 Religion & Spirituality
+religion carlebach movement,0.85,IAB23 Religion & Spirituality
+religion haredi judaism(a.k.a. ultra-orthodox)dor daimhardalharedi burqa secthasidic judaismmisnagdimsephardic haredi,0.85,IAB23 Religion & Spirituality
+religion modern orthodox judaismopen orthodox judaism,0.85,IAB23 Religion & Spirituality
+religion musar movement,0.85,IAB23 Religion & Spirituality
+religion religious zionism,0.85,IAB23 Religion & Spirituality
+religion dor daim,0.85,IAB23 Religion & Spirituality
+religion hardal,0.85,IAB23 Religion & Spirituality
+religion haredi burqa sect,0.85,IAB23 Religion & Spirituality
+religion hasidic judaism,0.85,IAB23 Religion & Spirituality
+religion misnagdim,0.85,IAB23 Religion & Spirituality
+religion sephardic haredi,0.85,IAB23 Religion & Spirituality
+religion open orthodox judaism,0.85,IAB23 Religion & Spirituality
+religion bábismazalism,0.85,IAB23 Religion & Spirituality
+religion baháʼí faithcaravan of east and westfree baháʼísorthodox baháʼí faith,0.85,IAB23 Religion & Spirituality
+religion druze,0.85,IAB23 Religion & Spirituality
+religion mandaeism,0.85,IAB23 Religion & Spirituality
+religion samaritanism,0.85,IAB23 Religion & Spirituality
+religion azalism,0.85,IAB23 Religion & Spirituality
+religion caravan of east and west,0.85,IAB23 Religion & Spirituality
+religion free baháʼís,0.85,IAB23 Religion & Spirituality
+religion orthodox baháʼí faith,0.85,IAB23 Religion & Spirituality
+religion athinganoi(historical),0.85,IAB23 Religion & Spirituality
+religion chinese manichaeism,0.85,IAB23 Religion & Spirituality
+religion ishikism,0.85,IAB23 Religion & Spirituality
+religion shabakism,0.85,IAB23 Religion & Spirituality
+religion yarsanism,0.85,IAB23 Religion & Spirituality
+religion yazidism,0.85,IAB23 Religion & Spirituality
+religion behafaridians(historical),0.85,IAB23 Religion & Spirituality
+religion gayomarthians,0.85,IAB23 Religion & Spirituality
+religion ilm-e-khshnoom,0.85,IAB23 Religion & Spirituality
+religion khurramites(historical),0.85,IAB23 Religion & Spirituality
+religion mazdakism(historical)mazdaznan,0.85,IAB23 Religion & Spirituality
+religion sepasian(historical)azarkeivanian,0.85,IAB23 Religion & Spirituality
+religion ustadh sis(historical),0.85,IAB23 Religion & Spirituality
+religion zurvanismblagovery,0.85,IAB23 Religion & Spirituality
+religion mazdaznan,0.85,IAB23 Religion & Spirituality
+religion azarkeivanian,0.85,IAB23 Religion & Spirituality
+religion blagovery,0.85,IAB23 Religion & Spirituality
+religion ǃkung religion,0.85,IAB23 Religion & Spirituality
+religion abwoi religion,0.85,IAB23 Religion & Spirituality
+religion acholi religion,0.85,IAB23 Religion & Spirituality
+religion afizere traditional religion,0.85,IAB23 Religion & Spirituality
+religion akan religionasante religion,0.85,IAB23 Religion & Spirituality
+religion azande traditional religion,0.85,IAB23 Religion & Spirituality
+religion bafia religion,0.85,IAB23 Religion & Spirituality
+religion baka traditional religion,0.85,IAB23 Religion & Spirituality
+religion bantu religionabagusii religionakamba traditional religionamampondomise traditional religionbadimobalondo religionbaluba religionbamileke religionbamum traditional religionbanyole traditional beliefsbubi spiritualitybushongo religionbwitichaga faithchokwe spiritual beliefsduala traditional religionfipa religionfuriiru traditional religiongiriama traditional religionherero traditional faithhimba religionkikuyu traditional religionkongo religionkwe faithlozi religionluvale religionmakua traditional religionmbole religionnyakyusa religionovambo traditional religionpedi traditional religionsongye religionsuku religionswazi traditional religiontonga religiontsonga traditional religiontumbuka religionxhosa traditional religionzulu traditional religion,0.85,IAB23 Religion & Spirituality
+religion baoule traditional religion,0.85,IAB23 Religion & Spirituality
+religion bari traditional religion,0.85,IAB23 Religion & Spirituality
+religion bassa traditional religion,0.85,IAB23 Religion & Spirituality
+religion biri traditional religion,0.85,IAB23 Religion & Spirituality
+religion bobo religion,0.85,IAB23 Religion & Spirituality
+religion bori,0.85,IAB23 Religion & Spirituality
+religion bwa religion,0.85,IAB23 Religion & Spirituality
+religion chamba traditional religion,0.85,IAB23 Religion & Spirituality
+religion dahomean religion,0.85,IAB23 Religion & Spirituality
+religion damara religion,0.85,IAB23 Religion & Spirituality
+religion dan religion,0.85,IAB23 Religion & Spirituality
+religion dinka religion,0.85,IAB23 Religion & Spirituality
+religion dogon religion,0.85,IAB23 Religion & Spirituality
+religion ebira traditional religion,0.85,IAB23 Religion & Spirituality
+religion edo traditional religion,0.85,IAB23 Religion & Spirituality
+religion efik religion,0.85,IAB23 Religion & Spirituality
+religion ekoi religion,0.85,IAB23 Religion & Spirituality
+religion esan traditional religion,0.85,IAB23 Religion & Spirituality
+religion fali traditional religion,0.85,IAB23 Religion & Spirituality
+religion frafra beliefs,0.85,IAB23 Religion & Spirituality
+religion gbagyi traditional religion,0.85,IAB23 Religion & Spirituality
+religion hadza religion,0.85,IAB23 Religion & Spirituality
+religion hyel,0.85,IAB23 Religion & Spirituality
+religion idoma traditional religion,0.85,IAB23 Religion & Spirituality
+religion ijaw traditional religion,0.85,IAB23 Religion & Spirituality
+religion inam,0.85,IAB23 Religion & Spirituality
+religion jola traditional religion,0.85,IAB23 Religion & Spirituality
+religion asisian religion,0.85,IAB23 Religion & Spirituality
+religion khoekhoen religion,0.85,IAB23 Religion & Spirituality
+religion kissi traditional religion,0.85,IAB23 Religion & Spirituality
+religion kono traditional religion,0.85,IAB23 Religion & Spirituality
+religion koore religion,0.85,IAB23 Religion & Spirituality
+religion krahn religion,0.85,IAB23 Religion & Spirituality
+religion kuku traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion lobi animism,0.85,IAB23 Religion & Spirituality
+religion lotuko ethnic religion,0.85,IAB23 Religion & Spirituality
+religion lugbara religion,0.85,IAB23 Religion & Spirituality
+religion maasai religion,0.85,IAB23 Religion & Spirituality
+religion madi traditional religion,0.85,IAB23 Religion & Spirituality
+religion manjak religion,0.85,IAB23 Religion & Spirituality
+religion mbuti religion,0.85,IAB23 Religion & Spirituality
+religion moba ethnic religion,0.85,IAB23 Religion & Spirituality
+religion mursi animism,0.85,IAB23 Religion & Spirituality
+religion nso religion,0.85,IAB23 Religion & Spirituality
+religion nuer religion,0.85,IAB23 Religion & Spirituality
+religion nyongo societybakossi beliefs,0.85,IAB23 Religion & Spirituality
+religion odinala / odinani,0.85,IAB23 Religion & Spirituality
+religion oropom religion,0.85,IAB23 Religion & Spirituality
+religion safwa religion,0.85,IAB23 Religion & Spirituality
+religion samburu religion,0.85,IAB23 Religion & Spirituality
+religion san religionn'um,0.85,IAB23 Religion & Spirituality
+religion serer religion,0.85,IAB23 Religion & Spirituality
+religion sidama religion,0.85,IAB23 Religion & Spirituality
+religion surma religion,0.85,IAB23 Religion & Spirituality
+religion tammari traditional religion,0.85,IAB23 Religion & Spirituality
+religion temne traditional religion,0.85,IAB23 Religion & Spirituality
+religion traditional berber religion,0.85,IAB23 Religion & Spirituality
+religion turkana traditional religion,0.85,IAB23 Religion & Spirituality
+religion urhobo traditional religion,0.85,IAB23 Religion & Spirituality
+religion vodun,0.85,IAB23 Religion & Spirituality
+religion waaqeffanna,0.85,IAB23 Religion & Spirituality
+religion yoruba religionifá,0.85,IAB23 Religion & Spirituality
+religion indigenous religion in zimbabweshona traditional religion,0.85,IAB23 Religion & Spirituality
+religion asante religion,0.85,IAB23 Religion & Spirituality
+religion abagusii religion,0.85,IAB23 Religion & Spirituality
+religion akamba traditional religion,0.85,IAB23 Religion & Spirituality
+religion amampondomise traditional religion,0.85,IAB23 Religion & Spirituality
+religion badimo,0.85,IAB23 Religion & Spirituality
+religion balondo religion,0.85,IAB23 Religion & Spirituality
+religion baluba religion,0.85,IAB23 Religion & Spirituality
+religion bamileke religion,0.85,IAB23 Religion & Spirituality
+religion bamum traditional religion,0.85,IAB23 Religion & Spirituality
+religion banyole traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion bubi spirituality,0.85,IAB23 Religion & Spirituality
+religion bushongo religion,0.85,IAB23 Religion & Spirituality
+religion bwiti,0.85,IAB23 Religion & Spirituality
+religion chaga faith,0.85,IAB23 Religion & Spirituality
+religion chokwe spiritual beliefs,0.85,IAB23 Religion & Spirituality
+religion duala traditional religion,0.85,IAB23 Religion & Spirituality
+religion fipa religion,0.85,IAB23 Religion & Spirituality
+religion furiiru traditional religion,0.85,IAB23 Religion & Spirituality
+religion giriama traditional religion,0.85,IAB23 Religion & Spirituality
+religion herero traditional faith,0.85,IAB23 Religion & Spirituality
+religion himba religion,0.85,IAB23 Religion & Spirituality
+religion kikuyu traditional religion,0.85,IAB23 Religion & Spirituality
+religion kongo religion,0.85,IAB23 Religion & Spirituality
+religion kwe faith,0.85,IAB23 Religion & Spirituality
+religion lozi religion,0.85,IAB23 Religion & Spirituality
+religion luvale religion,0.85,IAB23 Religion & Spirituality
+religion makua traditional religion,0.85,IAB23 Religion & Spirituality
+religion mbole religion,0.85,IAB23 Religion & Spirituality
+religion nyakyusa religion,0.85,IAB23 Religion & Spirituality
+religion ovambo traditional religion,0.85,IAB23 Religion & Spirituality
+religion pedi traditional religion,0.85,IAB23 Religion & Spirituality
+religion songye religion,0.85,IAB23 Religion & Spirituality
+religion suku religion,0.85,IAB23 Religion & Spirituality
+religion swazi traditional religion,0.85,IAB23 Religion & Spirituality
+religion tonga religion,0.85,IAB23 Religion & Spirituality
+religion tsonga traditional religion,0.85,IAB23 Religion & Spirituality
+religion tumbuka religion,0.85,IAB23 Religion & Spirituality
+religion xhosa traditional religion,0.85,IAB23 Religion & Spirituality
+religion zulu traditional religion,0.85,IAB23 Religion & Spirituality
+religion bakossi beliefs,0.85,IAB23 Religion & Spirituality
+religion n'um,0.85,IAB23 Religion & Spirituality
+religion ifá,0.85,IAB23 Religion & Spirituality
+religion shona traditional religion,0.85,IAB23 Religion & Spirituality
+religion abakuá,0.85,IAB23 Religion & Spirituality
+religion arará,0.85,IAB23 Religion & Spirituality
+religion batuque,0.85,IAB23 Religion & Spirituality
+religion birongo,0.85,IAB23 Religion & Spirituality
+religion candomblécandomblé bantucandomblé jejécandomblé ketu,0.85,IAB23 Religion & Spirituality
+religion comfa,0.85,IAB23 Religion & Spirituality
+religion convince,0.85,IAB23 Religion & Spirituality
+religion cuban vodú,0.85,IAB23 Religion & Spirituality
+religion dominican vudú,0.85,IAB23 Religion & Spirituality
+religion espiritismo,0.85,IAB23 Religion & Spirituality
+religion haitian vodou,0.85,IAB23 Religion & Spirituality
+religion hoodoo,0.85,IAB23 Religion & Spirituality
+religion kélé,0.85,IAB23 Religion & Spirituality
+religion kumina,0.85,IAB23 Religion & Spirituality
+religion louisiana voodoo,0.85,IAB23 Religion & Spirituality
+religion montamentu,0.85,IAB23 Religion & Spirituality
+religion myal,0.85,IAB23 Religion & Spirituality
+religion obeah,0.85,IAB23 Religion & Spirituality
+religion palo,0.85,IAB23 Religion & Spirituality
+religion quimbanda,0.85,IAB23 Religion & Spirituality
+religion rada,0.85,IAB23 Religion & Spirituality
+religion santería,0.85,IAB23 Religion & Spirituality
+religion tambor de mina,0.85,IAB23 Religion & Spirituality
+religion trinidad orisha,0.85,IAB23 Religion & Spirituality
+religion umbanda,0.85,IAB23 Religion & Spirituality
+religion wintisaramaka religion,0.85,IAB23 Religion & Spirituality
+religion candomblé bantu,0.85,IAB23 Religion & Spirituality
+religion candomblé jejé,0.85,IAB23 Religion & Spirituality
+religion candomblé ketu,0.85,IAB23 Religion & Spirituality
+religion saramaka religion,0.85,IAB23 Religion & Spirituality
+religion evenki shamanism,0.85,IAB23 Religion & Spirituality
+religion manchu shamanism,0.85,IAB23 Religion & Spirituality
+religion turko-mongolic religionaltaic shamanismburkhanismdukha shamanismmongolian shamanismblack shamanismtengrismaiyytengir ordovattisen yalynanai shamanismoroqen shamanismshor shamanismsoyot shamanismulch shamanismyakut shamanism,0.85,IAB23 Religion & Spirituality
+religion altaic shamanismburkhanism,0.85,IAB23 Religion & Spirituality
+religion dukha shamanism,0.85,IAB23 Religion & Spirituality
+religion mongolian shamanismblack shamanismtengrismaiyytengir ordovattisen yaly,0.85,IAB23 Religion & Spirituality
+religion nanai shamanism,0.85,IAB23 Religion & Spirituality
+religion oroqen shamanism,0.85,IAB23 Religion & Spirituality
+religion shor shamanism,0.85,IAB23 Religion & Spirituality
+religion soyot shamanism,0.85,IAB23 Religion & Spirituality
+religion ulch shamanism,0.85,IAB23 Religion & Spirituality
+religion yakut shamanism,0.85,IAB23 Religion & Spirituality
+religion burkhanism,0.85,IAB23 Religion & Spirituality
+religion black shamanism,0.85,IAB23 Religion & Spirituality
+religion tengrismaiyytengir ordovattisen yaly,0.85,IAB23 Religion & Spirituality
+religion aiyy,0.85,IAB23 Religion & Spirituality
+religion tengir ordo,0.85,IAB23 Religion & Spirituality
+religion vattisen yaly,0.85,IAB23 Religion & Spirituality
+religion abenaki religion,0.85,IAB23 Religion & Spirituality
+religion ache religion,0.85,IAB23 Religion & Spirituality
+religion akawaio religion,0.85,IAB23 Religion & Spirituality
+religion alaska native religionsalaskan shamanisminuit religiontanana shamanismyupik shamanismyuit shamanismsirenik shamanism,0.85,IAB23 Religion & Spirituality
+religion andoque religion,0.85,IAB23 Religion & Spirituality
+religion anishinaabe beliefsojibwe beliefsmidewiwinwabunowin,0.85,IAB23 Religion & Spirituality
+religion apache religion,0.85,IAB23 Religion & Spirituality
+religion arhuaco spirituality,0.85,IAB23 Religion & Spirituality
+religion atacama religion,0.85,IAB23 Religion & Spirituality
+religion blackfoot religion,0.85,IAB23 Religion & Spirituality
+religion bororo totemism,0.85,IAB23 Religion & Spirituality
+religion caddo religion,0.85,IAB23 Religion & Spirituality
+religion californian religionsachomawi religionacjachemen religioncahuilla religionhupa beliefskuksucahto religionesselen beliefsmiwok religionohlone religionpomo religionkumeyaay beliefsnorthern paiute beliefsmohave religionwiyot religion,0.85,IAB23 Religion & Spirituality
+religion calusa religion,0.85,IAB23 Religion & Spirituality
+religion chaná religion,0.85,IAB23 Religion & Spirituality
+religion chilote religion,0.85,IAB23 Religion & Spirituality
+religion choctaw religion,0.85,IAB23 Religion & Spirituality
+religion croatan beliefs,0.85,IAB23 Religion & Spirituality
+religion crow religion,0.85,IAB23 Religion & Spirituality
+religion fuegian religionselk'nam religion,0.85,IAB23 Religion & Spirituality
+religion garifuna spirituality,0.85,IAB23 Religion & Spirituality
+religion guarani religion,0.85,IAB23 Religion & Spirituality
+religion guarayos beliefs,0.85,IAB23 Religion & Spirituality
+religion guayupe religion,0.85,IAB23 Religion & Spirituality
+religion gwich'in beliefs,0.85,IAB23 Religion & Spirituality
+religion haida religion,0.85,IAB23 Religion & Spirituality
+religion ho-chunk religion,0.85,IAB23 Religion & Spirituality
+religion huaorani religion,0.85,IAB23 Religion & Spirituality
+religion hupda cosmgony,0.85,IAB23 Religion & Spirituality
+religion inca religionaymara religionchauvin religionnazca religiontaki unquywari' beliefs,0.85,IAB23 Religion & Spirituality
+religion illinois religion,0.85,IAB23 Religion & Spirituality
+religion innu religion,0.85,IAB23 Religion & Spirituality
+religion iroquois religioncherokee beliefsfour mothers societykeetoowah societymohawk religionmuscogee creek religionseneca religionwyandot religion,0.85,IAB23 Religion & Spirituality
+religion jivaroan religionachuar religionaguaruna religionshuar shamanism,0.85,IAB23 Religion & Spirituality
+religion karankawa religion,0.85,IAB23 Religion & Spirituality
+religion kayabi religion,0.85,IAB23 Religion & Spirituality
+religion kalapalo beliefs,0.85,IAB23 Religion & Spirituality
+religion kalinago religion,0.85,IAB23 Religion & Spirituality
+religion kichwa religion,0.85,IAB23 Religion & Spirituality
+religion kogi religion,0.85,IAB23 Religion & Spirituality
+religion kuikoro religion,0.85,IAB23 Religion & Spirituality
+religion kwakwakaʼwakw religion,0.85,IAB23 Religion & Spirituality
+religion lenape religion,0.85,IAB23 Religion & Spirituality
+religion lokono religion,0.85,IAB23 Religion & Spirituality
+religion maleku beliefs,0.85,IAB23 Religion & Spirituality
+religion mandan religion,0.85,IAB23 Religion & Spirituality
+religion mapuche religion,0.85,IAB23 Religion & Spirituality
+religion marajoara religion,0.85,IAB23 Religion & Spirituality
+religion matses beliefs,0.85,IAB23 Religion & Spirituality
+religion mesoamerican religionaztec religionclassical veracruz religioncora religionhuichol religionlencan religionmaya religionchuj religioncult of the talking crosshuastec religionlacandon religionmazatec religionmaximonmopan religionpech religionq'eqchi' religiontzeltal religiontzotzil religiontzʼutujil religionmixe religionnagualismolmec religionpurépecha religiontalamancan religionteotihuacan religiontepehuan beliefstlapanec religiontotonac religionzapotec religion,0.85,IAB23 Religion & Spirituality
+religion mi'kmaq religion,0.85,IAB23 Religion & Spirituality
+religion old miskito religion,0.85,IAB23 Religion & Spirituality
+religion muisca religion,0.85,IAB23 Religion & Spirituality
+religion muzo religion,0.85,IAB23 Religion & Spirituality
+religion navajo beliefs,0.85,IAB23 Religion & Spirituality
+religion nuu-chah-nulth religion,0.85,IAB23 Religion & Spirituality
+religion omaha religion,0.85,IAB23 Religion & Spirituality
+religion osage spirituality,0.85,IAB23 Religion & Spirituality
+religion pawnee religion,0.85,IAB23 Religion & Spirituality
+religion parakanã shamanism,0.85,IAB23 Religion & Spirituality
+religion pech religion,0.85,IAB23 Religion & Spirituality
+religion pemon religion,0.85,IAB23 Religion & Spirituality
+religion penobscot spirituality,0.85,IAB23 Religion & Spirituality
+religion pericues religion,0.85,IAB23 Religion & Spirituality
+religion piaroa religion,0.85,IAB23 Religion & Spirituality
+religion powhatan religion,0.85,IAB23 Religion & Spirituality
+religion pueblo religionacoma pueblo religionhopi beliefszuni religionancestral pueblo religion (basketmaker iii)(pueblo ii)(pueblo iii)(pueblo iv),0.85,IAB23 Religion & Spirituality
+religion puruhá religion,0.85,IAB23 Religion & Spirituality
+religion q'ero beliefs,0.85,IAB23 Religion & Spirituality
+religion quechua beliefs,0.85,IAB23 Religion & Spirituality
+religion rikbaktsa beliefs,0.85,IAB23 Religion & Spirituality
+religion salish narratives,0.85,IAB23 Religion & Spirituality
+religion seminole religion,0.85,IAB23 Religion & Spirituality
+religion seri religion,0.85,IAB23 Religion & Spirituality
+religion sioux religionassiniboine religionlakota religionwocekiye,0.85,IAB23 Religion & Spirituality
+religion southeastern ceremonial complex(religion of themississippian culture),0.85,IAB23 Religion & Spirituality
+religion taensa religion,0.85,IAB23 Religion & Spirituality
+religion taino spirituality,0.85,IAB23 Religion & Spirituality
+religion tairona religion,0.85,IAB23 Religion & Spirituality
+religion tapirape shamanism,0.85,IAB23 Religion & Spirituality
+religion tehuelche religion,0.85,IAB23 Religion & Spirituality
+religion ticuna shamanism,0.85,IAB23 Religion & Spirituality
+religion toba religion,0.85,IAB23 Religion & Spirituality
+religion tlingit religion,0.85,IAB23 Religion & Spirituality
+religion tsimshian religion,0.85,IAB23 Religion & Spirituality
+religion ute religion,0.85,IAB23 Religion & Spirituality
+religion wai-wai religion,0.85,IAB23 Religion & Spirituality
+religion wapishana religion,0.85,IAB23 Religion & Spirituality
+religion warao religion,0.85,IAB23 Religion & Spirituality
+religion washat dreamers religion,0.85,IAB23 Religion & Spirituality
+religion wayuu religion,0.85,IAB23 Religion & Spirituality
+religion western shoshone religion,0.85,IAB23 Religion & Spirituality
+religion yaqui religion,0.85,IAB23 Religion & Spirituality
+religion yaruro religion,0.85,IAB23 Religion & Spirituality
+religion alaskan shamanism,0.85,IAB23 Religion & Spirituality
+religion inuit religion,0.85,IAB23 Religion & Spirituality
+religion tanana shamanism,0.85,IAB23 Religion & Spirituality
+religion yupik shamanismyuit shamanismsirenik shamanism,0.85,IAB23 Religion & Spirituality
+religion yuit shamanism,0.85,IAB23 Religion & Spirituality
+religion sirenik shamanism,0.85,IAB23 Religion & Spirituality
+religion ojibwe beliefs,0.85,IAB23 Religion & Spirituality
+religion midewiwin,0.85,IAB23 Religion & Spirituality
+religion wabunowin,0.85,IAB23 Religion & Spirituality
+religion achomawi religion,0.85,IAB23 Religion & Spirituality
+religion acjachemen religion,0.85,IAB23 Religion & Spirituality
+religion cahuilla religion,0.85,IAB23 Religion & Spirituality
+religion hupa beliefs,0.85,IAB23 Religion & Spirituality
+religion kuksucahto religionesselen beliefsmiwok religionohlone religionpomo religion,0.85,IAB23 Religion & Spirituality
+religion kumeyaay beliefs,0.85,IAB23 Religion & Spirituality
+religion northern paiute beliefs,0.85,IAB23 Religion & Spirituality
+religion mohave religion,0.85,IAB23 Religion & Spirituality
+religion wiyot religion,0.85,IAB23 Religion & Spirituality
+religion cahto religion,0.85,IAB23 Religion & Spirituality
+religion esselen beliefs,0.85,IAB23 Religion & Spirituality
+religion miwok religion,0.85,IAB23 Religion & Spirituality
+religion ohlone religion,0.85,IAB23 Religion & Spirituality
+religion pomo religion,0.85,IAB23 Religion & Spirituality
+religion selk'nam religion,0.85,IAB23 Religion & Spirituality
+religion aymara religion,0.85,IAB23 Religion & Spirituality
+religion chauvin religion,0.85,IAB23 Religion & Spirituality
+religion nazca religion,0.85,IAB23 Religion & Spirituality
+religion taki unquy,0.85,IAB23 Religion & Spirituality
+religion wari' beliefs,0.85,IAB23 Religion & Spirituality
+religion cherokee beliefsfour mothers societykeetoowah society,0.85,IAB23 Religion & Spirituality
+religion mohawk religion,0.85,IAB23 Religion & Spirituality
+religion muscogee creek religion,0.85,IAB23 Religion & Spirituality
+religion seneca religion,0.85,IAB23 Religion & Spirituality
+religion wyandot religion,0.85,IAB23 Religion & Spirituality
+religion four mothers society,0.85,IAB23 Religion & Spirituality
+religion keetoowah society,0.85,IAB23 Religion & Spirituality
+religion achuar religion,0.85,IAB23 Religion & Spirituality
+religion aguaruna religion,0.85,IAB23 Religion & Spirituality
+religion shuar shamanism,0.85,IAB23 Religion & Spirituality
+religion aztec religion,0.85,IAB23 Religion & Spirituality
+religion classical veracruz religion,0.85,IAB23 Religion & Spirituality
+religion cora religion,0.85,IAB23 Religion & Spirituality
+religion huichol religion,0.85,IAB23 Religion & Spirituality
+religion lencan religion,0.85,IAB23 Religion & Spirituality
+religion maya religionchuj religioncult of the talking crosshuastec religionlacandon religionmazatec religionmaximonmopan religionpech religionq'eqchi' religiontzeltal religiontzotzil religiontzʼutujil religion,0.85,IAB23 Religion & Spirituality
+religion mixe religion,0.85,IAB23 Religion & Spirituality
+religion nagualism,0.85,IAB23 Religion & Spirituality
+religion olmec religion,0.85,IAB23 Religion & Spirituality
+religion purépecha religion,0.85,IAB23 Religion & Spirituality
+religion talamancan religion,0.85,IAB23 Religion & Spirituality
+religion teotihuacan religion,0.85,IAB23 Religion & Spirituality
+religion tepehuan beliefs,0.85,IAB23 Religion & Spirituality
+religion tlapanec religion,0.85,IAB23 Religion & Spirituality
+religion totonac religion,0.85,IAB23 Religion & Spirituality
+religion zapotec religion,0.85,IAB23 Religion & Spirituality
+religion chuj religion,0.85,IAB23 Religion & Spirituality
+religion cult of the talking cross,0.85,IAB23 Religion & Spirituality
+religion huastec religion,0.85,IAB23 Religion & Spirituality
+religion lacandon religion,0.85,IAB23 Religion & Spirituality
+religion mazatec religion,0.85,IAB23 Religion & Spirituality
+religion maximon,0.85,IAB23 Religion & Spirituality
+religion mopan religion,0.85,IAB23 Religion & Spirituality
+religion q'eqchi' religion,0.85,IAB23 Religion & Spirituality
+religion tzeltal religion,0.85,IAB23 Religion & Spirituality
+religion tzotzil religion,0.85,IAB23 Religion & Spirituality
+religion tzʼutujil religion,0.85,IAB23 Religion & Spirituality
+religion acoma pueblo religion,0.85,IAB23 Religion & Spirituality
+religion hopi beliefs,0.85,IAB23 Religion & Spirituality
+religion zuni religion,0.85,IAB23 Religion & Spirituality
+religion ancestral pueblo religion (basketmaker iii)(pueblo ii)(pueblo iii)(pueblo iv),0.85,IAB23 Religion & Spirituality
+religion assiniboine religion,0.85,IAB23 Religion & Spirituality
+religion lakota religionwocekiye,0.85,IAB23 Religion & Spirituality
+religion wocekiye,0.85,IAB23 Religion & Spirituality
+religion asur religion,0.85,IAB23 Religion & Spirituality
+religion birhor traditional religion,0.85,IAB23 Religion & Spirituality
+religion bru religion,0.85,IAB23 Religion & Spirituality
+religion đạo lươngca ongđạo mẫufour palacesthánh trần worship,0.85,IAB23 Religion & Spirituality
+religion ka niam khasi,0.85,IAB23 Religion & Spirituality
+religion mon religion,0.85,IAB23 Religion & Spirituality
+religion muong ethnic religion,0.85,IAB23 Religion & Spirituality
+religion nicobarese traditional religion,0.85,IAB23 Religion & Spirituality
+religion nocte religion,0.85,IAB23 Religion & Spirituality
+religion ka niamtre,0.85,IAB23 Religion & Spirituality
+religion paoch animism,0.85,IAB23 Religion & Spirituality
+religion sari dharam,0.85,IAB23 Religion & Spirituality
+religion sarnaism,0.85,IAB23 Religion & Spirituality
+religion senoi ethnic religion,0.85,IAB23 Religion & Spirituality
+religion sora traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion tampuan animism,0.85,IAB23 Religion & Spirituality
+religion ta oi animism,0.85,IAB23 Religion & Spirituality
+religion wancho religion,0.85,IAB23 Religion & Spirituality
+religion ca ong,0.85,IAB23 Religion & Spirituality
+religion đạo mẫufour palaces,0.85,IAB23 Religion & Spirituality
+religion thánh trần worship,0.85,IAB23 Religion & Spirituality
+religion four palaces,0.85,IAB23 Religion & Spirituality
+religion amis native religion,0.85,IAB23 Religion & Spirituality
+religion aliran kepercayaan/mythology of indonesiaadat pu'unalukbatak parmalimdayak religionkaharinganjingi tiukejawènkapitayankangeanese religionkaro pemenakendayan religionmarapurejang religionrotenese religionsaminism movementsangirese religionsumbawa religionsundanese wiwitanwai apu religion,0.85,IAB23 Religion & Spirituality
+religion dayawismbatak folk religionbicolano religionblaan folk religioncapiznon folk religioncuyunon folk religiongaddang folk religionifugao folk religionilocano folk religionitneg folk religionkalinga folk religionkankanaey folk religionkaray-a folk religionmangyan folk religionpalawan folk religionpangasinan folk religionsama bajau folk religionsambal folk religionsubanon folk religiontagalog folk religiontagbanwa folk religionpulahantboli folk religionteduray folk religionvisayan folk religion,0.85,IAB23 Religion & Spirituality
+religion fomba gasy,0.85,IAB23 Religion & Spirituality
+religion jarai religion,0.85,IAB23 Religion & Spirituality
+religion kanakanavu native religion,0.85,IAB23 Religion & Spirituality
+religion malaysian folk religiondatuk keramatjakun religionpengarap ibanmelanau religionmomolianismmurut religionorang kanaq religionorang seletar religionsemai religionsemaq beri religiontemuan religion,0.85,IAB23 Religion & Spirituality
+religion micronesian religioncarolinian religionchamorro religionchuukese religionnauruan indigenous religion,0.85,IAB23 Religion & Spirituality
+religion polynesian narrativecook islands narrativehawaiian religionmangarevan narrativemāori religionniuean narrativerapa nui narrativesamoan narrativetahitian narrativetongan narrativetuvaluan narrative,0.85,IAB23 Religion & Spirituality
+religion paiwan shamanism,0.85,IAB23 Religion & Spirituality
+religion sakizaya native religion,0.85,IAB23 Religion & Spirituality
+religion taivoan animism,0.85,IAB23 Religion & Spirituality
+religion tao native religion,0.85,IAB23 Religion & Spirituality
+religion adat pu'un,0.85,IAB23 Religion & Spirituality
+religion aluk,0.85,IAB23 Religion & Spirituality
+religion batak parmalim,0.85,IAB23 Religion & Spirituality
+religion dayak religionkaharingan,0.85,IAB23 Religion & Spirituality
+religion jingi tiu,0.85,IAB23 Religion & Spirituality
+religion kejawèn,0.85,IAB23 Religion & Spirituality
+religion kapitayankangeanese religion,0.85,IAB23 Religion & Spirituality
+religion karo pemena,0.85,IAB23 Religion & Spirituality
+religion kendayan religion,0.85,IAB23 Religion & Spirituality
+religion marapu,0.85,IAB23 Religion & Spirituality
+religion rejang religion,0.85,IAB23 Religion & Spirituality
+religion rotenese religion,0.85,IAB23 Religion & Spirituality
+religion saminism movement,0.85,IAB23 Religion & Spirituality
+religion sangirese religion,0.85,IAB23 Religion & Spirituality
+religion sumbawa religion,0.85,IAB23 Religion & Spirituality
+religion sundanese wiwitan,0.85,IAB23 Religion & Spirituality
+religion wai apu religion,0.85,IAB23 Religion & Spirituality
+religion kangeanese religion,0.85,IAB23 Religion & Spirituality
+religion batak folk religion,0.85,IAB23 Religion & Spirituality
+religion bicolano religion,0.85,IAB23 Religion & Spirituality
+religion blaan folk religion,0.85,IAB23 Religion & Spirituality
+religion capiznon folk religion,0.85,IAB23 Religion & Spirituality
+religion cuyunon folk religion,0.85,IAB23 Religion & Spirituality
+religion gaddang folk religion,0.85,IAB23 Religion & Spirituality
+religion ifugao folk religion,0.85,IAB23 Religion & Spirituality
+religion ilocano folk religion,0.85,IAB23 Religion & Spirituality
+religion itneg folk religion,0.85,IAB23 Religion & Spirituality
+religion kalinga folk religion,0.85,IAB23 Religion & Spirituality
+religion kankanaey folk religion,0.85,IAB23 Religion & Spirituality
+religion karay-a folk religion,0.85,IAB23 Religion & Spirituality
+religion mangyan folk religion,0.85,IAB23 Religion & Spirituality
+religion palawan folk religion,0.85,IAB23 Religion & Spirituality
+religion pangasinan folk religion,0.85,IAB23 Religion & Spirituality
+religion sama bajau folk religion,0.85,IAB23 Religion & Spirituality
+religion sambal folk religion,0.85,IAB23 Religion & Spirituality
+religion subanon folk religion,0.85,IAB23 Religion & Spirituality
+religion tagalog folk religion,0.85,IAB23 Religion & Spirituality
+religion tagbanwa folk religion,0.85,IAB23 Religion & Spirituality
+religion pulahan,0.85,IAB23 Religion & Spirituality
+religion tboli folk religion,0.85,IAB23 Religion & Spirituality
+religion teduray folk religion,0.85,IAB23 Religion & Spirituality
+religion visayan folk religion,0.85,IAB23 Religion & Spirituality
+religion datuk keramat,0.85,IAB23 Religion & Spirituality
+religion jakun religion,0.85,IAB23 Religion & Spirituality
+religion pengarap iban,0.85,IAB23 Religion & Spirituality
+religion melanau religion,0.85,IAB23 Religion & Spirituality
+religion momolianism,0.85,IAB23 Religion & Spirituality
+religion murut religion,0.85,IAB23 Religion & Spirituality
+religion orang kanaq religion,0.85,IAB23 Religion & Spirituality
+religion orang seletar religion,0.85,IAB23 Religion & Spirituality
+religion semai religion,0.85,IAB23 Religion & Spirituality
+religion semaq beri religion,0.85,IAB23 Religion & Spirituality
+religion temuan religion,0.85,IAB23 Religion & Spirituality
+religion carolinian religion,0.85,IAB23 Religion & Spirituality
+religion chamorro religion,0.85,IAB23 Religion & Spirituality
+religion chuukese religion,0.85,IAB23 Religion & Spirituality
+religion nauruan indigenous religion,0.85,IAB23 Religion & Spirituality
+religion cook islands narrative,0.85,IAB23 Religion & Spirituality
+religion hawaiian religion,0.85,IAB23 Religion & Spirituality
+religion mangarevan narrative,0.85,IAB23 Religion & Spirituality
+religion māori religion,0.85,IAB23 Religion & Spirituality
+religion niuean narrative,0.85,IAB23 Religion & Spirituality
+religion rapa nui narrative,0.85,IAB23 Religion & Spirituality
+religion samoan narrative,0.85,IAB23 Religion & Spirituality
+religion tahitian narrative,0.85,IAB23 Religion & Spirituality
+religion tongan narrative,0.85,IAB23 Religion & Spirituality
+religion tuvaluan narrative,0.85,IAB23 Religion & Spirituality
+religion khabzeism,0.85,IAB23 Religion & Spirituality
+religion vainakh religion,0.85,IAB23 Religion & Spirituality
+religion khond traditional religion,0.85,IAB23 Religion & Spirituality
+religion kota religion,0.85,IAB23 Religion & Spirituality
+religion koyapunem,0.85,IAB23 Religion & Spirituality
+religion sauria paharia religion,0.85,IAB23 Religion & Spirituality
+religion tamil religion,0.85,IAB23 Religion & Spirituality
+religion toda religion,0.85,IAB23 Religion & Spirituality
+religion kalashism,0.85,IAB23 Religion & Spirituality
+religion nagpuria religion,0.85,IAB23 Religion & Spirituality
+religion ossetian native religion,0.85,IAB23 Religion & Spirituality
+religion punjabi folk religion,0.85,IAB23 Religion & Spirituality
+religion tharu religion,0.85,IAB23 Religion & Spirituality
+religion koshintō(historical)matagi spiritualityshintoshinbutsu-shugoebisu cultgion cultfujikorokugō manzansect shintofukkotaikyōizumo-taishakyojingukyojukasuikataiseikyōkonkōkyōontake-kyōoomotokurozumikyōshugendōshrine shintoassociation of shinto shrineskokugakustate shinto,0.85,IAB23 Religion & Spirituality
+religion muismgasin faith,0.85,IAB23 Religion & Spirituality
+religion ryukyuan religion,0.85,IAB23 Religion & Spirituality
+religion matagi spirituality,0.85,IAB23 Religion & Spirituality
+religion shintoshinbutsu-shugoebisu cultgion cultfujikorokugō manzansect shintofukkotaikyōizumo-taishakyojingukyojukasuikataiseikyōkonkōkyōontake-kyōoomotokurozumikyōshugendōshrine shintoassociation of shinto shrineskokugakustate shinto,0.85,IAB23 Religion & Spirituality
+religion shinbutsu-shugoebisu cultgion cultfujikorokugō manzansect shintofukkotaikyōizumo-taishakyojingukyojukasuikataiseikyōkonkōkyōontake-kyōoomotokurozumikyōshugendōshrine shintoassociation of shinto shrineskokugakustate shinto,0.85,IAB23 Religion & Spirituality
+religion ebisu cult,0.85,IAB23 Religion & Spirituality
+religion gion cult,0.85,IAB23 Religion & Spirituality
+religion fujiko,0.85,IAB23 Religion & Spirituality
+religion rokugō manzan,0.85,IAB23 Religion & Spirituality
+religion sect shintofukkotaikyōizumo-taishakyojingukyojukasuikataiseikyōkonkōkyōontake-kyōoomotokurozumikyōshugendō,0.85,IAB23 Religion & Spirituality
+religion shrine shintoassociation of shinto shrineskokugakustate shinto,0.85,IAB23 Religion & Spirituality
+religion fukkotaikyōizumo-taishakyo,0.85,IAB23 Religion & Spirituality
+religion jingukyo,0.85,IAB23 Religion & Spirituality
+religion jukasuikataiseikyō,0.85,IAB23 Religion & Spirituality
+religion konkōkyō,0.85,IAB23 Religion & Spirituality
+religion ontake-kyō,0.85,IAB23 Religion & Spirituality
+religion oomoto,0.85,IAB23 Religion & Spirituality
+religion kurozumikyō,0.85,IAB23 Religion & Spirituality
+religion shugendō,0.85,IAB23 Religion & Spirituality
+religion taikyō,0.85,IAB23 Religion & Spirituality
+religion izumo-taishakyo,0.85,IAB23 Religion & Spirituality
+religion suika,0.85,IAB23 Religion & Spirituality
+religion taiseikyō,0.85,IAB23 Religion & Spirituality
+religion association of shinto shrines,0.85,IAB23 Religion & Spirituality
+religion kokugakustate shinto,0.85,IAB23 Religion & Spirituality
+religion state shinto,0.85,IAB23 Religion & Spirituality
+religion gasin faith,0.85,IAB23 Religion & Spirituality
+religion australian aboriginal spiritualitygamilaraay dreaminglarrakia dreamingtasmanian aboriginal spiritualityyolnu religion,0.85,IAB23 Religion & Spirituality
+religion fijian ancient religion,0.85,IAB23 Religion & Spirituality
+religion kanak traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion papuan religiondumo spiritualityfore traditional beliefskaluli religionkorowai religiontrobriand traditional beliefsurapmin traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion gamilaraay dreaming,0.85,IAB23 Religion & Spirituality
+religion larrakia dreaming,0.85,IAB23 Religion & Spirituality
+religion tasmanian aboriginal spirituality,0.85,IAB23 Religion & Spirituality
+religion yolnu religion,0.85,IAB23 Religion & Spirituality
+religion dumo spirituality,0.85,IAB23 Religion & Spirituality
+religion fore traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion kaluli religion,0.85,IAB23 Religion & Spirituality
+religion korowai religion,0.85,IAB23 Religion & Spirituality
+religion trobriand traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion urapmin traditional beliefs,0.85,IAB23 Religion & Spirituality
+religion aeta religion,0.85,IAB23 Religion & Spirituality
+religion ati animism,0.85,IAB23 Religion & Spirituality
+religion onge native religion,0.85,IAB23 Religion & Spirituality
+religion semang animism,0.85,IAB23 Religion & Spirituality
+religion vedda original religion,0.85,IAB23 Religion & Spirituality
+religion ainu religion,0.85,IAB23 Religion & Spirituality
+religion koryak religion,0.85,IAB23 Religion & Spirituality
+religion itelmen religion,0.85,IAB23 Religion & Spirituality
+religion nivkh traditional religion,0.85,IAB23 Religion & Spirituality
+religion yukaghir shamanism,0.85,IAB23 Religion & Spirituality
+religion banrawat religion,0.85,IAB23 Religion & Spirituality
+religion bathouism,0.85,IAB23 Religion & Spirituality
+religion benzhuism,0.85,IAB23 Religion & Spirituality
+religion biate animism,0.85,IAB23 Religion & Spirituality
+religion bimoism,0.85,IAB23 Religion & Spirituality
+religion bondongbahangui,0.85,IAB23 Religion & Spirituality
+religion burmese folk religionlisu religion,0.85,IAB23 Religion & Spirituality
+religion chang naga animism,0.85,IAB23 Religion & Spirituality
+religion chutia religion,0.85,IAB23 Religion & Spirituality
+religion chinese folk religionancestor worshipchinese folk religion in southeast asiafaismmazu worshipnortheast china folk religionqueen mother worshipshangdiismshendaotaiwanese folk beliefswang ye worshipwuismjurchen/qing shamanismming shamanismxínghaode,0.85,IAB23 Religion & Spirituality
+religion daba,0.85,IAB23 Religion & Spirituality
+religion dingba,0.85,IAB23 Religion & Spirituality
+religion donyi-polo,0.85,IAB23 Religion & Spirituality
+religion songsarek,0.85,IAB23 Religion & Spirituality
+religion gurung shamanism,0.85,IAB23 Religion & Spirituality
+religion hani religion,0.85,IAB23 Religion & Spirituality
+religion hnam sakhua,0.85,IAB23 Religion & Spirituality
+religion jingpo religion,0.85,IAB23 Religion & Spirituality
+religion kan khwan,0.85,IAB23 Religion & Spirituality
+religion karbi religions,0.85,IAB23 Religion & Spirituality
+religion karen animism,0.85,IAB23 Religion & Spirituality
+religion kiratismyumaism,0.85,IAB23 Religion & Spirituality
+religion krama,0.85,IAB23 Religion & Spirituality
+religion maring beliefs,0.85,IAB23 Religion & Spirituality
+religion miji animism,0.85,IAB23 Religion & Spirituality
+religion mizo religion,0.85,IAB23 Religion & Spirituality
+religion mro religion,0.85,IAB23 Religion & Spirituality
+religion nuo folk religion,0.85,IAB23 Religion & Spirituality
+religion nyezi-no,0.85,IAB23 Religion & Spirituality
+religion qiang folk religion,0.85,IAB23 Religion & Spirituality
+religion reang religion,0.85,IAB23 Religion & Spirituality
+religion sanamahism,0.85,IAB23 Religion & Spirituality
+religion tangsa naga animismrangfrah,0.85,IAB23 Religion & Spirituality
+religion tingkao ragwang chapriak,0.85,IAB23 Religion & Spirituality
+religion toto nature religion,0.85,IAB23 Religion & Spirituality
+religion zahv,0.85,IAB23 Religion & Spirituality
+religion dongba,0.85,IAB23 Religion & Spirituality
+religion hangui,0.85,IAB23 Religion & Spirituality
+religion lisu religion,0.85,IAB23 Religion & Spirituality
+religion ancestor worship,0.85,IAB23 Religion & Spirituality
+religion chinese folk religion in southeast asia,0.85,IAB23 Religion & Spirituality
+religion faism,0.85,IAB23 Religion & Spirituality
+religion mazu worship,0.85,IAB23 Religion & Spirituality
+religion northeast china folk religion,0.85,IAB23 Religion & Spirituality
+religion queen mother worship,0.85,IAB23 Religion & Spirituality
+religion shangdiism,0.85,IAB23 Religion & Spirituality
+religion shendao,0.85,IAB23 Religion & Spirituality
+religion taiwanese folk beliefs,0.85,IAB23 Religion & Spirituality
+religion wang ye worship,0.85,IAB23 Religion & Spirituality
+religion wuismjurchen/qing shamanismming shamanism,0.85,IAB23 Religion & Spirituality
+religion xínghaode,0.85,IAB23 Religion & Spirituality
+religion jurchen/qing shamanism,0.85,IAB23 Religion & Spirituality
+religion ming shamanism,0.85,IAB23 Religion & Spirituality
+religion yumaism,0.85,IAB23 Religion & Spirituality
+religion rangfrah,0.85,IAB23 Religion & Spirituality
+religion hlai animism,0.85,IAB23 Religion & Spirituality
+religion kev dab kev qhuas,0.85,IAB23 Religion & Spirituality
+religion kam religion,0.85,IAB23 Religion & Spirituality
+religion maonan traditional religion,0.85,IAB23 Religion & Spirituality
+religion mo,0.85,IAB23 Religion & Spirituality
+religion pa then religion,0.85,IAB23 Religion & Spirituality
+religion qabiao religion,0.85,IAB23 Religion & Spirituality
+religion satsana phiahom religiongiay animismlamet religionnung religionsaek religion,0.85,IAB23 Religion & Spirituality
+religion sui religion,0.85,IAB23 Religion & Spirituality
+religion then,0.85,IAB23 Religion & Spirituality
+religion ahom religion,0.85,IAB23 Religion & Spirituality
+religion giay animism,0.85,IAB23 Religion & Spirituality
+religion lamet religion,0.85,IAB23 Religion & Spirituality
+religion nung religion,0.85,IAB23 Religion & Spirituality
+religion saek religion,0.85,IAB23 Religion & Spirituality
+religion komi shamanism,0.85,IAB23 Religion & Spirituality
+religion mari native religion,0.85,IAB23 Religion & Spirituality
+religion beduin shamanism,0.85,IAB23 Religion & Spirituality
+religion burusho shamanism,0.85,IAB23 Religion & Spirituality
+religion john frum,0.85,IAB23 Religion & Spirituality
+religion johnson cult,0.85,IAB23 Religion & Spirituality
+religion pomio kivung,0.85,IAB23 Religion & Spirituality
+religion prince philip movement,0.85,IAB23 Religion & Spirituality
+religion vailala madness,0.85,IAB23 Religion & Spirituality
+religion african zionism,0.85,IAB23 Religion & Spirituality
+religion ausar auset society,0.85,IAB23 Religion & Spirituality
+religion black muslimsamerican society of muslims,0.85,IAB23 Religion & Spirituality
+religion dini ya msambwa,0.85,IAB23 Religion & Spirituality
+religion five-percent nation,0.85,IAB23 Religion & Spirituality
+religion godianism,0.85,IAB23 Religion & Spirituality
+religion hauka,0.85,IAB23 Religion & Spirituality
+religion igbe religion,0.85,IAB23 Religion & Spirituality
+religion moorish science temple of americamoorish orthodox church of america,0.85,IAB23 Religion & Spirituality
+religion movement for the restoration of the ten commandments of god,0.85,IAB23 Religion & Spirituality
+religion mumboism,0.85,IAB23 Religion & Spirituality
+religion mungiki,0.85,IAB23 Religion & Spirituality
+religion nation of islamunited nation of islam,0.85,IAB23 Religion & Spirituality
+religion nuwaubian nation,0.85,IAB23 Religion & Spirituality
+religion american society of muslims,0.85,IAB23 Religion & Spirituality
+religion moorish orthodox church of america,0.85,IAB23 Religion & Spirituality
+religion united nation of islam,0.85,IAB23 Religion & Spirituality
+religion african hebrew israelites of jerusalem,0.85,IAB23 Religion & Spirituality
+religion church of god and saints of christ,0.85,IAB23 Religion & Spirituality
+religion commandment keepers,0.85,IAB23 Religion & Spirituality
+religion israelite church of god in jesus christ,0.85,IAB23 Religion & Spirituality
+religion israelite school of universal practical knowledge,0.85,IAB23 Religion & Spirituality
+religion nation of yahweh,0.85,IAB23 Religion & Spirituality
+religion one west camp,0.85,IAB23 Religion & Spirituality
+religion bobo ashanti,0.85,IAB23 Religion & Spirituality
+religion nyabinghi,0.85,IAB23 Religion & Spirituality
+religion twelve tribes of israel,0.85,IAB23 Religion & Spirituality
+religion creativity,0.85,IAB23 Religion & Spirituality
+religion fascist occultismariosophyesoteric nazismevolaismfascist mysticismnazi occultismstatolatry,0.85,IAB23 Religion & Spirituality
+religion israelismbritish israelismchristian identityfrench israelismnordic israelism,0.85,IAB23 Religion & Spirituality
+religion order of nine angles,0.85,IAB23 Religion & Spirituality
+religion völkisch movementgerman faith movementwotansvolk,0.85,IAB23 Religion & Spirituality
+religion ariosophy,0.85,IAB23 Religion & Spirituality
+religion esoteric nazism,0.85,IAB23 Religion & Spirituality
+religion evolaism,0.85,IAB23 Religion & Spirituality
+religion fascist mysticism,0.85,IAB23 Religion & Spirituality
+religion nazi occultism,0.85,IAB23 Religion & Spirituality
+religion statolatry,0.85,IAB23 Religion & Spirituality
+religion british israelism,0.85,IAB23 Religion & Spirituality
+religion christian identity,0.85,IAB23 Religion & Spirituality
+religion french israelism,0.85,IAB23 Religion & Spirituality
+religion nordic israelism,0.85,IAB23 Religion & Spirituality
+religion german faith movement,0.85,IAB23 Religion & Spirituality
+religion wotansvolk,0.85,IAB23 Religion & Spirituality
+religion ghost dance,0.85,IAB23 Religion & Spirituality
+religion indian shaker church,0.85,IAB23 Religion & Spirituality
+religion longhouse religion,0.85,IAB23 Religion & Spirituality
+religion mexicayotl,0.85,IAB23 Religion & Spirituality
+religion native american churchbig moon peyotism,0.85,IAB23 Religion & Spirituality
+religion wasshat religion,0.85,IAB23 Religion & Spirituality
+religion big moon peyotism,0.85,IAB23 Religion & Spirituality
+religion antoinism,0.85,IAB23 Religion & Spirituality
+religion archeosophical society,0.85,IAB23 Religion & Spirituality
+religion beili wang,0.85,IAB23 Religion & Spirituality
+religion branch davidians,0.85,IAB23 Religion & Spirituality
+religion chapel of russia's resurrection,0.85,IAB23 Religion & Spirituality
+religion chrislam,0.85,IAB23 Religion & Spirituality
+religion christian science,0.85,IAB23 Religion & Spirituality
+religion creation spirituality,0.85,IAB23 Religion & Spirituality
+religion daheshism,0.85,IAB23 Religion & Spirituality
+religion eastern lightning,0.85,IAB23 Religion & Spirituality
+religion faizrakhmanist,0.85,IAB23 Religion & Spirituality
+religion the family international,0.85,IAB23 Religion & Spirituality
+religion gafatar,0.85,IAB23 Religion & Spirituality
+religion grail movement,0.85,IAB23 Religion & Spirituality
+religion holy spirit of blood and water church,0.85,IAB23 Religion & Spirituality
+religion koreshanity,0.85,IAB23 Religion & Spirituality
+religion lalpa kohran thar,0.85,IAB23 Religion & Spirituality
+religion last testamentism,0.85,IAB23 Religion & Spirituality
+religion mama tata,0.85,IAB23 Religion & Spirituality
+religion mentuhui,0.85,IAB23 Religion & Spirituality
+religion modekngei,0.85,IAB23 Religion & Spirituality
+religion noahidism,0.85,IAB23 Religion & Spirituality
+religion pai marire,0.85,IAB23 Religion & Spirituality
+religion pilgrims of ares,0.85,IAB23 Religion & Spirituality
+religion rātana,0.85,IAB23 Religion & Spirituality
+religion ringatu,0.85,IAB23 Religion & Spirituality
+religion soldiers of heaven,0.85,IAB23 Religion & Spirituality
+religion spiritism,0.85,IAB23 Religion & Spirituality
+religion unification churchunification church of the united states,0.85,IAB23 Religion & Spirituality
+religion urantia movement,0.85,IAB23 Religion & Spirituality
+religion world elijah evangelical mission,0.85,IAB23 Religion & Spirituality
+religion world mission society church of god,0.85,IAB23 Religion & Spirituality
+religion zhushenjiao,0.85,IAB23 Religion & Spirituality
+religion unification church of the united states,0.85,IAB23 Religion & Spirituality
+"religion baguadao(""way of the eight trigrams"")",0.85,IAB23 Religion & Spirituality
+"religion dejiao(""teaching of virtue"")",0.85,IAB23 Religion & Spirituality
+"religion huangjidao(""way of the imperial pole"")",0.85,IAB23 Religion & Spirituality
+"religion huangtiandao(""way of the yellow sky"")",0.85,IAB23 Religion & Spirituality
+"religion huazhaidao(""way of flowers and fasting"")",0.85,IAB23 Religion & Spirituality
+"religion jiugongdao(""way of the nine palaces"")",0.85,IAB23 Religion & Spirituality
+"religion luandao(""phoenix way"")",0.85,IAB23 Religion & Spirituality
+"religion luoism(""way of luo"")chinese religions of fastingxiantiandao(""way of former heaven"")guiyidao(""way of the return to the one"")shengdao(""holy way"")yaochidao(""way of the mother of pearl lake"")yiguandao(""persistent way"")haizidaoyixin tiandao(""heart-bound heavenly way"")dachenghongyangism",0.85,IAB23 Religion & Spirituality
+religion maitreyanism,0.85,IAB23 Religion & Spirituality
+religion sanban puren pai,0.85,IAB23 Religion & Spirituality
+religion sanyiism,0.85,IAB23 Religion & Spirituality
+"religion shanrendao(""way of the virtuous man"")",0.85,IAB23 Religion & Spirituality
+religion tiandihui,0.85,IAB23 Religion & Spirituality
+religion tiandiism,0.85,IAB23 Religion & Spirituality
+"religion tianguangdao(""way of the heavenly light"")",0.85,IAB23 Religion & Spirituality
+"religion tianxian miaodao(""way of the temple of the heavenly immortals"")",0.85,IAB23 Religion & Spirituality
+religion weixinism,0.85,IAB23 Religion & Spirituality
+religion white lotus,0.85,IAB23 Religion & Spirituality
+"religion xuanyuandao(""way of xuanyuan"")",0.85,IAB23 Religion & Spirituality
+religion yellow sand society,0.85,IAB23 Religion & Spirituality
+"religion zailiism(""way of the abiding principle)",0.85,IAB23 Religion & Spirituality
+"religion zhongyongdao(""way of the golden mean"")",0.85,IAB23 Religion & Spirituality
+"religion chinese religions of fastingxiantiandao(""way of former heaven"")guiyidao(""way of the return to the one"")shengdao(""holy way"")yaochidao(""way of the mother of pearl lake"")yiguandao(""persistent way"")haizidaoyixin tiandao(""heart-bound heavenly way"")",0.85,IAB23 Religion & Spirituality
+religion dacheng,0.85,IAB23 Religion & Spirituality
+religion hongyangism,0.85,IAB23 Religion & Spirituality
+"religion xiantiandao(""way of former heaven"")guiyidao(""way of the return to the one"")shengdao(""holy way"")yaochidao(""way of the mother of pearl lake"")yiguandao(""persistent way"")haizidaoyixin tiandao(""heart-bound heavenly way"")",0.85,IAB23 Religion & Spirituality
+"religion guiyidao(""way of the return to the one"")",0.85,IAB23 Religion & Spirituality
+"religion shengdao(""holy way"")",0.85,IAB23 Religion & Spirituality
+"religion yaochidao(""way of the mother of pearl lake"")",0.85,IAB23 Religion & Spirituality
+"religion yiguandao(""persistent way"")haizidao",0.85,IAB23 Religion & Spirituality
+"religion yixin tiandao(""heart-bound heavenly way"")",0.85,IAB23 Religion & Spirituality
+religion haizidao,0.85,IAB23 Religion & Spirituality
+religion adidam,0.85,IAB23 Religion & Spirituality
+religion adi dharmbrahmoismbrahmo samajsadharan brahmo samaj,0.85,IAB23 Religion & Spirituality
+religion ananda,0.85,IAB23 Religion & Spirituality
+religion ananda ashrama,0.85,IAB23 Religion & Spirituality
+religion ayyavazhi,0.85,IAB23 Religion & Spirituality
+religion chinmaya mission,0.85,IAB23 Religion & Spirituality
+religion mahanam sampraday,0.85,IAB23 Religion & Spirituality
+religion mahima dharma,0.85,IAB23 Religion & Spirituality
+religion matua mahasangha,0.85,IAB23 Religion & Spirituality
+religion oneness movement,0.85,IAB23 Religion & Spirituality
+religion rajneesh movement,0.85,IAB23 Religion & Spirituality
+religion satsang,0.85,IAB23 Religion & Spirituality
+religion shirdi sai baba movement,0.85,IAB23 Religion & Spirituality
+religion sivananda yoga vedanta centres,0.85,IAB23 Religion & Spirituality
+religion sri aurobindo ashram,0.85,IAB23 Religion & Spirituality
+religion sri ramana ashramneo-advaita,0.85,IAB23 Religion & Spirituality
+religion swaminarayan sampradayabochasanwasi akshar purushottam swaminarayan sansthalaxmi narayan dev gadiinternational swaminarayan satsang mandalswaminarayan gurukulnar narayan dev gadiinternational swaminarayan satsang organisationnarnarayan dev yuvak mandalswaminarayan gadi (maninagar)swaminarayan mandir vasna sanstha,0.85,IAB23 Religion & Spirituality
+religion transcendental meditation,0.85,IAB23 Religion & Spirituality
+religion brahmoismbrahmo samajsadharan brahmo samaj,0.85,IAB23 Religion & Spirituality
+religion brahmo samajsadharan brahmo samaj,0.85,IAB23 Religion & Spirituality
+religion sadharan brahmo samaj,0.85,IAB23 Religion & Spirituality
+religion neo-advaita,0.85,IAB23 Religion & Spirituality
+religion bochasanwasi akshar purushottam swaminarayan sanstha,0.85,IAB23 Religion & Spirituality
+religion laxmi narayan dev gadiinternational swaminarayan satsang mandalswaminarayan gurukul,0.85,IAB23 Religion & Spirituality
+religion nar narayan dev gadiinternational swaminarayan satsang organisationnarnarayan dev yuvak mandal,0.85,IAB23 Religion & Spirituality
+religion swaminarayan gadi (maninagar),0.85,IAB23 Religion & Spirituality
+religion swaminarayan mandir vasna sanstha,0.85,IAB23 Religion & Spirituality
+religion international swaminarayan satsang mandal,0.85,IAB23 Religion & Spirituality
+religion swaminarayan gurukul,0.85,IAB23 Religion & Spirituality
+religion international swaminarayan satsang organisation,0.85,IAB23 Religion & Spirituality
+religion narnarayan dev yuvak mandal,0.85,IAB23 Religion & Spirituality
+religion cheondoismjeungsanismbocheonismdaesun jinrihoejeung san dosuwunism,0.85,IAB23 Religion & Spirituality
+religion daejongism,0.85,IAB23 Religion & Spirituality
+religion victory altar,0.85,IAB23 Religion & Spirituality
+religion jeungsanismbocheonismdaesun jinrihoejeung san do,0.85,IAB23 Religion & Spirituality
+religion suwunism,0.85,IAB23 Religion & Spirituality
+religion bocheonism,0.85,IAB23 Religion & Spirituality
+religion daesun jinrihoe,0.85,IAB23 Religion & Spirituality
+religion jeung san do,0.85,IAB23 Religion & Spirituality
+religion đạo bửu sơn kỳ hươnghòa hảotứ ân hiếu nghĩa,0.85,IAB23 Religion & Spirituality
+religion diamond way buddhism,0.85,IAB23 Religion & Spirituality
+religion falun gong,0.85,IAB23 Religion & Spirituality
+religion guanyin famen,0.85,IAB23 Religion & Spirituality
+religion humanistic buddhism,0.85,IAB23 Religion & Spirituality
+religion nipponzan-myōhōji-daisanga,0.85,IAB23 Religion & Spirituality
+religion pl kyodan,0.85,IAB23 Religion & Spirituality
+religion reiyūkairisshō kōsei kai,0.85,IAB23 Religion & Spirituality
+religion rimé movement,0.85,IAB23 Religion & Spirituality
+religion shambhala buddhism,0.85,IAB23 Religion & Spirituality
+religion shinnyo-en,0.85,IAB23 Religion & Spirituality
+religion soka gakkai,0.85,IAB23 Religion & Spirituality
+religion triratna buddhist community,0.85,IAB23 Religion & Spirituality
+religion true buddha school,0.85,IAB23 Religion & Spirituality
+religion won buddhism,0.85,IAB23 Religion & Spirituality
+religion hòa hảo,0.85,IAB23 Religion & Spirituality
+religion tứ ân hiếu nghĩa,0.85,IAB23 Religion & Spirituality
+religion risshō kōsei kai,0.85,IAB23 Religion & Spirituality
+religion anandamayee sangha,0.85,IAB23 Religion & Spirituality
+religion bell religion,0.85,IAB23 Religion & Spirituality
+religion brahma kumaris,0.85,IAB23 Religion & Spirituality
+religion caodaism,0.85,IAB23 Religion & Spirituality
+religion coconut religion,0.85,IAB23 Religion & Spirituality
+religion đạo dừa,0.85,IAB23 Religion & Spirituality
+religion living interfaith,0.85,IAB23 Religion & Spirituality
+religion meivazhi,0.85,IAB23 Religion & Spirituality
+religion omnism,0.85,IAB23 Religion & Spirituality
+religion open-source religion,0.85,IAB23 Religion & Spirituality
+religion satya dharma,0.85,IAB23 Religion & Spirituality
+religion sathya sai baba movement,0.85,IAB23 Religion & Spirituality
+religion share international,0.85,IAB23 Religion & Spirituality
+religion subud,0.85,IAB23 Religion & Spirituality
+religion aum shinrikyoalephhikari no wa,0.85,IAB23 Religion & Spirituality
+religion church of world messianity,0.85,IAB23 Religion & Spirituality
+religion dōkai,0.85,IAB23 Religion & Spirituality
+religion gedatsukai,0.85,IAB23 Religion & Spirituality
+religion happy science,0.85,IAB23 Religion & Spirituality
+religion higashikuni-kyo,0.85,IAB23 Religion & Spirituality
+religion ijun,0.85,IAB23 Religion & Spirituality
+religion kenshōkai,0.85,IAB23 Religion & Spirituality
+religion kokuchukai,0.85,IAB23 Religion & Spirituality
+religion mahikarisukyo mahikariworld divine light(sekai mahikari bunmei kyōdan),0.85,IAB23 Religion & Spirituality
+religion myōdōkai kyōdan,0.85,IAB23 Religion & Spirituality
+religion shinreikyoshōroku shintō yamatoyamashumei,0.85,IAB23 Religion & Spirituality
+religion shingaku,0.85,IAB23 Religion & Spirituality
+religion shinmeiaishinkai,0.85,IAB23 Religion & Spirituality
+religion shōshinkai,0.85,IAB23 Religion & Spirituality
+religion tenrikyotenrin-ō meisei kyōdanhonmichihonbushinsekai shindokyodaehan cheolligyo,0.85,IAB23 Religion & Spirituality
+religion tenshō kōtai jingūkyō,0.85,IAB23 Religion & Spirituality
+religion zenrinkyo,0.85,IAB23 Religion & Spirituality
+religion aleph,0.85,IAB23 Religion & Spirituality
+religion hikari no wa,0.85,IAB23 Religion & Spirituality
+religion sukyo mahikari,0.85,IAB23 Religion & Spirituality
+religion world divine light(sekai mahikari bunmei kyōdan),0.85,IAB23 Religion & Spirituality
+religion shōroku shintō yamatoyama,0.85,IAB23 Religion & Spirituality
+religion shumei,0.85,IAB23 Religion & Spirituality
+religion tenrin-ō meisei kyōdan,0.85,IAB23 Religion & Spirituality
+religion honmichihonbushinsekai shindokyo,0.85,IAB23 Religion & Spirituality
+religion daehan cheolligyo,0.85,IAB23 Religion & Spirituality
+religion honbushin,0.85,IAB23 Religion & Spirituality
+religion sekai shindokyo,0.85,IAB23 Religion & Spirituality
+religion advait mat,0.85,IAB23 Religion & Spirituality
+"religion radha soamiradha soami satsang beasradha soami satsang dayagbalradha swami satsang, dinodruhani satsangmanavta mandirscience of spirituality(a.k.a.sawan kirpal ruhani mission)",0.85,IAB23 Religion & Spirituality
+religion ravidassia,0.85,IAB23 Religion & Spirituality
+religion radha soami satsang beas,0.85,IAB23 Religion & Spirituality
+religion radha soami satsang dayagbal,0.85,IAB23 Religion & Spirituality
+"religion radha swami satsang, dinod",0.85,IAB23 Religion & Spirituality
+religion ruhani satsang,0.85,IAB23 Religion & Spirituality
+religion manavta mandir,0.85,IAB23 Religion & Spirituality
+religion science of spirituality(a.k.a.sawan kirpal ruhani mission),0.85,IAB23 Religion & Spirituality
+religion ancient teachings of the masters,0.85,IAB23 Religion & Spirituality
+religion dera sacha sauda,0.85,IAB23 Religion & Spirituality
+religion eckankar,0.85,IAB23 Religion & Spirituality
+religion elan vital(formerlydivine light mission),0.85,IAB23 Religion & Spirituality
+religion movement of spiritual inner awareness,0.85,IAB23 Religion & Spirituality
+religion baltic neopaganismdievturībaromuva,0.85,IAB23 Religion & Spirituality
+religion caucasian neopaganismabkhaz neopaganismassianism,0.85,IAB23 Religion & Spirituality
+"religion celtic neopaganismceltic reconstructionist paganismdruidryár ndraíocht féinorder of bards, ovates, and druidsreformed druids of north america",0.85,IAB23 Religion & Spirituality
+religion church of the guanche people,0.85,IAB23 Religion & Spirituality
+religion heathenry(a.k.a. germanic neopaganism),0.85,IAB23 Religion & Spirituality
+religion hellenism,0.85,IAB23 Religion & Spirituality
+religion heraka,0.85,IAB23 Religion & Spirituality
+religion hetanism,0.85,IAB23 Religion & Spirituality
+religion italo-roman neopaganismnova romaroman traditional movement,0.85,IAB23 Religion & Spirituality
+religion kemetismkemetic orthodoxy,0.85,IAB23 Religion & Spirituality
+religion semitic neopaganism,0.85,IAB23 Religion & Spirituality
+religion rodnovery(a.k.a. slavic neopaganism)native polish churchpeterburgian vedismrodzima wiararodnover confederationsylenkoismunion of slavic native belief communitiesynglism,0.85,IAB23 Religion & Spirituality
+religion uralic neopaganismestonian neopaganismsuomenuskohungarian neopaganismmastoravaudmurt vos,0.85,IAB23 Religion & Spirituality
+religion zalmoxianism,0.85,IAB23 Religion & Spirituality
+religion zuism,0.85,IAB23 Religion & Spirituality
+religion dievturība,0.85,IAB23 Religion & Spirituality
+religion romuva,0.85,IAB23 Religion & Spirituality
+religion abkhaz neopaganism,0.85,IAB23 Religion & Spirituality
+religion assianism,0.85,IAB23 Religion & Spirituality
+religion celtic reconstructionist paganism,0.85,IAB23 Religion & Spirituality
+"religion druidryár ndraíocht féinorder of bards, ovates, and druidsreformed druids of north america",0.85,IAB23 Religion & Spirituality
+religion ár ndraíocht féin,0.85,IAB23 Religion & Spirituality
+"religion order of bards, ovates, and druids",0.85,IAB23 Religion & Spirituality
+religion reformed druids of north america,0.85,IAB23 Religion & Spirituality
+religion nova roma,0.85,IAB23 Religion & Spirituality
+religion roman traditional movement,0.85,IAB23 Religion & Spirituality
+religion kemetic orthodoxy,0.85,IAB23 Religion & Spirituality
+religion native polish church,0.85,IAB23 Religion & Spirituality
+religion peterburgian vedism,0.85,IAB23 Religion & Spirituality
+religion rodzima wiara,0.85,IAB23 Religion & Spirituality
+religion rodnover confederation,0.85,IAB23 Religion & Spirituality
+religion sylenkoism,0.85,IAB23 Religion & Spirituality
+religion union of slavic native belief communities,0.85,IAB23 Religion & Spirituality
+religion ynglism,0.85,IAB23 Religion & Spirituality
+religion estonian neopaganism,0.85,IAB23 Religion & Spirituality
+religion suomenusko,0.85,IAB23 Religion & Spirituality
+religion hungarian neopaganism,0.85,IAB23 Religion & Spirituality
+religion mastorava,0.85,IAB23 Religion & Spirituality
+religion udmurt vos,0.85,IAB23 Religion & Spirituality
+religion adonism,0.85,IAB23 Religion & Spirituality
+religion brauchau,0.85,IAB23 Religion & Spirituality
+religion christopaganismchristian wicca,0.85,IAB23 Religion & Spirituality
+religion church of all worlds,0.85,IAB23 Religion & Spirituality
+religion cochrane's craft,0.85,IAB23 Religion & Spirituality
+religion huna,0.85,IAB23 Religion & Spirituality
+religion gaianism,0.85,IAB23 Religion & Spirituality
+religion ivanovism,0.85,IAB23 Religion & Spirituality
+religion nature religion,0.85,IAB23 Religion & Spirituality
+religion neoshamanismurban shamanism,0.85,IAB23 Religion & Spirituality
+religion radical faeries,0.85,IAB23 Religion & Spirituality
+religion ringing cedars' anastasianism,0.85,IAB23 Religion & Spirituality
+religion stregheria,0.85,IAB23 Religion & Spirituality
+religion summum,0.85,IAB23 Religion & Spirituality
+religion technopaganism,0.85,IAB23 Religion & Spirituality
+religion temple of priapus,0.85,IAB23 Religion & Spirituality
+religion wiccabritish traditional wiccaalexandrian wiccaalgard wiccablue star wiccacentral valley wiccachthonioi alexandrian wiccagardnerian wiccaceltic wiccafaery wiccaferi traditiongeorgian wiccaodyssean wiccaseax-wicauniversal eclectic wiccawiccan churches,0.85,IAB23 Religion & Spirituality
+religion christian wicca,0.85,IAB23 Religion & Spirituality
+religion urban shamanism,0.85,IAB23 Religion & Spirituality
+religion british traditional wiccaalexandrian wiccaalgard wiccablue star wiccacentral valley wiccachthonioi alexandrian wiccagardnerian wicca,0.85,IAB23 Religion & Spirituality
+religion celtic wicca,0.85,IAB23 Religion & Spirituality
+religion faery wicca,0.85,IAB23 Religion & Spirituality
+religion feri tradition,0.85,IAB23 Religion & Spirituality
+religion georgian wicca,0.85,IAB23 Religion & Spirituality
+religion odyssean wicca,0.85,IAB23 Religion & Spirituality
+religion seax-wica,0.85,IAB23 Religion & Spirituality
+religion universal eclectic wicca,0.85,IAB23 Religion & Spirituality
+religion wiccan churches,0.85,IAB23 Religion & Spirituality
+religion alexandrian wicca,0.85,IAB23 Religion & Spirituality
+religion algard wicca,0.85,IAB23 Religion & Spirituality
+religion blue star wicca,0.85,IAB23 Religion & Spirituality
+religion central valley wicca,0.85,IAB23 Religion & Spirituality
+religion chthonioi alexandrian wicca,0.85,IAB23 Religion & Spirituality
+religion gardnerian wicca,0.85,IAB23 Religion & Spirituality
+religion church of aphrodite,0.85,IAB23 Religion & Spirituality
+religion feraferia,0.85,IAB23 Religion & Spirituality
+religion goddess wiccacovenant of the goddessdianic wiccafaerie faith,0.85,IAB23 Religion & Spirituality
+religion reclaiming,0.85,IAB23 Religion & Spirituality
+religion covenant of the goddess,0.85,IAB23 Religion & Spirituality
+religion dianic wiccafaerie faith,0.85,IAB23 Religion & Spirituality
+religion faerie faith,0.85,IAB23 Religion & Spirituality
+religion church of the universe,0.85,IAB23 Religion & Spirituality
+religion healing church in rhode island,0.85,IAB23 Religion & Spirituality
+religion neo-american church,0.85,IAB23 Religion & Spirituality
+religion santo daime,0.85,IAB23 Religion & Spirituality
+religion temple of the true inner light,0.85,IAB23 Religion & Spirituality
+religion tensegrity,0.85,IAB23 Religion & Spirituality
+religion thc ministry,0.85,IAB23 Religion & Spirituality
+religion união do vegetal,0.85,IAB23 Religion & Spirituality
+religion association for research and enlightenment,0.85,IAB23 Religion & Spirituality
+religion church universal and triumphant,0.85,IAB23 Religion & Spirituality
+religion mayanism,0.85,IAB23 Religion & Spirituality
+religion michael teachings,0.85,IAB23 Religion & Spirituality
+religion rainbow family,0.85,IAB23 Religion & Spirituality
+religion the infinite way,0.85,IAB23 Religion & Spirituality
+religion church of divine science,0.85,IAB23 Religion & Spirituality
+religion church of the truth,0.85,IAB23 Religion & Spirituality
+religion home of truth,0.85,IAB23 Religion & Spirituality
+religion jewish science,0.85,IAB23 Religion & Spirituality
+religion psychiana,0.85,IAB23 Religion & Spirituality
+religion religious science,0.85,IAB23 Religion & Spirituality
+religion scientologyindependent scientology,0.85,IAB23 Religion & Spirituality
+religion seicho-no-ie,0.85,IAB23 Religion & Spirituality
+religion unity church,0.85,IAB23 Religion & Spirituality
+religion universal foundation for better living,0.85,IAB23 Religion & Spirituality
+religion independent scientology,0.85,IAB23 Religion & Spirituality
+religion deismcult of the supreme beingenlightenment deismgottgläubigmoralistic therapeutic deismspinozismtheophilanthropy,0.85,IAB23 Religion & Spirituality
+religion egotheism,0.85,IAB23 Religion & Spirituality
+religion henotheism,0.85,IAB23 Religion & Spirituality
+religion kathenotheism,0.85,IAB23 Religion & Spirituality
+religion liberal theism,0.85,IAB23 Religion & Spirituality
+religion neo-revelationism,0.85,IAB23 Religion & Spirituality
+religion philosophical theism,0.85,IAB23 Religion & Spirituality
+religion theistic naturalism,0.85,IAB23 Religion & Spirituality
+religion cult of the supreme being,0.85,IAB23 Religion & Spirituality
+religion enlightenment deism,0.85,IAB23 Religion & Spirituality
+religion gottgläubig,0.85,IAB23 Religion & Spirituality
+religion moralistic therapeutic deism,0.85,IAB23 Religion & Spirituality
+religion spinozism,0.85,IAB23 Religion & Spirituality
+religion theophilanthropy,0.85,IAB23 Religion & Spirituality
+religion adevism,0.85,IAB23 Religion & Spirituality
+religion agnosticismagnostic atheismagnostic theismchristian agnosticismgod-building,0.85,IAB23 Religion & Spirituality
+religion apatheismpractical atheism,0.85,IAB23 Religion & Spirituality
+religion christian atheismnontheist quakers,0.85,IAB23 Religion & Spirituality
+religion cult of reason,0.85,IAB23 Religion & Spirituality
+religion cultural christians,0.85,IAB23 Religion & Spirituality
+religion cultural hindus,0.85,IAB23 Religion & Spirituality
+religion cultural muslims,0.85,IAB23 Religion & Spirituality
+religion ecospiritualitybiosophyreligious naturalismspiritual ecologyspiritual naturalism,0.85,IAB23 Religion & Spirituality
+religion freethoughtnorth texas church of freethought,0.85,IAB23 Religion & Spirituality
+religion humanismchristian humanismethical movementhumanistic judaismreligious humanismrenaissance humanismsecular humanismtheistic humanism,0.85,IAB23 Religion & Spirituality
+religion hylotheism,0.85,IAB23 Religion & Spirituality
+religion ietsism,0.85,IAB23 Religion & Spirituality
+religion ignosticism,0.85,IAB23 Religion & Spirituality
+religion implicit and explicit atheism,0.85,IAB23 Religion & Spirituality
+religion irreligion,0.85,IAB23 Religion & Spirituality
+religion jewish atheism,0.85,IAB23 Religion & Spirituality
+religion negative and positive atheism,0.85,IAB23 Religion & Spirituality
+religion nirīśvaravāda,0.85,IAB23 Religion & Spirituality
+religion non-theistic satanismour lady of endor covenlaveyan satanismchurch of satanfirst satanic churchthe satanic temple,0.85,IAB23 Religion & Spirituality
+religion monismdialectical monismindefinite monism,0.85,IAB23 Religion & Spirituality
+religion moral re-armament,0.85,IAB23 Religion & Spirituality
+religion pandeismchristian pandeism,0.85,IAB23 Religion & Spirituality
+religion panentheismprocess theology,0.85,IAB23 Religion & Spirituality
+religion pantheismclassical pantheismcosmotheismnaturalistic pantheism,0.85,IAB23 Religion & Spirituality
+religion post-theism,0.85,IAB23 Religion & Spirituality
+religion rational mysticism,0.85,IAB23 Religion & Spirituality
+religion religion of humanitychurch of humanity,0.85,IAB23 Religion & Spirituality
+religion secularismjewish secularismsecular buddhismsecular paganismsecular religionsecular spiritualitysecular theology,0.85,IAB23 Religion & Spirituality
+religion syntheism,0.85,IAB23 Religion & Spirituality
+religion theopanism,0.85,IAB23 Religion & Spirituality
+religion theothanatology,0.85,IAB23 Religion & Spirituality
+religion transhumanismcosmismterasemtheta noir,0.85,IAB23 Religion & Spirituality
+religion transtheism,0.85,IAB23 Religion & Spirituality
+religion agnostic atheism,0.85,IAB23 Religion & Spirituality
+religion agnostic theism,0.85,IAB23 Religion & Spirituality
+religion christian agnosticism,0.85,IAB23 Religion & Spirituality
+religion god-building,0.85,IAB23 Religion & Spirituality
+religion practical atheism,0.85,IAB23 Religion & Spirituality
+religion nontheist quakers,0.85,IAB23 Religion & Spirituality
+religion biosophy,0.85,IAB23 Religion & Spirituality
+religion religious naturalism,0.85,IAB23 Religion & Spirituality
+religion spiritual ecology,0.85,IAB23 Religion & Spirituality
+religion spiritual naturalism,0.85,IAB23 Religion & Spirituality
+religion north texas church of freethought,0.85,IAB23 Religion & Spirituality
+religion christian humanism,0.85,IAB23 Religion & Spirituality
+religion ethical movement,0.85,IAB23 Religion & Spirituality
+religion religious humanism,0.85,IAB23 Religion & Spirituality
+religion renaissance humanism,0.85,IAB23 Religion & Spirituality
+religion secular humanism,0.85,IAB23 Religion & Spirituality
+religion theistic humanism,0.85,IAB23 Religion & Spirituality
+religion our lady of endor coven,0.85,IAB23 Religion & Spirituality
+religion laveyan satanismchurch of satanfirst satanic church,0.85,IAB23 Religion & Spirituality
+religion the satanic temple,0.85,IAB23 Religion & Spirituality
+religion church of satan,0.85,IAB23 Religion & Spirituality
+religion first satanic church,0.85,IAB23 Religion & Spirituality
+religion dialectical monism,0.85,IAB23 Religion & Spirituality
+religion indefinite monism,0.85,IAB23 Religion & Spirituality
+religion christian pandeism,0.85,IAB23 Religion & Spirituality
+religion process theology,0.85,IAB23 Religion & Spirituality
+religion classical pantheism,0.85,IAB23 Religion & Spirituality
+religion cosmotheism,0.85,IAB23 Religion & Spirituality
+religion naturalistic pantheism,0.85,IAB23 Religion & Spirituality
+religion church of humanity,0.85,IAB23 Religion & Spirituality
+religion jewish secularism,0.85,IAB23 Religion & Spirituality
+religion secular buddhism,0.85,IAB23 Religion & Spirituality
+religion secular paganism,0.85,IAB23 Religion & Spirituality
+religion secular religion,0.85,IAB23 Religion & Spirituality
+religion secular spirituality,0.85,IAB23 Religion & Spirituality
+religion secular theology,0.85,IAB23 Religion & Spirituality
+religion cosmism,0.85,IAB23 Religion & Spirituality
+religion terasem,0.85,IAB23 Religion & Spirituality
+religion theta noir,0.85,IAB23 Religion & Spirituality
+"religion the all-joking, all-drunken synod of fools and jesters",0.85,IAB23 Religion & Spirituality
+religion bokononism,0.85,IAB23 Religion & Spirituality
+religion the cause,0.85,IAB23 Religion & Spirituality
+religion church of euthanasia,0.85,IAB23 Religion & Spirituality
+"religion church of the flying spaghetti monster(a.k.a. ""pastafarianism"")",0.85,IAB23 Religion & Spirituality
+religion church of the subgenius,0.85,IAB23 Religion & Spirituality
+religion the cult of kek,0.85,IAB23 Religion & Spirituality
+religion dinkoism,0.85,IAB23 Religion & Spirituality
+religion discordianism,0.85,IAB23 Religion & Spirituality
+religion dudeism,0.85,IAB23 Religion & Spirituality
+religion earthseed,0.85,IAB23 Religion & Spirituality
+religion eventualism,0.85,IAB23 Religion & Spirituality
+religion first church of the last laugh,0.85,IAB23 Religion & Spirituality
+religion iglesia maradoniana,0.85,IAB23 Religion & Spirituality
+religion intelligent falling,0.85,IAB23 Religion & Spirituality
+religion invisible pink unicorn,0.85,IAB23 Religion & Spirituality
+religion jediism,0.85,IAB23 Religion & Spirituality
+religion kibology,0.85,IAB23 Religion & Spirituality
+religion kopimism,0.85,IAB23 Religion & Spirituality
+religion landover baptist church,0.85,IAB23 Religion & Spirituality
+religion last thursdayism,0.85,IAB23 Religion & Spirituality
+religion matrixism,0.85,IAB23 Religion & Spirituality
+religion the nine divines,0.85,IAB23 Religion & Spirituality
+religion 'pataphysics,0.85,IAB23 Religion & Spirituality
+religion russell's teapot,0.85,IAB23 Religion & Spirituality
+religion silinism,0.85,IAB23 Religion & Spirituality
+religion sisters of perpetual indulgence,0.85,IAB23 Religion & Spirituality
+religion tarvuism,0.85,IAB23 Religion & Spirituality
+religion trekism,0.85,IAB23 Religion & Spirituality
+religion united church of bacon,0.85,IAB23 Religion & Spirituality
+religion aetherius society,0.85,IAB23 Religion & Spirituality
+religion ashtar galactic command,0.85,IAB23 Religion & Spirituality
+"religion chen tao (""true way"")",0.85,IAB23 Religion & Spirituality
+religion fiat lux,0.85,IAB23 Religion & Spirituality
+religion ground crew project,0.85,IAB23 Religion & Spirituality
+religion heaven's gate,0.85,IAB23 Religion & Spirituality
+religion industrial church of the new world comforter,0.85,IAB23 Religion & Spirituality
+religion mark-age,0.85,IAB23 Religion & Spirituality
+religion raëlism,0.85,IAB23 Religion & Spirituality
+religion the seekers,0.85,IAB23 Religion & Spirituality
+religion unarius academy of science,0.85,IAB23 Religion & Spirituality

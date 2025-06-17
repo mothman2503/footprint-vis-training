@@ -1,0 +1,755 @@
+text,iab_label,confidence,source
+Balu shahi,IAB8 Food & Drink,0.85,natural
+Boondi,IAB8 Food & Drink,0.85,natural
+Gajar ka halwa,IAB8 Food & Drink,0.85,natural
+Ghevar,IAB8 Food & Drink,0.85,natural
+Gulab jamun,IAB8 Food & Drink,0.85,natural
+Imarti,IAB8 Food & Drink,0.85,natural
+Jalebi,IAB8 Food & Drink,0.85,natural
+Kaju katli -,IAB8 Food & Drink,0.85,natural
+Kalakand,IAB8 Food & Drink,0.85,natural
+Kheer -,IAB8 Food & Drink,0.85,natural
+Laddu -,IAB8 Food & Drink,0.85,natural
+Lassi,IAB8 Food & Drink,0.85,natural
+Nankhatai -,IAB8 Food & Drink,0.85,natural
+Petha,IAB8 Food & Drink,0.85,natural
+Phirni,IAB8 Food & Drink,0.85,natural
+Rabri,IAB8 Food & Drink,0.85,natural
+Sheera,IAB8 Food & Drink,0.85,natural
+Singori,IAB8 Food & Drink,0.85,natural
+Sohan halwa,IAB8 Food & Drink,0.85,natural
+Sohan papdi,IAB8 Food & Drink,0.85,natural
+Chhena jalebi,IAB8 Food & Drink,0.85,natural
+Chhena kheeri,IAB8 Food & Drink,0.85,natural
+Chhena poda,IAB8 Food & Drink,0.85,natural
+Cham cham,IAB8 Food & Drink,0.85,natural
+Kheer sagar,IAB8 Food & Drink,0.85,natural
+Ledikeni,IAB8 Food & Drink,0.85,natural
+Lyangcha,IAB8 Food & Drink,0.85,natural
+Malapua,IAB8 Food & Drink,0.85,natural
+Mihidana,IAB8 Food & Drink,0.85,natural
+Misti doi,IAB8 Food & Drink,0.85,natural
+Pantua,IAB8 Food & Drink,0.85,natural
+Pithe,IAB8 Food & Drink,0.85,natural
+Rasabali,IAB8 Food & Drink,0.85,natural
+Ras malai,IAB8 Food & Drink,0.85,natural
+Rasgulla,IAB8 Food & Drink,0.85,natural
+Sandesh,IAB8 Food & Drink,0.85,natural
+Adhirasam,IAB8 Food & Drink,0.85,natural
+Ariselu,IAB8 Food & Drink,0.85,natural
+Bandar laddu,IAB8 Food & Drink,0.85,natural
+Chikki,IAB8 Food & Drink,0.85,natural
+Dharwad pedha,IAB8 Food & Drink,0.85,natural
+Double ka meetha,IAB8 Food & Drink,0.85,natural
+Gavvalu,IAB8 Food & Drink,0.85,natural
+Kakinada khaja,IAB8 Food & Drink,0.85,natural
+Kuzhi paniyaram,IAB8 Food & Drink,0.85,natural
+Mysore pak,IAB8 Food & Drink,0.85,natural
+Obbattu holige,IAB8 Food & Drink,0.85,natural
+Palathalikalu,IAB8 Food & Drink,0.85,natural
+Poornalu,IAB8 Food & Drink,0.85,natural
+Pongal,IAB8 Food & Drink,0.85,natural
+Pootharekulu,IAB8 Food & Drink,0.85,natural
+Qubani ka meetha,IAB8 Food & Drink,0.85,natural
+Sheer korma,IAB8 Food & Drink,0.85,natural
+Unni Appam,IAB8 Food & Drink,0.85,natural
+Kajjikaya,IAB8 Food & Drink,0.85,natural
+Anarsa,IAB8 Food & Drink,0.85,natural
+Basundi,IAB8 Food & Drink,0.85,natural
+Dhondas,IAB8 Food & Drink,0.85,natural
+Doodhpak,IAB8 Food & Drink,0.85,natural
+Mahim halwa,IAB8 Food & Drink,0.85,natural
+Modak,IAB8 Food & Drink,0.85,natural
+Shankarpali,IAB8 Food & Drink,0.85,natural
+Shrikhand,IAB8 Food & Drink,0.85,natural
+Sutar feni,IAB8 Food & Drink,0.85,natural
+Maach Jhol,IAB8 Food & Drink,0.85,natural
+Pork Bharta,IAB8 Food & Drink,0.85,natural
+Chak Hao Kheer,IAB8 Food & Drink,0.85,natural
+Galho,IAB8 Food & Drink,0.85,natural
+Aloo gobi,IAB8 Food & Drink,0.85,natural
+Aloo tikki,IAB8 Food & Drink,0.85,natural
+Aloo matar,IAB8 Food & Drink,0.85,natural
+Aloo methi,IAB8 Food & Drink,0.85,natural
+Aloo shimla mirch,IAB8 Food & Drink,0.85,natural
+Bhatura,IAB8 Food & Drink,0.85,natural
+Bhindi masala,IAB8 Food & Drink,0.85,natural
+Biryani,IAB8 Food & Drink,0.85,natural
+Butter chicken,IAB8 Food & Drink,0.85,natural
+Chana masala,IAB8 Food & Drink,0.85,natural
+Chapati,IAB8 Food & Drink,0.85,natural
+Chicken razala,IAB8 Food & Drink,0.85,natural
+Chicken Tikka masala,IAB8 Food & Drink,0.85,natural
+Chicken Tikka,IAB8 Food & Drink,0.85,natural
+Chole bhature,IAB8 Food & Drink,0.85,natural
+Daal baati churma,IAB8 Food & Drink,0.85,natural
+Daal puri,IAB8 Food & Drink,0.85,natural
+Dal makhani,IAB8 Food & Drink,0.85,natural
+Dal tadka,IAB8 Food & Drink,0.85,natural
+Dum aloo,IAB8 Food & Drink,0.85,natural
+Poha,IAB8 Food & Drink,0.85,natural
+Fara Central,IAB8 Food & Drink,0.85,natural
+Kachori,IAB8 Food & Drink,0.85,natural
+Kadai paneer,IAB8 Food & Drink,0.85,natural
+Kadhi pakoda,IAB8 Food & Drink,0.85,natural
+Karela bharta,IAB8 Food & Drink,0.85,natural
+Khichdi -,IAB8 Food & Drink,0.85,natural
+Kofta,IAB8 Food & Drink,0.85,natural
+Kulfi falooda -,IAB8 Food & Drink,0.85,natural
+Lauki ke kofte,IAB8 Food & Drink,0.85,natural
+Lauki ki subji -,IAB8 Food & Drink,0.85,natural
+Litti chokha,IAB8 Food & Drink,0.85,natural
+Makki di roti sarson da saag,IAB8 Food & Drink,0.85,natural
+Misi roti,IAB8 Food & Drink,0.85,natural
+Mushroom do pyaza,IAB8 Food & Drink,0.85,natural
+Mushroom matar,IAB8 Food & Drink,0.85,natural
+Naan,IAB8 Food & Drink,0.85,natural
+Navrattan korma,IAB8 Food & Drink,0.85,natural
+Palak paneer,IAB8 Food & Drink,0.85,natural
+Paneer butter masala,IAB8 Food & Drink,0.85,natural
+Paneer tikka masala,IAB8 Food & Drink,0.85,natural
+Pani puri -,IAB8 Food & Drink,0.85,natural
+Panjeeri nan,IAB8 Food & Drink,0.85,natural
+Papad -,IAB8 Food & Drink,0.85,natural
+Paratha,IAB8 Food & Drink,0.85,natural
+Pattor,IAB8 Food & Drink,0.85,natural
+Pindi chana,IAB8 Food & Drink,0.85,natural
+Rajma chaval,IAB8 Food & Drink,0.85,natural
+Rongi,IAB8 Food & Drink,0.85,natural
+Samosa -,IAB8 Food & Drink,0.85,natural
+Sattu ki roti,IAB8 Food & Drink,0.85,natural
+Shahi paneer,IAB8 Food & Drink,0.85,natural
+Shahi tukra,IAB8 Food & Drink,0.85,natural
+Vegetable jalfrezi,IAB8 Food & Drink,0.85,natural
+Tandoori Chicken,IAB8 Food & Drink,0.85,natural
+Tandoori Fish Tikka,IAB8 Food & Drink,0.85,natural
+Attu,IAB8 Food & Drink,0.85,natural
+Avial,IAB8 Food & Drink,0.85,natural
+Bisi bele bath,IAB8 Food & Drink,0.85,natural
+Currivepillai sadam,IAB8 Food & Drink,0.85,natural
+Dosa,IAB8 Food & Drink,0.85,natural
+Idiappam,IAB8 Food & Drink,0.85,natural
+Idli,IAB8 Food & Drink,0.85,natural
+Kanji,IAB8 Food & Drink,0.85,natural
+Kaara kozhambu,IAB8 Food & Drink,0.85,natural
+Keerai kootu,IAB8 Food & Drink,0.85,natural
+Keerai masiyal,IAB8 Food & Drink,0.85,natural
+Keerai sadam,IAB8 Food & Drink,0.85,natural
+Keerai poriyal,IAB8 Food & Drink,0.85,natural
+Beef Fry,IAB8 Food & Drink,0.85,natural
+Kootu,IAB8 Food & Drink,0.85,natural
+Kos kootu,IAB8 Food & Drink,0.85,natural
+Koshambri,IAB8 Food & Drink,0.85,natural
+Kothamali sadam,IAB8 Food & Drink,0.85,natural
+Kuzhakkattai,IAB8 Food & Drink,0.85,natural
+Kuzhambu,IAB8 Food & Drink,0.85,natural
+Masala Dosa,IAB8 Food & Drink,0.85,natural
+Pachadi,IAB8 Food & Drink,0.85,natural
+Paniyaram,IAB8 Food & Drink,0.85,natural
+Papadum,IAB8 Food & Drink,0.85,natural
+Paravannam,IAB8 Food & Drink,0.85,natural
+Payasam,IAB8 Food & Drink,0.85,natural
+Paruppu sadam,IAB8 Food & Drink,0.85,natural
+Pesarattu,IAB8 Food & Drink,0.85,natural
+Poriyal,IAB8 Food & Drink,0.85,natural
+Puli sadam,IAB8 Food & Drink,0.85,natural
+Rasam,IAB8 Food & Drink,0.85,natural
+Puttu,IAB8 Food & Drink,0.85,natural
+Sambar,IAB8 Food & Drink,0.85,natural
+Sandige,IAB8 Food & Drink,0.85,natural
+Sevai,IAB8 Food & Drink,0.85,natural
+Thayir sadam,IAB8 Food & Drink,0.85,natural
+Theeyal,IAB8 Food & Drink,0.85,natural
+Uttapam,IAB8 Food & Drink,0.85,natural
+Vada,IAB8 Food & Drink,0.85,natural
+Chicken Varuval,IAB8 Food & Drink,0.85,natural
+Upma -,IAB8 Food & Drink,0.85,natural
+Amti,IAB8 Food & Drink,0.85,natural
+Zunka,IAB8 Food & Drink,0.85,natural
+Kolim Jawla,IAB8 Food & Drink,0.85,natural
+Saath,IAB8 Food & Drink,0.85,natural
+Bajri no rotlo,IAB8 Food & Drink,0.85,natural
+Coconut vadi,IAB8 Food & Drink,0.85,natural
+Bhakri,IAB8 Food & Drink,0.85,natural
+Bombil fry,IAB8 Food & Drink,0.85,natural
+Chakali,IAB8 Food & Drink,0.85,natural
+Chevdo,IAB8 Food & Drink,0.85,natural
+Chorafali,IAB8 Food & Drink,0.85,natural
+Copra paak,IAB8 Food & Drink,0.85,natural
+Daal Dhokli,IAB8 Food & Drink,0.85,natural
+Kutchi dabeli,IAB8 Food & Drink,0.85,natural
+Dahi vada,IAB8 Food & Drink,0.85,natural
+Dalithoy,IAB8 Food & Drink,0.85,natural
+Dhokla,IAB8 Food & Drink,0.85,natural
+Dudhi halwa,IAB8 Food & Drink,0.85,natural
+Gatta curry,IAB8 Food & Drink,0.85,natural
+Gud papdi,IAB8 Food & Drink,0.85,natural
+Ghooghra,IAB8 Food & Drink,0.85,natural
+Handwo,IAB8 Food & Drink,0.85,natural
+Halvasan,IAB8 Food & Drink,0.85,natural
+Jeera Aloo,IAB8 Food & Drink,0.85,natural
+Kansar,IAB8 Food & Drink,0.85,natural
+Keri no ras,IAB8 Food & Drink,0.85,natural
+Khakhra,IAB8 Food & Drink,0.85,natural
+Khandvi,IAB8 Food & Drink,0.85,natural
+Kombdi vade,IAB8 Food & Drink,0.85,natural
+Laapsi Central,IAB8 Food & Drink,0.85,natural
+Koshimbir,IAB8 Food & Drink,0.85,natural
+Methi na Gota,IAB8 Food & Drink,0.85,natural
+Mohanthal,IAB8 Food & Drink,0.85,natural
+Muthiya,IAB8 Food & Drink,0.85,natural
+Patra,IAB8 Food & Drink,0.85,natural
+Pav Bhaji,IAB8 Food & Drink,0.85,natural
+Puri Bhaji,IAB8 Food & Drink,0.85,natural
+Sabudana Khichadi,IAB8 Food & Drink,0.85,natural
+Sev khamani,IAB8 Food & Drink,0.85,natural
+Sev tameta,IAB8 Food & Drink,0.85,natural
+Namakpara,IAB8 Food & Drink,0.85,natural
+Sukhdi,IAB8 Food & Drink,0.85,natural
+Surnoli,IAB8 Food & Drink,0.85,natural
+Thalipeeth,IAB8 Food & Drink,0.85,natural
+Undhiyu,IAB8 Food & Drink,0.85,natural
+Veg Kolhapuri,IAB8 Food & Drink,0.85,natural
+Vindaloo,IAB8 Food & Drink,0.85,natural
+Lilva Kachori,IAB8 Food & Drink,0.85,natural
+Mag Dhokli,IAB8 Food & Drink,0.85,natural
+Khichu,IAB8 Food & Drink,0.85,natural
+Thepla,IAB8 Food & Drink,0.85,natural
+Farsi Puri,IAB8 Food & Drink,0.85,natural
+Khaman,IAB8 Food & Drink,0.85,natural
+Turiya Patra Vatana sabji,IAB8 Food & Drink,0.85,natural
+Churma Ladoo,IAB8 Food & Drink,0.85,natural
+Cheera Doi,IAB8 Food & Drink,0.85,natural
+Gheela Pitha,IAB8 Food & Drink,0.85,natural
+Khar,IAB8 Food & Drink,0.85,natural
+Kumol Sawul,IAB8 Food & Drink,0.85,natural
+Luchi,IAB8 Food & Drink,0.85,natural
+Alu Pitika,IAB8 Food & Drink,0.85,natural
+Masor tenga,IAB8 Food & Drink,0.85,natural
+Bengena Pitika,IAB8 Food & Drink,0.85,natural
+Bilahi Maas,IAB8 Food & Drink,0.85,natural
+Black rice,IAB8 Food & Drink,0.85,natural
+Bora Sawul,IAB8 Food & Drink,0.85,natural
+Brown Rice -,IAB8 Food & Drink,0.85,natural
+Chingri malai curry,IAB8 Food & Drink,0.85,natural
+Goja,IAB8 Food & Drink,0.85,natural
+Hando Guri,IAB8 Food & Drink,0.85,natural
+Haq Maas,IAB8 Food & Drink,0.85,natural
+Chingri Bhape,IAB8 Food & Drink,0.85,natural
+Kabiraji,IAB8 Food & Drink,0.85,natural
+Khorisa,IAB8 Food & Drink,0.85,natural
+Koldil Chicken,IAB8 Food & Drink,0.85,natural
+Konir Dom,IAB8 Food & Drink,0.85,natural
+Koldil Duck,IAB8 Food & Drink,0.85,natural
+Masor Koni,IAB8 Food & Drink,0.85,natural
+Mishti Chholar Dal,IAB8 Food & Drink,0.85,natural
+Pakhala,IAB8 Food & Drink,0.85,natural
+Pani Pitha,IAB8 Food & Drink,0.85,natural
+Payokh,IAB8 Food & Drink,0.85,natural
+Prawn malai curry,IAB8 Food & Drink,0.85,natural
+Red Rice -,IAB8 Food & Drink,0.85,natural
+Shukto,IAB8 Food & Drink,0.85,natural
+Til Pitha,IAB8 Food & Drink,0.85,natural
+Bebinca,IAB8 Food & Drink,0.85,natural
+Shufta,IAB8 Food & Drink,0.85,natural
+Mawa Bati Central,IAB8 Food & Drink,0.85,natural
+Pinaca,IAB8 Food & Drink,0.85,natural
+McDonald's Quick Service,IAB8 Food & Drink,0.85,natural
+Starbucks Quick Service,IAB8 Food & Drink,0.85,natural
+Chick-fil-A Quick Service,IAB8 Food & Drink,0.85,natural
+Taco Bell Quick Service,IAB8 Food & Drink,0.85,natural
+Wendy's Quick Service,IAB8 Food & Drink,0.85,natural
+Burger King Quick Service,IAB8 Food & Drink,0.85,natural
+Dunkin' Quick Service,IAB8 Food & Drink,0.85,natural
+Subway Quick Service,IAB8 Food & Drink,0.85,natural
+Domino's Quick Service,IAB8 Food & Drink,0.85,natural
+Chipotle Mexican Grill Fast Casual,IAB8 Food & Drink,0.85,natural
+Sonic Drive-In Quick Service,IAB8 Food & Drink,0.85,natural
+Pizza Hut Quick Service,IAB8 Food & Drink,0.85,natural
+Panera Bread Fast Casual,IAB8 Food & Drink,0.85,natural
+KFC Quick Service,IAB8 Food & Drink,0.85,natural
+Popeyes Louisiana Kitchen Quick Service,IAB8 Food & Drink,0.85,natural
+Arby's Quick Service,IAB8 Food & Drink,0.85,natural
+Dairy Queen Quick Service,IAB8 Food & Drink,0.85,natural
+Little Caesars Quick Service,IAB8 Food & Drink,0.85,natural
+Panda Express Fast Casual,IAB8 Food & Drink,0.85,natural
+Jack in the Box Quick Service,IAB8 Food & Drink,0.85,natural
+Olive Garden Casual Dining,IAB8 Food & Drink,0.85,natural
+Papa John's Quick Service,IAB8 Food & Drink,0.85,natural
+Buffalo Wild Wings Casual Dining,IAB8 Food & Drink,0.85,natural
+Applebee's Casual Dining,IAB8 Food & Drink,0.85,natural
+Chili's Grill & Bar Casual Dining,IAB8 Food & Drink,0.85,natural
+Whataburger Quick Service,IAB8 Food & Drink,0.85,natural
+Texas Roadhouse Casual Dining,IAB8 Food & Drink,0.85,natural
+IHOP Midscale,IAB8 Food & Drink,0.85,natural
+Outback Steakhouse Casual Dining,IAB8 Food & Drink,0.85,natural
+Zaxby's Fast Casual,IAB8 Food & Drink,0.85,natural
+Culver's Quick Service,IAB8 Food & Drink,0.85,natural
+Jimmy John's Gourmet Sandwiches Fast Casual,IAB8 Food & Drink,0.85,natural
+Wingstop Fast Casual,IAB8 Food & Drink,0.85,natural
+Hardee's Quick Service,IAB8 Food & Drink,0.85,natural
+Cracker Barrel Midscale,IAB8 Food & Drink,0.85,natural
+Red Lobster Casual Dining,IAB8 Food & Drink,0.85,natural
+Denny's Midscale,IAB8 Food & Drink,0.85,natural
+Raising Cane's Chicken Fingers Fast Casual,IAB8 Food & Drink,0.85,natural
+Five Guys Fast Casual,IAB8 Food & Drink,0.85,natural
+Jersey Mike's Subs Fast Casual,IAB8 Food & Drink,0.85,natural
+LongHorn Steakhouse Casual Dining,IAB8 Food & Drink,0.85,natural
+The Cheesecake Factory Casual Dining,IAB8 Food & Drink,0.85,natural
+Bojangles Quick Service,IAB8 Food & Drink,0.85,natural
+Carl's Jr. Quick Service,IAB8 Food & Drink,0.85,natural
+In-N-Out Burger Quick Service,IAB8 Food & Drink,0.85,natural
+Red Robin Casual Dining,IAB8 Food & Drink,0.85,natural
+El Pollo Loco Quick Service,IAB8 Food & Drink,0.85,natural
+Del Taco Quick Service,IAB8 Food & Drink,0.85,natural
+Firehouse Subs Fast Casual,IAB8 Food & Drink,0.85,natural
+Qdoba Mexican Eats Fast Casual,IAB8 Food & Drink,0.85,natural
+Papa Murphy's Pizza Quick Service,IAB8 Food & Drink,0.85,natural
+BJ's Restaurant & Brewhouse Casual Dining,IAB8 Food & Drink,0.85,natural
+Steak 'n Shake Quick Service,IAB8 Food & Drink,0.85,natural
+Marco's Pizza Quick Service,IAB8 Food & Drink,0.85,natural
+Church's Chicken Quick Service,IAB8 Food & Drink,0.85,natural
+Waffle House Midscale,IAB8 Food & Drink,0.85,natural
+Krispy Kreme Quick Service,IAB8 Food & Drink,0.85,natural
+Tropical Smoothie Cafe Quick Service,IAB8 Food & Drink,0.85,natural
+TGI Fridays Casual Dining,IAB8 Food & Drink,0.85,natural
+Golden Corral Quick Service,IAB8 Food & Drink,0.85,natural
+Freddy's Frozen Custard & Steakburgers Fast Casual,IAB8 Food & Drink,0.85,natural
+McAlister's Deli Fast Casual,IAB8 Food & Drink,0.85,natural
+Baskin-Robbins Quick Service,IAB8 Food & Drink,0.85,natural
+Hooters Casual Dining,IAB8 Food & Drink,0.85,natural
+P.F. Chang's Casual Dining,IAB8 Food & Drink,0.85,natural
+Dutch Bros Coffee Quick Service,IAB8 Food & Drink,0.85,natural
+White Castle Quick Service,IAB8 Food & Drink,0.85,natural
+Moe's Southwest Grill Fast Casual,IAB8 Food & Drink,0.85,natural
+Checkers Drive-In Restaurants Quick Service,IAB8 Food & Drink,0.85,natural
+Captain D's Seafood Kitchen Quick Service,IAB8 Food & Drink,0.85,natural
+Shake Shack Fast Casual,IAB8 Food & Drink,0.85,natural
+Carrabba's Italian Grill Casual Dining,IAB8 Food & Drink,0.85,natural
+Tim Hortons Quick Service,IAB8 Food & Drink,0.85,natural
+Cheddar's Scratch Kitchen Casual Dining,IAB8 Food & Drink,0.85,natural
+Smoothie King Quick Service,IAB8 Food & Drink,0.85,natural
+Noodles & Company Fast Casual,IAB8 Food & Drink,0.85,natural
+The Habit Burger Grill Fast Casual,IAB8 Food & Drink,0.85,natural
+MOD Pizza Fast Casual,IAB8 Food & Drink,0.85,natural
+Jack's Quick Service,IAB8 Food & Drink,0.85,natural
+Portillo's Fast Casual,IAB8 Food & Drink,0.85,natural
+Hungry Howie's Pizza Quick Service,IAB8 Food & Drink,0.85,natural
+Bob Evans Midscale,IAB8 Food & Drink,0.85,natural
+Round Table Pizza Quick Service,IAB8 Food & Drink,0.85,natural
+Charleys Philly Steaks Quick Service,IAB8 Food & Drink,0.85,natural
+Ruth's Chris Steak House Fine Dining,IAB8 Food & Drink,0.85,natural
+Yard House Casual Dining,IAB8 Food & Drink,0.85,natural
+Einstein Bros. Bagels Fast Casual,IAB8 Food & Drink,0.85,natural
+First Watch Midscale,IAB8 Food & Drink,0.85,natural
+California Pizza Kitchen Casual Dining,IAB8 Food & Drink,0.85,natural
+Jamba Quick Service,IAB8 Food & Drink,0.85,natural
+Jason's Deli Fast Casual,IAB8 Food & Drink,0.85,natural
+Bonefish Grill Casual Dining,IAB8 Food & Drink,0.85,natural
+Taco John's Quick Service,IAB8 Food & Drink,0.85,natural
+Boston Market Fast Casual,IAB8 Food & Drink,0.85,natural
+Pollo Tropical Fast Casual,IAB8 Food & Drink,0.85,natural
+Auntie Anne's Quick Service,IAB8 Food & Drink,0.85,natural
+Cold Stone Creamery Quick Service,IAB8 Food & Drink,0.85,natural
+Jet's Pizza Quick Service,IAB8 Food & Drink,0.85,natural
+Maggiano's Little Italy Casual Dining,IAB8 Food & Drink,0.85,natural
+The Capital Grille Fast Casual,IAB8 Food & Drink,0.85,natural
+Almond Cookies Almonds Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Almond Cookies Almonds Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Chicken Noodle Soup Chicken broth None None Salt,IAB8 Food & Drink,0.85,natural
+Chicken Noodle Soup Chicken broth None None Salt,IAB8 Food & Drink,0.85,natural
+Cheddar Cheese Cheese None None Salt,IAB8 Food & Drink,0.85,natural
+"Ranch Dressing Buttermilk Sugar Vegetable oil Garlic, herbs",IAB8 Food & Drink,0.85,natural
+Caramel Popcorn Popcorn Sugar Butter Salt,IAB8 Food & Drink,0.85,natural
+Caesar Salad Romaine lettuce None Olive oil Parmesan cheese,IAB8 Food & Drink,0.85,natural
+"Caesar Wrap Grilled chicken None Caesar dressing Lettuce, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Strawberry Smoothie Strawberries Honey Yogurt (milk, cultures) None",IAB8 Food & Drink,0.85,natural
+Cheese Pizza Cheese None None Tomato sauce,IAB8 Food & Drink,0.85,natural
+"Margherita Pizza Cheese None None Tomato sauce, basil",IAB8 Food & Drink,0.85,natural
+"Mashed Potatoes Potatoes None Butter Salt, Pepper",IAB8 Food & Drink,0.85,natural
+"Greek Yogurt Yogurt (milk, cultures) None None None",IAB8 Food & Drink,0.85,natural
+"Caesar Salad Wrap Grilled chicken None Caesar dressing Lettuce, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Caprese Salad Tomatoes None Olive oil Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+"Berry Smoothie Mixed berries Sugar Yogurt (milk, cultures) None",IAB8 Food & Drink,0.85,natural
+Caesar Salad Romaine lettuce None Olive oil Caesar dressing,IAB8 Food & Drink,0.85,natural
+"Berry Parfait Mixed berries Sugar Yogurt (milk, cultures) Granola",IAB8 Food & Drink,0.85,natural
+"Chicken Alfredo Chicken None Butter Cream, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Pesto Pizza Pesto sauce None None Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+"Beef Stroganoff Beef None Sour cream Mushroom, onion",IAB8 Food & Drink,0.85,natural
+"Banana Smoothie Bananas Honey Yogurt (milk, cultures) None",IAB8 Food & Drink,0.85,natural
+"Watermelon Salad Watermelon None None Feta cheese, mint",IAB8 Food & Drink,0.85,natural
+"Chicken Parmesan Chicken None Bread crumbs, Parmesan cheese Marinara sauce",IAB8 Food & Drink,0.85,natural
+"Mango Lassi Mango Sugar Yogurt (milk, cultures) Cardamom",IAB8 Food & Drink,0.85,natural
+"Greek Salad Cucumbers None Olive oil Feta cheese, olives",IAB8 Food & Drink,0.85,natural
+Butternut Squash Soup Butternut squash None Butter Vegetable broth,IAB8 Food & Drink,0.85,natural
+"Margherita Pasta Pasta None Olive oil Fresh tomatoes, mozzarella",IAB8 Food & Drink,0.85,natural
+"Greek Gyro Wrap Lamb None None Tzatziki sauce, tomatoes, onions",IAB8 Food & Drink,0.85,natural
+"Spinach and Feta Stuffed Chicken Chicken None Olive oil Spinach, feta cheese",IAB8 Food & Drink,0.85,natural
+"Chicken Fettuccine Alfredo Chicken None Butter Cream, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Caprese Sandwich Tomatoes None Olive oil Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+"Mushroom Risotto Mushrooms None Butter Arborio rice, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Greek Yogurt Parfait Greek yogurt Honey None Granola, mixed berries",IAB8 Food & Drink,0.85,natural
+"Eggplant Parmesan Eggplant None Olive oil Marinara sauce, cheese",IAB8 Food & Drink,0.85,natural
+"Banana Pudding Bananas Sugar Milk Vanilla pudding mix, cookies",IAB8 Food & Drink,0.85,natural
+"Margherita Pizza Pizza dough None Olive oil Mozzarella cheese, tomatoes, basil",IAB8 Food & Drink,0.85,natural
+"Chicken Caesar Wrap Chicken None Caesar dressing Romaine lettuce, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Greek Spanakopita Spinach None Olive oil Feta cheese, phyllo dough",IAB8 Food & Drink,0.85,natural
+Mushroom Soup Mushrooms None Butter Vegetable broth,IAB8 Food & Drink,0.85,natural
+"Greek Yogurt Yogurt (milk, cultures) Honey None None",IAB8 Food & Drink,0.85,natural
+"Spinach Artichoke Dip Spinach None Cream cheese, sour cream Parmesan cheese, garlic",IAB8 Food & Drink,0.85,natural
+Chocolate Mousse Chocolate Sugar Heavy cream Vanilla extract,IAB8 Food & Drink,0.85,natural
+"Stuffed Portobello Mushrooms Portobello mushrooms None None Cheese, breadcrumbs",IAB8 Food & Drink,0.85,natural
+"Caprese Salad Tomatoes None Olive oil Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+Tandoori Chicken Chicken None Yogurt Tandoori spices,IAB8 Food & Drink,0.85,natural
+"Beef Stroganoff Beef None Sour cream Mushrooms, onions",IAB8 Food & Drink,0.85,natural
+Strawberry Smoothie Strawberries Sugar Yogurt Milk,IAB8 Food & Drink,0.85,natural
+"Baked Garlic Parmesan Chicken Chicken None Butter Parmesan cheese, garlic",IAB8 Food & Drink,0.85,natural
+"Mushroom and Goat Cheese Flatbread Mushrooms None Olive oil Goat cheese, herbs",IAB8 Food & Drink,0.85,natural
+"Margherita Pasta Pasta None Olive oil Mozzarella cheese, tomatoes, basil",IAB8 Food & Drink,0.85,natural
+"Pumpkin Soup Pumpkin None Butter Nutmeg, cream",IAB8 Food & Drink,0.85,natural
+"Butternut Squash Soup Butternut squash None Butter Nutmeg, cream",IAB8 Food & Drink,0.85,natural
+"Caprese Skewers Tomatoes None Olive oil Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+"Chicken Piccata Chicken None Butter Lemon, capers",IAB8 Food & Drink,0.85,natural
+Berry Parfait Berries Honey Yogurt Granola,IAB8 Food & Drink,0.85,natural
+"Stuffed Mushrooms Mushrooms None None Cheese, breadcrumbs",IAB8 Food & Drink,0.85,natural
+"Spinach Artichoke Dip Spinach None Cream cheese, sour cream Parmesan cheese, garlic",IAB8 Food & Drink,0.85,natural
+Chocolate Mousse Chocolate Sugar Heavy cream Vanilla extract,IAB8 Food & Drink,0.85,natural
+"Stuffed Portobello Mushrooms Portobello mushrooms None None Cheese, breadcrumbs",IAB8 Food & Drink,0.85,natural
+"Caprese Salad Tomatoes None Olive oil Mozzarella cheese, basil",IAB8 Food & Drink,0.85,natural
+Tandoori Chicken Chicken None Yogurt Tandoori spices,IAB8 Food & Drink,0.85,natural
+"Beef Stroganoff Beef None Sour cream Mushrooms, onions",IAB8 Food & Drink,0.85,natural
+Strawberry Smoothie Strawberries Sugar Yogurt Milk,IAB8 Food & Drink,0.85,natural
+"Baked Garlic Parmesan Chicken Chicken None Butter Parmesan cheese, garlic",IAB8 Food & Drink,0.85,natural
+"Butter Chicken Chicken Sugar Butter Tomato sauce, cream",IAB8 Food & Drink,0.85,natural
+"Palak Paneer Spinach None Ghee Paneer, spices",IAB8 Food & Drink,0.85,natural
+Tandoori Chicken Chicken None Yogurt Tandoori spices,IAB8 Food & Drink,0.85,natural
+"Rogan Josh Lamb None Ghee Yogurt, Kashmiri red chili",IAB8 Food & Drink,0.85,natural
+"Paneer Tikka Paneer None Oil Tikka masala, spices",IAB8 Food & Drink,0.85,natural
+"Dal Makhani Lentils None Ghee Cream, spices",IAB8 Food & Drink,0.85,natural
+Malai Kofta Cottage cheese None Ghee Creamy tomato sauce,IAB8 Food & Drink,0.85,natural
+"Chicken Tikka Masala Chicken Sugar Ghee Tomato sauce, cream",IAB8 Food & Drink,0.85,natural
+Gulab Jamun Milk solids Sugar Ghee Cardamom syrup,IAB8 Food & Drink,0.85,natural
+"Chicken Korma Chicken None Ghee Creamy sauce, spices",IAB8 Food & Drink,0.85,natural
+Malai Chicken Tikka Chicken None Cream Spices,IAB8 Food & Drink,0.85,natural
+"Dahi Vada Lentil dumplings None Yogurt Tamarind chutney, spices",IAB8 Food & Drink,0.85,natural
+Chicken Malai Tikka Chicken None Cream Spices,IAB8 Food & Drink,0.85,natural
+"Matar Paneer Paneer None Ghee Peas, spices",IAB8 Food & Drink,0.85,natural
+"Rasgulla Paneer Sugar None Rose water, syrup",IAB8 Food & Drink,0.85,natural
+"Rabri Milk Sugar Ghee Cardamom, nuts",IAB8 Food & Drink,0.85,natural
+"Chicken Korma Chicken None Ghee Creamy sauce, spices",IAB8 Food & Drink,0.85,natural
+Gulab Jamun Milk solids Sugar Ghee Cardamom syrup,IAB8 Food & Drink,0.85,natural
+"Rogan Josh Lamb None Ghee Yogurt, Kashmiri red chili",IAB8 Food & Drink,0.85,natural
+"Kheer Rice Sugar Ghee Cardamom, nuts",IAB8 Food & Drink,0.85,natural
+"Rasmalai Paneer Sugar Milk, Ghee Cardamom, nuts",IAB8 Food & Drink,0.85,natural
+Chicken Caesar Salad Chicken breast None Olive oil Parmesan cheese,IAB8 Food & Drink,0.85,natural
+Chocolate Mousse Chocolate Sugar Heavy cream Vanilla extract,IAB8 Food & Drink,0.85,natural
+"Quiche Lorraine Bacon None Heavy cream Cheese, eggs",IAB8 Food & Drink,0.85,natural
+"Chicken Piccata Chicken None Butter Lemon, capers",IAB8 Food & Drink,0.85,natural
+Chicken Tikka Masala Chicken None Ghee Tikka masala sauce,IAB8 Food & Drink,0.85,natural
+"Sweet Potato Casserole Sweet potatoes Brown sugar Butter Cinnamon, nutmeg",IAB8 Food & Drink,0.85,natural
+"Baked Brie Brie cheese None None Herbs, nuts",IAB8 Food & Drink,0.85,natural
+"French Onion Soup Onions None Butter Beef broth, cheese, bread",IAB8 Food & Drink,0.85,natural
+"Greek Gyro Lamb/Chicken None None Tzatziki sauce, vegetables",IAB8 Food & Drink,0.85,natural
+"French Onion Soup Onions None Butter Beef broth, cheese, bread",IAB8 Food & Drink,0.85,natural
+"Omelette Eggs None Butter Salt, pepper",IAB8 Food & Drink,0.85,natural
+"Egg Salad Eggs Mayonnaise None Celery, onion",IAB8 Food & Drink,0.85,natural
+"Egg Salad Eggs Mayonnaise None Celery, onion",IAB8 Food & Drink,0.85,natural
+Quiche Eggs None Cheese Vegetables,IAB8 Food & Drink,0.85,natural
+"Egg Salad Sandwich Eggs Mayonnaise None Celery, mustard",IAB8 Food & Drink,0.85,natural
+Egg Fried Rice Eggs None Sesame oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Fish Sticks Fish fillets None Vegetable oil Salt,IAB8 Food & Drink,0.85,natural
+Fish Sticks Fish fillets None Vegetable oil Salt,IAB8 Food & Drink,0.85,natural
+"Baked Salmon Salmon fillet None Olive oil Lemon, herbs",IAB8 Food & Drink,0.85,natural
+Teriyaki Salmon Salmon None Vegetable oil Teriyaki sauce,IAB8 Food & Drink,0.85,natural
+"Baked Salmon Salmon None Olive oil Lemon, herbs",IAB8 Food & Drink,0.85,natural
+"Lemon Dill Salmon Salmon None Olive oil Lemon, dill",IAB8 Food & Drink,0.85,natural
+"Baked Salmon Salmon None Olive oil Lemon, herbs",IAB8 Food & Drink,0.85,natural
+"Malabar Fish Curry Fish None Coconut oil Tamarind, spices",IAB8 Food & Drink,0.85,natural
+"Baked Cod Cod None Butter Lemon, herbs",IAB8 Food & Drink,0.85,natural
+"Baked Cod Cod None Butter Lemon, herbs",IAB8 Food & Drink,0.85,natural
+"Tuna Sandwich Tuna Mayonnaise None Salt, Pepper",IAB8 Food & Drink,0.85,natural
+"Tuna Salad Tuna Mayonnaise None Celery, onion",IAB8 Food & Drink,0.85,natural
+"Sushi Fish (salmon, tuna) Rice vinegar Sesame oil Soy sauce",IAB8 Food & Drink,0.85,natural
+"Teriyaki Salmon Salmon fillet Sugar Soy sauce Ginger, garlic",IAB8 Food & Drink,0.85,natural
+"Sushi Bowl Sushi rice None Soy sauce Raw fish, vegetables",IAB8 Food & Drink,0.85,natural
+"Honey Soy Glazed Salmon Salmon Honey Soy sauce Garlic, ginger",IAB8 Food & Drink,0.85,natural
+"Sushi Bowl Sushi rice None Soy sauce Raw fish, vegetables",IAB8 Food & Drink,0.85,natural
+"Honey Soy Glazed Salmon Salmon Honey Soy sauce Garlic, ginger",IAB8 Food & Drink,0.85,natural
+Milk Chocolate Sugar Cocoa butter Milk powder Vanilla extract,IAB8 Food & Drink,0.85,natural
+Milk Chocolate Sugar Cocoa butter Milk powder Vanilla extract,IAB8 Food & Drink,0.85,natural
+Vanilla Ice Cream Milk Sugar Cream Vanilla extract,IAB8 Food & Drink,0.85,natural
+"Vanilla Yogurt Yogurt (milk, cultures) Sugar None Vanilla extract",IAB8 Food & Drink,0.85,natural
+"Strawberry Yogurt Yogurt (milk, cultures) Sugar None Pectin",IAB8 Food & Drink,0.85,natural
+"Strawberry Yogurt Yogurt (milk, cultures) Sugar None Pectin",IAB8 Food & Drink,0.85,natural
+"Tomato Soup Tomatoes None None Salt, Sugar",IAB8 Food & Drink,0.85,natural
+Apple Apples None None None,IAB8 Food & Drink,0.85,natural
+"Tomato Soup Tomatoes None None Salt, Sugar",IAB8 Food & Drink,0.85,natural
+Apple Apples None None None,IAB8 Food & Drink,0.85,natural
+Orange Juice Oranges Sugar None None,IAB8 Food & Drink,0.85,natural
+Greek Salad Cucumber None Olive oil Lemon juice,IAB8 Food & Drink,0.85,natural
+Spaghetti Bolognese Ground beef Sugar Olive oil Tomato sauce,IAB8 Food & Drink,0.85,natural
+Honey Mustard Chicken Chicken breast Honey Mustard Vegetable oil,IAB8 Food & Drink,0.85,natural
+BBQ Ribs Pork ribs Brown sugar Vegetable oil BBQ sauce,IAB8 Food & Drink,0.85,natural
+"Quinoa Salad Quinoa None Olive oil Lemon juice, herbs",IAB8 Food & Drink,0.85,natural
+Vegetable Stir-Fry Mixed vegetables None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Beef Burger Ground beef None Vegetable oil Salt, Pepper",IAB8 Food & Drink,0.85,natural
+French Fries Potatoes None Vegetable oil Salt,IAB8 Food & Drink,0.85,natural
+Lemonade Lemon juice Sugar Water None,IAB8 Food & Drink,0.85,natural
+"Gazpacho Tomatoes None Olive oil Garlic, herbs",IAB8 Food & Drink,0.85,natural
+Beef Tacos Ground beef None Vegetable oil Taco seasoning,IAB8 Food & Drink,0.85,natural
+Lentil Soup Lentils None Olive oil Vegetables,IAB8 Food & Drink,0.85,natural
+Chicken Curry Chicken None Vegetable oil Curry powder,IAB8 Food & Drink,0.85,natural
+Ratatouille Eggplant None Olive oil Tomatoes,IAB8 Food & Drink,0.85,natural
+"Pesto Pasta Pasta None Olive oil Basil, garlic",IAB8 Food & Drink,0.85,natural
+Chicken Stir-Fry Chicken None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Veggie Burger Mixed vegetables None Vegetable oil Seasonings,IAB8 Food & Drink,0.85,natural
+Vegetable Soup Mixed vegetables None Olive oil Seasonings,IAB8 Food & Drink,0.85,natural
+Spinach Salad Spinach None Olive oil Balsamic vinegar,IAB8 Food & Drink,0.85,natural
+Chicken Enchiladas Chicken None Vegetable oil Enchilada sauce,IAB8 Food & Drink,0.85,natural
+Minestrone Soup Vegetables None Olive oil Tomato broth,IAB8 Food & Drink,0.85,natural
+"Salsa Tomatoes None None Onion, cilantro",IAB8 Food & Drink,0.85,natural
+"Lemon Garlic Chicken Chicken None Olive oil Lemon juice, garlic",IAB8 Food & Drink,0.85,natural
+"Pancetta Pasta Pasta None Pancetta Garlic, herbs",IAB8 Food & Drink,0.85,natural
+Chicken Teriyaki Chicken None Vegetable oil Teriyaki sauce,IAB8 Food & Drink,0.85,natural
+"Spinach Stuffed Chicken Chicken None Olive oil Spinach, garlic",IAB8 Food & Drink,0.85,natural
+Coconut Curry Chicken None Coconut milk Curry paste,IAB8 Food & Drink,0.85,natural
+Apple Cider Apples Sugar None Cinnamon,IAB8 Food & Drink,0.85,natural
+"Ratatouille Eggplant None Olive oil Tomatoes, zucchini",IAB8 Food & Drink,0.85,natural
+"Avocado Toast Avocado None Olive oil Salt, pepper",IAB8 Food & Drink,0.85,natural
+Beef Stir-Fry Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Black Bean Soup Black beans None Olive oil Vegetables,IAB8 Food & Drink,0.85,natural
+Beef Tacos Ground beef None Vegetable oil Taco seasoning,IAB8 Food & Drink,0.85,natural
+"Cucumber Salad Cucumber None Olive oil Lemon juice, dill",IAB8 Food & Drink,0.85,natural
+Fruit Salad Mixed fruits Sugar None Lemon juice,IAB8 Food & Drink,0.85,natural
+Sausage Pizza Sausage None None Mozzarella cheese,IAB8 Food & Drink,0.85,natural
+Chicken Fajitas Chicken None Vegetable oil Fajita seasoning,IAB8 Food & Drink,0.85,natural
+"Mango Salsa Mango None None Red onion, lime",IAB8 Food & Drink,0.85,natural
+Lentil Curry Lentils None Coconut milk Curry powder,IAB8 Food & Drink,0.85,natural
+Green Smoothie Spinach Honey Avocado Almond milk,IAB8 Food & Drink,0.85,natural
+"Stuffed Bell Peppers Bell peppers None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+Beef and Broccoli Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Cabbage Rolls Cabbage None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+Caramel Apple Apples Caramel None None,IAB8 Food & Drink,0.85,natural
+"Sweet Potato Fries Sweet potatoes None Vegetable oil Salt, paprika",IAB8 Food & Drink,0.85,natural
+Beef Chili Ground beef None None Chili powder,IAB8 Food & Drink,0.85,natural
+Pesto Chicken Chicken None Pesto sauce None,IAB8 Food & Drink,0.85,natural
+Beef Burritos Ground beef None Vegetable oil Taco seasoning,IAB8 Food & Drink,0.85,natural
+Chicken Shawarma Chicken None Olive oil Shawarma spices,IAB8 Food & Drink,0.85,natural
+"Stuffed Mushrooms Mushrooms None None Garlic, herbs",IAB8 Food & Drink,0.85,natural
+"Zucchini Noodles Zucchini None Olive oil Garlic, herbs",IAB8 Food & Drink,0.85,natural
+"Sweet and Sour Chicken Chicken Sugar Vegetable oil Pineapple, bell peppers",IAB8 Food & Drink,0.85,natural
+Beef Kabobs Beef None Olive oil Seasonings,IAB8 Food & Drink,0.85,natural
+"Tomato Bruschetta Tomatoes None Olive oil Garlic, basil",IAB8 Food & Drink,0.85,natural
+"Quinoa Stuffed Peppers Quinoa None Olive oil Vegetables, spices",IAB8 Food & Drink,0.85,natural
+"Veggie Omelette Mixed vegetables None Olive oil Salt, pepper",IAB8 Food & Drink,0.85,natural
+"Ratatouille Vegetables None Olive oil Herbs, garlic",IAB8 Food & Drink,0.85,natural
+Beef Tacos Beef None Vegetable oil Taco seasoning,IAB8 Food & Drink,0.85,natural
+"Quinoa Salad Quinoa None Olive oil Lemon juice, vegetables",IAB8 Food & Drink,0.85,natural
+Vegetable Stir-Fry Mixed vegetables None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Buffalo Wings Chicken wings None Vegetable oil Buffalo sauce,IAB8 Food & Drink,0.85,natural
+Lentil Soup Lentils None Olive oil Vegetables,IAB8 Food & Drink,0.85,natural
+"Stuffed Cabbage Rolls Cabbage None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+Orange Chicken Chicken None Vegetable oil Orange sauce,IAB8 Food & Drink,0.85,natural
+"Honey Mustard Chicken Chicken Honey Olive oil Mustard, herbs",IAB8 Food & Drink,0.85,natural
+"Lentil Salad Lentils None Olive oil Lemon juice, vegetables",IAB8 Food & Drink,0.85,natural
+"Cilantro Lime Chicken Chicken None Olive oil Cilantro, lime",IAB8 Food & Drink,0.85,natural
+Ratatouille Pizza Pizza dough None Olive oil Ratatouille vegetables,IAB8 Food & Drink,0.85,natural
+Chicken Curry Chicken None Coconut milk Curry powder,IAB8 Food & Drink,0.85,natural
+"Pesto Pasta Salad Pasta None Pesto sauce Tomatoes, vegetables",IAB8 Food & Drink,0.85,natural
+Beef and Mushroom Stir-Fry Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Tofu Curry Tofu None Coconut milk Curry paste,IAB8 Food & Drink,0.85,natural
+"Stuffed Bell Peppers Bell peppers None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+"Stuffed Bell Peppers Bell peppers None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+"Greek Moussaka Eggplant None Olive oil Ground meat, potatoes",IAB8 Food & Drink,0.85,natural
+Brussels Sprouts Brussels sprouts None Olive oil Balsamic glaze,IAB8 Food & Drink,0.85,natural
+Baked Chicken Wings Chicken wings None Olive oil Seasonings,IAB8 Food & Drink,0.85,natural
+Mango Coconut Popsicles Mango Sugar Coconut milk None,IAB8 Food & Drink,0.85,natural
+Ratatouille Pasta Pasta None Olive oil Ratatouille vegetables,IAB8 Food & Drink,0.85,natural
+"Chicken Noodle Soup Chicken None Vegetable oil Noodles, vegetables",IAB8 Food & Drink,0.85,natural
+"Mango Salsa Mango None None Lime juice, cilantro",IAB8 Food & Drink,0.85,natural
+Spinach Salad Spinach None Olive oil Balsamic vinaigrette,IAB8 Food & Drink,0.85,natural
+Caramelized Onions Onions Sugar Butter None,IAB8 Food & Drink,0.85,natural
+Beef Stir-Fry Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Strawberry Spinach Salad Spinach None None Strawberries, vinaigrette",IAB8 Food & Drink,0.85,natural
+"Ratatouille Tart Vegetables None Olive oil Puff pastry, herbs",IAB8 Food & Drink,0.85,natural
+Honey Glazed Carrots Carrots Honey Butter None,IAB8 Food & Drink,0.85,natural
+"Cucumber Salad Cucumbers None Olive oil Vinegar, herbs",IAB8 Food & Drink,0.85,natural
+"Greek Lemon Potatoes Potatoes None Olive oil Lemon juice, herbs",IAB8 Food & Drink,0.85,natural
+"Stuffed Tomatoes Tomatoes None None Herbs, breadcrumbs",IAB8 Food & Drink,0.85,natural
+"Avocado Toast Avocado None Olive oil Salt, pepper",IAB8 Food & Drink,0.85,natural
+Lemon Pepper Chicken Chicken None Olive oil Lemon pepper seasoning,IAB8 Food & Drink,0.85,natural
+Chicken Shawarma Chicken None Olive oil Shawarma seasoning,IAB8 Food & Drink,0.85,natural
+"Lemon Herb Roasted Chicken Chicken None Olive oil Lemon, herbs",IAB8 Food & Drink,0.85,natural
+"Greek Lemon Chicken Chicken None Olive oil Lemon juice, herbs",IAB8 Food & Drink,0.85,natural
+Roasted Brussels Sprouts Brussels sprouts None Olive oil Balsamic glaze,IAB8 Food & Drink,0.85,natural
+Beef Burritos Beef None Vegetable oil Burrito seasoning,IAB8 Food & Drink,0.85,natural
+"Raspberry Spinach Salad Spinach None None Raspberries, vinaigrette",IAB8 Food & Drink,0.85,natural
+"Chicken and Rice Soup Chicken None Vegetable oil Rice, vegetables",IAB8 Food & Drink,0.85,natural
+Chicken Fajitas Chicken None Vegetable oil Fajita seasoning,IAB8 Food & Drink,0.85,natural
+Vegetable Curry Mixed vegetables None Coconut milk Curry paste,IAB8 Food & Drink,0.85,natural
+Ratatouille Vegetables None Olive oil Herbs,IAB8 Food & Drink,0.85,natural
+"Pesto Pasta Salad Pasta None Pesto sauce Tomatoes, vegetables",IAB8 Food & Drink,0.85,natural
+Beef and Mushroom Stir-Fry Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Tofu Curry Tofu None Coconut milk Curry paste,IAB8 Food & Drink,0.85,natural
+"Stuffed Bell Peppers Bell peppers None Olive oil Ground meat, rice",IAB8 Food & Drink,0.85,natural
+"Greek Moussaka Eggplant None Olive oil Ground meat, potatoes",IAB8 Food & Drink,0.85,natural
+Brussels Sprouts Brussels sprouts None Olive oil Balsamic glaze,IAB8 Food & Drink,0.85,natural
+Baked Chicken Wings Chicken wings None Olive oil Seasonings,IAB8 Food & Drink,0.85,natural
+Mango Coconut Popsicles Mango Sugar Coconut milk None,IAB8 Food & Drink,0.85,natural
+Ratatouille Pasta Pasta None Olive oil Ratatouille vegetables,IAB8 Food & Drink,0.85,natural
+"Chicken Noodle Soup Chicken None Vegetable oil Noodles, vegetables",IAB8 Food & Drink,0.85,natural
+"Mango Salsa Mango None None Lime juice, cilantro",IAB8 Food & Drink,0.85,natural
+Spinach Salad Spinach None Olive oil Balsamic vinaigrette,IAB8 Food & Drink,0.85,natural
+Caramelized Onions Onions Sugar Butter None,IAB8 Food & Drink,0.85,natural
+Beef Stir-Fry Beef None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Strawberry Spinach Salad Spinach None None Strawberries, vinaigrette",IAB8 Food & Drink,0.85,natural
+"Ratatouille Tart Vegetables None Olive oil Puff pastry, herbs",IAB8 Food & Drink,0.85,natural
+Honey Glazed Carrots Carrots Honey Butter None,IAB8 Food & Drink,0.85,natural
+"Cucumber Salad Cucumbers None Olive oil Vinegar, herbs",IAB8 Food & Drink,0.85,natural
+"Greek Lemon Potatoes Potatoes None Olive oil Lemon juice, herbs",IAB8 Food & Drink,0.85,natural
+"Stuffed Tomatoes Tomatoes None None Herbs, breadcrumbs",IAB8 Food & Drink,0.85,natural
+"Biryani Rice None Ghee Biryani masala, spices",IAB8 Food & Drink,0.85,natural
+"Chole Bhature Chickpeas Sugar Ghee Chole masala, spices",IAB8 Food & Drink,0.85,natural
+"Masala Dosa Rice None Oil Potato masala, spices",IAB8 Food & Drink,0.85,natural
+Samosa Potatoes None Ghee Spices,IAB8 Food & Drink,0.85,natural
+"Aloo Gobi Potatoes None Oil Cauliflower, spices",IAB8 Food & Drink,0.85,natural
+"Chicken Biryani Chicken None Ghee Basmati rice, spices",IAB8 Food & Drink,0.85,natural
+"Vada Pav Potato None Oil Pav bun, chutney",IAB8 Food & Drink,0.85,natural
+"Pani Puri Semolina Tamarind None Spiced water, chutney",IAB8 Food & Drink,0.85,natural
+Rajma Chawal Kidney beans None Ghee Spices,IAB8 Food & Drink,0.85,natural
+Chicken Curry Chicken None Oil Curry spices,IAB8 Food & Drink,0.85,natural
+"Vegetable Biryani Mixed vegetables None Ghee Basmati rice, spices",IAB8 Food & Drink,0.85,natural
+Chana Masala Chickpeas None Oil Masala spices,IAB8 Food & Drink,0.85,natural
+"Paniyaram Fermented batter None Oil Mustard seeds, curry leaves",IAB8 Food & Drink,0.85,natural
+"Chicken Biryani Chicken None Ghee Basmati rice, spices",IAB8 Food & Drink,0.85,natural
+"Pav Bhaji Mixed vegetables None Butter Pav bread, spices",IAB8 Food & Drink,0.85,natural
+"Hyderabadi Biryani Basmati rice None Ghee Meat/vegetables, spices",IAB8 Food & Drink,0.85,natural
+Chicken Curry Chicken None Oil Curry spices,IAB8 Food & Drink,0.85,natural
+"Dosa Rice None Oil Potato masala, chutney",IAB8 Food & Drink,0.85,natural
+"Chole Kulche Chickpeas None Ghee Kulcha bread, spices",IAB8 Food & Drink,0.85,natural
+Gobi Manchurian Cauliflower None Oil Manchurian sauce,IAB8 Food & Drink,0.85,natural
+"Mutton Biryani Mutton None Ghee Basmati rice, spices",IAB8 Food & Drink,0.85,natural
+Oatmeal Oats Sugar Milk Cinnamon,IAB8 Food & Drink,0.85,natural
+Chicken Satay Chicken None Peanut butter Soy sauce,IAB8 Food & Drink,0.85,natural
+Peanut Butter Peanuts Sugar Vegetable oil Salt,IAB8 Food & Drink,0.85,natural
+Peanut Butter Peanuts Sugar Vegetable oil Salt,IAB8 Food & Drink,0.85,natural
+"Chicken Satay Chicken None Peanut oil Satay sauce, spices",IAB8 Food & Drink,0.85,natural
+"Chicken Satay Chicken None Peanut oil Satay sauce, spices",IAB8 Food & Drink,0.85,natural
+Pesto Chicken Chicken None Olive oil Pesto sauce,IAB8 Food & Drink,0.85,natural
+Zucchini Noodles with Pesto Zucchini None Olive oil Pesto sauce,IAB8 Food & Drink,0.85,natural
+Pesto Chicken Chicken None Olive oil Pesto sauce,IAB8 Food & Drink,0.85,natural
+"Rice Pudding Rice Sugar Milk Cinnamon, raisins",IAB8 Food & Drink,0.85,natural
+"Shrimp Scampi Shrimp None Butter Garlic, lemon",IAB8 Food & Drink,0.85,natural
+"Shrimp Scampi Pasta Shrimp None Butter Garlic, lemon",IAB8 Food & Drink,0.85,natural
+Garlic Shrimp Shrimp None Olive oil Garlic,IAB8 Food & Drink,0.85,natural
+"Lemon Garlic Shrimp Shrimp None Olive oil Lemon juice, garlic",IAB8 Food & Drink,0.85,natural
+"Lemon Garlic Shrimp Shrimp None Olive oil Lemon juice, garlic",IAB8 Food & Drink,0.85,natural
+"Prawn Biryani Prawns None Ghee Basmati rice, spices",IAB8 Food & Drink,0.85,natural
+"Lobster Bisque Lobster None Butter Cream, brandy",IAB8 Food & Drink,0.85,natural
+Caesar Shrimp Skewers Shrimp None Olive oil Caesar dressing,IAB8 Food & Drink,0.85,natural
+"Shrimp Scampi Shrimp None Butter Garlic, lemon",IAB8 Food & Drink,0.85,natural
+"Lobster Bisque Lobster None Butter Cream, brandy",IAB8 Food & Drink,0.85,natural
+Caesar Shrimp Skewers Shrimp None Olive oil Caesar dressing,IAB8 Food & Drink,0.85,natural
+Prawn Curry Prawns None Coconut milk Curry spices,IAB8 Food & Drink,0.85,natural
+"Lobster Roll Lobster None Mayonnaise Celery, lemon juice",IAB8 Food & Drink,0.85,natural
+"Lobster Roll Lobster None Mayonnaise Celery, lemon juice",IAB8 Food & Drink,0.85,natural
+Bacon-Wrapped Shrimp Shrimp None Bacon Seasonings,IAB8 Food & Drink,0.85,natural
+Shrimp Fried Rice Shrimp None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+Soy Milk Soybeans Sugar None Emulsifiers,IAB8 Food & Drink,0.85,natural
+Soy Milk Soybeans Sugar None Emulsifiers,IAB8 Food & Drink,0.85,natural
+Tofu Stir-Fry Tofu None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Miso Soup Miso paste None None Tofu, seaweed",IAB8 Food & Drink,0.85,natural
+"Tofu Scramble Tofu None Vegetable oil Turmeric, spices",IAB8 Food & Drink,0.85,natural
+"Chicken Teriyaki Chicken None Soy sauce Honey, ginger",IAB8 Food & Drink,0.85,natural
+Tofu Stir-Fry Tofu None Vegetable oil Soy sauce,IAB8 Food & Drink,0.85,natural
+"Teriyaki Beef Beef None Soy sauce Teriyaki sauce, vegetables",IAB8 Food & Drink,0.85,natural
+"Sushi Rolls Sushi rice None Soy sauce Nori (seaweed), fish",IAB8 Food & Drink,0.85,natural
+Wheat Bread Wheat flour None None Salt,IAB8 Food & Drink,0.85,natural
+Wheat Bread Wheat flour None None Salt,IAB8 Food & Drink,0.85,natural
+Zucchini Bread Zucchini Sugar Vegetable oil Flour,IAB8 Food & Drink,0.85,natural
+"Chicken Noodle Casserole Chicken None Butter Noodles, vegetables",IAB8 Food & Drink,0.85,natural
+Onion Rings Onions None Vegetable oil Flour,IAB8 Food & Drink,0.85,natural
+"Chicken Pot Pie Chicken None Butter Vegetables, pastry",IAB8 Food & Drink,0.85,natural
+"Grilled Portobello Mushroom Burger Portobello mushrooms None None Burger bun, vegetables",IAB8 Food & Drink,0.85,natural
+"Aloo Paratha Potatoes None Ghee Wheat flour, spices",IAB8 Food & Drink,0.85,natural
+Oatmeal Raisin Cookies Oats Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Oatmeal Raisin Cookies Oats Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Pancakes Flour Sugar Butter Baking powder,IAB8 Food & Drink,0.85,natural
+Carrot Cake Carrots Sugar Vegetable oil Cinnamon,IAB8 Food & Drink,0.85,natural
+Blueberry Muffins Blueberries Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Chocolate Chip Cookies Flour Sugar Butter Chocolate chips,IAB8 Food & Drink,0.85,natural
+Mushroom Risotto Arborio rice None Butter Mushroom,IAB8 Food & Drink,0.85,natural
+Cinnamon Rolls Flour Sugar Butter Cinnamon,IAB8 Food & Drink,0.85,natural
+Pineapple Upside-Down Cake Pineapple Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Apple Pie Apples Sugar Butter Cinnamon,IAB8 Food & Drink,0.85,natural
+Banana Bread Bananas Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Vanilla Cupcakes Flour Sugar Butter Vanilla extract,IAB8 Food & Drink,0.85,natural
+Apple Crisp Apples Sugar Butter Cinnamon,IAB8 Food & Drink,0.85,natural
+"Pasta Carbonara Pasta None Bacon Egg, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+Blueberry Pancakes Flour Sugar Butter Blueberries,IAB8 Food & Drink,0.85,natural
+Lemon Bars Flour Sugar Butter Lemon juice,IAB8 Food & Drink,0.85,natural
+"Pumpkin Pie Pumpkin Sugar Butter Cinnamon, nutmeg",IAB8 Food & Drink,0.85,natural
+Mixed Berry Pie Mixed berries Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Garlic Bread Bread None Butter Garlic,IAB8 Food & Drink,0.85,natural
+Berry Cobbler Mixed berries Sugar Butter Flour,IAB8 Food & Drink,0.85,natural
+Baked Ziti Pasta None Cheese Tomato sauce,IAB8 Food & Drink,0.85,natural
+Baked Ziti Pasta None Cheese Tomato sauce,IAB8 Food & Drink,0.85,natural
+Key Lime Pie Lime juice Sugar Butter Graham cracker crust,IAB8 Food & Drink,0.85,natural
+"Lemon Poppy Seed Muffins Flour Sugar Butter Lemon zest, poppy seeds",IAB8 Food & Drink,0.85,natural
+Chicken Quesadilla Chicken None Butter Cheese,IAB8 Food & Drink,0.85,natural
+Pancake Stack Flour Sugar Butter Maple syrup,IAB8 Food & Drink,0.85,natural
+Strawberry Shortcake Strawberries Sugar Whipped cream Shortcake,IAB8 Food & Drink,0.85,natural
+"Berry Crumble Mixed berries Sugar Butter Oats, cinnamon",IAB8 Food & Drink,0.85,natural
+"Raspberry Cheesecake Cream cheese Sugar Butter Graham cracker crust, raspberries",IAB8 Food & Drink,0.85,natural
+Blueberry Pancakes Flour Sugar Butter Blueberries,IAB8 Food & Drink,0.85,natural
+"Oatmeal Raisin Cookies Oats Brown sugar Butter Raisins, cinnamon",IAB8 Food & Drink,0.85,natural
+"Apple Crisp Apples Sugar Butter Cinnamon, oats",IAB8 Food & Drink,0.85,natural
+"Chicken Enchiladas Chicken None Enchilada sauce Cheese, tortillas",IAB8 Food & Drink,0.85,natural
+"Caesar Salad Wrap Romaine lettuce None Caesar dressing Parmesan cheese, croutons",IAB8 Food & Drink,0.85,natural
+"Caesar Salad Wrap Romaine lettuce None Caesar dressing Parmesan cheese, croutons",IAB8 Food & Drink,0.85,natural
+S'mores Graham crackers Marshmallows Chocolate None,IAB8 Food & Drink,0.85,natural
+"Tiramisu Ladyfingers Sugar Mascarpone cheese Coffee, cocoa",IAB8 Food & Drink,0.85,natural
+"Cinnamon Rolls Dough Sugar Butter Cinnamon, icing",IAB8 Food & Drink,0.85,natural
+"Chicken Caesar Salad Chicken None Caesar dressing Romaine lettuce, croutons",IAB8 Food & Drink,0.85,natural
+"Vegetable Lasagna Vegetables None Olive oil Tomato sauce, cheese",IAB8 Food & Drink,0.85,natural
+Garlic Bread Bread None Butter Garlic,IAB8 Food & Drink,0.85,natural
+"Chicken Alfredo Pizza Pizza dough None None Chicken, Alfredo sauce",IAB8 Food & Drink,0.85,natural
+"Caesar Pasta Salad Pasta None Caesar dressing Romaine lettuce, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Baked Apple Apples Sugar Butter Cinnamon, oats",IAB8 Food & Drink,0.85,natural
+"Apple Pie Apples Sugar Butter Cinnamon, pastry",IAB8 Food & Drink,0.85,natural
+"Chicken Parmesan Chicken None Olive oil Tomato sauce, cheese",IAB8 Food & Drink,0.85,natural
+"Pumpkin Pie Pumpkin Sugar Butter Pumpkin spice, pastry",IAB8 Food & Drink,0.85,natural
+Blueberry Muffins Flour Sugar Butter Blueberries,IAB8 Food & Drink,0.85,natural
+"Sausage and Pepper Pizza Pizza dough None None Sausage, bell peppers",IAB8 Food & Drink,0.85,natural
+"Beef Wellington Beef None Butter Mushrooms, puff pastry",IAB8 Food & Drink,0.85,natural
+"Baked Ziti Pasta None None Tomato sauce, cheese",IAB8 Food & Drink,0.85,natural
+"Lemon Poppy Seed Muffins Flour Sugar Butter Lemon zest, poppy seeds",IAB8 Food & Drink,0.85,natural
+"Apple Crisp Apples Sugar Butter Cinnamon, oats",IAB8 Food & Drink,0.85,natural
+"Chicken Enchiladas Chicken None Enchilada sauce Cheese, tortillas",IAB8 Food & Drink,0.85,natural
+"Caesar Salad Wrap Romaine lettuce None Caesar dressing Parmesan cheese, croutons",IAB8 Food & Drink,0.85,natural
+S'mores Graham crackers Marshmallows Chocolate None,IAB8 Food & Drink,0.85,natural
+"Tiramisu Ladyfingers Sugar Mascarpone cheese Coffee, cocoa",IAB8 Food & Drink,0.85,natural
+"Cinnamon Rolls Dough Sugar Butter Cinnamon, icing",IAB8 Food & Drink,0.85,natural
+"Chicken Caesar Salad Chicken None Caesar dressing Romaine lettuce, croutons",IAB8 Food & Drink,0.85,natural
+"Vegetable Lasagna Vegetables None Olive oil Tomato sauce, cheese",IAB8 Food & Drink,0.85,natural
+Garlic Bread Bread None Butter Garlic,IAB8 Food & Drink,0.85,natural
+"Chicken Alfredo Pizza Pizza dough None None Chicken, Alfredo sauce",IAB8 Food & Drink,0.85,natural
+"Caesar Pasta Salad Pasta None Caesar dressing Romaine lettuce, Parmesan cheese",IAB8 Food & Drink,0.85,natural
+"Baked Apple Apples Sugar Butter Cinnamon, oats",IAB8 Food & Drink,0.85,natural
+"Apple Pie Apples Sugar Butter Cinnamon, pastry",IAB8 Food & Drink,0.85,natural
+"Chicken Parmesan Chicken None Olive oil Tomato sauce, cheese",IAB8 Food & Drink,0.85,natural
+"Pumpkin Pie Pumpkin Sugar Butter Pumpkin spice, pastry",IAB8 Food & Drink,0.85,natural
+Blueberry Muffins Flour Sugar Butter Blueberries,IAB8 Food & Drink,0.85,natural
+"Sausage and Pepper Pizza Pizza dough None None Sausage, bell peppers",IAB8 Food & Drink,0.85,natural
+"Beef Wellington Beef None Butter Mushrooms, puff pastry",IAB8 Food & Drink,0.85,natural
+Jalebi Flour Sugar Ghee Saffron syrup,IAB8 Food & Drink,0.85,natural
+Butter Naan Flour None Butter None,IAB8 Food & Drink,0.85,natural
+"Tiramisu Ladyfingers Sugar Mascarpone cheese, coffee liqueur Cocoa powder",IAB8 Food & Drink,0.85,natural
+Chocolate Cake Flour Sugar Butter Cocoa powder,IAB8 Food & Drink,0.85,natural
+Chocolate Chip Pancakes Flour Sugar Butter Chocolate chips,IAB8 Food & Drink,0.85,natural
+"Lemon Bars Lemon juice Sugar Butter Flour, eggs",IAB8 Food & Drink,0.85,natural
+"Lemon Bars Lemon juice Sugar Butter Flour, eggs",IAB8 Food & Drink,0.85,natural
+Pecan Pie Pecans Sugar Butter Corn syrup,IAB8 Food & Drink,0.85,natural
+"Zucchini Bread Zucchini Sugar Butter Cinnamon, nuts",IAB8 Food & Drink,0.85,natural
+"Banana Bread Bananas Sugar Butter Cinnamon, nuts",IAB8 Food & Drink,0.85,natural
+"Hawaiian Pizza Pizza dough None None Pineapple, ham",IAB8 Food & Drink,0.85,natural

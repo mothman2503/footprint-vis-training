@@ -1,0 +1,109 @@
+text,confidence,iab_label
+dish asparagus,0.85,IAB8 Food & Drink
+dish cookieginger snapafghan biscuitsalfajoralmond biscuitchocolate chip cookielebkuchenaachener printencornish fairingspeculaasspringerlekruidnotenacıbadem kurabiyesi,0.85,IAB8 Food & Drink
+dish sesame snaps,0.85,IAB8 Food & Drink
+dish crackerhardtackabernethy,0.85,IAB8 Food & Drink
+dish breadbagelgarlic breadbutteredbreadbialycroissantbaguettetoastflatbreadarepapupusaroti canai,0.85,IAB8 Food & Drink
+dish burritocrunchwrap supreme,0.85,IAB8 Food & Drink
+dish cabbagecabbage roll,0.85,IAB8 Food & Drink
+dish cakecheesecakechocolate cakecarrot cakestrawberry cakeice-cream cakevanilla cakered velvet cakecupcakefudge cakecake poplist of cakes,0.85,IAB8 Food & Drink
+dish charcuterie,0.85,IAB8 Food & Drink
+dish chocolatewhite chocolatedark chocolatemilk chocolateruby chocolatepancakepoundcake,0.85,IAB8 Food & Drink
+dish chopped liver,0.85,IAB8 Food & Drink
+dish cheesegruyère cheesemozzarellabriefetablue cheeseparmesanparmigiano reggianotasty cheesecheese stickcheesestrings,0.85,IAB8 Food & Drink
+dish congee,0.85,IAB8 Food & Drink
+dish donutsjamsprinklesdonut holeschocolatekrispy kremetim hortonsmcdonalds,0.85,IAB8 Food & Drink
+dish dumplingsfun guohar gowmomo (food)pierogiwonton,0.85,IAB8 Food & Drink
+dish fruitsapricotapplebananacantaloupeduriandate fruitdragonfruitorange (fruit)cherrykiwiwatermelonavocadoapricotpeachpearpineapplestrawberryblueberryraspberryblackberrycranberry,0.85,IAB8 Food & Drink
+dish french friespoutinegravy,0.85,IAB8 Food & Drink
+dish grainscerealcornpopcornrice,0.85,IAB8 Food & Drink
+dish ice creamchocolatevanillacookies and creammint chocolaterocky roadboysenberrybiscuit tortoniblue moonquesohokey pokeymoose trackstiger tailstrawberrysupermanspumonipistachiomoon mistneapolitan,0.85,IAB8 Food & Drink
+dish kebab,0.85,IAB8 Food & Drink
+dish mashed potatoes,0.85,IAB8 Food & Drink
+dish meatsbeefwagyusteaklomo saltadoporkbaconhampoultrybuffalo wingchicken ballschicken nuggetschicken steakchicken feetroast chickenribssausagecurrywurstseafoodfishsalmonshrimp and prawnshark,0.85,IAB8 Food & Drink
+dish eggsscrambled eggsunny side upomeletteboiled eggtea eggcentury eggiron eggsmoked eggsoy eggchinese red eggs,0.85,IAB8 Food & Drink
+dish milkalmond milksoy milkcow milkgoat milk,0.85,IAB8 Food & Drink
+dish onion rings,0.85,IAB8 Food & Drink
+dish pastalasagnalinguiniraviolicarbonarabolognesespaghettispaghetti and meatballsmac and cheesepancit cantonfettuccine,0.85,IAB8 Food & Drink
+dish pudding,0.85,IAB8 Food & Drink
+dish pieshepherds pieapple piecream piepumpkin piekey lime piepeach pie,0.85,IAB8 Food & Drink
+dish pizzapepperonihawaiianmargherita,0.85,IAB8 Food & Drink
+dish rollscroquetteegg rollsteak rollspring rolllumpiaburrito,0.85,IAB8 Food & Drink
+dish sandwichesvegetable sandwichgrilled cheesepaninihamburgerscheeseburgersbacon cheeseburgerwhopperchicken burgerhot dogschili dogspeanut butter and jam sandwichsubmarine sandwich,0.85,IAB8 Food & Drink
+dish soupchowderclam chowdercorn chowdersinigangminestronetomato soup,0.85,IAB8 Food & Drink
+dish sushicalifornia roll,0.85,IAB8 Food & Drink
+dish stew,0.85,IAB8 Food & Drink
+dish taco,0.85,IAB8 Food & Drink
+dish tamale,0.85,IAB8 Food & Drink
+dish taquitos,0.85,IAB8 Food & Drink
+dish turnoverjamaican patty,0.85,IAB8 Food & Drink
+dish waffle,0.85,IAB8 Food & Drink
+dish pancake,0.85,IAB8 Food & Drink
+dish ginger snap,0.85,IAB8 Food & Drink
+dish afghan biscuits,0.85,IAB8 Food & Drink
+dish alfajor,0.85,IAB8 Food & Drink
+dish almond biscuit,0.85,IAB8 Food & Drink
+dish chocolate chip cookie,0.85,IAB8 Food & Drink
+dish lebkuchenaachener printencornish fairing,0.85,IAB8 Food & Drink
+dish speculaas,0.85,IAB8 Food & Drink
+dish springerlekruidnoten,0.85,IAB8 Food & Drink
+dish acıbadem kurabiyesi,0.85,IAB8 Food & Drink
+dish aachener printen,0.85,IAB8 Food & Drink
+dish cornish fairing,0.85,IAB8 Food & Drink
+dish kruidnoten,0.85,IAB8 Food & Drink
+dish hardtackabernethy,0.85,IAB8 Food & Drink
+dish abernethy,0.85,IAB8 Food & Drink
+dish bagel,0.85,IAB8 Food & Drink
+dish garlic bread,0.85,IAB8 Food & Drink
+dish butteredbread,0.85,IAB8 Food & Drink
+dish bialy,0.85,IAB8 Food & Drink
+dish croissant,0.85,IAB8 Food & Drink
+dish baguette,0.85,IAB8 Food & Drink
+dish toast,0.85,IAB8 Food & Drink
+dish flatbreadarepapupusaroti canai,0.85,IAB8 Food & Drink
+dish arepa,0.85,IAB8 Food & Drink
+dish pupusa,0.85,IAB8 Food & Drink
+dish roti canai,0.85,IAB8 Food & Drink
+dish crunchwrap supreme,0.85,IAB8 Food & Drink
+dish cabbage roll,0.85,IAB8 Food & Drink
+dish cheesecake,0.85,IAB8 Food & Drink
+dish chocolate cake,0.85,IAB8 Food & Drink
+dish carrot cake,0.85,IAB8 Food & Drink
+dish strawberry cake,0.85,IAB8 Food & Drink
+dish ice-cream cake,0.85,IAB8 Food & Drink
+dish vanilla cake,0.85,IAB8 Food & Drink
+dish red velvet cake,0.85,IAB8 Food & Drink
+dish cupcake,0.85,IAB8 Food & Drink
+dish fudge cake,0.85,IAB8 Food & Drink
+dish cake pop,0.85,IAB8 Food & Drink
+dish cakes,0.85,IAB8 Food & Drink
+dish white chocolate,0.85,IAB8 Food & Drink
+dish dark chocolate,0.85,IAB8 Food & Drink
+dish milk chocolate,0.85,IAB8 Food & Drink
+dish ruby chocolate,0.85,IAB8 Food & Drink
+dish poundcake,0.85,IAB8 Food & Drink
+dish gruyère cheese,0.85,IAB8 Food & Drink
+dish mozzarella,0.85,IAB8 Food & Drink
+dish brie,0.85,IAB8 Food & Drink
+dish feta,0.85,IAB8 Food & Drink
+dish blue cheese,0.85,IAB8 Food & Drink
+dish parmesan,0.85,IAB8 Food & Drink
+dish parmigiano reggiano,0.85,IAB8 Food & Drink
+dish tasty cheese,0.85,IAB8 Food & Drink
+dish cheese stick,0.85,IAB8 Food & Drink
+dish cheesestrings,0.85,IAB8 Food & Drink
+dish jam,0.85,IAB8 Food & Drink
+dish sprinkles,0.85,IAB8 Food & Drink
+dish donut holes,0.85,IAB8 Food & Drink
+dish chocolate,0.85,IAB8 Food & Drink
+dish krispy kreme,0.85,IAB8 Food & Drink
+dish tim hortons,0.85,IAB8 Food & Drink
+dish mcdonalds,0.85,IAB8 Food & Drink
+dish fun guo,0.85,IAB8 Food & Drink
+dish har gow,0.85,IAB8 Food & Drink
+dish momo (food),0.85,IAB8 Food & Drink
+dish pierogi,0.85,IAB8 Food & Drink
+dish wonton,0.85,IAB8 Food & Drink
+dish apricot,0.85,IAB8 Food & Drink
+dish apple,0.85,IAB8 Food & Drink
+dish banana,0.85,IAB8 Food & Drink

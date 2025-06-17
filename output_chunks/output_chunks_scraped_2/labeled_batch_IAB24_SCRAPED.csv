@@ -1,0 +1,1582 @@
+text,confidence,iab_label
+miscellaneous ethics,0.85,IAB24 Uncategorized
+miscellaneous proposal,0.85,IAB24 Uncategorized
+miscellaneous question,0.85,IAB24 Uncategorized
+miscellaneous writingargumentreferencing,0.85,IAB24 Uncategorized
+miscellaneous argument,0.85,IAB24 Uncategorized
+miscellaneous referencing,0.85,IAB24 Uncategorized
+miscellaneous interdisciplinary,0.85,IAB24 Uncategorized
+miscellaneous multimethodology,0.85,IAB24 Uncategorized
+miscellaneous qualitativeart-based,0.85,IAB24 Uncategorized
+miscellaneous quantitative,0.85,IAB24 Uncategorized
+miscellaneous art-based,0.85,IAB24 Uncategorized
+miscellaneous antipositivism,0.85,IAB24 Uncategorized
+miscellaneous constructivism,0.85,IAB24 Uncategorized
+miscellaneous critical rationalism,0.85,IAB24 Uncategorized
+miscellaneous empiricism,0.85,IAB24 Uncategorized
+miscellaneous fallibilism,0.85,IAB24 Uncategorized
+miscellaneous positivism,0.85,IAB24 Uncategorized
+miscellaneous postpositivism,0.85,IAB24 Uncategorized
+miscellaneous pragmatism,0.85,IAB24 Uncategorized
+miscellaneous realismcritical realismsubtle realism,0.85,IAB24 Uncategorized
+miscellaneous critical realism,0.85,IAB24 Uncategorized
+miscellaneous subtle realism,0.85,IAB24 Uncategorized
+miscellaneous action research,0.85,IAB24 Uncategorized
+miscellaneous art methodology,0.85,IAB24 Uncategorized
+miscellaneous critical theory,0.85,IAB24 Uncategorized
+miscellaneous grounded theory,0.85,IAB24 Uncategorized
+miscellaneous hermeneutics,0.85,IAB24 Uncategorized
+miscellaneous historiography,0.85,IAB24 Uncategorized
+miscellaneous human subject research,0.85,IAB24 Uncategorized
+miscellaneous narrative inquiry,0.85,IAB24 Uncategorized
+miscellaneous phenomenology,0.85,IAB24 Uncategorized
+miscellaneous scientific method,0.85,IAB24 Uncategorized
+miscellaneous analysis,0.85,IAB24 Uncategorized
+miscellaneous case study,0.85,IAB24 Uncategorized
+miscellaneous content analysis,0.85,IAB24 Uncategorized
+miscellaneous descriptive statistics,0.85,IAB24 Uncategorized
+miscellaneous discourse analysis,0.85,IAB24 Uncategorized
+miscellaneous ethnographyautoethnography,0.85,IAB24 Uncategorized
+miscellaneous experimentfield experimentsocial experimentquasi-experiment,0.85,IAB24 Uncategorized
+miscellaneous field research,0.85,IAB24 Uncategorized
+miscellaneous historical method,0.85,IAB24 Uncategorized
+miscellaneous inferential statistics,0.85,IAB24 Uncategorized
+miscellaneous interviews,0.85,IAB24 Uncategorized
+miscellaneous mappingcultural mapping,0.85,IAB24 Uncategorized
+miscellaneous phenomenography,0.85,IAB24 Uncategorized
+miscellaneous secondary researchbibliometricsliterature reviewmeta-analysisscoping reviewsystematic review,0.85,IAB24 Uncategorized
+miscellaneous scientific modellingsimulation,0.85,IAB24 Uncategorized
+miscellaneous survey,0.85,IAB24 Uncategorized
+miscellaneous autoethnography,0.85,IAB24 Uncategorized
+miscellaneous field experiment,0.85,IAB24 Uncategorized
+miscellaneous social experiment,0.85,IAB24 Uncategorized
+miscellaneous quasi-experiment,0.85,IAB24 Uncategorized
+miscellaneous cultural mapping,0.85,IAB24 Uncategorized
+miscellaneous bibliometrics,0.85,IAB24 Uncategorized
+miscellaneous literature review,0.85,IAB24 Uncategorized
+miscellaneous meta-analysis,0.85,IAB24 Uncategorized
+miscellaneous scoping review,0.85,IAB24 Uncategorized
+miscellaneous systematic review,0.85,IAB24 Uncategorized
+miscellaneous simulation,0.85,IAB24 Uncategorized
+miscellaneous argument technology,0.85,IAB24 Uncategorized
+miscellaneous gis software,0.85,IAB24 Uncategorized
+miscellaneous lis softwarebibliometricsreference management,0.85,IAB24 Uncategorized
+miscellaneous science softwarequalitative data analysissimulationstatistics,0.85,IAB24 Uncategorized
+miscellaneous reference management,0.85,IAB24 Uncategorized
+miscellaneous qualitative data analysis,0.85,IAB24 Uncategorized
+miscellaneous statistics,0.85,IAB24 Uncategorized
+miscellaneous v,0.85,IAB24 Uncategorized
+miscellaneous t,0.85,IAB24 Uncategorized
+miscellaneous e,0.85,IAB24 Uncategorized
+"miscellaneous music(outline)accompanyingchamber musicchurch musicconductingchoral conductingorchestralconductingwind ensemble conductingearly musicjazzstudies (outline)musical compositionmusic educationmusic historymusicologyhistorical musicologysystematic musicologyethnomusicologymusic theoryorchestralstudiesorganologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussionrecording",0.85,IAB24 Uncategorized
+miscellaneous dance(outline)choreographydance notationethnochoreologyhistory of dance,0.85,IAB24 Uncategorized
+miscellaneous television(outline)television studies,0.85,IAB24 Uncategorized
+miscellaneous theatre(outline)actingdirectingdramaturgyhistory of theatremusical theatreplaywrightingpuppetryscenographystage designventriloquism,0.85,IAB24 Uncategorized
+miscellaneous film(outline)animationfilm criticismfilmmakingfilm theorylive action,0.85,IAB24 Uncategorized
+miscellaneous accompanying,0.85,IAB24 Uncategorized
+miscellaneous chamber music,0.85,IAB24 Uncategorized
+miscellaneous church music,0.85,IAB24 Uncategorized
+miscellaneous conductingchoral conductingorchestralconductingwind ensemble conducting,0.85,IAB24 Uncategorized
+miscellaneous early music,0.85,IAB24 Uncategorized
+miscellaneous jazzstudies (outline),0.85,IAB24 Uncategorized
+miscellaneous musical composition,0.85,IAB24 Uncategorized
+miscellaneous music education,0.85,IAB24 Uncategorized
+miscellaneous music history,0.85,IAB24 Uncategorized
+miscellaneous musicologyhistorical musicologysystematic musicology,0.85,IAB24 Uncategorized
+miscellaneous ethnomusicology,0.85,IAB24 Uncategorized
+miscellaneous music theory,0.85,IAB24 Uncategorized
+miscellaneous orchestralstudies,0.85,IAB24 Uncategorized
+"miscellaneous organologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussion",0.85,IAB24 Uncategorized
+miscellaneous recording,0.85,IAB24 Uncategorized
+miscellaneous choral conducting,0.85,IAB24 Uncategorized
+miscellaneous orchestralconducting,0.85,IAB24 Uncategorized
+miscellaneous wind ensemble conducting,0.85,IAB24 Uncategorized
+miscellaneous historical musicology,0.85,IAB24 Uncategorized
+miscellaneous systematic musicology,0.85,IAB24 Uncategorized
+miscellaneous organandhistorical keyboards,0.85,IAB24 Uncategorized
+miscellaneous piano,0.85,IAB24 Uncategorized
+"miscellaneous strings,harp,oud, andguitar(outline)",0.85,IAB24 Uncategorized
+miscellaneous singing,0.85,IAB24 Uncategorized
+"miscellaneous woodwinds,brass, andpercussion",0.85,IAB24 Uncategorized
+miscellaneous choreography,0.85,IAB24 Uncategorized
+miscellaneous dance notation,0.85,IAB24 Uncategorized
+miscellaneous ethnochoreology,0.85,IAB24 Uncategorized
+miscellaneous history of dance,0.85,IAB24 Uncategorized
+miscellaneous television studies,0.85,IAB24 Uncategorized
+miscellaneous acting,0.85,IAB24 Uncategorized
+miscellaneous directing,0.85,IAB24 Uncategorized
+miscellaneous dramaturgy,0.85,IAB24 Uncategorized
+miscellaneous history of theatre,0.85,IAB24 Uncategorized
+miscellaneous musical theatre,0.85,IAB24 Uncategorized
+miscellaneous playwrighting,0.85,IAB24 Uncategorized
+miscellaneous puppetry,0.85,IAB24 Uncategorized
+miscellaneous scenography,0.85,IAB24 Uncategorized
+miscellaneous stage design,0.85,IAB24 Uncategorized
+miscellaneous ventriloquism,0.85,IAB24 Uncategorized
+miscellaneous animation,0.85,IAB24 Uncategorized
+miscellaneous film criticism,0.85,IAB24 Uncategorized
+miscellaneous filmmaking,0.85,IAB24 Uncategorized
+miscellaneous film theory,0.85,IAB24 Uncategorized
+miscellaneous live action,0.85,IAB24 Uncategorized
+miscellaneous applied artsanimationtextile artsart directorcalligraphyculinary artsoutline of cuisinesdecorative artsdigital artmixed mediaprintmakingstudio artgraphic designarchitecture(outline of architecture)interior architecturelandscape architecturelandscape designlandscape planningarchitectural analyticshistoric preservationinterior design(interior architecture)technical drawing,0.85,IAB24 Uncategorized
+miscellaneous fashion,0.85,IAB24 Uncategorized
+miscellaneous fine artsgraphic artsdrawing(outline)painting(outline)photography(outline)sculpture(outline),0.85,IAB24 Uncategorized
+miscellaneous textile arts,0.85,IAB24 Uncategorized
+miscellaneous art director,0.85,IAB24 Uncategorized
+miscellaneous calligraphy,0.85,IAB24 Uncategorized
+miscellaneous culinary arts,0.85,IAB24 Uncategorized
+miscellaneous outline of cuisines,0.85,IAB24 Uncategorized
+miscellaneous decorative arts,0.85,IAB24 Uncategorized
+miscellaneous digital art,0.85,IAB24 Uncategorized
+miscellaneous mixed media,0.85,IAB24 Uncategorized
+miscellaneous printmaking,0.85,IAB24 Uncategorized
+miscellaneous studio art,0.85,IAB24 Uncategorized
+miscellaneous graphic design,0.85,IAB24 Uncategorized
+miscellaneous architecture(outline of architecture)interior architecturelandscape architecturelandscape designlandscape planningarchitectural analyticshistoric preservationinterior design(interior architecture)technical drawing,0.85,IAB24 Uncategorized
+miscellaneous interior architecture,0.85,IAB24 Uncategorized
+miscellaneous landscape architecturelandscape designlandscape planning,0.85,IAB24 Uncategorized
+miscellaneous architectural analytics,0.85,IAB24 Uncategorized
+miscellaneous historic preservation,0.85,IAB24 Uncategorized
+miscellaneous interior design(interior architecture),0.85,IAB24 Uncategorized
+miscellaneous technical drawing,0.85,IAB24 Uncategorized
+miscellaneous landscape design,0.85,IAB24 Uncategorized
+miscellaneous landscape planning,0.85,IAB24 Uncategorized
+miscellaneous graphic artsdrawing(outline)painting(outline)photography(outline),0.85,IAB24 Uncategorized
+miscellaneous sculpture(outline),0.85,IAB24 Uncategorized
+miscellaneous drawing(outline),0.85,IAB24 Uncategorized
+miscellaneous painting(outline),0.85,IAB24 Uncategorized
+miscellaneous photography(outline),0.85,IAB24 Uncategorized
+miscellaneous african history,0.85,IAB24 Uncategorized
+miscellaneous american history,0.85,IAB24 Uncategorized
+miscellaneous ancient historyancient egyptcarthageancient greek history(outline)ancient roman history(outline)assyriancivilizationbronze agecivilizationsbiblical historyhistory of the indus valley civilizationpreclassic mayahistory of mesopotamiathe stone agehistory of the yangtze civilizationhistory of the yellow river civilization,0.85,IAB24 Uncategorized
+miscellaneous art history,0.85,IAB24 Uncategorized
+miscellaneous asian historychinese historyindian history(outline)indonesian historyiranian history,0.85,IAB24 Uncategorized
+miscellaneous australian history,0.85,IAB24 Uncategorized
+miscellaneous cultural history,0.85,IAB24 Uncategorized
+miscellaneous ecclesiastical history of the catholic church,0.85,IAB24 Uncategorized
+miscellaneous economic history,0.85,IAB24 Uncategorized
+miscellaneous environmental history,0.85,IAB24 Uncategorized
+miscellaneous european history,0.85,IAB24 Uncategorized
+miscellaneous intellectual history,0.85,IAB24 Uncategorized
+miscellaneous jewish history,0.85,IAB24 Uncategorized
+miscellaneous latin american history,0.85,IAB24 Uncategorized
+miscellaneous modern history,0.85,IAB24 Uncategorized
+miscellaneous philosophical historyancient philosophycontemporary philosophymedieval philosophyhumanism(outline)scholasticismmodern philosophy,0.85,IAB24 Uncategorized
+miscellaneous political historyhistory of political thought,0.85,IAB24 Uncategorized
+miscellaneous pre-columbian erahistory,0.85,IAB24 Uncategorized
+miscellaneous prehistory,0.85,IAB24 Uncategorized
+miscellaneous public history,0.85,IAB24 Uncategorized
+miscellaneous russian history,0.85,IAB24 Uncategorized
+miscellaneous scientific history,0.85,IAB24 Uncategorized
+miscellaneous technological history,0.85,IAB24 Uncategorized
+miscellaneous world history,0.85,IAB24 Uncategorized
+miscellaneous ancient egypt,0.85,IAB24 Uncategorized
+miscellaneous carthage,0.85,IAB24 Uncategorized
+miscellaneous ancient greek history(outline),0.85,IAB24 Uncategorized
+miscellaneous ancient roman history(outline),0.85,IAB24 Uncategorized
+miscellaneous assyriancivilization,0.85,IAB24 Uncategorized
+miscellaneous bronze agecivilizations,0.85,IAB24 Uncategorized
+miscellaneous biblical history,0.85,IAB24 Uncategorized
+miscellaneous history of the indus valley civilization,0.85,IAB24 Uncategorized
+miscellaneous preclassic maya,0.85,IAB24 Uncategorized
+miscellaneous history of mesopotamia,0.85,IAB24 Uncategorized
+miscellaneous the stone age,0.85,IAB24 Uncategorized
+miscellaneous history of the yangtze civilization,0.85,IAB24 Uncategorized
+miscellaneous history of the yellow river civilization,0.85,IAB24 Uncategorized
+miscellaneous chinese history,0.85,IAB24 Uncategorized
+miscellaneous indian history(outline),0.85,IAB24 Uncategorized
+miscellaneous indonesian history,0.85,IAB24 Uncategorized
+miscellaneous iranian history,0.85,IAB24 Uncategorized
+miscellaneous ancient philosophy,0.85,IAB24 Uncategorized
+miscellaneous contemporary philosophy,0.85,IAB24 Uncategorized
+miscellaneous medieval philosophyhumanism(outline)scholasticism,0.85,IAB24 Uncategorized
+miscellaneous modern philosophy,0.85,IAB24 Uncategorized
+miscellaneous humanism(outline),0.85,IAB24 Uncategorized
+miscellaneous scholasticism,0.85,IAB24 Uncategorized
+miscellaneous history of political thought,0.85,IAB24 Uncategorized
+miscellaneous english studies,0.85,IAB24 Uncategorized
+miscellaneous comics studies,0.85,IAB24 Uncategorized
+miscellaneous comparative literature,0.85,IAB24 Uncategorized
+miscellaneous creative writingpoetryprosenon-fictionfiction(outline),0.85,IAB24 Uncategorized
+miscellaneous english literature,0.85,IAB24 Uncategorized
+miscellaneous history of literatureancient literaturemedieval literaturepost-colonial literaturepost-modern literature,0.85,IAB24 Uncategorized
+miscellaneous literary theorycritical theory(outline)literary criticismpoetics,0.85,IAB24 Uncategorized
+miscellaneous world literatureamerican literatureafrican-american literaturesouthern literaturebritish literaturecanadian literatureindian english literatureirish literaturenew zealand literaturescottish literaturesouth african literaturewelsh literature,0.85,IAB24 Uncategorized
+miscellaneous poetry,0.85,IAB24 Uncategorized
+miscellaneous prose,0.85,IAB24 Uncategorized
+miscellaneous non-fiction,0.85,IAB24 Uncategorized
+miscellaneous fiction(outline),0.85,IAB24 Uncategorized
+miscellaneous ancient literature,0.85,IAB24 Uncategorized
+miscellaneous medieval literature,0.85,IAB24 Uncategorized
+miscellaneous post-colonial literature,0.85,IAB24 Uncategorized
+miscellaneous post-modern literature,0.85,IAB24 Uncategorized
+miscellaneous critical theory(outline),0.85,IAB24 Uncategorized
+miscellaneous literary criticism,0.85,IAB24 Uncategorized
+miscellaneous poetics,0.85,IAB24 Uncategorized
+miscellaneous american literatureafrican-american literaturesouthern literature,0.85,IAB24 Uncategorized
+miscellaneous british literature,0.85,IAB24 Uncategorized
+miscellaneous canadian literature,0.85,IAB24 Uncategorized
+miscellaneous indian english literature,0.85,IAB24 Uncategorized
+miscellaneous irish literature,0.85,IAB24 Uncategorized
+miscellaneous new zealand literature,0.85,IAB24 Uncategorized
+miscellaneous scottish literature,0.85,IAB24 Uncategorized
+miscellaneous south african literature,0.85,IAB24 Uncategorized
+miscellaneous welsh literature,0.85,IAB24 Uncategorized
+miscellaneous african-american literature,0.85,IAB24 Uncategorized
+miscellaneous southern literature,0.85,IAB24 Uncategorized
+miscellaneous administrative law,0.85,IAB24 Uncategorized
+miscellaneous canon law,0.85,IAB24 Uncategorized
+miscellaneous civil lawadmiralty lawanimal law/animal rightscivil procedurecommon lawcontract lawcorporationsenvironmental lawfamily lawfederal lawinternational lawpublic international lawsupranational lawlabor lawproperty lawtax lawtort law(outline),0.85,IAB24 Uncategorized
+miscellaneous comparative law,0.85,IAB24 Uncategorized
+miscellaneous competition law,0.85,IAB24 Uncategorized
+miscellaneous constitutional law,0.85,IAB24 Uncategorized
+miscellaneous criminal lawcriminal justice(outline)criminal procedureforensic science(outline)police science,0.85,IAB24 Uncategorized
+miscellaneous islamic law,0.85,IAB24 Uncategorized
+miscellaneous jewish law(outline),0.85,IAB24 Uncategorized
+miscellaneous jurisprudence(philosophy of law),0.85,IAB24 Uncategorized
+miscellaneous legal management (academic discipline)commercial lawcorporate law,0.85,IAB24 Uncategorized
+miscellaneous procedural law,0.85,IAB24 Uncategorized
+miscellaneous substantive law,0.85,IAB24 Uncategorized
+miscellaneous admiralty law,0.85,IAB24 Uncategorized
+miscellaneous animal law/animal rights,0.85,IAB24 Uncategorized
+miscellaneous civil procedure,0.85,IAB24 Uncategorized
+miscellaneous common law,0.85,IAB24 Uncategorized
+miscellaneous contract law,0.85,IAB24 Uncategorized
+miscellaneous corporations,0.85,IAB24 Uncategorized
+miscellaneous environmental law,0.85,IAB24 Uncategorized
+miscellaneous family law,0.85,IAB24 Uncategorized
+miscellaneous federal law,0.85,IAB24 Uncategorized
+miscellaneous international lawpublic international lawsupranational law,0.85,IAB24 Uncategorized
+miscellaneous labor law,0.85,IAB24 Uncategorized
+miscellaneous property law,0.85,IAB24 Uncategorized
+miscellaneous tax law,0.85,IAB24 Uncategorized
+miscellaneous tort law(outline),0.85,IAB24 Uncategorized
+miscellaneous public international law,0.85,IAB24 Uncategorized
+miscellaneous supranational law,0.85,IAB24 Uncategorized
+miscellaneous criminal justice(outline),0.85,IAB24 Uncategorized
+miscellaneous criminal procedureforensic science(outline)police science,0.85,IAB24 Uncategorized
+miscellaneous forensic science(outline),0.85,IAB24 Uncategorized
+miscellaneous police science,0.85,IAB24 Uncategorized
+miscellaneous commercial law,0.85,IAB24 Uncategorized
+miscellaneous corporate law,0.85,IAB24 Uncategorized
+miscellaneous aesthetics(outline),0.85,IAB24 Uncategorized
+miscellaneous applied philosophyphilosophy of economicsphilosophy of educationphilosophy of engineeringphilosophy of historyphilosophy of languagephilosophy of lawphilosophy of mathematicsphilosophy of musicphilosophy of psychologyphilosophy of religionphilosophy of physical sciencesphilosophy of biologyphilosophy of chemistryphilosophy of physicsphilosophy of social sciencephilosophy of technologysystems philosophypolitical philosophy,0.85,IAB24 Uncategorized
+miscellaneous epistemology(outline)justificationreasoning errors,0.85,IAB24 Uncategorized
+"miscellaneous ethics(outline)applied ethicsanimal rightsbioethicsenvironmental ethicsmeta-ethicsmoral psychology,descriptive ethics,value theorynormative ethicsvirtue ethics",0.85,IAB24 Uncategorized
+miscellaneous logic(outline)mathematical logicphilosophical logic,0.85,IAB24 Uncategorized
+miscellaneous meta-philosophy,0.85,IAB24 Uncategorized
+miscellaneous metaphysics(outline)philosophy of actiondeterminismandfree willontologyphilosophy of mindphilosophy of painphilosophy of artificial intelligencephilosophy of perceptionphilosophy of space and timeteleologytheismandatheism,0.85,IAB24 Uncategorized
+miscellaneous philosophical traditions and schoolsafrican philosophyanalytic philosophyaristotelianismcontinental philosophyeastern philosophyfeminist philosophyislamic philosophyplatonism,0.85,IAB24 Uncategorized
+miscellaneous social philosophyandpolitical philosophyanarchism(outline)feminist philosophylibertarianism(outline)marxism,0.85,IAB24 Uncategorized
+miscellaneous philosophy of economics,0.85,IAB24 Uncategorized
+miscellaneous philosophy of education,0.85,IAB24 Uncategorized
+miscellaneous philosophy of engineering,0.85,IAB24 Uncategorized
+miscellaneous philosophy of history,0.85,IAB24 Uncategorized
+miscellaneous philosophy of language,0.85,IAB24 Uncategorized
+miscellaneous philosophy of law,0.85,IAB24 Uncategorized
+miscellaneous philosophy of mathematics,0.85,IAB24 Uncategorized
+miscellaneous philosophy of music,0.85,IAB24 Uncategorized
+miscellaneous philosophy of psychology,0.85,IAB24 Uncategorized
+miscellaneous philosophy of religion,0.85,IAB24 Uncategorized
+miscellaneous philosophy of physical sciencesphilosophy of biologyphilosophy of chemistryphilosophy of physics,0.85,IAB24 Uncategorized
+miscellaneous philosophy of social science,0.85,IAB24 Uncategorized
+miscellaneous philosophy of technology,0.85,IAB24 Uncategorized
+miscellaneous systems philosophy,0.85,IAB24 Uncategorized
+miscellaneous political philosophy,0.85,IAB24 Uncategorized
+miscellaneous philosophy of biology,0.85,IAB24 Uncategorized
+miscellaneous philosophy of chemistry,0.85,IAB24 Uncategorized
+miscellaneous philosophy of physics,0.85,IAB24 Uncategorized
+miscellaneous justification,0.85,IAB24 Uncategorized
+miscellaneous reasoning errors,0.85,IAB24 Uncategorized
+miscellaneous applied ethicsanimal rightsbioethicsenvironmental ethics,0.85,IAB24 Uncategorized
+miscellaneous meta-ethics,0.85,IAB24 Uncategorized
+"miscellaneous moral psychology,descriptive ethics,value theory",0.85,IAB24 Uncategorized
+miscellaneous normative ethicsvirtue ethics,0.85,IAB24 Uncategorized
+miscellaneous animal rights,0.85,IAB24 Uncategorized
+miscellaneous bioethics,0.85,IAB24 Uncategorized
+miscellaneous environmental ethics,0.85,IAB24 Uncategorized
+miscellaneous virtue ethics,0.85,IAB24 Uncategorized
+miscellaneous mathematical logic,0.85,IAB24 Uncategorized
+miscellaneous philosophical logic,0.85,IAB24 Uncategorized
+miscellaneous philosophy of action,0.85,IAB24 Uncategorized
+miscellaneous determinismandfree will,0.85,IAB24 Uncategorized
+miscellaneous ontology,0.85,IAB24 Uncategorized
+miscellaneous philosophy of mindphilosophy of painphilosophy of artificial intelligencephilosophy of perception,0.85,IAB24 Uncategorized
+miscellaneous philosophy of space and time,0.85,IAB24 Uncategorized
+miscellaneous teleology,0.85,IAB24 Uncategorized
+miscellaneous theismandatheism,0.85,IAB24 Uncategorized
+miscellaneous philosophy of pain,0.85,IAB24 Uncategorized
+miscellaneous philosophy of artificial intelligence,0.85,IAB24 Uncategorized
+miscellaneous philosophy of perception,0.85,IAB24 Uncategorized
+miscellaneous african philosophy,0.85,IAB24 Uncategorized
+miscellaneous analytic philosophy,0.85,IAB24 Uncategorized
+miscellaneous aristotelianism,0.85,IAB24 Uncategorized
+miscellaneous continental philosophy,0.85,IAB24 Uncategorized
+miscellaneous eastern philosophy,0.85,IAB24 Uncategorized
+miscellaneous feminist philosophy,0.85,IAB24 Uncategorized
+miscellaneous islamic philosophy,0.85,IAB24 Uncategorized
+miscellaneous platonism,0.85,IAB24 Uncategorized
+miscellaneous anarchism(outline),0.85,IAB24 Uncategorized
+miscellaneous libertarianism(outline),0.85,IAB24 Uncategorized
+miscellaneous marxism,0.85,IAB24 Uncategorized
+miscellaneous history of religion,0.85,IAB24 Uncategorized
+miscellaneous anthropology of religion,0.85,IAB24 Uncategorized
+miscellaneous sociology of religion,0.85,IAB24 Uncategorized
+miscellaneous psychology of religion,0.85,IAB24 Uncategorized
+miscellaneous phenomenology of religion,0.85,IAB24 Uncategorized
+miscellaneous church history,0.85,IAB24 Uncategorized
+miscellaneous field ministrypastoral counselingpastoral theologyreligious educationtechniqueshomileticsliturgysacred musicmissiology,0.85,IAB24 Uncategorized
+miscellaneous scriptural study and languagesbiblical hebrewbiblical studies/sacred scripturevedic studynew testament greeklatinold church slavonic,0.85,IAB24 Uncategorized
+miscellaneous theology(outline)dogmatic theologyecclesiologysacramentaltheologysystematic theologychristian ethicshindu ethicsmoral theologyhistorical theology,0.85,IAB24 Uncategorized
+miscellaneous pastoral counseling,0.85,IAB24 Uncategorized
+miscellaneous pastoral theology,0.85,IAB24 Uncategorized
+miscellaneous religious educationtechniques,0.85,IAB24 Uncategorized
+miscellaneous homiletics,0.85,IAB24 Uncategorized
+miscellaneous liturgy,0.85,IAB24 Uncategorized
+miscellaneous sacred music,0.85,IAB24 Uncategorized
+miscellaneous missiology,0.85,IAB24 Uncategorized
+miscellaneous biblical hebrew,0.85,IAB24 Uncategorized
+miscellaneous biblical studies/sacred scripture,0.85,IAB24 Uncategorized
+miscellaneous vedic study,0.85,IAB24 Uncategorized
+miscellaneous new testament greek,0.85,IAB24 Uncategorized
+miscellaneous latin,0.85,IAB24 Uncategorized
+miscellaneous old church slavonic,0.85,IAB24 Uncategorized
+miscellaneous dogmatic theology,0.85,IAB24 Uncategorized
+miscellaneous ecclesiology,0.85,IAB24 Uncategorized
+miscellaneous sacramentaltheology,0.85,IAB24 Uncategorized
+miscellaneous systematic theology,0.85,IAB24 Uncategorized
+miscellaneous christian ethics,0.85,IAB24 Uncategorized
+miscellaneous hindu ethics,0.85,IAB24 Uncategorized
+miscellaneous moral theology,0.85,IAB24 Uncategorized
+miscellaneous historical theology,0.85,IAB24 Uncategorized
+"miscellaneous biblical studiesbiblical hebrew,koine greek,aramaic",0.85,IAB24 Uncategorized
+miscellaneous buddhist theologypali studies,0.85,IAB24 Uncategorized
+miscellaneous christian theologyanglican theologybaptist theologycatholic theologyeastern orthodox theologyprotestant theology,0.85,IAB24 Uncategorized
+miscellaneous hindu theologysanskrit studiesdravidian studies,0.85,IAB24 Uncategorized
+miscellaneous jewish theology,0.85,IAB24 Uncategorized
+miscellaneous muslim theologyarabic studies,0.85,IAB24 Uncategorized
+"miscellaneous biblical hebrew,koine greek,aramaic",0.85,IAB24 Uncategorized
+miscellaneous pali studies,0.85,IAB24 Uncategorized
+miscellaneous anglican theology,0.85,IAB24 Uncategorized
+miscellaneous baptist theology,0.85,IAB24 Uncategorized
+miscellaneous catholic theology,0.85,IAB24 Uncategorized
+miscellaneous eastern orthodox theology,0.85,IAB24 Uncategorized
+miscellaneous protestant theology,0.85,IAB24 Uncategorized
+miscellaneous sanskrit studies,0.85,IAB24 Uncategorized
+miscellaneous dravidian studies,0.85,IAB24 Uncategorized
+miscellaneous arabic studies,0.85,IAB24 Uncategorized
+miscellaneous biological anthropology,0.85,IAB24 Uncategorized
+miscellaneous linguistic anthropology,0.85,IAB24 Uncategorized
+miscellaneous cultural anthropology,0.85,IAB24 Uncategorized
+miscellaneous social anthropology,0.85,IAB24 Uncategorized
+miscellaneous paleoanthropology,0.85,IAB24 Uncategorized
+miscellaneous biocultural anthropology,0.85,IAB24 Uncategorized
+miscellaneous evolutionary anthropology,0.85,IAB24 Uncategorized
+miscellaneous feminist archaeology,0.85,IAB24 Uncategorized
+miscellaneous forensic anthropology,0.85,IAB24 Uncategorized
+miscellaneous maritime archaeology,0.85,IAB24 Uncategorized
+miscellaneous cashless society,0.85,IAB24 Uncategorized
+miscellaneous climate,0.85,IAB24 Uncategorized
+miscellaneous agricultural economics,0.85,IAB24 Uncategorized
+miscellaneous applied economics,0.85,IAB24 Uncategorized
+miscellaneous behavioural economics,0.85,IAB24 Uncategorized
+miscellaneous computational economics,0.85,IAB24 Uncategorized
+miscellaneous development economics,0.85,IAB24 Uncategorized
+miscellaneous econometrics,0.85,IAB24 Uncategorized
+miscellaneous economic geography,0.85,IAB24 Uncategorized
+miscellaneous economic sociology,0.85,IAB24 Uncategorized
+miscellaneous economic systems,0.85,IAB24 Uncategorized
+miscellaneous education economics,0.85,IAB24 Uncategorized
+miscellaneous energy economics,0.85,IAB24 Uncategorized
+miscellaneous environmental economics,0.85,IAB24 Uncategorized
+miscellaneous experimental economics,0.85,IAB24 Uncategorized
+miscellaneous family economics,0.85,IAB24 Uncategorized
+miscellaneous financial economics,0.85,IAB24 Uncategorized
+miscellaneous growth economics,0.85,IAB24 Uncategorized
+miscellaneous information economics,0.85,IAB24 Uncategorized
+miscellaneous institutional economics,0.85,IAB24 Uncategorized
+miscellaneous international economics,0.85,IAB24 Uncategorized
+miscellaneous labor economics,0.85,IAB24 Uncategorized
+miscellaneous health economics,0.85,IAB24 Uncategorized
+miscellaneous law and economics,0.85,IAB24 Uncategorized
+miscellaneous macroeconomics,0.85,IAB24 Uncategorized
+miscellaneous managerial economics,0.85,IAB24 Uncategorized
+miscellaneous mathematical economics,0.85,IAB24 Uncategorized
+miscellaneous microeconomics,0.85,IAB24 Uncategorized
+miscellaneous monetary economics,0.85,IAB24 Uncategorized
+miscellaneous neuroeconomics,0.85,IAB24 Uncategorized
+miscellaneous political economy,0.85,IAB24 Uncategorized
+miscellaneous public economics,0.85,IAB24 Uncategorized
+miscellaneous public choice,0.85,IAB24 Uncategorized
+miscellaneous public finance,0.85,IAB24 Uncategorized
+miscellaneous real estate economics,0.85,IAB24 Uncategorized
+miscellaneous resource economics,0.85,IAB24 Uncategorized
+miscellaneous social choice theory,0.85,IAB24 Uncategorized
+miscellaneous transport economics,0.85,IAB24 Uncategorized
+miscellaneous welfare economics,0.85,IAB24 Uncategorized
+miscellaneous physical geography(is also listed inearth science)atmologybiogeographyclimatologycoastal geographyemergency managementenvironmental geographygeobiologygeochemistrygeographic information systemsgeologygeomaticsgeomorphologygeophysicsglaciologyhydrologylandscape ecologylithologymeteorologymineralogyoceanographypalaeogeographypalaeontologypetrologyquaternary sciencesoil geography,0.85,IAB24 Uncategorized
+miscellaneous human geographybehavioural geographycognitive geographycultural geographydevelopment geographyeconomic geographyhealth geographyhistorical geographylanguage geographymathematical geographymarketing geographymilitary geographypolitical geographypopulation geographyreligion geographysocial geographystrategic geographytime geographytourism geographytransport geographyurban geography,0.85,IAB24 Uncategorized
+miscellaneous integrated geography,0.85,IAB24 Uncategorized
+miscellaneous cartographycelestial cartographyplanetary cartographytopography,0.85,IAB24 Uncategorized
+miscellaneous atmology,0.85,IAB24 Uncategorized
+miscellaneous biogeography,0.85,IAB24 Uncategorized
+miscellaneous climatology,0.85,IAB24 Uncategorized
+miscellaneous coastal geography,0.85,IAB24 Uncategorized
+miscellaneous emergency management,0.85,IAB24 Uncategorized
+miscellaneous environmental geography,0.85,IAB24 Uncategorized
+miscellaneous geobiology,0.85,IAB24 Uncategorized
+miscellaneous geochemistry,0.85,IAB24 Uncategorized
+miscellaneous geographic information systems,0.85,IAB24 Uncategorized
+miscellaneous geology,0.85,IAB24 Uncategorized
+miscellaneous geomatics,0.85,IAB24 Uncategorized
+miscellaneous geomorphology,0.85,IAB24 Uncategorized
+miscellaneous geophysics,0.85,IAB24 Uncategorized
+miscellaneous glaciology,0.85,IAB24 Uncategorized
+miscellaneous hydrology,0.85,IAB24 Uncategorized
+miscellaneous landscape ecology,0.85,IAB24 Uncategorized
+miscellaneous lithology,0.85,IAB24 Uncategorized
+miscellaneous meteorology,0.85,IAB24 Uncategorized
+miscellaneous mineralogy,0.85,IAB24 Uncategorized
+miscellaneous oceanography,0.85,IAB24 Uncategorized
+miscellaneous palaeogeography,0.85,IAB24 Uncategorized
+miscellaneous palaeontology,0.85,IAB24 Uncategorized
+miscellaneous petrology,0.85,IAB24 Uncategorized
+miscellaneous quaternary science,0.85,IAB24 Uncategorized
+miscellaneous soil geography,0.85,IAB24 Uncategorized
+miscellaneous behavioural geography,0.85,IAB24 Uncategorized
+miscellaneous cognitive geography,0.85,IAB24 Uncategorized
+miscellaneous cultural geography,0.85,IAB24 Uncategorized
+miscellaneous development geography,0.85,IAB24 Uncategorized
+miscellaneous health geography,0.85,IAB24 Uncategorized
+miscellaneous historical geography,0.85,IAB24 Uncategorized
+miscellaneous language geography,0.85,IAB24 Uncategorized
+miscellaneous mathematical geography,0.85,IAB24 Uncategorized
+miscellaneous marketing geography,0.85,IAB24 Uncategorized
+miscellaneous military geography,0.85,IAB24 Uncategorized
+miscellaneous political geography,0.85,IAB24 Uncategorized
+miscellaneous population geography,0.85,IAB24 Uncategorized
+miscellaneous religion geography,0.85,IAB24 Uncategorized
+miscellaneous social geography,0.85,IAB24 Uncategorized
+miscellaneous strategic geography,0.85,IAB24 Uncategorized
+miscellaneous time geography,0.85,IAB24 Uncategorized
+miscellaneous tourism geography,0.85,IAB24 Uncategorized
+miscellaneous transport geography,0.85,IAB24 Uncategorized
+miscellaneous urban geography,0.85,IAB24 Uncategorized
+miscellaneous celestial cartography,0.85,IAB24 Uncategorized
+miscellaneous planetary cartography,0.85,IAB24 Uncategorized
+miscellaneous topography,0.85,IAB24 Uncategorized
+miscellaneous applied linguistics,0.85,IAB24 Uncategorized
+miscellaneous composition studies,0.85,IAB24 Uncategorized
+miscellaneous computational linguistics,0.85,IAB24 Uncategorized
+miscellaneous etymology,0.85,IAB24 Uncategorized
+miscellaneous grammar,0.85,IAB24 Uncategorized
+miscellaneous grammatology,0.85,IAB24 Uncategorized
+miscellaneous historical linguistics,0.85,IAB24 Uncategorized
+miscellaneous history of linguistics,0.85,IAB24 Uncategorized
+miscellaneous interlinguistics,0.85,IAB24 Uncategorized
+miscellaneous lexicology,0.85,IAB24 Uncategorized
+miscellaneous linguistic typology,0.85,IAB24 Uncategorized
+miscellaneous morphology (linguistics),0.85,IAB24 Uncategorized
+miscellaneous natural language processing,0.85,IAB24 Uncategorized
+miscellaneous philology,0.85,IAB24 Uncategorized
+miscellaneous phonetics,0.85,IAB24 Uncategorized
+miscellaneous phonology,0.85,IAB24 Uncategorized
+miscellaneous pragmatics,0.85,IAB24 Uncategorized
+miscellaneous psycholinguistics,0.85,IAB24 Uncategorized
+miscellaneous rhetoric,0.85,IAB24 Uncategorized
+miscellaneous semantics,0.85,IAB24 Uncategorized
+miscellaneous semiotics(outline),0.85,IAB24 Uncategorized
+miscellaneous sociolinguistics,0.85,IAB24 Uncategorized
+miscellaneous syntax,0.85,IAB24 Uncategorized
+miscellaneous usage,0.85,IAB24 Uncategorized
+miscellaneous word usage,0.85,IAB24 Uncategorized
+miscellaneous american politics,0.85,IAB24 Uncategorized
+miscellaneous canadian politics,0.85,IAB24 Uncategorized
+miscellaneous civics,0.85,IAB24 Uncategorized
+miscellaneous health politics,0.85,IAB24 Uncategorized
+miscellaneous biopolitics,0.85,IAB24 Uncategorized
+miscellaneous comparative politics,0.85,IAB24 Uncategorized
+miscellaneous european studies,0.85,IAB24 Uncategorized
+miscellaneous geopolitics(political geography),0.85,IAB24 Uncategorized
+miscellaneous international relations,0.85,IAB24 Uncategorized
+miscellaneous international organizations,0.85,IAB24 Uncategorized
+miscellaneous nationalism studies,0.85,IAB24 Uncategorized
+miscellaneous peace and conflict studies,0.85,IAB24 Uncategorized
+miscellaneous policy studies,0.85,IAB24 Uncategorized
+miscellaneous political behavior,0.85,IAB24 Uncategorized
+miscellaneous political culture,0.85,IAB24 Uncategorized
+miscellaneous political history,0.85,IAB24 Uncategorized
+miscellaneous public administration,0.85,IAB24 Uncategorized
+miscellaneous public law,0.85,IAB24 Uncategorized
+miscellaneous psephology,0.85,IAB24 Uncategorized
+miscellaneous singapore politics,0.85,IAB24 Uncategorized
+miscellaneous abnormal psychology,0.85,IAB24 Uncategorized
+miscellaneous applied psychology,0.85,IAB24 Uncategorized
+miscellaneous biological psychology,0.85,IAB24 Uncategorized
+miscellaneous clinical neuropsychology,0.85,IAB24 Uncategorized
+miscellaneous clinical psychology,0.85,IAB24 Uncategorized
+miscellaneous cognitive psychology,0.85,IAB24 Uncategorized
+miscellaneous community psychology,0.85,IAB24 Uncategorized
+miscellaneous comparative psychology,0.85,IAB24 Uncategorized
+miscellaneous conservation psychology,0.85,IAB24 Uncategorized
+miscellaneous consumer psychology,0.85,IAB24 Uncategorized
+miscellaneous counseling psychology,0.85,IAB24 Uncategorized
+miscellaneous criminal psychology,0.85,IAB24 Uncategorized
+miscellaneous cultural psychologyasian psychologyblack psychology,0.85,IAB24 Uncategorized
+miscellaneous developmental psychology,0.85,IAB24 Uncategorized
+miscellaneous differential psychology,0.85,IAB24 Uncategorized
+miscellaneous ecological psychology,0.85,IAB24 Uncategorized
+miscellaneous educational psychology,0.85,IAB24 Uncategorized
+miscellaneous environmental psychology,0.85,IAB24 Uncategorized
+miscellaneous evolutionary psychology,0.85,IAB24 Uncategorized
+miscellaneous experimental psychology,0.85,IAB24 Uncategorized
+miscellaneous group psychology,0.85,IAB24 Uncategorized
+miscellaneous family psychology,0.85,IAB24 Uncategorized
+miscellaneous feminine psychology,0.85,IAB24 Uncategorized
+miscellaneous forensic developmental psychology,0.85,IAB24 Uncategorized
+miscellaneous forensic psychology,0.85,IAB24 Uncategorized
+miscellaneous health psychology,0.85,IAB24 Uncategorized
+miscellaneous humanistic psychology,0.85,IAB24 Uncategorized
+miscellaneous indigenous psychology,0.85,IAB24 Uncategorized
+miscellaneous legal psychology,0.85,IAB24 Uncategorized
+miscellaneous mathematical psychology,0.85,IAB24 Uncategorized
+miscellaneous media psychology,0.85,IAB24 Uncategorized
+miscellaneous medical psychology,0.85,IAB24 Uncategorized
+miscellaneous military psychology,0.85,IAB24 Uncategorized
+miscellaneous moral psychologyanddescriptive ethics,0.85,IAB24 Uncategorized
+miscellaneous music psychology,0.85,IAB24 Uncategorized
+miscellaneous neuropsychology,0.85,IAB24 Uncategorized
+miscellaneous occupational health psychology,0.85,IAB24 Uncategorized
+miscellaneous occupational psychology,0.85,IAB24 Uncategorized
+"miscellaneous organizational psychology(a.k.a.,industrial psychology)",0.85,IAB24 Uncategorized
+miscellaneous parapsychology(outline),0.85,IAB24 Uncategorized
+miscellaneous pediatric psychology,0.85,IAB24 Uncategorized
+miscellaneous pedology (children study),0.85,IAB24 Uncategorized
+miscellaneous personality psychology,0.85,IAB24 Uncategorized
+miscellaneous political psychology,0.85,IAB24 Uncategorized
+miscellaneous positive psychology,0.85,IAB24 Uncategorized
+miscellaneous psychoanalysis,0.85,IAB24 Uncategorized
+miscellaneous psychobiology,0.85,IAB24 Uncategorized
+miscellaneous psychometrics,0.85,IAB24 Uncategorized
+miscellaneous psychopathologychild psychopathology,0.85,IAB24 Uncategorized
+miscellaneous psychophysics,0.85,IAB24 Uncategorized
+miscellaneous quantitative psychology,0.85,IAB24 Uncategorized
+miscellaneous rehabilitation psychology,0.85,IAB24 Uncategorized
+miscellaneous school psychology,0.85,IAB24 Uncategorized
+miscellaneous social psychology,0.85,IAB24 Uncategorized
+miscellaneous sport psychology,0.85,IAB24 Uncategorized
+miscellaneous traffic psychology,0.85,IAB24 Uncategorized
+miscellaneous transpersonal psychology,0.85,IAB24 Uncategorized
+miscellaneous asian psychology,0.85,IAB24 Uncategorized
+miscellaneous black psychology,0.85,IAB24 Uncategorized
+miscellaneous child psychopathology,0.85,IAB24 Uncategorized
+miscellaneous analytical sociology,0.85,IAB24 Uncategorized
+miscellaneous applied sociologyleisure studiespolitical sociologypublic sociologysocial engineering,0.85,IAB24 Uncategorized
+miscellaneous architectural sociology,0.85,IAB24 Uncategorized
+miscellaneous area studiesafrican studiesamerican studiesappalachian studiescanadian studieslatin american studiesasian studiescentral asian studieseast asian studiesfilipinologyiranian studiesjapanese studieskorean studiessinology(outline)indology(south asian studies)bengal studiesdravidian studies(dravidology)tamilologypakistan studiessindhologysoutheast asian studiesthai studiesaustralian studieseuropean studiesceltic studiesgerman studiessociology in polandscandinavian studiesslavic studiesmiddle eastern studiesarab studiesassyriologyegyptologyjewish studies,0.85,IAB24 Uncategorized
+miscellaneous behavioral sociology,0.85,IAB24 Uncategorized
+miscellaneous collective behaviorsocial movements,0.85,IAB24 Uncategorized
+miscellaneous community informaticssocial network analysis,0.85,IAB24 Uncategorized
+miscellaneous comparative sociology,0.85,IAB24 Uncategorized
+miscellaneous conflict theory,0.85,IAB24 Uncategorized
+miscellaneous criminology/criminal justice(outline),0.85,IAB24 Uncategorized
+miscellaneous critical management studies,0.85,IAB24 Uncategorized
+miscellaneous critical sociology,0.85,IAB24 Uncategorized
+miscellaneous cultural sociology,0.85,IAB24 Uncategorized
+miscellaneous cultural studies/ethnic studiesafricana studiescross-cultural studiesculturologydeaf studiesethnologyutopian studieswhiteness studies,0.85,IAB24 Uncategorized
+miscellaneous demography/population,0.85,IAB24 Uncategorized
+miscellaneous digital sociology,0.85,IAB24 Uncategorized
+miscellaneous dramaturgical sociology,0.85,IAB24 Uncategorized
+miscellaneous educational sociology,0.85,IAB24 Uncategorized
+miscellaneous empirical sociology,0.85,IAB24 Uncategorized
+miscellaneous environmental sociology,0.85,IAB24 Uncategorized
+miscellaneous evolutionary sociology,0.85,IAB24 Uncategorized
+miscellaneous feminist sociology,0.85,IAB24 Uncategorized
+miscellaneous figurational sociology,0.85,IAB24 Uncategorized
+miscellaneous futures studies(outline),0.85,IAB24 Uncategorized
+miscellaneous gender studiesmen's studieswomen's studiesqueer studies,0.85,IAB24 Uncategorized
+miscellaneous historical sociology,0.85,IAB24 Uncategorized
+miscellaneous human ecology,0.85,IAB24 Uncategorized
+miscellaneous humanistic sociology,0.85,IAB24 Uncategorized
+miscellaneous industrial sociology,0.85,IAB24 Uncategorized
+miscellaneous interactionism,0.85,IAB24 Uncategorized
+miscellaneous interpretive sociologyethnomethodologyphenomenologysocial constructionismsymbolic interactionism,0.85,IAB24 Uncategorized
+miscellaneous jealousy sociology,0.85,IAB24 Uncategorized
+miscellaneous macrosociology,0.85,IAB24 Uncategorized
+miscellaneous marxist sociology,0.85,IAB24 Uncategorized
+miscellaneous mathematical sociology,0.85,IAB24 Uncategorized
+miscellaneous medical sociology,0.85,IAB24 Uncategorized
+miscellaneous mesosociology,0.85,IAB24 Uncategorized
+miscellaneous microsociology,0.85,IAB24 Uncategorized
+miscellaneous military sociology,0.85,IAB24 Uncategorized
+miscellaneous natural resource sociology,0.85,IAB24 Uncategorized
+miscellaneous organizational theoryorganizational studies,0.85,IAB24 Uncategorized
+miscellaneous phenomenological sociology,0.85,IAB24 Uncategorized
+miscellaneous policy sociology,0.85,IAB24 Uncategorized
+miscellaneous postcolonialism,0.85,IAB24 Uncategorized
+miscellaneous psychoanalytic sociology,0.85,IAB24 Uncategorized
+miscellaneous science studies/science and technology studies,0.85,IAB24 Uncategorized
+miscellaneous sexologyheterosexismhuman sexual behaviorhuman sexuality(outline)queer studies/queer theorysex education,0.85,IAB24 Uncategorized
+miscellaneous social capital,0.85,IAB24 Uncategorized
+miscellaneous social change,0.85,IAB24 Uncategorized
+miscellaneous social conflict theory,0.85,IAB24 Uncategorized
+miscellaneous social controlpure sociology,0.85,IAB24 Uncategorized
+miscellaneous social economy,0.85,IAB24 Uncategorized
+miscellaneous social philosophy,0.85,IAB24 Uncategorized
+miscellaneous social policy,0.85,IAB24 Uncategorized
+miscellaneous social stratification,0.85,IAB24 Uncategorized
+miscellaneous social theory,0.85,IAB24 Uncategorized
+miscellaneous social transformationcomputational sociologyeconomic sociology/socioeconomicseconomic developmentsocial development,0.85,IAB24 Uncategorized
+miscellaneous sociobiology,0.85,IAB24 Uncategorized
+miscellaneous sociocybernetics,0.85,IAB24 Uncategorized
+miscellaneous sociology of aging,0.85,IAB24 Uncategorized
+miscellaneous sociology of agriculture,0.85,IAB24 Uncategorized
+miscellaneous sociology of art,0.85,IAB24 Uncategorized
+miscellaneous sociology of autism,0.85,IAB24 Uncategorized
+miscellaneous sociology of childhood,0.85,IAB24 Uncategorized
+miscellaneous sociology of conflict,0.85,IAB24 Uncategorized
+miscellaneous sociology of culture,0.85,IAB24 Uncategorized
+miscellaneous sociology of cyberspace,0.85,IAB24 Uncategorized
+miscellaneous sociology of development,0.85,IAB24 Uncategorized
+miscellaneous sociology of deviance,0.85,IAB24 Uncategorized
+miscellaneous sociology of disaster,0.85,IAB24 Uncategorized
+miscellaneous sociology of education,0.85,IAB24 Uncategorized
+miscellaneous sociology of emotions,0.85,IAB24 Uncategorized
+miscellaneous sociology of fatherhood,0.85,IAB24 Uncategorized
+miscellaneous sociology of finance,0.85,IAB24 Uncategorized
+miscellaneous sociology of food,0.85,IAB24 Uncategorized
+miscellaneous sociology of gender,0.85,IAB24 Uncategorized
+miscellaneous sociology of generations,0.85,IAB24 Uncategorized
+miscellaneous sociology of globalization,0.85,IAB24 Uncategorized
+miscellaneous sociology of government,0.85,IAB24 Uncategorized
+miscellaneous sociology of health and illness,0.85,IAB24 Uncategorized
+miscellaneous sociology of human consciousness,0.85,IAB24 Uncategorized
+miscellaneous sociology of immigration,0.85,IAB24 Uncategorized
+miscellaneous sociology of knowledge,0.85,IAB24 Uncategorized
+miscellaneous sociology of language,0.85,IAB24 Uncategorized
+miscellaneous sociology of law,0.85,IAB24 Uncategorized
+miscellaneous sociology of leisure,0.85,IAB24 Uncategorized
+miscellaneous sociology of literature,0.85,IAB24 Uncategorized
+miscellaneous sociology of markets,0.85,IAB24 Uncategorized
+miscellaneous sociology of marriage,0.85,IAB24 Uncategorized
+miscellaneous sociology of motherhood,0.85,IAB24 Uncategorized
+miscellaneous sociology of music,0.85,IAB24 Uncategorized
+miscellaneous sociology of natural resources,0.85,IAB24 Uncategorized
+miscellaneous sociology of organizations,0.85,IAB24 Uncategorized
+"miscellaneous sociology of peace, war, and social conflict",0.85,IAB24 Uncategorized
+miscellaneous sociology of punishment,0.85,IAB24 Uncategorized
+miscellaneous sociology of race and ethnic relations,0.85,IAB24 Uncategorized
+miscellaneous sociology of risk,0.85,IAB24 Uncategorized
+miscellaneous sociology of science,0.85,IAB24 Uncategorized
+miscellaneous sociology of scientific knowledge,0.85,IAB24 Uncategorized
+miscellaneous sociology of social change,0.85,IAB24 Uncategorized
+miscellaneous sociology of social movements,0.85,IAB24 Uncategorized
+miscellaneous sociology of space,0.85,IAB24 Uncategorized
+miscellaneous sociology of sport,0.85,IAB24 Uncategorized
+miscellaneous sociology of technology,0.85,IAB24 Uncategorized
+miscellaneous sociology of terrorism,0.85,IAB24 Uncategorized
+miscellaneous sociology of the body,0.85,IAB24 Uncategorized
+miscellaneous sociology of the family,0.85,IAB24 Uncategorized
+miscellaneous sociology of the history of science,0.85,IAB24 Uncategorized
+miscellaneous sociology of the internet,0.85,IAB24 Uncategorized
+miscellaneous sociology of work,0.85,IAB24 Uncategorized
+miscellaneous sociomusicology,0.85,IAB24 Uncategorized
+miscellaneous structural sociology,0.85,IAB24 Uncategorized
+miscellaneous theoretical sociology,0.85,IAB24 Uncategorized
+miscellaneous urban studiesorurban sociology/rural sociology,0.85,IAB24 Uncategorized
+miscellaneous victimology,0.85,IAB24 Uncategorized
+miscellaneous visual sociology,0.85,IAB24 Uncategorized
+miscellaneous leisure studies,0.85,IAB24 Uncategorized
+miscellaneous political sociology,0.85,IAB24 Uncategorized
+miscellaneous public sociology,0.85,IAB24 Uncategorized
+miscellaneous social engineering,0.85,IAB24 Uncategorized
+miscellaneous african studies,0.85,IAB24 Uncategorized
+miscellaneous american studiesappalachian studiescanadian studieslatin american studies,0.85,IAB24 Uncategorized
+miscellaneous asian studiescentral asian studieseast asian studiesfilipinologyiranian studiesjapanese studieskorean studiessinology(outline)indology(south asian studies)bengal studiesdravidian studies(dravidology)tamilologypakistan studiessindhologysoutheast asian studiesthai studies,0.85,IAB24 Uncategorized
+miscellaneous australian studies,0.85,IAB24 Uncategorized
+miscellaneous european studiesceltic studiesgerman studiessociology in polandscandinavian studiesslavic studies,0.85,IAB24 Uncategorized
+miscellaneous middle eastern studiesarab studiesassyriologyegyptologyjewish studies,0.85,IAB24 Uncategorized
+miscellaneous appalachian studies,0.85,IAB24 Uncategorized
+miscellaneous canadian studies,0.85,IAB24 Uncategorized
+miscellaneous latin american studies,0.85,IAB24 Uncategorized
+miscellaneous central asian studies,0.85,IAB24 Uncategorized
+miscellaneous east asian studies,0.85,IAB24 Uncategorized
+miscellaneous filipinology,0.85,IAB24 Uncategorized
+miscellaneous iranian studies,0.85,IAB24 Uncategorized
+miscellaneous japanese studies,0.85,IAB24 Uncategorized
+miscellaneous korean studies,0.85,IAB24 Uncategorized
+miscellaneous sinology(outline),0.85,IAB24 Uncategorized
+miscellaneous indology(south asian studies)bengal studiesdravidian studies(dravidology)tamilologypakistan studiessindhology,0.85,IAB24 Uncategorized
+miscellaneous southeast asian studies,0.85,IAB24 Uncategorized
+miscellaneous thai studies,0.85,IAB24 Uncategorized
+miscellaneous bengal studies,0.85,IAB24 Uncategorized
+miscellaneous dravidian studies(dravidology),0.85,IAB24 Uncategorized
+miscellaneous tamilology,0.85,IAB24 Uncategorized
+miscellaneous pakistan studies,0.85,IAB24 Uncategorized
+miscellaneous sindhology,0.85,IAB24 Uncategorized
+miscellaneous celtic studies,0.85,IAB24 Uncategorized
+miscellaneous german studies,0.85,IAB24 Uncategorized
+miscellaneous sociology in poland,0.85,IAB24 Uncategorized
+miscellaneous scandinavian studies,0.85,IAB24 Uncategorized
+miscellaneous slavic studies,0.85,IAB24 Uncategorized
+miscellaneous arab studies,0.85,IAB24 Uncategorized
+miscellaneous assyriology,0.85,IAB24 Uncategorized
+miscellaneous egyptology,0.85,IAB24 Uncategorized
+miscellaneous jewish studies,0.85,IAB24 Uncategorized
+miscellaneous social movements,0.85,IAB24 Uncategorized
+miscellaneous social network analysis,0.85,IAB24 Uncategorized
+miscellaneous africana studies,0.85,IAB24 Uncategorized
+miscellaneous cross-cultural studies,0.85,IAB24 Uncategorized
+miscellaneous culturology,0.85,IAB24 Uncategorized
+miscellaneous deaf studies,0.85,IAB24 Uncategorized
+miscellaneous ethnology,0.85,IAB24 Uncategorized
+miscellaneous utopian studies,0.85,IAB24 Uncategorized
+miscellaneous whiteness studies,0.85,IAB24 Uncategorized
+miscellaneous men's studies,0.85,IAB24 Uncategorized
+miscellaneous women's studies,0.85,IAB24 Uncategorized
+miscellaneous queer studies,0.85,IAB24 Uncategorized
+miscellaneous ethnomethodology,0.85,IAB24 Uncategorized
+miscellaneous social constructionism,0.85,IAB24 Uncategorized
+miscellaneous symbolic interactionism,0.85,IAB24 Uncategorized
+miscellaneous organizational studies,0.85,IAB24 Uncategorized
+miscellaneous heterosexism,0.85,IAB24 Uncategorized
+miscellaneous human sexual behavior,0.85,IAB24 Uncategorized
+miscellaneous human sexuality(outline),0.85,IAB24 Uncategorized
+miscellaneous queer studies/queer theory,0.85,IAB24 Uncategorized
+miscellaneous sex education,0.85,IAB24 Uncategorized
+miscellaneous pure sociology,0.85,IAB24 Uncategorized
+miscellaneous computational sociology,0.85,IAB24 Uncategorized
+miscellaneous economic sociology/socioeconomicseconomic developmentsocial development,0.85,IAB24 Uncategorized
+miscellaneous economic development,0.85,IAB24 Uncategorized
+miscellaneous social development,0.85,IAB24 Uncategorized
+miscellaneous aerobiology,0.85,IAB24 Uncategorized
+miscellaneous anatomycomparative anatomyhuman anatomy(outline),0.85,IAB24 Uncategorized
+miscellaneous biochemistry(outline),0.85,IAB24 Uncategorized
+miscellaneous bioinformatics,0.85,IAB24 Uncategorized
+miscellaneous biophysics(outline),0.85,IAB24 Uncategorized
+miscellaneous biotechnology(outline),0.85,IAB24 Uncategorized
+miscellaneous botany(outline)ethnobotanyphycology,0.85,IAB24 Uncategorized
+miscellaneous cell biology(outline),0.85,IAB24 Uncategorized
+miscellaneous chronobiology,0.85,IAB24 Uncategorized
+miscellaneous computational biology,0.85,IAB24 Uncategorized
+miscellaneous cryobiology,0.85,IAB24 Uncategorized
+miscellaneous developmental biologyembryologyteratology,0.85,IAB24 Uncategorized
+miscellaneous ecology(outline)agroecologyethnoecologyhuman ecologylandscape ecology,0.85,IAB24 Uncategorized
+miscellaneous endocrinology,0.85,IAB24 Uncategorized
+miscellaneous epigenetics,0.85,IAB24 Uncategorized
+miscellaneous ethnobiologyanthrozoology,0.85,IAB24 Uncategorized
+miscellaneous evolutionary biology,0.85,IAB24 Uncategorized
+miscellaneous genetics(outline)behavioural geneticsmolecular geneticspopulation genetics,0.85,IAB24 Uncategorized
+miscellaneous histology,0.85,IAB24 Uncategorized
+miscellaneous human biology,0.85,IAB24 Uncategorized
+miscellaneous immunology(outline),0.85,IAB24 Uncategorized
+miscellaneous limnology,0.85,IAB24 Uncategorized
+miscellaneous linnaean taxonomy,0.85,IAB24 Uncategorized
+miscellaneous marine biology,0.85,IAB24 Uncategorized
+miscellaneous mathematical biology,0.85,IAB24 Uncategorized
+miscellaneous microbiologybacteriologyprotistology,0.85,IAB24 Uncategorized
+miscellaneous molecular biology,0.85,IAB24 Uncategorized
+miscellaneous mycology,0.85,IAB24 Uncategorized
+miscellaneous neuroscience(outline)behavioral neuroscience,0.85,IAB24 Uncategorized
+miscellaneous nutrition(outline),0.85,IAB24 Uncategorized
+miscellaneous paleobiologypaleontology,0.85,IAB24 Uncategorized
+miscellaneous parasitology,0.85,IAB24 Uncategorized
+miscellaneous pathologyanatomical pathologyclinical pathologydermatopathologyforensic pathologyhematopathologyhistopathologymolecular pathologysurgical pathology,0.85,IAB24 Uncategorized
+miscellaneous physiologyhuman physiologyexercise physiology,0.85,IAB24 Uncategorized
+miscellaneous structural biology,0.85,IAB24 Uncategorized
+miscellaneous systematics(taxonomy),0.85,IAB24 Uncategorized
+miscellaneous systems biology,0.85,IAB24 Uncategorized
+miscellaneous virologymolecular virology,0.85,IAB24 Uncategorized
+miscellaneous xenobiology,0.85,IAB24 Uncategorized
+miscellaneous zoology(outline)animal communicationsapiologyarachnologyarthropodologybatrachologybryozoologycarcinologycetologycnidariologyentomologyforensic entomologyethnozoologyethologyhelminthologyherpetologyichthyology(outline)invertebrate zoologymammalogycynologyfelinologymalacologyconchologylimacologyteuthologymyriapodologymyrmecology(outline)nematologyneuroethologyoologyornithology(outline)planktologyprimatologyzootomyzoosemiotics,0.85,IAB24 Uncategorized
+miscellaneous comparative anatomy,0.85,IAB24 Uncategorized
+miscellaneous human anatomy(outline),0.85,IAB24 Uncategorized
+miscellaneous ethnobotany,0.85,IAB24 Uncategorized
+miscellaneous phycology,0.85,IAB24 Uncategorized
+miscellaneous embryology,0.85,IAB24 Uncategorized
+miscellaneous teratology,0.85,IAB24 Uncategorized
+miscellaneous agroecology,0.85,IAB24 Uncategorized
+miscellaneous ethnoecology,0.85,IAB24 Uncategorized
+miscellaneous anthrozoology,0.85,IAB24 Uncategorized
+miscellaneous behavioural genetics,0.85,IAB24 Uncategorized
+miscellaneous molecular genetics,0.85,IAB24 Uncategorized
+miscellaneous population genetics,0.85,IAB24 Uncategorized
+miscellaneous bacteriology,0.85,IAB24 Uncategorized
+miscellaneous protistology,0.85,IAB24 Uncategorized
+miscellaneous behavioral neuroscience,0.85,IAB24 Uncategorized
+miscellaneous paleontology,0.85,IAB24 Uncategorized
+miscellaneous anatomical pathology,0.85,IAB24 Uncategorized
+miscellaneous clinical pathology,0.85,IAB24 Uncategorized
+miscellaneous dermatopathology,0.85,IAB24 Uncategorized
+miscellaneous forensic pathology,0.85,IAB24 Uncategorized
+miscellaneous hematopathology,0.85,IAB24 Uncategorized
+miscellaneous histopathology,0.85,IAB24 Uncategorized
+miscellaneous molecular pathology,0.85,IAB24 Uncategorized
+miscellaneous surgical pathology,0.85,IAB24 Uncategorized
+miscellaneous human physiologyexercise physiology,0.85,IAB24 Uncategorized
+miscellaneous exercise physiology,0.85,IAB24 Uncategorized
+miscellaneous molecular virology,0.85,IAB24 Uncategorized
+miscellaneous animal communications,0.85,IAB24 Uncategorized
+miscellaneous apiology,0.85,IAB24 Uncategorized
+miscellaneous arachnology,0.85,IAB24 Uncategorized
+miscellaneous arthropodology,0.85,IAB24 Uncategorized
+miscellaneous batrachology,0.85,IAB24 Uncategorized
+miscellaneous bryozoology,0.85,IAB24 Uncategorized
+miscellaneous carcinology,0.85,IAB24 Uncategorized
+miscellaneous cetology,0.85,IAB24 Uncategorized
+miscellaneous cnidariology,0.85,IAB24 Uncategorized
+miscellaneous entomologyforensic entomology,0.85,IAB24 Uncategorized
+miscellaneous ethnozoology,0.85,IAB24 Uncategorized
+miscellaneous ethology,0.85,IAB24 Uncategorized
+miscellaneous helminthology,0.85,IAB24 Uncategorized
+miscellaneous herpetology,0.85,IAB24 Uncategorized
+miscellaneous ichthyology(outline),0.85,IAB24 Uncategorized
+miscellaneous invertebrate zoology,0.85,IAB24 Uncategorized
+miscellaneous mammalogycynologyfelinology,0.85,IAB24 Uncategorized
+miscellaneous malacologyconchologylimacologyteuthology,0.85,IAB24 Uncategorized
+miscellaneous myriapodology,0.85,IAB24 Uncategorized
+miscellaneous myrmecology(outline),0.85,IAB24 Uncategorized
+miscellaneous nematology,0.85,IAB24 Uncategorized
+miscellaneous neuroethology,0.85,IAB24 Uncategorized
+miscellaneous oology,0.85,IAB24 Uncategorized
+miscellaneous ornithology(outline),0.85,IAB24 Uncategorized
+miscellaneous planktology,0.85,IAB24 Uncategorized
+miscellaneous primatology,0.85,IAB24 Uncategorized
+miscellaneous zootomy,0.85,IAB24 Uncategorized
+miscellaneous zoosemiotics,0.85,IAB24 Uncategorized
+miscellaneous forensic entomology,0.85,IAB24 Uncategorized
+miscellaneous cynology,0.85,IAB24 Uncategorized
+miscellaneous felinology,0.85,IAB24 Uncategorized
+miscellaneous conchology,0.85,IAB24 Uncategorized
+miscellaneous limacology,0.85,IAB24 Uncategorized
+miscellaneous teuthology,0.85,IAB24 Uncategorized
+miscellaneous agrochemistry,0.85,IAB24 Uncategorized
+miscellaneous analytical chemistry,0.85,IAB24 Uncategorized
+miscellaneous astrochemistry,0.85,IAB24 Uncategorized
+miscellaneous atmospheric chemistry,0.85,IAB24 Uncategorized
+miscellaneous chemical biology,0.85,IAB24 Uncategorized
+miscellaneous chemical engineering(outline),0.85,IAB24 Uncategorized
+miscellaneous cheminformatics,0.85,IAB24 Uncategorized
+miscellaneous computational chemistry,0.85,IAB24 Uncategorized
+miscellaneous cosmochemistry,0.85,IAB24 Uncategorized
+miscellaneous electrochemistry,0.85,IAB24 Uncategorized
+miscellaneous environmental chemistry,0.85,IAB24 Uncategorized
+miscellaneous femtochemistry,0.85,IAB24 Uncategorized
+miscellaneous flavor,0.85,IAB24 Uncategorized
+miscellaneous flow chemistry,0.85,IAB24 Uncategorized
+miscellaneous green chemistry,0.85,IAB24 Uncategorized
+miscellaneous histochemistry,0.85,IAB24 Uncategorized
+miscellaneous hydrogenation,0.85,IAB24 Uncategorized
+miscellaneous immunochemistry,0.85,IAB24 Uncategorized
+miscellaneous inorganic chemistry,0.85,IAB24 Uncategorized
+miscellaneous marine chemistry,0.85,IAB24 Uncategorized
+miscellaneous mathematical chemistry,0.85,IAB24 Uncategorized
+miscellaneous mechanochemistry,0.85,IAB24 Uncategorized
+miscellaneous medicinal chemistry,0.85,IAB24 Uncategorized
+miscellaneous molecular mechanics,0.85,IAB24 Uncategorized
+miscellaneous nanotechnology,0.85,IAB24 Uncategorized
+miscellaneous natural product chemistry,0.85,IAB24 Uncategorized
+miscellaneous neurochemistry,0.85,IAB24 Uncategorized
+miscellaneous oenology,0.85,IAB24 Uncategorized
+miscellaneous organic chemistry(outline),0.85,IAB24 Uncategorized
+miscellaneous organometallic chemistry,0.85,IAB24 Uncategorized
+miscellaneous petrochemistry,0.85,IAB24 Uncategorized
+miscellaneous pharmacology,0.85,IAB24 Uncategorized
+miscellaneous photochemistry,0.85,IAB24 Uncategorized
+miscellaneous physical chemistry,0.85,IAB24 Uncategorized
+miscellaneous physical organic chemistry,0.85,IAB24 Uncategorized
+miscellaneous phytochemistry,0.85,IAB24 Uncategorized
+miscellaneous polymer chemistry,0.85,IAB24 Uncategorized
+miscellaneous quantum chemistry,0.85,IAB24 Uncategorized
+miscellaneous radiochemistry,0.85,IAB24 Uncategorized
+miscellaneous solid-state chemistry,0.85,IAB24 Uncategorized
+miscellaneous sonochemistry,0.85,IAB24 Uncategorized
+miscellaneous supramolecular chemistry,0.85,IAB24 Uncategorized
+miscellaneous surface chemistry,0.85,IAB24 Uncategorized
+miscellaneous synthetic chemistry,0.85,IAB24 Uncategorized
+miscellaneous theoretical chemistry,0.85,IAB24 Uncategorized
+miscellaneous thermochemistry,0.85,IAB24 Uncategorized
+miscellaneous chronology,0.85,IAB24 Uncategorized
+miscellaneous edaphology,0.85,IAB24 Uncategorized
+miscellaneous environmental science,0.85,IAB24 Uncategorized
+miscellaneous gemology,0.85,IAB24 Uncategorized
+miscellaneous geodesy,0.85,IAB24 Uncategorized
+"miscellaneous physical geography(outline)atmospheric science/meteorology(outline)biogeography/phytogeographyclimatology/paleoclimatology/palaeogeographycoastal geography/oceanographyedaphology/pedologyorsoil sciencegeobiologygeology(outline) (geomorphology,mineralogy,petrology,sedimentology,speleology,tectonics,volcanology)geostatisticsglaciologyhydrology(outline)/limnology/hydrogeologylandscape ecologyquaternary science",0.85,IAB24 Uncategorized
+miscellaneous geophysics(outline),0.85,IAB24 Uncategorized
+miscellaneous paleontologypaleobiologypaleoecology,0.85,IAB24 Uncategorized
+miscellaneous atmospheric science/meteorology(outline),0.85,IAB24 Uncategorized
+miscellaneous biogeography/phytogeography,0.85,IAB24 Uncategorized
+miscellaneous climatology/paleoclimatology/palaeogeography,0.85,IAB24 Uncategorized
+miscellaneous coastal geography/oceanography,0.85,IAB24 Uncategorized
+miscellaneous edaphology/pedologyorsoil science,0.85,IAB24 Uncategorized
+"miscellaneous geology(outline) (geomorphology,mineralogy,petrology,sedimentology,speleology,tectonics,volcanology)",0.85,IAB24 Uncategorized
+miscellaneous geostatistics,0.85,IAB24 Uncategorized
+miscellaneous hydrology(outline)/limnology/hydrogeology,0.85,IAB24 Uncategorized
+miscellaneous paleobiology,0.85,IAB24 Uncategorized
+miscellaneous paleoecology,0.85,IAB24 Uncategorized
+miscellaneous astrobiology,0.85,IAB24 Uncategorized
+miscellaneous observational astronomygamma ray astronomyinfrared astronomymicrowave astronomyoptical astronomyradio astronomyuv astronomyx-ray astronomy,0.85,IAB24 Uncategorized
+miscellaneous astrophysicsgravitational astronomyblack holes,0.85,IAB24 Uncategorized
+miscellaneous cosmologyphysical cosmology,0.85,IAB24 Uncategorized
+miscellaneous interstellar medium,0.85,IAB24 Uncategorized
+miscellaneous numerical simulationsastrophysical plasmagalaxy formation and evolutionhigh-energy astrophysicshydrodynamicsmagnetohydrodynamicsstar formation,0.85,IAB24 Uncategorized
+miscellaneous stellar astrophysicshelioseismologystellar evolutionstellar nucleosynthesis,0.85,IAB24 Uncategorized
+miscellaneous planetary science,0.85,IAB24 Uncategorized
+miscellaneous gamma ray astronomy,0.85,IAB24 Uncategorized
+miscellaneous infrared astronomy,0.85,IAB24 Uncategorized
+miscellaneous microwave astronomy,0.85,IAB24 Uncategorized
+miscellaneous optical astronomy,0.85,IAB24 Uncategorized
+miscellaneous radio astronomy,0.85,IAB24 Uncategorized
+miscellaneous uv astronomy,0.85,IAB24 Uncategorized
+miscellaneous x-ray astronomy,0.85,IAB24 Uncategorized
+miscellaneous gravitational astronomyblack holes,0.85,IAB24 Uncategorized
+miscellaneous black holes,0.85,IAB24 Uncategorized
+miscellaneous physical cosmology,0.85,IAB24 Uncategorized
+miscellaneous astrophysical plasma,0.85,IAB24 Uncategorized
+miscellaneous galaxy formation and evolution,0.85,IAB24 Uncategorized
+miscellaneous high-energy astrophysics,0.85,IAB24 Uncategorized
+miscellaneous hydrodynamics,0.85,IAB24 Uncategorized
+miscellaneous magnetohydrodynamics,0.85,IAB24 Uncategorized
+miscellaneous star formation,0.85,IAB24 Uncategorized
+miscellaneous helioseismology,0.85,IAB24 Uncategorized
+miscellaneous stellar evolution,0.85,IAB24 Uncategorized
+miscellaneous stellar nucleosynthesis,0.85,IAB24 Uncategorized
+miscellaneous acoustics,0.85,IAB24 Uncategorized
+miscellaneous aerodynamics,0.85,IAB24 Uncategorized
+miscellaneous applied physics,0.85,IAB24 Uncategorized
+miscellaneous astrophysics,0.85,IAB24 Uncategorized
+miscellaneous atmospheric physics,0.85,IAB24 Uncategorized
+"miscellaneous atomic, molecular, and optical physics",0.85,IAB24 Uncategorized
+miscellaneous computational physics,0.85,IAB24 Uncategorized
+miscellaneous condensed matter physics,0.85,IAB24 Uncategorized
+miscellaneous cryogenics,0.85,IAB24 Uncategorized
+miscellaneous electricity,0.85,IAB24 Uncategorized
+miscellaneous electromagnetism,0.85,IAB24 Uncategorized
+miscellaneous elementary particle physics,0.85,IAB24 Uncategorized
+miscellaneous experimental physics,0.85,IAB24 Uncategorized
+miscellaneous fluid dynamics,0.85,IAB24 Uncategorized
+miscellaneous mathematical physics,0.85,IAB24 Uncategorized
+miscellaneous mechanics,0.85,IAB24 Uncategorized
+miscellaneous medical physics,0.85,IAB24 Uncategorized
+miscellaneous molecular physics,0.85,IAB24 Uncategorized
+miscellaneous newtonian dynamics,0.85,IAB24 Uncategorized
+miscellaneous nuclear physics,0.85,IAB24 Uncategorized
+miscellaneous optics,0.85,IAB24 Uncategorized
+miscellaneous plasma physics,0.85,IAB24 Uncategorized
+miscellaneous quantum physics,0.85,IAB24 Uncategorized
+miscellaneous solid mechanics,0.85,IAB24 Uncategorized
+miscellaneous solid state physics,0.85,IAB24 Uncategorized
+miscellaneous statistical mechanics,0.85,IAB24 Uncategorized
+miscellaneous theoretical physics,0.85,IAB24 Uncategorized
+miscellaneous thermal physics,0.85,IAB24 Uncategorized
+miscellaneous thermodynamics,0.85,IAB24 Uncategorized
+miscellaneous logic in computer scienceformal methods(formal verification)logic programmingmulti-valued logicfuzzy logicprogramming language semanticstype theory,0.85,IAB24 Uncategorized
+miscellaneous algorithmscomputational geometrydistributed algorithmsparallel algorithmsrandomized algorithms,0.85,IAB24 Uncategorized
+miscellaneous artificial intelligence(outline)cognitive scienceautomated reasoningcomputer vision(outline)machine learningartificial neural networksnatural language processing(computational linguistics)expert systemsrobotics(outline),0.85,IAB24 Uncategorized
+miscellaneous data science,0.85,IAB24 Uncategorized
+miscellaneous data structures,0.85,IAB24 Uncategorized
+miscellaneous computer architecture,0.85,IAB24 Uncategorized
+miscellaneous computer graphicsimage processingscientific visualization,0.85,IAB24 Uncategorized
+"miscellaneous computer communications (networks)cloud computinginformation theoryinternet,world wide webubiquitous computingwireless computing(mobile computing)",0.85,IAB24 Uncategorized
+miscellaneous computer securityandreliabilitycryptographyfault-tolerant computing,0.85,IAB24 Uncategorized
+"miscellaneous computing inmathematics,natural sciences,engineering, andmedicinealgebraic (symbolic) computationcomputational biology(bioinformatics)computational chemistrycomputational mathematicscomputational neurosciencecomputational number theorycomputational physicscomputer-aided engineeringcomputational fluid dynamicsfinite element analysisnumerical analysisscientific computing(computational science)",0.85,IAB24 Uncategorized
+"miscellaneous computing insocial sciences,arts,humanities, andprofessionscommunity informaticscomputational economicscomputational financecomputational sociologydigital humanities(humanities computing)history of computer hardwarehistory of computer science(outline)humanistic informaticsdatabases(outline)distributed databasesobject databasesrelational databasesdata managementdata mininginformation architectureinformation managementinformation retrievalknowledge managementmultimedia,hypermediasound and music computing",0.85,IAB24 Uncategorized
+miscellaneous distributed computinggrid computing,0.85,IAB24 Uncategorized
+miscellaneous human-computer interaction,0.85,IAB24 Uncategorized
+miscellaneous operating systems,0.85,IAB24 Uncategorized
+miscellaneous parallel computinghigh-performance computing,0.85,IAB24 Uncategorized
+miscellaneous programming languagescompilersprogramming paradigmsconcurrent programmingfunctional programmingimperative programminglogic programmingobject-oriented programmingprogram semanticstype theory,0.85,IAB24 Uncategorized
+miscellaneous quantum computing,0.85,IAB24 Uncategorized
+miscellaneous software engineeringformal methods(formal verification),0.85,IAB24 Uncategorized
+miscellaneous theory of computationautomata theory(formal languages)computability theorycomputational complexity theoryconcurrency theory,0.85,IAB24 Uncategorized
+miscellaneous vlsi design,0.85,IAB24 Uncategorized
+miscellaneous formal methods(formal verification),0.85,IAB24 Uncategorized
+miscellaneous logic programming,0.85,IAB24 Uncategorized
+miscellaneous multi-valued logicfuzzy logic,0.85,IAB24 Uncategorized
+miscellaneous programming language semantics,0.85,IAB24 Uncategorized
+miscellaneous type theory,0.85,IAB24 Uncategorized
+miscellaneous fuzzy logic,0.85,IAB24 Uncategorized
+miscellaneous computational geometry,0.85,IAB24 Uncategorized
+miscellaneous distributed algorithms,0.85,IAB24 Uncategorized
+miscellaneous parallel algorithms,0.85,IAB24 Uncategorized
+miscellaneous randomized algorithms,0.85,IAB24 Uncategorized
+miscellaneous cognitive scienceautomated reasoningcomputer vision(outline)machine learningartificial neural networksnatural language processing(computational linguistics),0.85,IAB24 Uncategorized
+miscellaneous expert systems,0.85,IAB24 Uncategorized
+miscellaneous robotics(outline),0.85,IAB24 Uncategorized
+miscellaneous automated reasoning,0.85,IAB24 Uncategorized
+miscellaneous computer vision(outline),0.85,IAB24 Uncategorized
+miscellaneous machine learningartificial neural networks,0.85,IAB24 Uncategorized
+miscellaneous natural language processing(computational linguistics),0.85,IAB24 Uncategorized
+miscellaneous artificial neural networks,0.85,IAB24 Uncategorized
+miscellaneous image processing,0.85,IAB24 Uncategorized
+miscellaneous scientific visualization,0.85,IAB24 Uncategorized
+miscellaneous cloud computing,0.85,IAB24 Uncategorized
+miscellaneous information theory,0.85,IAB24 Uncategorized
+"miscellaneous internet,world wide web",0.85,IAB24 Uncategorized
+miscellaneous ubiquitous computing,0.85,IAB24 Uncategorized
+miscellaneous wireless computing(mobile computing),0.85,IAB24 Uncategorized
+miscellaneous cryptography,0.85,IAB24 Uncategorized
+miscellaneous fault-tolerant computing,0.85,IAB24 Uncategorized
+miscellaneous algebraic (symbolic) computation,0.85,IAB24 Uncategorized
+miscellaneous computational biology(bioinformatics),0.85,IAB24 Uncategorized
+miscellaneous computational mathematics,0.85,IAB24 Uncategorized
+miscellaneous computational neuroscience,0.85,IAB24 Uncategorized
+miscellaneous computational number theory,0.85,IAB24 Uncategorized
+miscellaneous computer-aided engineeringcomputational fluid dynamicsfinite element analysis,0.85,IAB24 Uncategorized
+miscellaneous numerical analysis,0.85,IAB24 Uncategorized
+miscellaneous scientific computing(computational science),0.85,IAB24 Uncategorized
+miscellaneous computational fluid dynamics,0.85,IAB24 Uncategorized
+miscellaneous finite element analysis,0.85,IAB24 Uncategorized
+miscellaneous community informatics,0.85,IAB24 Uncategorized
+miscellaneous computational finance,0.85,IAB24 Uncategorized
+miscellaneous digital humanities(humanities computing),0.85,IAB24 Uncategorized
+miscellaneous history of computer hardware,0.85,IAB24 Uncategorized
+miscellaneous history of computer science(outline),0.85,IAB24 Uncategorized
+miscellaneous humanistic informatics,0.85,IAB24 Uncategorized
+miscellaneous databases(outline)distributed databasesobject databasesrelational databases,0.85,IAB24 Uncategorized
+miscellaneous data management,0.85,IAB24 Uncategorized
+miscellaneous data mining,0.85,IAB24 Uncategorized
+miscellaneous information architecture,0.85,IAB24 Uncategorized
+miscellaneous information management,0.85,IAB24 Uncategorized
+miscellaneous information retrieval,0.85,IAB24 Uncategorized
+miscellaneous knowledge management,0.85,IAB24 Uncategorized
+"miscellaneous multimedia,hypermediasound and music computing",0.85,IAB24 Uncategorized
+miscellaneous distributed databases,0.85,IAB24 Uncategorized
+miscellaneous object databases,0.85,IAB24 Uncategorized
+miscellaneous relational databases,0.85,IAB24 Uncategorized
+miscellaneous sound and music computing,0.85,IAB24 Uncategorized
+miscellaneous grid computing,0.85,IAB24 Uncategorized
+miscellaneous high-performance computing,0.85,IAB24 Uncategorized
+miscellaneous compilers,0.85,IAB24 Uncategorized
+miscellaneous programming paradigmsconcurrent programmingfunctional programmingimperative programminglogic programmingobject-oriented programming,0.85,IAB24 Uncategorized
+miscellaneous program semantics,0.85,IAB24 Uncategorized
+miscellaneous concurrent programming,0.85,IAB24 Uncategorized
+miscellaneous functional programming,0.85,IAB24 Uncategorized
+miscellaneous imperative programming,0.85,IAB24 Uncategorized
+miscellaneous object-oriented programming,0.85,IAB24 Uncategorized
+miscellaneous automata theory(formal languages),0.85,IAB24 Uncategorized
+miscellaneous computability theory,0.85,IAB24 Uncategorized
+miscellaneous computational complexity theory,0.85,IAB24 Uncategorized
+miscellaneous concurrency theory,0.85,IAB24 Uncategorized
+miscellaneous mathematical logicandfoundations of mathematicsintuitionistic logicmodal logicmodel theoryproof theoryrecursion theoryset theory,0.85,IAB24 Uncategorized
+miscellaneous arithmetic,0.85,IAB24 Uncategorized
+miscellaneous algebra(outline)associative algebracategory theorytopostheorydifferential algebrafield theorygroup theorygroup representationhomological algebrak-theorylattice theory(order theory)lie algebralinear algebra(vector space)multilinear algebranon-associative algebrarepresentation theoryring theorycommutative algebranoncommutative algebrauniversal algebra,0.85,IAB24 Uncategorized
+miscellaneous analysiscomplex analysisfunctional analysisoperator theoryharmonic analysisfourier analysisnon-standard analysisordinary differential equationsp-adic analysispartial differential equationsreal analysiscalculus(outline),0.85,IAB24 Uncategorized
+miscellaneous probability theoryergodic theorymeasure theoryintegral geometrystochastic process,0.85,IAB24 Uncategorized
+miscellaneous geometry(outline) andtopologyaffine geometryalgebraic geometryalgebraic topologyconvex geometrydifferential topologydiscrete geometryfinite geometrygalois geometrygeneral topologygeometric topologyintegral geometrynoncommutative geometrynon-euclidean geometryprojective geometry,0.85,IAB24 Uncategorized
+miscellaneous number theoryalgebraic number theoryanalytic number theoryarithmetic combinatoricsgeometric number theory,0.85,IAB24 Uncategorized
+miscellaneous intuitionistic logic,0.85,IAB24 Uncategorized
+miscellaneous modal logic,0.85,IAB24 Uncategorized
+miscellaneous model theory,0.85,IAB24 Uncategorized
+miscellaneous proof theory,0.85,IAB24 Uncategorized
+miscellaneous recursion theory,0.85,IAB24 Uncategorized
+miscellaneous set theory,0.85,IAB24 Uncategorized
+miscellaneous associative algebra,0.85,IAB24 Uncategorized
+miscellaneous category theorytopostheory,0.85,IAB24 Uncategorized
+miscellaneous differential algebra,0.85,IAB24 Uncategorized
+miscellaneous field theory,0.85,IAB24 Uncategorized
+miscellaneous group theorygroup representation,0.85,IAB24 Uncategorized
+miscellaneous homological algebra,0.85,IAB24 Uncategorized
+miscellaneous k-theory,0.85,IAB24 Uncategorized
+miscellaneous lattice theory(order theory),0.85,IAB24 Uncategorized
+miscellaneous lie algebra,0.85,IAB24 Uncategorized
+miscellaneous linear algebra(vector space),0.85,IAB24 Uncategorized
+miscellaneous multilinear algebra,0.85,IAB24 Uncategorized
+miscellaneous non-associative algebra,0.85,IAB24 Uncategorized
+miscellaneous representation theory,0.85,IAB24 Uncategorized
+miscellaneous ring theorycommutative algebranoncommutative algebra,0.85,IAB24 Uncategorized
+miscellaneous universal algebra,0.85,IAB24 Uncategorized
+miscellaneous topostheory,0.85,IAB24 Uncategorized
+miscellaneous group representation,0.85,IAB24 Uncategorized
+miscellaneous commutative algebra,0.85,IAB24 Uncategorized
+miscellaneous noncommutative algebra,0.85,IAB24 Uncategorized
+miscellaneous complex analysis,0.85,IAB24 Uncategorized
+miscellaneous functional analysisoperator theory,0.85,IAB24 Uncategorized
+miscellaneous harmonic analysisfourier analysis,0.85,IAB24 Uncategorized
+miscellaneous non-standard analysis,0.85,IAB24 Uncategorized
+miscellaneous ordinary differential equations,0.85,IAB24 Uncategorized
+miscellaneous p-adic analysis,0.85,IAB24 Uncategorized
+miscellaneous partial differential equations,0.85,IAB24 Uncategorized
+miscellaneous real analysiscalculus(outline),0.85,IAB24 Uncategorized
+miscellaneous operator theory,0.85,IAB24 Uncategorized
+miscellaneous fourier analysis,0.85,IAB24 Uncategorized
+miscellaneous calculus(outline),0.85,IAB24 Uncategorized
+miscellaneous ergodic theory,0.85,IAB24 Uncategorized
+miscellaneous measure theoryintegral geometry,0.85,IAB24 Uncategorized
+miscellaneous stochastic process,0.85,IAB24 Uncategorized
+miscellaneous integral geometry,0.85,IAB24 Uncategorized
+miscellaneous affine geometry,0.85,IAB24 Uncategorized
+miscellaneous algebraic geometry,0.85,IAB24 Uncategorized
+miscellaneous algebraic topology,0.85,IAB24 Uncategorized
+miscellaneous convex geometry,0.85,IAB24 Uncategorized
+miscellaneous differential topology,0.85,IAB24 Uncategorized
+miscellaneous discrete geometry,0.85,IAB24 Uncategorized
+miscellaneous finite geometry,0.85,IAB24 Uncategorized
+miscellaneous galois geometry,0.85,IAB24 Uncategorized
+miscellaneous general topology,0.85,IAB24 Uncategorized
+miscellaneous geometric topology,0.85,IAB24 Uncategorized
+miscellaneous noncommutative geometry,0.85,IAB24 Uncategorized
+miscellaneous non-euclidean geometry,0.85,IAB24 Uncategorized
+miscellaneous projective geometry,0.85,IAB24 Uncategorized
+miscellaneous algebraic number theory,0.85,IAB24 Uncategorized
+miscellaneous analytic number theory,0.85,IAB24 Uncategorized
+miscellaneous arithmetic combinatorics,0.85,IAB24 Uncategorized
+miscellaneous geometric number theory,0.85,IAB24 Uncategorized
+miscellaneous approximation theory,0.85,IAB24 Uncategorized
+miscellaneous combinatorics(outline)coding theory,0.85,IAB24 Uncategorized
+miscellaneous dynamical systemschaos theoryfractal geometry,0.85,IAB24 Uncategorized
+miscellaneous game theory,0.85,IAB24 Uncategorized
+miscellaneous graph theory,0.85,IAB24 Uncategorized
+miscellaneous mathematical physicsquantum field theoryquantum gravitystring theoryquantum mechanicsstatistical mechanics,0.85,IAB24 Uncategorized
+miscellaneous operations researchassignment problemdecision analysisdynamic programminginventory theorylinear programmingmathematical optimizationoptimal maintenancereal options analysisschedulingstochastic processessystems analysis,0.85,IAB24 Uncategorized
+miscellaneous statistics(outline)actuarial sciencedemographyeconometricsmathematical statisticsdata visualization,0.85,IAB24 Uncategorized
+miscellaneous theory of computationcomputational complexity theory,0.85,IAB24 Uncategorized
+miscellaneous mathematical games and puzzlesmathematical gamemathematical puzzles,0.85,IAB24 Uncategorized
+miscellaneous coding theory,0.85,IAB24 Uncategorized
+miscellaneous chaos theory,0.85,IAB24 Uncategorized
+miscellaneous fractal geometry,0.85,IAB24 Uncategorized
+miscellaneous quantum field theory,0.85,IAB24 Uncategorized
+miscellaneous quantum gravitystring theory,0.85,IAB24 Uncategorized
+miscellaneous quantum mechanics,0.85,IAB24 Uncategorized
+miscellaneous string theory,0.85,IAB24 Uncategorized
+miscellaneous assignment problem,0.85,IAB24 Uncategorized
+miscellaneous decision analysis,0.85,IAB24 Uncategorized
+miscellaneous dynamic programming,0.85,IAB24 Uncategorized
+miscellaneous inventory theory,0.85,IAB24 Uncategorized
+miscellaneous linear programming,0.85,IAB24 Uncategorized
+miscellaneous mathematical optimization,0.85,IAB24 Uncategorized
+miscellaneous optimal maintenance,0.85,IAB24 Uncategorized
+miscellaneous real options analysis,0.85,IAB24 Uncategorized
+miscellaneous scheduling,0.85,IAB24 Uncategorized
+miscellaneous stochastic processes,0.85,IAB24 Uncategorized
+miscellaneous systems analysis,0.85,IAB24 Uncategorized
+miscellaneous actuarial science,0.85,IAB24 Uncategorized
+miscellaneous demography,0.85,IAB24 Uncategorized
+miscellaneous mathematical statistics,0.85,IAB24 Uncategorized
+miscellaneous data visualization,0.85,IAB24 Uncategorized
+miscellaneous mathematical game,0.85,IAB24 Uncategorized
+miscellaneous mathematical puzzles,0.85,IAB24 Uncategorized
+miscellaneous aeroponics,0.85,IAB24 Uncategorized
+miscellaneous agrology,0.85,IAB24 Uncategorized
+miscellaneous agronomy,0.85,IAB24 Uncategorized
+miscellaneous animal husbandry(animal science)beekeeping(apiculture),0.85,IAB24 Uncategorized
+miscellaneous anthroponics,0.85,IAB24 Uncategorized
+miscellaneous agricultural engineeringbiological systems engineeringfood engineering,0.85,IAB24 Uncategorized
+miscellaneous aquaculture,0.85,IAB24 Uncategorized
+miscellaneous aquaponics,0.85,IAB24 Uncategorized
+miscellaneous enology,0.85,IAB24 Uncategorized
+miscellaneous entomology,0.85,IAB24 Uncategorized
+miscellaneous fogponics,0.85,IAB24 Uncategorized
+miscellaneous food scienceculinary arts,0.85,IAB24 Uncategorized
+miscellaneous forestry,0.85,IAB24 Uncategorized
+miscellaneous horticulture,0.85,IAB24 Uncategorized
+miscellaneous hydrology(outline),0.85,IAB24 Uncategorized
+miscellaneous hydroponics,0.85,IAB24 Uncategorized
+miscellaneous pedology,0.85,IAB24 Uncategorized
+miscellaneous plant science(outline)pomology,0.85,IAB24 Uncategorized
+miscellaneous pest control,0.85,IAB24 Uncategorized
+miscellaneous purification,0.85,IAB24 Uncategorized
+miscellaneous viticulture,0.85,IAB24 Uncategorized
+miscellaneous beekeeping(apiculture),0.85,IAB24 Uncategorized
+miscellaneous biological systems engineering,0.85,IAB24 Uncategorized
+miscellaneous food engineering,0.85,IAB24 Uncategorized
+miscellaneous pomology,0.85,IAB24 Uncategorized
+miscellaneous architecture(outline)interior architecturelandscape architecture,0.85,IAB24 Uncategorized
+miscellaneous landscape architecture(landscape planning),0.85,IAB24 Uncategorized
+miscellaneous urban planning(urban design),0.85,IAB24 Uncategorized
+miscellaneous visual communicationgraphic designtype designtechnical drawing,0.85,IAB24 Uncategorized
+miscellaneous industrial design(product design)ergonomics(outline)toyand amusement design,0.85,IAB24 Uncategorized
+miscellaneous user experience designinteraction designinformation architectureuser interface designuser experience evaluation,0.85,IAB24 Uncategorized
+miscellaneous fashion design,0.85,IAB24 Uncategorized
+miscellaneous textile design,0.85,IAB24 Uncategorized
+miscellaneous food design,0.85,IAB24 Uncategorized
+miscellaneous landscape architecture,0.85,IAB24 Uncategorized
+miscellaneous graphic designtype design,0.85,IAB24 Uncategorized
+miscellaneous type design,0.85,IAB24 Uncategorized
+miscellaneous ergonomics(outline),0.85,IAB24 Uncategorized
+miscellaneous toyand amusement design,0.85,IAB24 Uncategorized
+miscellaneous interaction design,0.85,IAB24 Uncategorized
+miscellaneous user interface design,0.85,IAB24 Uncategorized
+miscellaneous user experience evaluation,0.85,IAB24 Uncategorized
+miscellaneous accountingaccounting researchaccounting scholarship,0.85,IAB24 Uncategorized
+miscellaneous business administration,0.85,IAB24 Uncategorized
+miscellaneous business analysis,0.85,IAB24 Uncategorized
+miscellaneous business ethics,0.85,IAB24 Uncategorized
+miscellaneous business law,0.85,IAB24 Uncategorized
+miscellaneous business management,0.85,IAB24 Uncategorized
+miscellaneous e-business,0.85,IAB24 Uncategorized
+miscellaneous entrepreneurship,0.85,IAB24 Uncategorized
+miscellaneous finance(outline),0.85,IAB24 Uncategorized
+miscellaneous industrial and labor relationscollective bargaininghuman resourcesorganizational studieslabor economicslabor history,0.85,IAB24 Uncategorized
+miscellaneous information systems(business informatics)management information systemshealth informatics,0.85,IAB24 Uncategorized
+miscellaneous information technology(outline),0.85,IAB24 Uncategorized
+miscellaneous international trade,0.85,IAB24 Uncategorized
+miscellaneous management(outline),0.85,IAB24 Uncategorized
+miscellaneous marketing(outline),0.85,IAB24 Uncategorized
+miscellaneous operations management,0.85,IAB24 Uncategorized
+miscellaneous purchasing,0.85,IAB24 Uncategorized
+miscellaneous risk managementandinsurance,0.85,IAB24 Uncategorized
+miscellaneous systems science,0.85,IAB24 Uncategorized
+miscellaneous accounting research,0.85,IAB24 Uncategorized
+miscellaneous accounting scholarship,0.85,IAB24 Uncategorized
+miscellaneous collective bargaining,0.85,IAB24 Uncategorized
+miscellaneous human resources,0.85,IAB24 Uncategorized
+miscellaneous labor history,0.85,IAB24 Uncategorized
+miscellaneous management information systems,0.85,IAB24 Uncategorized
+miscellaneous health informatics,0.85,IAB24 Uncategorized
+miscellaneous comparative education,0.85,IAB24 Uncategorized
+miscellaneous critical pedagogy,0.85,IAB24 Uncategorized
+miscellaneous curriculum and instructionalternative educationearly childhood educationelementary educationsecondary educationhigher educationmastery learningcooperative learningagricultural educationart educationbilingual educationchemistry educationcounselor educationlanguage educationlegal educationmathematics educationmedical educationmilitary education and trainingmusic educationnursing educationoutdoor educationpeace educationphysical education/sports coachingphysics educationreading educationreligious educationscience educationspecial educationsex educationsociology of educationtechnology educationvocational education,0.85,IAB24 Uncategorized
+miscellaneous educational leadership,0.85,IAB24 Uncategorized
+miscellaneous educational philosophy,0.85,IAB24 Uncategorized
+miscellaneous educational technology,0.85,IAB24 Uncategorized
+miscellaneous distance education,0.85,IAB24 Uncategorized
+miscellaneous alternative education,0.85,IAB24 Uncategorized
+miscellaneous early childhood education,0.85,IAB24 Uncategorized
+miscellaneous elementary education,0.85,IAB24 Uncategorized
+miscellaneous secondary education,0.85,IAB24 Uncategorized
+miscellaneous higher education,0.85,IAB24 Uncategorized
+miscellaneous mastery learning,0.85,IAB24 Uncategorized
+miscellaneous cooperative learning,0.85,IAB24 Uncategorized
+miscellaneous agricultural education,0.85,IAB24 Uncategorized
+miscellaneous art education,0.85,IAB24 Uncategorized
+miscellaneous bilingual education,0.85,IAB24 Uncategorized
+miscellaneous chemistry education,0.85,IAB24 Uncategorized
+miscellaneous counselor education,0.85,IAB24 Uncategorized
+miscellaneous language education,0.85,IAB24 Uncategorized
+miscellaneous legal education,0.85,IAB24 Uncategorized
+miscellaneous mathematics education,0.85,IAB24 Uncategorized
+miscellaneous medical education,0.85,IAB24 Uncategorized
+miscellaneous military education and training,0.85,IAB24 Uncategorized
+miscellaneous nursing education,0.85,IAB24 Uncategorized
+miscellaneous outdoor education,0.85,IAB24 Uncategorized
+miscellaneous peace education,0.85,IAB24 Uncategorized
+miscellaneous physical education/sports coaching,0.85,IAB24 Uncategorized
+miscellaneous physics education,0.85,IAB24 Uncategorized
+miscellaneous reading education,0.85,IAB24 Uncategorized
+miscellaneous religious education,0.85,IAB24 Uncategorized
+miscellaneous science education,0.85,IAB24 Uncategorized
+miscellaneous special education,0.85,IAB24 Uncategorized
+miscellaneous technology education,0.85,IAB24 Uncategorized
+miscellaneous vocational education,0.85,IAB24 Uncategorized
+miscellaneous bioengineeringbiochemical engineeringbiomolecular engineering,0.85,IAB24 Uncategorized
+miscellaneous catalysis,0.85,IAB24 Uncategorized
+miscellaneous materials engineering,0.85,IAB24 Uncategorized
+miscellaneous molecular engineering,0.85,IAB24 Uncategorized
+miscellaneous polymer engineering,0.85,IAB24 Uncategorized
+miscellaneous process designpetroleum engineeringnuclear engineeringfood engineering,0.85,IAB24 Uncategorized
+miscellaneous process engineering,0.85,IAB24 Uncategorized
+miscellaneous reaction engineering,0.85,IAB24 Uncategorized
+miscellaneous transport phenomena,0.85,IAB24 Uncategorized
+miscellaneous biochemical engineering,0.85,IAB24 Uncategorized
+miscellaneous biomolecular engineering,0.85,IAB24 Uncategorized
+miscellaneous petroleum engineering,0.85,IAB24 Uncategorized
+miscellaneous nuclear engineering,0.85,IAB24 Uncategorized
+miscellaneous coastal engineering,0.85,IAB24 Uncategorized
+miscellaneous earthquake engineering,0.85,IAB24 Uncategorized
+miscellaneous ecological engineering,0.85,IAB24 Uncategorized
+miscellaneous environmental engineering,0.85,IAB24 Uncategorized
+miscellaneous geotechnical engineeringengineering geology,0.85,IAB24 Uncategorized
+miscellaneous hydraulic engineering,0.85,IAB24 Uncategorized
+miscellaneous mining engineering,0.85,IAB24 Uncategorized
+miscellaneous transportation engineeringhighway engineering,0.85,IAB24 Uncategorized
+miscellaneous structural engineeringarchitectural engineering,0.85,IAB24 Uncategorized
+miscellaneous structural mechanics,0.85,IAB24 Uncategorized
+miscellaneous surveying,0.85,IAB24 Uncategorized
+miscellaneous engineering geology,0.85,IAB24 Uncategorized
+miscellaneous highway engineering,0.85,IAB24 Uncategorized
+miscellaneous architectural engineering,0.85,IAB24 Uncategorized
+miscellaneous instructional designdistance educationinstructional simulation,0.85,IAB24 Uncategorized
+miscellaneous human performance technology,0.85,IAB24 Uncategorized
+miscellaneous instructional simulation,0.85,IAB24 Uncategorized
+miscellaneous computer engineering(outline),0.85,IAB24 Uncategorized
+miscellaneous computer science,0.85,IAB24 Uncategorized
+miscellaneous control systems engineeringcontrol theory,0.85,IAB24 Uncategorized
+miscellaneous electronic engineeringinstrumentation engineering,0.85,IAB24 Uncategorized
+miscellaneous engineering physicsphotonics,0.85,IAB24 Uncategorized
+miscellaneous mechatronics,0.85,IAB24 Uncategorized
+miscellaneous power engineering,0.85,IAB24 Uncategorized
+miscellaneous semiconductors,0.85,IAB24 Uncategorized
+miscellaneous telecommunications engineering,0.85,IAB24 Uncategorized
+miscellaneous control theory,0.85,IAB24 Uncategorized
+miscellaneous instrumentation engineering,0.85,IAB24 Uncategorized
+miscellaneous photonics,0.85,IAB24 Uncategorized
+miscellaneous biomaterials,0.85,IAB24 Uncategorized
+miscellaneous ceramic engineering,0.85,IAB24 Uncategorized
+miscellaneous crystallography,0.85,IAB24 Uncategorized
+miscellaneous nanomaterials,0.85,IAB24 Uncategorized
+miscellaneous physical metallurgy,0.85,IAB24 Uncategorized
+miscellaneous polymer science,0.85,IAB24 Uncategorized
+miscellaneous aerospace engineeringaeronauticsastronautics,0.85,IAB24 Uncategorized
+miscellaneous acoustical engineering,0.85,IAB24 Uncategorized
+miscellaneous automotive engineering,0.85,IAB24 Uncategorized
+miscellaneous biomedical engineeringbiomechanical engineeringneural engineering,0.85,IAB24 Uncategorized
+miscellaneous continuum mechanics,0.85,IAB24 Uncategorized
+miscellaneous fluid mechanics,0.85,IAB24 Uncategorized
+miscellaneous heat transfer,0.85,IAB24 Uncategorized
+miscellaneous industrial engineering,0.85,IAB24 Uncategorized
+miscellaneous manufacturing engineering,0.85,IAB24 Uncategorized
+miscellaneous marine engineering,0.85,IAB24 Uncategorized
+miscellaneous mass transfer,0.85,IAB24 Uncategorized
+miscellaneous nanoengineering,0.85,IAB24 Uncategorized
+miscellaneous ocean engineering,0.85,IAB24 Uncategorized
+miscellaneous optical engineering,0.85,IAB24 Uncategorized
+miscellaneous robotics,0.85,IAB24 Uncategorized
+miscellaneous aeronautics,0.85,IAB24 Uncategorized
+miscellaneous astronautics,0.85,IAB24 Uncategorized
+miscellaneous biomechanical engineering,0.85,IAB24 Uncategorized
+miscellaneous neural engineering,0.85,IAB24 Uncategorized
+miscellaneous complex systems,0.85,IAB24 Uncategorized
+miscellaneous conceptual systems,0.85,IAB24 Uncategorized
+miscellaneous control theoryaffect control theorycontrol engineeringcontrol systemsdynamical systemsperceptual control theory,0.85,IAB24 Uncategorized
+miscellaneous cyberneticsbiocyberneticsengineering cyberneticsmanagement cyberneticsmedical cyberneticsnew cyberneticssecond-order cyberneticssociocybernetics,0.85,IAB24 Uncategorized
+miscellaneous network science,0.85,IAB24 Uncategorized
+miscellaneous operations research,0.85,IAB24 Uncategorized
+miscellaneous systems biologycomputational systems biologysynthetic biologysystems immunologysystems neuroscience,0.85,IAB24 Uncategorized
+miscellaneous system dynamicssocial dynamics,0.85,IAB24 Uncategorized
+miscellaneous systems ecologyecosystem ecology,0.85,IAB24 Uncategorized
+miscellaneous systems engineeringbiological systems engineeringearth systems engineering and managemententerprise systems engineeringsystems analysis,0.85,IAB24 Uncategorized
+miscellaneous systems psychologyergonomicsfamily systems theorysystemic therapy,0.85,IAB24 Uncategorized
+miscellaneous systems theorybiochemical systems theoryecological systems theorydevelopmental systems theorygeneral systems theoryliving systems theorylti system theorymathematical system theorysociotechnical systems theoryworld-systems theory,0.85,IAB24 Uncategorized
+miscellaneous systems theory in anthropology,0.85,IAB24 Uncategorized
+miscellaneous affect control theory,0.85,IAB24 Uncategorized
+miscellaneous control engineering,0.85,IAB24 Uncategorized
+miscellaneous control systems,0.85,IAB24 Uncategorized
+miscellaneous dynamical systems,0.85,IAB24 Uncategorized
+miscellaneous perceptual control theory,0.85,IAB24 Uncategorized
+miscellaneous biocybernetics,0.85,IAB24 Uncategorized
+miscellaneous engineering cybernetics,0.85,IAB24 Uncategorized
+miscellaneous management cybernetics,0.85,IAB24 Uncategorized
+miscellaneous medical cybernetics,0.85,IAB24 Uncategorized
+miscellaneous new cybernetics,0.85,IAB24 Uncategorized
+miscellaneous second-order cybernetics,0.85,IAB24 Uncategorized
+miscellaneous computational systems biology,0.85,IAB24 Uncategorized
+miscellaneous synthetic biology,0.85,IAB24 Uncategorized
+miscellaneous systems immunology,0.85,IAB24 Uncategorized
+miscellaneous systems neuroscience,0.85,IAB24 Uncategorized
+miscellaneous social dynamics,0.85,IAB24 Uncategorized
+miscellaneous ecosystem ecology,0.85,IAB24 Uncategorized
+miscellaneous earth systems engineering and management,0.85,IAB24 Uncategorized
+miscellaneous enterprise systems engineering,0.85,IAB24 Uncategorized
+miscellaneous ergonomics,0.85,IAB24 Uncategorized
+miscellaneous family systems theory,0.85,IAB24 Uncategorized
+miscellaneous systemic therapy,0.85,IAB24 Uncategorized
+miscellaneous biochemical systems theory,0.85,IAB24 Uncategorized
+miscellaneous ecological systems theory,0.85,IAB24 Uncategorized
+miscellaneous developmental systems theory,0.85,IAB24 Uncategorized
+miscellaneous general systems theory,0.85,IAB24 Uncategorized
+miscellaneous living systems theory,0.85,IAB24 Uncategorized
+miscellaneous lti system theory,0.85,IAB24 Uncategorized
+miscellaneous mathematical system theory,0.85,IAB24 Uncategorized
+miscellaneous sociotechnical systems theory,0.85,IAB24 Uncategorized
+miscellaneous world-systems theory,0.85,IAB24 Uncategorized
+miscellaneous environmental managementcoastal managementfisheries managementland managementnatural resource managementwaste managementwildlife management,0.85,IAB24 Uncategorized
+miscellaneous environmental policy,0.85,IAB24 Uncategorized
+miscellaneous wildlife observation,0.85,IAB24 Uncategorized
+miscellaneous recreation ecology,0.85,IAB24 Uncategorized
+miscellaneous silviculture,0.85,IAB24 Uncategorized
+miscellaneous sustainability studiessustainable development,0.85,IAB24 Uncategorized
+miscellaneous toxicology,0.85,IAB24 Uncategorized
+miscellaneous ecology,0.85,IAB24 Uncategorized
+miscellaneous coastal management,0.85,IAB24 Uncategorized
+miscellaneous fisheries management,0.85,IAB24 Uncategorized
+miscellaneous land management,0.85,IAB24 Uncategorized
+miscellaneous natural resource management,0.85,IAB24 Uncategorized
+miscellaneous waste management,0.85,IAB24 Uncategorized
+miscellaneous wildlife management,0.85,IAB24 Uncategorized
+miscellaneous sustainable development,0.85,IAB24 Uncategorized
+miscellaneous consumer education,0.85,IAB24 Uncategorized
+miscellaneous housing,0.85,IAB24 Uncategorized
+miscellaneous interior design,0.85,IAB24 Uncategorized
+miscellaneous nutrition(outline)foodservicemanagement,0.85,IAB24 Uncategorized
+miscellaneous textiles,0.85,IAB24 Uncategorized
+miscellaneous foodservicemanagement,0.85,IAB24 Uncategorized
+miscellaneous biomechanics/sports biomechanics,0.85,IAB24 Uncategorized
+miscellaneous sports coaching,0.85,IAB24 Uncategorized
+miscellaneous escapology,0.85,IAB24 Uncategorized
+miscellaneous physical fitnessaerobicspersonal trainer/personal fitness training,0.85,IAB24 Uncategorized
+miscellaneous game design,0.85,IAB24 Uncategorized
+miscellaneous kinesiology/exercise physiology/performance science,0.85,IAB24 Uncategorized
+miscellaneous navigation,0.85,IAB24 Uncategorized
+miscellaneous outdoor activity,0.85,IAB24 Uncategorized
+miscellaneous physical activity,0.85,IAB24 Uncategorized
+miscellaneous physical education/pedagogy,0.85,IAB24 Uncategorized
+miscellaneous sexology,0.85,IAB24 Uncategorized
+miscellaneous sports/exercise,0.85,IAB24 Uncategorized
+miscellaneous sports journalism/sportscasting,0.85,IAB24 Uncategorized
+miscellaneous sport managementathletic director,0.85,IAB24 Uncategorized
+miscellaneous sports medicineathletic training,0.85,IAB24 Uncategorized
+miscellaneous survival skillsbatoningbushcraftscoutcraftwoodcraft,0.85,IAB24 Uncategorized
+miscellaneous aerobics,0.85,IAB24 Uncategorized
+miscellaneous personal trainer/personal fitness training,0.85,IAB24 Uncategorized
+miscellaneous athletic director,0.85,IAB24 Uncategorized
+miscellaneous athletic training,0.85,IAB24 Uncategorized
+miscellaneous batoning,0.85,IAB24 Uncategorized
+miscellaneous bushcraft,0.85,IAB24 Uncategorized
+miscellaneous scoutcraft,0.85,IAB24 Uncategorized
+miscellaneous woodcraft,0.85,IAB24 Uncategorized
+miscellaneous journalism(outline)broadcast journalismdigital journalismliterary journalismnew mediajournalismprint journalismsports journalism/sportscasting,0.85,IAB24 Uncategorized
+miscellaneous media studies(mass media)newspapermagazineradio(outline)television(outline)television studiesfilm(outline)film studiesgame studiesfan studies,0.85,IAB24 Uncategorized
+miscellaneous narratologyinternet(outline),0.85,IAB24 Uncategorized
+miscellaneous communication studiesadvertisinganimal communicationcommunication designconspiracy theorydigital mediaelectronic mediaenvironmental communicationhoaxinformation theoryintercultural communicationmarketing(outline)mass communicationnonverbal communicationorganizational communicationpopular culture studiespropagandapublic relations(outline)speechcommunicationtechnical writingtranslation,0.85,IAB24 Uncategorized
+miscellaneous broadcast journalism,0.85,IAB24 Uncategorized
+miscellaneous digital journalism,0.85,IAB24 Uncategorized
+miscellaneous literary journalism,0.85,IAB24 Uncategorized
+miscellaneous new mediajournalism,0.85,IAB24 Uncategorized
+miscellaneous print journalism,0.85,IAB24 Uncategorized
+miscellaneous newspaper,0.85,IAB24 Uncategorized
+miscellaneous magazine,0.85,IAB24 Uncategorized
+miscellaneous radio(outline),0.85,IAB24 Uncategorized
+miscellaneous film(outline)film studies,0.85,IAB24 Uncategorized
+miscellaneous game studies,0.85,IAB24 Uncategorized
+miscellaneous fan studies,0.85,IAB24 Uncategorized
+miscellaneous film studies,0.85,IAB24 Uncategorized
+miscellaneous internet(outline),0.85,IAB24 Uncategorized
+miscellaneous advertising,0.85,IAB24 Uncategorized
+miscellaneous animal communication,0.85,IAB24 Uncategorized
+miscellaneous communication design,0.85,IAB24 Uncategorized
+miscellaneous conspiracy theory,0.85,IAB24 Uncategorized
+miscellaneous digital media,0.85,IAB24 Uncategorized
+miscellaneous electronic media,0.85,IAB24 Uncategorized
+miscellaneous environmental communication,0.85,IAB24 Uncategorized
+miscellaneous hoax,0.85,IAB24 Uncategorized
+miscellaneous intercultural communication,0.85,IAB24 Uncategorized
+miscellaneous mass communication,0.85,IAB24 Uncategorized
+miscellaneous nonverbal communication,0.85,IAB24 Uncategorized
+miscellaneous organizational communication,0.85,IAB24 Uncategorized
+miscellaneous popular culture studies,0.85,IAB24 Uncategorized
+miscellaneous propaganda,0.85,IAB24 Uncategorized
+miscellaneous public relations(outline),0.85,IAB24 Uncategorized
+miscellaneous speechcommunication,0.85,IAB24 Uncategorized
+miscellaneous technical writing,0.85,IAB24 Uncategorized
+miscellaneous translation,0.85,IAB24 Uncategorized
+miscellaneous legal management (academic discipline)corporate lawmercantile lawbusiness law,0.85,IAB24 Uncategorized
+miscellaneous criminal lawcriminal procedurecriminal justice(outline)police scienceforensic science(outline),0.85,IAB24 Uncategorized
+miscellaneous civil lawadmiralty lawanimal law/animal rightscommon lawcorporationscivil procedurecontract lawenvironmental lawfamily lawfederal lawinternational lawpublic international lawsupranational lawlabor lawparalegalstudiesproperty lawtax lawtort law(outline),0.85,IAB24 Uncategorized
+miscellaneous law enforcement(outline),0.85,IAB24 Uncategorized
+miscellaneous mercantile law,0.85,IAB24 Uncategorized
+miscellaneous criminal procedure,0.85,IAB24 Uncategorized
+miscellaneous criminal justice(outline)police scienceforensic science(outline),0.85,IAB24 Uncategorized
+miscellaneous paralegalstudies,0.85,IAB24 Uncategorized
+miscellaneous archival science,0.85,IAB24 Uncategorized
+miscellaneous archivist,0.85,IAB24 Uncategorized
+miscellaneous bibliographic databases,0.85,IAB24 Uncategorized
+miscellaneous bookmobile,0.85,IAB24 Uncategorized
+miscellaneous catalogingcitation analysis,0.85,IAB24 Uncategorized
+miscellaneous categorization,0.85,IAB24 Uncategorized
+miscellaneous classificationlibrary classificationtaxonomic classificationscientific classificationstatistical classificationsecurity classificationfilm classification,0.85,IAB24 Uncategorized
+miscellaneous collections care,0.85,IAB24 Uncategorized
+miscellaneous collection management,0.85,IAB24 Uncategorized
+miscellaneous collection management policy,0.85,IAB24 Uncategorized
+miscellaneous conservation science,0.85,IAB24 Uncategorized
+miscellaneous conservation and restoration of cultural heritage,0.85,IAB24 Uncategorized
+miscellaneous curator,0.85,IAB24 Uncategorized
+miscellaneous data storage,0.85,IAB24 Uncategorized
+miscellaneous database management,0.85,IAB24 Uncategorized
+miscellaneous data modeling,0.85,IAB24 Uncategorized
+miscellaneous digital preservation,0.85,IAB24 Uncategorized
+miscellaneous dissemination,0.85,IAB24 Uncategorized
+miscellaneous film preservation,0.85,IAB24 Uncategorized
+miscellaneous five laws of library science,0.85,IAB24 Uncategorized
+miscellaneous history of library science,0.85,IAB24 Uncategorized
+miscellaneous indexer,0.85,IAB24 Uncategorized
+miscellaneous informatics,0.85,IAB24 Uncategorized
+miscellaneous information broker,0.85,IAB24 Uncategorized
+miscellaneous information literacy,0.85,IAB24 Uncategorized
+miscellaneous information science(outline),0.85,IAB24 Uncategorized
+miscellaneous information systems and technology,0.85,IAB24 Uncategorized
+miscellaneous integrated library system,0.85,IAB24 Uncategorized
+miscellaneous interlibrary loan,0.85,IAB24 Uncategorized
+miscellaneous knowledge engineering,0.85,IAB24 Uncategorized
+miscellaneous library,0.85,IAB24 Uncategorized
+miscellaneous library binding,0.85,IAB24 Uncategorized
+miscellaneous library circulation,0.85,IAB24 Uncategorized
+miscellaneous library instruction,0.85,IAB24 Uncategorized
+miscellaneous library portal,0.85,IAB24 Uncategorized
+miscellaneous library technical services,0.85,IAB24 Uncategorized
+miscellaneous management,0.85,IAB24 Uncategorized
+miscellaneous mass deacidification,0.85,IAB24 Uncategorized
+miscellaneous museology,0.85,IAB24 Uncategorized
+miscellaneous museum educationmuseum administration,0.85,IAB24 Uncategorized
+miscellaneous object conservation,0.85,IAB24 Uncategorized
+miscellaneous preservation,0.85,IAB24 Uncategorized
+miscellaneous prospect research,0.85,IAB24 Uncategorized
+miscellaneous readers' advisory,0.85,IAB24 Uncategorized
+miscellaneous records management,0.85,IAB24 Uncategorized
+miscellaneous reference,0.85,IAB24 Uncategorized
+miscellaneous reference desk,0.85,IAB24 Uncategorized
+miscellaneous reference management software,0.85,IAB24 Uncategorized
+miscellaneous registrar,0.85,IAB24 Uncategorized
+miscellaneous research methods,0.85,IAB24 Uncategorized
+miscellaneous slow fire,0.85,IAB24 Uncategorized
+miscellaneous special library,0.85,IAB24 Uncategorized
+miscellaneous citation analysis,0.85,IAB24 Uncategorized
+miscellaneous library classification,0.85,IAB24 Uncategorized
+miscellaneous taxonomic classification,0.85,IAB24 Uncategorized
+miscellaneous scientific classification,0.85,IAB24 Uncategorized
+miscellaneous statistical classification,0.85,IAB24 Uncategorized
+miscellaneous security classification,0.85,IAB24 Uncategorized
+miscellaneous film classification,0.85,IAB24 Uncategorized
+miscellaneous museum administration,0.85,IAB24 Uncategorized
+miscellaneous alternative medicine,0.85,IAB24 Uncategorized
+miscellaneous audiology,0.85,IAB24 Uncategorized
+miscellaneous clinical laboratory sciences/clinical pathology/laboratory medicineclinical biochemistrycytogeneticscytohematologycytology(outline)haemostasiologyhistologyclinical immunologyclinical microbiologymolecular geneticsparasitology,0.85,IAB24 Uncategorized
+miscellaneous clinical physiology,0.85,IAB24 Uncategorized
+miscellaneous dentistry(outline)dental hygieneandepidemiologydental surgeryendodonticsimplantologyoral and maxillofacial surgeryorthodonticsperiodonticsprosthodontics,0.85,IAB24 Uncategorized
+miscellaneous dermatology,0.85,IAB24 Uncategorized
+miscellaneous emergency medicine(outline),0.85,IAB24 Uncategorized
+miscellaneous epidemiology,0.85,IAB24 Uncategorized
+miscellaneous geriatrics,0.85,IAB24 Uncategorized
+miscellaneous gynaecology,0.85,IAB24 Uncategorized
+miscellaneous health informatics/clinical informatics,0.85,IAB24 Uncategorized
+miscellaneous hematology,0.85,IAB24 Uncategorized
+miscellaneous holistic medicine,0.85,IAB24 Uncategorized
+miscellaneous infectious disease,0.85,IAB24 Uncategorized
+miscellaneous intensive care medicine,0.85,IAB24 Uncategorized
+miscellaneous internal medicinecardiologycardiac electrophysiologyendocrinologygastroenterologyhepatologynephrologyneurologyoncologypulmonologyrheumatology,0.85,IAB24 Uncategorized
+miscellaneous medical toxicology,0.85,IAB24 Uncategorized
+miscellaneous music therapy,0.85,IAB24 Uncategorized
+miscellaneous nursing,0.85,IAB24 Uncategorized
+miscellaneous nutrition(outline) anddietetics,0.85,IAB24 Uncategorized
+miscellaneous obstetrics(outline),0.85,IAB24 Uncategorized
+miscellaneous occupational hygiene,0.85,IAB24 Uncategorized
+miscellaneous occupational therapy,0.85,IAB24 Uncategorized
+miscellaneous occupational toxicology,0.85,IAB24 Uncategorized
+miscellaneous ophthalmologyneuro-ophthalmology,0.85,IAB24 Uncategorized
+miscellaneous optometry,0.85,IAB24 Uncategorized
+miscellaneous otolaryngology,0.85,IAB24 Uncategorized
+miscellaneous pathology,0.85,IAB24 Uncategorized
+miscellaneous pediatrics,0.85,IAB24 Uncategorized
+miscellaneous pharmaceutical sciencespharmaceutical chemistrypharmaceutical toxicologypharmaceuticspharmacocyberneticspharmacodynamicspharmacogenomicspharmacognosypharmacokineticspharmacologypharmacy,0.85,IAB24 Uncategorized
+miscellaneous physical fitnessgroup fitness /aerobicskinesiology/ exercise science / human performancepersonal fitness training,0.85,IAB24 Uncategorized
+miscellaneous physical therapy,0.85,IAB24 Uncategorized
+miscellaneous physiotherapy,0.85,IAB24 Uncategorized
+miscellaneous podiatry,0.85,IAB24 Uncategorized
+miscellaneous preventive medicine,0.85,IAB24 Uncategorized
+miscellaneous primary caregeneral practice,0.85,IAB24 Uncategorized
+miscellaneous psychiatry(outline)forensic psychiatry,0.85,IAB24 Uncategorized
+miscellaneous psychology(outline),0.85,IAB24 Uncategorized
+miscellaneous public health,0.85,IAB24 Uncategorized
+miscellaneous radiology,0.85,IAB24 Uncategorized
+miscellaneous recreational therapy,0.85,IAB24 Uncategorized
+miscellaneous rehabilitation medicine,0.85,IAB24 Uncategorized
+miscellaneous respiratory therapy,0.85,IAB24 Uncategorized
+miscellaneous sleep medicine,0.85,IAB24 Uncategorized
+miscellaneous speech–language pathology,0.85,IAB24 Uncategorized
+miscellaneous sports medicine,0.85,IAB24 Uncategorized
+miscellaneous surgerybariatric surgerycardiothoracic surgeryneurosurgeryorthopticsorthopedic surgeryplastic surgerytrauma surgerytraumatology,0.85,IAB24 Uncategorized
+miscellaneous traditional medicine,0.85,IAB24 Uncategorized
+miscellaneous urologyandrology,0.85,IAB24 Uncategorized
+miscellaneous veterinary medicine,0.85,IAB24 Uncategorized
+miscellaneous clinical biochemistry,0.85,IAB24 Uncategorized
+miscellaneous cytogenetics,0.85,IAB24 Uncategorized
+miscellaneous cytohematology,0.85,IAB24 Uncategorized
+miscellaneous cytology(outline),0.85,IAB24 Uncategorized
+miscellaneous haemostasiology,0.85,IAB24 Uncategorized
+miscellaneous clinical immunology,0.85,IAB24 Uncategorized
+miscellaneous clinical microbiology,0.85,IAB24 Uncategorized
+miscellaneous dental hygieneandepidemiology,0.85,IAB24 Uncategorized
+miscellaneous dental surgery,0.85,IAB24 Uncategorized
+miscellaneous endodontics,0.85,IAB24 Uncategorized
+miscellaneous implantology,0.85,IAB24 Uncategorized
+miscellaneous oral and maxillofacial surgery,0.85,IAB24 Uncategorized

@@ -1,0 +1,394 @@
+text,confidence,iab_label
+"investment stocks–businessownership, known asequity, inpublicly traded companies",0.85,IAB13 Personal Finance
+investment bonds–loansto governments and businesses traded on public markets,0.85,IAB13 Personal Finance
+"investment cash– holding a particularcurrency, whether in anticipation of spending or to take advantage of or hedge against changes in acurrency exchange rate",0.85,IAB13 Personal Finance
+"investment real estate, which can be rented to provide ongoing income or resold if it increases in value",0.85,IAB13 Personal Finance
+"investment private equityin businesses that are not publicly traded on astock exchange, often involvingventure capitalfunds,angel investors, orequity crowdfunding",0.85,IAB13 Personal Finance
+"investment otherloans, includingmortgages",0.85,IAB13 Personal Finance
+"investment commodities, such asprecious metalslikegold,agriculturalproducts likepotatoes, andenergydeliveries likenatural gas",0.85,IAB13 Personal Finance
+"investment collectables, includingart,coins,vintage cars,postage stamps, andwine",0.85,IAB13 Personal Finance
+investment carbon offsets and credits,0.85,IAB13 Personal Finance
+investment digital entities likecryptocurrencyandnon-fungible tokens,0.85,IAB13 Personal Finance
+"investment hedge fundsthat use sophisticated techniques like:derivatives, the value of which is determined by a contract and is derived by calculation from the performance of some other sort of underlying investment; these includeforwards,futures,options,swaps,collateralized debt obligations,credit default swaps, andtax receivable agreementsleveraged investing, which is the investment of borrowed moneyshort selling, which typically uses leverage and derivatives to bet that the value of a stock will decline",0.85,IAB13 Personal Finance
+"investment derivatives, the value of which is determined by a contract and is derived by calculation from the performance of some other sort of underlying investment; these includeforwards,futures,options,swaps,collateralized debt obligations,credit default swaps, andtax receivable agreements",0.85,IAB13 Personal Finance
+"investment leveraged investing, which is the investment of borrowed money",0.85,IAB13 Personal Finance
+"investment short selling, which typically uses leverage and derivatives to bet that the value of a stock will decline",0.85,IAB13 Personal Finance
+investment capital accumulation,0.85,IAB13 Personal Finance
+investment capital gains tax,0.85,IAB13 Personal Finance
+investment climate-related asset stranding,0.85,IAB13 Personal Finance
+investment diversification (finance),0.85,IAB13 Personal Finance
+investment divestment,0.85,IAB13 Personal Finance
+investment ebitda,0.85,IAB13 Personal Finance
+investment foreign direct investment,0.85,IAB13 Personal Finance
+investment fundamental analysis,0.85,IAB13 Personal Finance
+investment legal alpha,0.85,IAB13 Personal Finance
+investment countries by gross fixed investment as percentage of gdp,0.85,IAB13 Personal Finance
+investment economics topics,0.85,IAB13 Personal Finance
+investment market sentiment,0.85,IAB13 Personal Finance
+investment mortgage investment corporation,0.85,IAB13 Personal Finance
+investment rate of return,0.85,IAB13 Personal Finance
+investment socially responsible investing,0.85,IAB13 Personal Finance
+investment specialized investment fund,0.85,IAB13 Personal Finance
+investment time value of money,0.85,IAB13 Personal Finance
+investment time-weighted return,0.85,IAB13 Personal Finance
+investment microeconomicsdecision theoryprice theorygame theorycontract theorymechanism design,0.85,IAB13 Personal Finance
+investment macroeconomics,0.85,IAB13 Personal Finance
+investment mathematical economics,0.85,IAB13 Personal Finance
+investment complexity economics,0.85,IAB13 Personal Finance
+investment computational economicsagent-based computational economics,0.85,IAB13 Personal Finance
+investment behavioral economics,0.85,IAB13 Personal Finance
+investment pluralism in economics,0.85,IAB13 Personal Finance
+investment decision theory,0.85,IAB13 Personal Finance
+investment price theory,0.85,IAB13 Personal Finance
+investment game theory,0.85,IAB13 Personal Finance
+investment contract theory,0.85,IAB13 Personal Finance
+investment mechanism design,0.85,IAB13 Personal Finance
+investment agent-based computational economics,0.85,IAB13 Personal Finance
+investment econometricseconomic statistics,0.85,IAB13 Personal Finance
+investment experimental economics,0.85,IAB13 Personal Finance
+investment economic history,0.85,IAB13 Personal Finance
+investment economic statistics,0.85,IAB13 Personal Finance
+investment agriculture,0.85,IAB13 Personal Finance
+investment business,0.85,IAB13 Personal Finance
+investment cultural,0.85,IAB13 Personal Finance
+investment demographic,0.85,IAB13 Personal Finance
+investment development,0.85,IAB13 Personal Finance
+investment ecological,0.85,IAB13 Personal Finance
+investment education,0.85,IAB13 Personal Finance
+investment engineering,0.85,IAB13 Personal Finance
+investment environmental,0.85,IAB13 Personal Finance
+investment evolutionary,0.85,IAB13 Personal Finance
+investment financial,0.85,IAB13 Personal Finance
+investment geographic,0.85,IAB13 Personal Finance
+investment happiness,0.85,IAB13 Personal Finance
+investment health,0.85,IAB13 Personal Finance
+investment history,0.85,IAB13 Personal Finance
+investment information,0.85,IAB13 Personal Finance
+investment infrastructure,0.85,IAB13 Personal Finance
+investment institutions,0.85,IAB13 Personal Finance
+investment labour,0.85,IAB13 Personal Finance
+investment law,0.85,IAB13 Personal Finance
+investment management,0.85,IAB13 Personal Finance
+investment organization,0.85,IAB13 Personal Finance
+investment participation,0.85,IAB13 Personal Finance
+investment personnel,0.85,IAB13 Personal Finance
+investment planning,0.85,IAB13 Personal Finance
+investment policy,0.85,IAB13 Personal Finance
+investment public sector,0.85,IAB13 Personal Finance
+investment public choice,0.85,IAB13 Personal Finance
+investment social choice,0.85,IAB13 Personal Finance
+investment regional,0.85,IAB13 Personal Finance
+investment regulatory,0.85,IAB13 Personal Finance
+investment resources,0.85,IAB13 Personal Finance
+investment rural,0.85,IAB13 Personal Finance
+investment service,0.85,IAB13 Personal Finance
+investment transport,0.85,IAB13 Personal Finance
+investment urban,0.85,IAB13 Personal Finance
+investment welfare,0.85,IAB13 Personal Finance
+investment attention,0.85,IAB13 Personal Finance
+investment mainstream,0.85,IAB13 Personal Finance
+investment heterodox,0.85,IAB13 Personal Finance
+investment american (national),0.85,IAB13 Personal Finance
+investment ancient thought,0.85,IAB13 Personal Finance
+investment austrian,0.85,IAB13 Personal Finance
+investment behavioral,0.85,IAB13 Personal Finance
+investment buddhist,0.85,IAB13 Personal Finance
+investment chartalismmodern monetary theory,0.85,IAB13 Personal Finance
+investment chicago,0.85,IAB13 Personal Finance
+investment classical,0.85,IAB13 Personal Finance
+investment critique of political economy,0.85,IAB13 Personal Finance
+investment democratic,0.85,IAB13 Personal Finance
+investment disequilibrium,0.85,IAB13 Personal Finance
+investment feminist,0.85,IAB13 Personal Finance
+investment georgism,0.85,IAB13 Personal Finance
+investment historical,0.85,IAB13 Personal Finance
+investment humanistic,0.85,IAB13 Personal Finance
+investment institutional,0.85,IAB13 Personal Finance
+investment keynesianneo-(neoclassical–keynesian synthesis)newpost-circuitism,0.85,IAB13 Personal Finance
+investment malthusianism,0.85,IAB13 Personal Finance
+investment marginalism,0.85,IAB13 Personal Finance
+investment marxianneo-,0.85,IAB13 Personal Finance
+investment mercantilism,0.85,IAB13 Personal Finance
+investment mixed,0.85,IAB13 Personal Finance
+investment mutualism,0.85,IAB13 Personal Finance
+investment neoclassicallausanne,0.85,IAB13 Personal Finance
+investment new classicalreal business-cycle theory,0.85,IAB13 Personal Finance
+investment new institutional,0.85,IAB13 Personal Finance
+investment physiocracy,0.85,IAB13 Personal Finance
+investment socialist,0.85,IAB13 Personal Finance
+investment stockholm,0.85,IAB13 Personal Finance
+investment supply-side,0.85,IAB13 Personal Finance
+investment thermo,0.85,IAB13 Personal Finance
+investment modern monetary theory,0.85,IAB13 Personal Finance
+investment neo-(neoclassical–keynesian synthesis),0.85,IAB13 Personal Finance
+investment new,0.85,IAB13 Personal Finance
+investment post-circuitism,0.85,IAB13 Personal Finance
+investment circuitism,0.85,IAB13 Personal Finance
+investment neo-,0.85,IAB13 Personal Finance
+investment lausanne,0.85,IAB13 Personal Finance
+investment real business-cycle theory,0.85,IAB13 Personal Finance
+investment de mandeville,0.85,IAB13 Personal Finance
+investment quesnay,0.85,IAB13 Personal Finance
+investment smith,0.85,IAB13 Personal Finance
+investment malthus,0.85,IAB13 Personal Finance
+investment say,0.85,IAB13 Personal Finance
+investment ricardo,0.85,IAB13 Personal Finance
+investment von thünen,0.85,IAB13 Personal Finance
+investment list,0.85,IAB13 Personal Finance
+investment bastiat,0.85,IAB13 Personal Finance
+investment cournot,0.85,IAB13 Personal Finance
+investment mill,0.85,IAB13 Personal Finance
+investment gossen,0.85,IAB13 Personal Finance
+investment marx,0.85,IAB13 Personal Finance
+investment walras,0.85,IAB13 Personal Finance
+investment jevons,0.85,IAB13 Personal Finance
+investment george,0.85,IAB13 Personal Finance
+investment menger,0.85,IAB13 Personal Finance
+investment marshall,0.85,IAB13 Personal Finance
+investment edgeworth,0.85,IAB13 Personal Finance
+investment clark,0.85,IAB13 Personal Finance
+investment pareto,0.85,IAB13 Personal Finance
+investment von böhm-bawerk,0.85,IAB13 Personal Finance
+investment von wieser,0.85,IAB13 Personal Finance
+investment veblen,0.85,IAB13 Personal Finance
+investment fisher,0.85,IAB13 Personal Finance
+investment pigou,0.85,IAB13 Personal Finance
+investment heckscher,0.85,IAB13 Personal Finance
+investment von mises,0.85,IAB13 Personal Finance
+investment schumpeter,0.85,IAB13 Personal Finance
+investment keynes,0.85,IAB13 Personal Finance
+investment knight,0.85,IAB13 Personal Finance
+investment polanyi,0.85,IAB13 Personal Finance
+investment frisch,0.85,IAB13 Personal Finance
+investment sraffa,0.85,IAB13 Personal Finance
+investment myrdal,0.85,IAB13 Personal Finance
+investment hayek,0.85,IAB13 Personal Finance
+investment kalecki,0.85,IAB13 Personal Finance
+investment röpke,0.85,IAB13 Personal Finance
+investment kuznets,0.85,IAB13 Personal Finance
+investment tinbergen,0.85,IAB13 Personal Finance
+investment robinson,0.85,IAB13 Personal Finance
+investment von neumann,0.85,IAB13 Personal Finance
+investment hicks,0.85,IAB13 Personal Finance
+investment lange,0.85,IAB13 Personal Finance
+investment leontief,0.85,IAB13 Personal Finance
+investment galbraith,0.85,IAB13 Personal Finance
+investment koopmans,0.85,IAB13 Personal Finance
+investment schumacher,0.85,IAB13 Personal Finance
+investment friedman,0.85,IAB13 Personal Finance
+investment samuelson,0.85,IAB13 Personal Finance
+investment simon,0.85,IAB13 Personal Finance
+investment buchanan,0.85,IAB13 Personal Finance
+investment arrow,0.85,IAB13 Personal Finance
+investment baumol,0.85,IAB13 Personal Finance
+investment solow,0.85,IAB13 Personal Finance
+investment rothbard,0.85,IAB13 Personal Finance
+investment greenspan,0.85,IAB13 Personal Finance
+investment sowell,0.85,IAB13 Personal Finance
+investment becker,0.85,IAB13 Personal Finance
+investment ostrom,0.85,IAB13 Personal Finance
+investment sen,0.85,IAB13 Personal Finance
+investment lucas,0.85,IAB13 Personal Finance
+investment stiglitz,0.85,IAB13 Personal Finance
+investment thaler,0.85,IAB13 Personal Finance
+investment hoppe,0.85,IAB13 Personal Finance
+investment krugman,0.85,IAB13 Personal Finance
+investment piketty,0.85,IAB13 Personal Finance
+investment more,0.85,IAB13 Personal Finance
+investment glossary,0.85,IAB13 Personal Finance
+investment economists,0.85,IAB13 Personal Finance
+investment publications(journals),0.85,IAB13 Personal Finance
+investment schools,0.85,IAB13 Personal Finance
+investment category,0.85,IAB13 Personal Finance
+investment index,0.85,IAB13 Personal Finance
+investment lists,0.85,IAB13 Personal Finance
+investment outline,0.85,IAB13 Personal Finance
+investment publications,0.85,IAB13 Personal Finance
+investment business portal,0.85,IAB13 Personal Finance
+investment germany,0.85,IAB13 Personal Finance
+investment united states,0.85,IAB13 Personal Finance
+investment france,0.85,IAB13 Personal Finance
+investment bnf data,0.85,IAB13 Personal Finance
+investment japan,0.85,IAB13 Personal Finance
+investment czech republic2,0.85,IAB13 Personal Finance
+investment israel,0.85,IAB13 Personal Finance
+investment historical dictionary of switzerland,0.85,IAB13 Personal Finance
+investment nara,0.85,IAB13 Personal Finance
+investment encyclopedia of modern ukraine,0.85,IAB13 Personal Finance
+bank advising,0.85,IAB13 Personal Finance
+bank banq,0.85,IAB13 Personal Finance
+bank bulge bracket,0.85,IAB13 Personal Finance
+bank central,0.85,IAB13 Personal Finance
+bank commercial,0.85,IAB13 Personal Finance
+bank community development,0.85,IAB13 Personal Finance
+bank cooperative,0.85,IAB13 Personal Finance
+bank credit union,0.85,IAB13 Personal Finance
+bank custodian,0.85,IAB13 Personal Finance
+bank depository,0.85,IAB13 Personal Finance
+bank development,0.85,IAB13 Personal Finance
+bank direct,0.85,IAB13 Personal Finance
+bank export credit agency,0.85,IAB13 Personal Finance
+bank investment,0.85,IAB13 Personal Finance
+bank industrial,0.85,IAB13 Personal Finance
+bank merchant,0.85,IAB13 Personal Finance
+bank middle market,0.85,IAB13 Personal Finance
+bank money center,0.85,IAB13 Personal Finance
+bank mutual savings,0.85,IAB13 Personal Finance
+bank neobank,0.85,IAB13 Personal Finance
+bank offshore,0.85,IAB13 Personal Finance
+bank participation,0.85,IAB13 Personal Finance
+bank payments,0.85,IAB13 Personal Finance
+bank postal savings,0.85,IAB13 Personal Finance
+bank private,0.85,IAB13 Personal Finance
+bank public,0.85,IAB13 Personal Finance
+bank retail,0.85,IAB13 Personal Finance
+bank savings,0.85,IAB13 Personal Finance
+bank savings and loan,0.85,IAB13 Personal Finance
+bank universal,0.85,IAB13 Personal Finance
+bank wholesale,0.85,IAB13 Personal Finance
+bank bank holding company,0.85,IAB13 Personal Finance
+bank christmas club,0.85,IAB13 Personal Finance
+bank deposit,0.85,IAB13 Personal Finance
+bank interest rate,0.85,IAB13 Personal Finance
+bank money-market,0.85,IAB13 Personal Finance
+bank time deposit (bond),0.85,IAB13 Personal Finance
+bank atm,0.85,IAB13 Personal Finance
+bank credit,0.85,IAB13 Personal Finance
+bank debit,0.85,IAB13 Personal Finance
+bank prepaid,0.85,IAB13 Personal Finance
+bank cheque,0.85,IAB13 Personal Finance
+bank card,0.85,IAB13 Personal Finance
+bank electronicbill paymentinstant paymentmobile,0.85,IAB13 Personal Finance
+bank wirertgsns,0.85,IAB13 Personal Finance
+bank direct debit,0.85,IAB13 Personal Finance
+bank ach,0.85,IAB13 Personal Finance
+bank giro,0.85,IAB13 Personal Finance
+bank swiftcorrespondent account,0.85,IAB13 Personal Finance
+bank cls,0.85,IAB13 Personal Finance
+bank cips,0.85,IAB13 Personal Finance
+bank spfs,0.85,IAB13 Personal Finance
+bank brics pay,0.85,IAB13 Personal Finance
+bank bill payment,0.85,IAB13 Personal Finance
+bank instant payment,0.85,IAB13 Personal Finance
+bank mobile,0.85,IAB13 Personal Finance
+bank rtgs,0.85,IAB13 Personal Finance
+bank ns,0.85,IAB13 Personal Finance
+bank correspondent account,0.85,IAB13 Personal Finance
+bank assetallocationmanagement,0.85,IAB13 Personal Finance
+bank automated teller machine,0.85,IAB13 Personal Finance
+bank bad debt,0.85,IAB13 Personal Finance
+bank bank rate,0.85,IAB13 Personal Finance
+bank bank regulation,0.85,IAB13 Personal Finance
+bank bank secrecy,0.85,IAB13 Personal Finance
+bank asset growth,0.85,IAB13 Personal Finance
+bank capital asset,0.85,IAB13 Personal Finance
+bank cash,0.85,IAB13 Personal Finance
+bank climate finance,0.85,IAB13 Personal Finance
+bank corporate finance,0.85,IAB13 Personal Finance
+bank disinvestment,0.85,IAB13 Personal Finance
+bank diversification (finance),0.85,IAB13 Personal Finance
+bank eco-investing,0.85,IAB13 Personal Finance
+bank economic bubble,0.85,IAB13 Personal Finance
+bank economic expansion,0.85,IAB13 Personal Finance
+bank enterprise value,0.85,IAB13 Personal Finance
+bank enterprise risk management,0.85,IAB13 Personal Finance
+bank environmental finance,0.85,IAB13 Personal Finance
+bank esg,0.85,IAB13 Personal Finance
+bank ethical banking,0.85,IAB13 Personal Finance
+bank financialanalysisanalystasseteconomicsengineeringforecastplanplannerservices,0.85,IAB13 Personal Finance
+bank fractional-reserve banking,0.85,IAB13 Personal Finance
+bank full-reserve banking,0.85,IAB13 Personal Finance
+bank fundamental analysis,0.85,IAB13 Personal Finance
+bank growth investing,0.85,IAB13 Personal Finance
+bank hedge (finance),0.85,IAB13 Personal Finance
+bank impact investing,0.85,IAB13 Personal Finance
+bank investment advisory,0.85,IAB13 Personal Finance
+bank investment management,0.85,IAB13 Personal Finance
+bank islamic banking,0.85,IAB13 Personal Finance
+bank loan,0.85,IAB13 Personal Finance
+bank mathematical finance,0.85,IAB13 Personal Finance
+bank mobile banking,0.85,IAB13 Personal Finance
+bank money creation,0.85,IAB13 Personal Finance
+bank pension fund,0.85,IAB13 Personal Finance
+bank private banking,0.85,IAB13 Personal Finance
+bank sustainability,0.85,IAB13 Personal Finance
+bank sustainable finance,0.85,IAB13 Personal Finance
+bank speculation,0.85,IAB13 Personal Finance
+bank statistical finance,0.85,IAB13 Personal Finance
+bank strategic financial management,0.85,IAB13 Personal Finance
+bank stress test (financial),0.85,IAB13 Personal Finance
+bank structured finance,0.85,IAB13 Personal Finance
+bank structured product,0.85,IAB13 Personal Finance
+bank toxic asset,0.85,IAB13 Personal Finance
+bank allocation,0.85,IAB13 Personal Finance
+bank management,0.85,IAB13 Personal Finance
+bank analysis,0.85,IAB13 Personal Finance
+bank analyst,0.85,IAB13 Personal Finance
+bank asset,0.85,IAB13 Personal Finance
+bank economics,0.85,IAB13 Personal Finance
+bank engineering,0.85,IAB13 Personal Finance
+bank forecast,0.85,IAB13 Personal Finance
+bank plan,0.85,IAB13 Personal Finance
+bank planner,0.85,IAB13 Personal Finance
+bank services,0.85,IAB13 Personal Finance
+bank asset pricing,0.85,IAB13 Personal Finance
+bank bond (finance),0.85,IAB13 Personal Finance
+bank capital structure,0.85,IAB13 Personal Finance
+bank cost of capital,0.85,IAB13 Personal Finance
+bank equity (finance),0.85,IAB13 Personal Finance
+bank exchange-traded fund,0.85,IAB13 Personal Finance
+bank financial,0.85,IAB13 Personal Finance
+bank lawmarketparticipantsregulationrisksystem,0.85,IAB13 Personal Finance
+bank history of banking,0.85,IAB13 Personal Finance
+bank banks,0.85,IAB13 Personal Finance
+bank market risk,0.85,IAB13 Personal Finance
+bank personal finance,0.85,IAB13 Personal Finance
+bank public finance,0.85,IAB13 Personal Finance
+bank security (finance),0.85,IAB13 Personal Finance
+bank shares,0.85,IAB13 Personal Finance
+bank sustainable development goals,0.85,IAB13 Personal Finance
+bank systematic risk,0.85,IAB13 Personal Finance
+bank systemic risk,0.85,IAB13 Personal Finance
+bank time value of money,0.85,IAB13 Personal Finance
+bank too big to fail,0.85,IAB13 Personal Finance
+bank too connected to fail,0.85,IAB13 Personal Finance
+bank watered stock,0.85,IAB13 Personal Finance
+bank market,0.85,IAB13 Personal Finance
+bank participants,0.85,IAB13 Personal Finance
+bank regulation,0.85,IAB13 Personal Finance
+bank risk,0.85,IAB13 Personal Finance
+bank system,0.85,IAB13 Personal Finance
+bank category,0.85,IAB13 Personal Finance
+bank commons,0.85,IAB13 Personal Finance
+bank portal,0.85,IAB13 Personal Finance
+bank banks in africa– each country in africa has a list of banks operating in that country,0.85,IAB13 Personal Finance
+bank banks in asia– each country in asia has a list of banks operating in that country,0.85,IAB13 Personal Finance
+bank banks in the americas– each country in the americas has a list of banks with operations in that country,0.85,IAB13 Personal Finance
+bank banks in europe– each country in europe has a list of banks operating in that country,0.85,IAB13 Personal Finance
+bank banks in oceania– each country in oceania has a list of banks operating in that country,0.85,IAB13 Personal Finance
+bank banks in the arab world– each arab country has a list of banks operating in that country,0.85,IAB13 Personal Finance
+bank largest banks in southeast asia– each country in southeast asia has a list of banks with operations in that country,0.85,IAB13 Personal Finance
+bank international banking institutions– list of international and multilateral financial institutions,0.85,IAB13 Personal Finance
+bank systemically important banks– list of banks deemed systemically important by at least one major regulator,0.85,IAB13 Personal Finance
+bank largest banks– list of largest banks as measured by market capitalization and total assets on balance sheet,0.85,IAB13 Personal Finance
+bank investment banks– list of investment banks and brokerages,0.85,IAB13 Personal Finance
+bank banks portal,0.85,IAB13 Personal Finance
+bank oldest banks in continuous operation,0.85,IAB13 Personal Finance
+credit score private: the probability of defaulting,0.85,IAB13 Personal Finance
+credit score businesses: the probability of bankruptcy,0.85,IAB13 Personal Finance
+credit score experian(generic rating for business),0.85,IAB13 Personal Finance
+credit score bisnode(generic rating for business),0.85,IAB13 Personal Finance
+credit score alternative data,0.85,IAB13 Personal Finance
+credit score bank statement,0.85,IAB13 Personal Finance
+credit score credit bureau,0.85,IAB13 Personal Finance
+credit score credit history,0.85,IAB13 Personal Finance
+credit score credit reference,0.85,IAB13 Personal Finance
+credit score credit scorecards,0.85,IAB13 Personal Finance
+"credit score ""ftc guide to credit scores"". 25 may 2021. archived fromthe originalon 3 november 2012. retrieved18 october2007.",0.85,IAB13 Personal Finance
+"credit score ""credit scores video – federal trade commission"".youtube. 14 february 2013.archivedfrom the original on 2021-12-19.",0.85,IAB13 Personal Finance
+"credit score ""financial consumer agency of canada"".",0.85,IAB13 Personal Finance
+"credit score ""how credit scores work"". 16 july 2002.",0.85,IAB13 Personal Finance
+"credit score demyanyk, yuliya (16 november 2010).""your credit score is a ranking, not a score"".economic commentary(2010–16).",0.85,IAB13 Personal Finance
+credit score germany,0.85,IAB13 Personal Finance
+credit score united states,0.85,IAB13 Personal Finance
+credit score israel,0.85,IAB13 Personal Finance

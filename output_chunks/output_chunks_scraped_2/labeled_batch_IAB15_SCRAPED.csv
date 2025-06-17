@@ -1,0 +1,531 @@
+text,confidence,iab_label
+scientific discipline ethics,0.85,IAB15 Science
+scientific discipline proposal,0.85,IAB15 Science
+scientific discipline question,0.85,IAB15 Science
+scientific discipline writingargumentreferencing,0.85,IAB15 Science
+scientific discipline argument,0.85,IAB15 Science
+scientific discipline referencing,0.85,IAB15 Science
+scientific discipline interdisciplinary,0.85,IAB15 Science
+scientific discipline multimethodology,0.85,IAB15 Science
+scientific discipline qualitativeart-based,0.85,IAB15 Science
+scientific discipline quantitative,0.85,IAB15 Science
+scientific discipline art-based,0.85,IAB15 Science
+scientific discipline antipositivism,0.85,IAB15 Science
+scientific discipline constructivism,0.85,IAB15 Science
+scientific discipline critical rationalism,0.85,IAB15 Science
+scientific discipline empiricism,0.85,IAB15 Science
+scientific discipline fallibilism,0.85,IAB15 Science
+scientific discipline positivism,0.85,IAB15 Science
+scientific discipline postpositivism,0.85,IAB15 Science
+scientific discipline pragmatism,0.85,IAB15 Science
+scientific discipline realismcritical realismsubtle realism,0.85,IAB15 Science
+scientific discipline critical realism,0.85,IAB15 Science
+scientific discipline subtle realism,0.85,IAB15 Science
+scientific discipline action research,0.85,IAB15 Science
+scientific discipline art methodology,0.85,IAB15 Science
+scientific discipline critical theory,0.85,IAB15 Science
+scientific discipline grounded theory,0.85,IAB15 Science
+scientific discipline hermeneutics,0.85,IAB15 Science
+scientific discipline historiography,0.85,IAB15 Science
+scientific discipline human subject research,0.85,IAB15 Science
+scientific discipline narrative inquiry,0.85,IAB15 Science
+scientific discipline phenomenology,0.85,IAB15 Science
+scientific discipline scientific method,0.85,IAB15 Science
+scientific discipline analysis,0.85,IAB15 Science
+scientific discipline case study,0.85,IAB15 Science
+scientific discipline content analysis,0.85,IAB15 Science
+scientific discipline descriptive statistics,0.85,IAB15 Science
+scientific discipline discourse analysis,0.85,IAB15 Science
+scientific discipline ethnographyautoethnography,0.85,IAB15 Science
+scientific discipline experimentfield experimentsocial experimentquasi-experiment,0.85,IAB15 Science
+scientific discipline field research,0.85,IAB15 Science
+scientific discipline historical method,0.85,IAB15 Science
+scientific discipline inferential statistics,0.85,IAB15 Science
+scientific discipline interviews,0.85,IAB15 Science
+scientific discipline mappingcultural mapping,0.85,IAB15 Science
+scientific discipline phenomenography,0.85,IAB15 Science
+scientific discipline secondary researchbibliometricsliterature reviewmeta-analysisscoping reviewsystematic review,0.85,IAB15 Science
+scientific discipline scientific modellingsimulation,0.85,IAB15 Science
+scientific discipline survey,0.85,IAB15 Science
+scientific discipline autoethnography,0.85,IAB15 Science
+scientific discipline field experiment,0.85,IAB15 Science
+scientific discipline social experiment,0.85,IAB15 Science
+scientific discipline quasi-experiment,0.85,IAB15 Science
+scientific discipline cultural mapping,0.85,IAB15 Science
+scientific discipline bibliometrics,0.85,IAB15 Science
+scientific discipline literature review,0.85,IAB15 Science
+scientific discipline meta-analysis,0.85,IAB15 Science
+scientific discipline scoping review,0.85,IAB15 Science
+scientific discipline systematic review,0.85,IAB15 Science
+scientific discipline simulation,0.85,IAB15 Science
+scientific discipline argument technology,0.85,IAB15 Science
+scientific discipline gis software,0.85,IAB15 Science
+scientific discipline lis softwarebibliometricsreference management,0.85,IAB15 Science
+scientific discipline science softwarequalitative data analysissimulationstatistics,0.85,IAB15 Science
+scientific discipline reference management,0.85,IAB15 Science
+scientific discipline qualitative data analysis,0.85,IAB15 Science
+scientific discipline statistics,0.85,IAB15 Science
+"scientific discipline music(outline)accompanyingchamber musicchurch musicconductingchoral conductingorchestralconductingwind ensemble conductingearly musicjazzstudies (outline)musical compositionmusic educationmusic historymusicologyhistorical musicologysystematic musicologyethnomusicologymusic theoryorchestralstudiesorganologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussionrecording",0.85,IAB15 Science
+scientific discipline dance(outline)choreographydance notationethnochoreologyhistory of dance,0.85,IAB15 Science
+scientific discipline television(outline)television studies,0.85,IAB15 Science
+scientific discipline theatre(outline)actingdirectingdramaturgyhistory of theatremusical theatreplaywrightingpuppetryscenographystage designventriloquism,0.85,IAB15 Science
+scientific discipline film(outline)animationfilm criticismfilmmakingfilm theorylive action,0.85,IAB15 Science
+scientific discipline accompanying,0.85,IAB15 Science
+scientific discipline chamber music,0.85,IAB15 Science
+scientific discipline church music,0.85,IAB15 Science
+scientific discipline conductingchoral conductingorchestralconductingwind ensemble conducting,0.85,IAB15 Science
+scientific discipline early music,0.85,IAB15 Science
+scientific discipline jazzstudies (outline),0.85,IAB15 Science
+scientific discipline musical composition,0.85,IAB15 Science
+scientific discipline music education,0.85,IAB15 Science
+scientific discipline music history,0.85,IAB15 Science
+scientific discipline musicologyhistorical musicologysystematic musicology,0.85,IAB15 Science
+scientific discipline ethnomusicology,0.85,IAB15 Science
+scientific discipline music theory,0.85,IAB15 Science
+scientific discipline orchestralstudies,0.85,IAB15 Science
+"scientific discipline organologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussion",0.85,IAB15 Science
+scientific discipline recording,0.85,IAB15 Science
+scientific discipline choral conducting,0.85,IAB15 Science
+scientific discipline orchestralconducting,0.85,IAB15 Science
+scientific discipline wind ensemble conducting,0.85,IAB15 Science
+scientific discipline historical musicology,0.85,IAB15 Science
+scientific discipline systematic musicology,0.85,IAB15 Science
+scientific discipline organandhistorical keyboards,0.85,IAB15 Science
+scientific discipline piano,0.85,IAB15 Science
+"scientific discipline strings,harp,oud, andguitar(outline)",0.85,IAB15 Science
+scientific discipline singing,0.85,IAB15 Science
+"scientific discipline woodwinds,brass, andpercussion",0.85,IAB15 Science
+scientific discipline choreography,0.85,IAB15 Science
+scientific discipline dance notation,0.85,IAB15 Science
+scientific discipline ethnochoreology,0.85,IAB15 Science
+scientific discipline history of dance,0.85,IAB15 Science
+scientific discipline television studies,0.85,IAB15 Science
+scientific discipline acting,0.85,IAB15 Science
+scientific discipline directing,0.85,IAB15 Science
+scientific discipline dramaturgy,0.85,IAB15 Science
+scientific discipline history of theatre,0.85,IAB15 Science
+scientific discipline musical theatre,0.85,IAB15 Science
+scientific discipline playwrighting,0.85,IAB15 Science
+scientific discipline puppetry,0.85,IAB15 Science
+scientific discipline scenography,0.85,IAB15 Science
+scientific discipline stage design,0.85,IAB15 Science
+scientific discipline ventriloquism,0.85,IAB15 Science
+scientific discipline animation,0.85,IAB15 Science
+scientific discipline film criticism,0.85,IAB15 Science
+scientific discipline filmmaking,0.85,IAB15 Science
+scientific discipline film theory,0.85,IAB15 Science
+scientific discipline live action,0.85,IAB15 Science
+scientific discipline applied artsanimationtextile artsart directorcalligraphyculinary artsoutline of cuisinesdecorative artsdigital artmixed mediaprintmakingstudio artgraphic designarchitecture(outline of architecture)interior architecturelandscape architecturelandscape designlandscape planningarchitectural analyticshistoric preservationinterior design(interior architecture)technical drawing,0.85,IAB15 Science
+scientific discipline fashion,0.85,IAB15 Science
+scientific discipline fine artsgraphic artsdrawing(outline)painting(outline)photography(outline)sculpture(outline),0.85,IAB15 Science
+scientific discipline textile arts,0.85,IAB15 Science
+scientific discipline art director,0.85,IAB15 Science
+scientific discipline calligraphy,0.85,IAB15 Science
+scientific discipline culinary arts,0.85,IAB15 Science
+scientific discipline outline of cuisines,0.85,IAB15 Science
+scientific discipline decorative arts,0.85,IAB15 Science
+scientific discipline digital art,0.85,IAB15 Science
+scientific discipline mixed media,0.85,IAB15 Science
+scientific discipline printmaking,0.85,IAB15 Science
+scientific discipline studio art,0.85,IAB15 Science
+scientific discipline graphic design,0.85,IAB15 Science
+scientific discipline architecture(outline of architecture)interior architecturelandscape architecturelandscape designlandscape planningarchitectural analyticshistoric preservationinterior design(interior architecture)technical drawing,0.85,IAB15 Science
+scientific discipline interior architecture,0.85,IAB15 Science
+scientific discipline landscape architecturelandscape designlandscape planning,0.85,IAB15 Science
+scientific discipline architectural analytics,0.85,IAB15 Science
+scientific discipline historic preservation,0.85,IAB15 Science
+scientific discipline interior design(interior architecture),0.85,IAB15 Science
+scientific discipline technical drawing,0.85,IAB15 Science
+scientific discipline landscape design,0.85,IAB15 Science
+scientific discipline landscape planning,0.85,IAB15 Science
+scientific discipline graphic artsdrawing(outline)painting(outline)photography(outline),0.85,IAB15 Science
+scientific discipline sculpture(outline),0.85,IAB15 Science
+scientific discipline drawing(outline),0.85,IAB15 Science
+scientific discipline painting(outline),0.85,IAB15 Science
+scientific discipline photography(outline),0.85,IAB15 Science
+scientific discipline african history,0.85,IAB15 Science
+scientific discipline american history,0.85,IAB15 Science
+scientific discipline ancient historyancient egyptcarthageancient greek history(outline)ancient roman history(outline)assyriancivilizationbronze agecivilizationsbiblical historyhistory of the indus valley civilizationpreclassic mayahistory of mesopotamiathe stone agehistory of the yangtze civilizationhistory of the yellow river civilization,0.85,IAB15 Science
+scientific discipline art history,0.85,IAB15 Science
+scientific discipline asian historychinese historyindian history(outline)indonesian historyiranian history,0.85,IAB15 Science
+scientific discipline australian history,0.85,IAB15 Science
+scientific discipline cultural history,0.85,IAB15 Science
+scientific discipline ecclesiastical history of the catholic church,0.85,IAB15 Science
+scientific discipline economic history,0.85,IAB15 Science
+scientific discipline environmental history,0.85,IAB15 Science
+scientific discipline european history,0.85,IAB15 Science
+scientific discipline intellectual history,0.85,IAB15 Science
+scientific discipline jewish history,0.85,IAB15 Science
+scientific discipline latin american history,0.85,IAB15 Science
+scientific discipline modern history,0.85,IAB15 Science
+scientific discipline philosophical historyancient philosophycontemporary philosophymedieval philosophyhumanism(outline)scholasticismmodern philosophy,0.85,IAB15 Science
+scientific discipline political historyhistory of political thought,0.85,IAB15 Science
+scientific discipline pre-columbian erahistory,0.85,IAB15 Science
+scientific discipline prehistory,0.85,IAB15 Science
+scientific discipline public history,0.85,IAB15 Science
+scientific discipline russian history,0.85,IAB15 Science
+scientific discipline scientific history,0.85,IAB15 Science
+scientific discipline technological history,0.85,IAB15 Science
+scientific discipline world history,0.85,IAB15 Science
+scientific discipline ancient egypt,0.85,IAB15 Science
+scientific discipline carthage,0.85,IAB15 Science
+scientific discipline ancient greek history(outline),0.85,IAB15 Science
+scientific discipline ancient roman history(outline),0.85,IAB15 Science
+scientific discipline assyriancivilization,0.85,IAB15 Science
+scientific discipline bronze agecivilizations,0.85,IAB15 Science
+scientific discipline biblical history,0.85,IAB15 Science
+scientific discipline history of the indus valley civilization,0.85,IAB15 Science
+scientific discipline preclassic maya,0.85,IAB15 Science
+scientific discipline history of mesopotamia,0.85,IAB15 Science
+scientific discipline the stone age,0.85,IAB15 Science
+scientific discipline history of the yangtze civilization,0.85,IAB15 Science
+scientific discipline history of the yellow river civilization,0.85,IAB15 Science
+scientific discipline chinese history,0.85,IAB15 Science
+scientific discipline indian history(outline),0.85,IAB15 Science
+scientific discipline indonesian history,0.85,IAB15 Science
+scientific discipline iranian history,0.85,IAB15 Science
+scientific discipline ancient philosophy,0.85,IAB15 Science
+scientific discipline contemporary philosophy,0.85,IAB15 Science
+scientific discipline medieval philosophyhumanism(outline)scholasticism,0.85,IAB15 Science
+scientific discipline modern philosophy,0.85,IAB15 Science
+scientific discipline humanism(outline),0.85,IAB15 Science
+scientific discipline scholasticism,0.85,IAB15 Science
+scientific discipline history of political thought,0.85,IAB15 Science
+scientific discipline english studies,0.85,IAB15 Science
+scientific discipline comics studies,0.85,IAB15 Science
+scientific discipline comparative literature,0.85,IAB15 Science
+scientific discipline creative writingpoetryprosenon-fictionfiction(outline),0.85,IAB15 Science
+scientific discipline english literature,0.85,IAB15 Science
+scientific discipline history of literatureancient literaturemedieval literaturepost-colonial literaturepost-modern literature,0.85,IAB15 Science
+scientific discipline literary theorycritical theory(outline)literary criticismpoetics,0.85,IAB15 Science
+scientific discipline world literatureamerican literatureafrican-american literaturesouthern literaturebritish literaturecanadian literatureindian english literatureirish literaturenew zealand literaturescottish literaturesouth african literaturewelsh literature,0.85,IAB15 Science
+scientific discipline poetry,0.85,IAB15 Science
+scientific discipline prose,0.85,IAB15 Science
+scientific discipline non-fiction,0.85,IAB15 Science
+scientific discipline fiction(outline),0.85,IAB15 Science
+scientific discipline ancient literature,0.85,IAB15 Science
+scientific discipline medieval literature,0.85,IAB15 Science
+scientific discipline post-colonial literature,0.85,IAB15 Science
+scientific discipline post-modern literature,0.85,IAB15 Science
+scientific discipline critical theory(outline),0.85,IAB15 Science
+scientific discipline literary criticism,0.85,IAB15 Science
+scientific discipline poetics,0.85,IAB15 Science
+scientific discipline american literatureafrican-american literaturesouthern literature,0.85,IAB15 Science
+scientific discipline british literature,0.85,IAB15 Science
+scientific discipline canadian literature,0.85,IAB15 Science
+scientific discipline indian english literature,0.85,IAB15 Science
+scientific discipline irish literature,0.85,IAB15 Science
+scientific discipline new zealand literature,0.85,IAB15 Science
+scientific discipline scottish literature,0.85,IAB15 Science
+scientific discipline south african literature,0.85,IAB15 Science
+scientific discipline welsh literature,0.85,IAB15 Science
+scientific discipline african-american literature,0.85,IAB15 Science
+scientific discipline southern literature,0.85,IAB15 Science
+scientific discipline administrative law,0.85,IAB15 Science
+scientific discipline canon law,0.85,IAB15 Science
+scientific discipline civil lawadmiralty lawanimal law/animal rightscivil procedurecommon lawcontract lawcorporationsenvironmental lawfamily lawfederal lawinternational lawpublic international lawsupranational lawlabor lawproperty lawtax lawtort law(outline),0.85,IAB15 Science
+scientific discipline comparative law,0.85,IAB15 Science
+scientific discipline competition law,0.85,IAB15 Science
+scientific discipline constitutional law,0.85,IAB15 Science
+scientific discipline criminal lawcriminal justice(outline)criminal procedureforensic science(outline)police science,0.85,IAB15 Science
+scientific discipline islamic law,0.85,IAB15 Science
+scientific discipline jewish law(outline),0.85,IAB15 Science
+scientific discipline jurisprudence(philosophy of law),0.85,IAB15 Science
+scientific discipline legal management (academic discipline)commercial lawcorporate law,0.85,IAB15 Science
+scientific discipline procedural law,0.85,IAB15 Science
+scientific discipline substantive law,0.85,IAB15 Science
+scientific discipline admiralty law,0.85,IAB15 Science
+scientific discipline animal law/animal rights,0.85,IAB15 Science
+scientific discipline civil procedure,0.85,IAB15 Science
+scientific discipline common law,0.85,IAB15 Science
+scientific discipline contract law,0.85,IAB15 Science
+scientific discipline corporations,0.85,IAB15 Science
+scientific discipline environmental law,0.85,IAB15 Science
+scientific discipline family law,0.85,IAB15 Science
+scientific discipline federal law,0.85,IAB15 Science
+scientific discipline international lawpublic international lawsupranational law,0.85,IAB15 Science
+scientific discipline labor law,0.85,IAB15 Science
+scientific discipline property law,0.85,IAB15 Science
+scientific discipline tax law,0.85,IAB15 Science
+scientific discipline tort law(outline),0.85,IAB15 Science
+scientific discipline public international law,0.85,IAB15 Science
+scientific discipline supranational law,0.85,IAB15 Science
+scientific discipline criminal justice(outline),0.85,IAB15 Science
+scientific discipline criminal procedureforensic science(outline)police science,0.85,IAB15 Science
+scientific discipline forensic science(outline),0.85,IAB15 Science
+scientific discipline police science,0.85,IAB15 Science
+scientific discipline commercial law,0.85,IAB15 Science
+scientific discipline corporate law,0.85,IAB15 Science
+scientific discipline aesthetics(outline),0.85,IAB15 Science
+scientific discipline applied philosophyphilosophy of economicsphilosophy of educationphilosophy of engineeringphilosophy of historyphilosophy of languagephilosophy of lawphilosophy of mathematicsphilosophy of musicphilosophy of psychologyphilosophy of religionphilosophy of physical sciencesphilosophy of biologyphilosophy of chemistryphilosophy of physicsphilosophy of social sciencephilosophy of technologysystems philosophypolitical philosophy,0.85,IAB15 Science
+scientific discipline epistemology(outline)justificationreasoning errors,0.85,IAB15 Science
+"scientific discipline ethics(outline)applied ethicsanimal rightsbioethicsenvironmental ethicsmeta-ethicsmoral psychology,descriptive ethics,value theorynormative ethicsvirtue ethics",0.85,IAB15 Science
+scientific discipline logic(outline)mathematical logicphilosophical logic,0.85,IAB15 Science
+scientific discipline meta-philosophy,0.85,IAB15 Science
+scientific discipline metaphysics(outline)philosophy of actiondeterminismandfree willontologyphilosophy of mindphilosophy of painphilosophy of artificial intelligencephilosophy of perceptionphilosophy of space and timeteleologytheismandatheism,0.85,IAB15 Science
+scientific discipline philosophical traditions and schoolsafrican philosophyanalytic philosophyaristotelianismcontinental philosophyeastern philosophyfeminist philosophyislamic philosophyplatonism,0.85,IAB15 Science
+scientific discipline social philosophyandpolitical philosophyanarchism(outline)feminist philosophylibertarianism(outline)marxism,0.85,IAB15 Science
+scientific discipline philosophy of economics,0.85,IAB15 Science
+scientific discipline philosophy of education,0.85,IAB15 Science
+scientific discipline philosophy of engineering,0.85,IAB15 Science
+scientific discipline philosophy of history,0.85,IAB15 Science
+scientific discipline philosophy of language,0.85,IAB15 Science
+scientific discipline philosophy of law,0.85,IAB15 Science
+scientific discipline philosophy of mathematics,0.85,IAB15 Science
+scientific discipline philosophy of music,0.85,IAB15 Science
+scientific discipline philosophy of psychology,0.85,IAB15 Science
+scientific discipline philosophy of religion,0.85,IAB15 Science
+scientific discipline philosophy of physical sciencesphilosophy of biologyphilosophy of chemistryphilosophy of physics,0.85,IAB15 Science
+scientific discipline philosophy of social science,0.85,IAB15 Science
+scientific discipline philosophy of technology,0.85,IAB15 Science
+scientific discipline systems philosophy,0.85,IAB15 Science
+scientific discipline political philosophy,0.85,IAB15 Science
+scientific discipline philosophy of biology,0.85,IAB15 Science
+scientific discipline philosophy of chemistry,0.85,IAB15 Science
+scientific discipline philosophy of physics,0.85,IAB15 Science
+scientific discipline justification,0.85,IAB15 Science
+scientific discipline reasoning errors,0.85,IAB15 Science
+scientific discipline applied ethicsanimal rightsbioethicsenvironmental ethics,0.85,IAB15 Science
+scientific discipline meta-ethics,0.85,IAB15 Science
+"scientific discipline moral psychology,descriptive ethics,value theory",0.85,IAB15 Science
+scientific discipline normative ethicsvirtue ethics,0.85,IAB15 Science
+scientific discipline animal rights,0.85,IAB15 Science
+scientific discipline bioethics,0.85,IAB15 Science
+scientific discipline environmental ethics,0.85,IAB15 Science
+scientific discipline virtue ethics,0.85,IAB15 Science
+scientific discipline mathematical logic,0.85,IAB15 Science
+scientific discipline philosophical logic,0.85,IAB15 Science
+scientific discipline philosophy of action,0.85,IAB15 Science
+scientific discipline determinismandfree will,0.85,IAB15 Science
+scientific discipline ontology,0.85,IAB15 Science
+scientific discipline philosophy of mindphilosophy of painphilosophy of artificial intelligencephilosophy of perception,0.85,IAB15 Science
+scientific discipline philosophy of space and time,0.85,IAB15 Science
+scientific discipline teleology,0.85,IAB15 Science
+scientific discipline theismandatheism,0.85,IAB15 Science
+scientific discipline philosophy of pain,0.85,IAB15 Science
+scientific discipline philosophy of artificial intelligence,0.85,IAB15 Science
+scientific discipline philosophy of perception,0.85,IAB15 Science
+scientific discipline african philosophy,0.85,IAB15 Science
+scientific discipline analytic philosophy,0.85,IAB15 Science
+scientific discipline aristotelianism,0.85,IAB15 Science
+scientific discipline continental philosophy,0.85,IAB15 Science
+scientific discipline eastern philosophy,0.85,IAB15 Science
+scientific discipline feminist philosophy,0.85,IAB15 Science
+scientific discipline islamic philosophy,0.85,IAB15 Science
+scientific discipline platonism,0.85,IAB15 Science
+scientific discipline anarchism(outline),0.85,IAB15 Science
+scientific discipline libertarianism(outline),0.85,IAB15 Science
+scientific discipline marxism,0.85,IAB15 Science
+scientific discipline history of religion,0.85,IAB15 Science
+scientific discipline anthropology of religion,0.85,IAB15 Science
+scientific discipline sociology of religion,0.85,IAB15 Science
+scientific discipline psychology of religion,0.85,IAB15 Science
+scientific discipline phenomenology of religion,0.85,IAB15 Science
+scientific discipline church history,0.85,IAB15 Science
+scientific discipline field ministrypastoral counselingpastoral theologyreligious educationtechniqueshomileticsliturgysacred musicmissiology,0.85,IAB15 Science
+scientific discipline scriptural study and languagesbiblical hebrewbiblical studies/sacred scripturevedic studynew testament greeklatinold church slavonic,0.85,IAB15 Science
+scientific discipline theology(outline)dogmatic theologyecclesiologysacramentaltheologysystematic theologychristian ethicshindu ethicsmoral theologyhistorical theology,0.85,IAB15 Science
+scientific discipline pastoral counseling,0.85,IAB15 Science
+scientific discipline pastoral theology,0.85,IAB15 Science
+scientific discipline religious educationtechniques,0.85,IAB15 Science
+scientific discipline homiletics,0.85,IAB15 Science
+scientific discipline liturgy,0.85,IAB15 Science
+scientific discipline sacred music,0.85,IAB15 Science
+scientific discipline missiology,0.85,IAB15 Science
+scientific discipline biblical hebrew,0.85,IAB15 Science
+scientific discipline biblical studies/sacred scripture,0.85,IAB15 Science
+scientific discipline vedic study,0.85,IAB15 Science
+scientific discipline new testament greek,0.85,IAB15 Science
+scientific discipline latin,0.85,IAB15 Science
+scientific discipline old church slavonic,0.85,IAB15 Science
+scientific discipline dogmatic theology,0.85,IAB15 Science
+scientific discipline ecclesiology,0.85,IAB15 Science
+scientific discipline sacramentaltheology,0.85,IAB15 Science
+scientific discipline systematic theology,0.85,IAB15 Science
+scientific discipline christian ethics,0.85,IAB15 Science
+scientific discipline hindu ethics,0.85,IAB15 Science
+scientific discipline moral theology,0.85,IAB15 Science
+scientific discipline historical theology,0.85,IAB15 Science
+"scientific discipline biblical studiesbiblical hebrew,koine greek,aramaic",0.85,IAB15 Science
+scientific discipline buddhist theologypali studies,0.85,IAB15 Science
+scientific discipline christian theologyanglican theologybaptist theologycatholic theologyeastern orthodox theologyprotestant theology,0.85,IAB15 Science
+scientific discipline hindu theologysanskrit studiesdravidian studies,0.85,IAB15 Science
+scientific discipline jewish theology,0.85,IAB15 Science
+scientific discipline muslim theologyarabic studies,0.85,IAB15 Science
+"scientific discipline biblical hebrew,koine greek,aramaic",0.85,IAB15 Science
+scientific discipline pali studies,0.85,IAB15 Science
+scientific discipline anglican theology,0.85,IAB15 Science
+scientific discipline baptist theology,0.85,IAB15 Science
+scientific discipline catholic theology,0.85,IAB15 Science
+scientific discipline eastern orthodox theology,0.85,IAB15 Science
+scientific discipline protestant theology,0.85,IAB15 Science
+scientific discipline sanskrit studies,0.85,IAB15 Science
+scientific discipline dravidian studies,0.85,IAB15 Science
+scientific discipline arabic studies,0.85,IAB15 Science
+scientific discipline biological anthropology,0.85,IAB15 Science
+scientific discipline linguistic anthropology,0.85,IAB15 Science
+scientific discipline cultural anthropology,0.85,IAB15 Science
+scientific discipline social anthropology,0.85,IAB15 Science
+scientific discipline paleoanthropology,0.85,IAB15 Science
+scientific discipline biocultural anthropology,0.85,IAB15 Science
+scientific discipline evolutionary anthropology,0.85,IAB15 Science
+scientific discipline feminist archaeology,0.85,IAB15 Science
+scientific discipline forensic anthropology,0.85,IAB15 Science
+scientific discipline maritime archaeology,0.85,IAB15 Science
+scientific discipline cashless society,0.85,IAB15 Science
+scientific discipline climate,0.85,IAB15 Science
+scientific discipline agricultural economics,0.85,IAB15 Science
+scientific discipline applied economics,0.85,IAB15 Science
+scientific discipline behavioural economics,0.85,IAB15 Science
+scientific discipline computational economics,0.85,IAB15 Science
+scientific discipline development economics,0.85,IAB15 Science
+scientific discipline econometrics,0.85,IAB15 Science
+scientific discipline economic geography,0.85,IAB15 Science
+scientific discipline economic sociology,0.85,IAB15 Science
+scientific discipline economic systems,0.85,IAB15 Science
+scientific discipline education economics,0.85,IAB15 Science
+scientific discipline energy economics,0.85,IAB15 Science
+scientific discipline environmental economics,0.85,IAB15 Science
+scientific discipline experimental economics,0.85,IAB15 Science
+scientific discipline family economics,0.85,IAB15 Science
+scientific discipline financial economics,0.85,IAB15 Science
+scientific discipline growth economics,0.85,IAB15 Science
+scientific discipline information economics,0.85,IAB15 Science
+scientific discipline institutional economics,0.85,IAB15 Science
+scientific discipline international economics,0.85,IAB15 Science
+scientific discipline labor economics,0.85,IAB15 Science
+scientific discipline health economics,0.85,IAB15 Science
+scientific discipline law and economics,0.85,IAB15 Science
+scientific discipline macroeconomics,0.85,IAB15 Science
+scientific discipline managerial economics,0.85,IAB15 Science
+scientific discipline mathematical economics,0.85,IAB15 Science
+scientific discipline microeconomics,0.85,IAB15 Science
+scientific discipline monetary economics,0.85,IAB15 Science
+scientific discipline neuroeconomics,0.85,IAB15 Science
+scientific discipline political economy,0.85,IAB15 Science
+scientific discipline public economics,0.85,IAB15 Science
+scientific discipline public choice,0.85,IAB15 Science
+scientific discipline public finance,0.85,IAB15 Science
+scientific discipline real estate economics,0.85,IAB15 Science
+scientific discipline resource economics,0.85,IAB15 Science
+scientific discipline social choice theory,0.85,IAB15 Science
+scientific discipline transport economics,0.85,IAB15 Science
+scientific discipline welfare economics,0.85,IAB15 Science
+scientific discipline physical geography(is also listed inearth science)atmologybiogeographyclimatologycoastal geographyemergency managementenvironmental geographygeobiologygeochemistrygeographic information systemsgeologygeomaticsgeomorphologygeophysicsglaciologyhydrologylandscape ecologylithologymeteorologymineralogyoceanographypalaeogeographypalaeontologypetrologyquaternary sciencesoil geography,0.85,IAB15 Science
+scientific discipline human geographybehavioural geographycognitive geographycultural geographydevelopment geographyeconomic geographyhealth geographyhistorical geographylanguage geographymathematical geographymarketing geographymilitary geographypolitical geographypopulation geographyreligion geographysocial geographystrategic geographytime geographytourism geographytransport geographyurban geography,0.85,IAB15 Science
+scientific discipline integrated geography,0.85,IAB15 Science
+scientific discipline cartographycelestial cartographyplanetary cartographytopography,0.85,IAB15 Science
+scientific discipline atmology,0.85,IAB15 Science
+scientific discipline biogeography,0.85,IAB15 Science
+scientific discipline climatology,0.85,IAB15 Science
+scientific discipline coastal geography,0.85,IAB15 Science
+scientific discipline emergency management,0.85,IAB15 Science
+scientific discipline environmental geography,0.85,IAB15 Science
+scientific discipline geobiology,0.85,IAB15 Science
+scientific discipline geochemistry,0.85,IAB15 Science
+scientific discipline geographic information systems,0.85,IAB15 Science
+scientific discipline geology,0.85,IAB15 Science
+scientific discipline geomatics,0.85,IAB15 Science
+scientific discipline geomorphology,0.85,IAB15 Science
+scientific discipline geophysics,0.85,IAB15 Science
+scientific discipline glaciology,0.85,IAB15 Science
+scientific discipline hydrology,0.85,IAB15 Science
+scientific discipline landscape ecology,0.85,IAB15 Science
+scientific discipline lithology,0.85,IAB15 Science
+scientific discipline meteorology,0.85,IAB15 Science
+scientific discipline mineralogy,0.85,IAB15 Science
+scientific discipline oceanography,0.85,IAB15 Science
+scientific discipline palaeogeography,0.85,IAB15 Science
+scientific discipline palaeontology,0.85,IAB15 Science
+scientific discipline petrology,0.85,IAB15 Science
+scientific discipline quaternary science,0.85,IAB15 Science
+scientific discipline soil geography,0.85,IAB15 Science
+scientific discipline behavioural geography,0.85,IAB15 Science
+scientific discipline cognitive geography,0.85,IAB15 Science
+scientific discipline cultural geography,0.85,IAB15 Science
+scientific discipline development geography,0.85,IAB15 Science
+scientific discipline health geography,0.85,IAB15 Science
+scientific discipline historical geography,0.85,IAB15 Science
+scientific discipline language geography,0.85,IAB15 Science
+scientific discipline mathematical geography,0.85,IAB15 Science
+scientific discipline marketing geography,0.85,IAB15 Science
+scientific discipline military geography,0.85,IAB15 Science
+scientific discipline political geography,0.85,IAB15 Science
+scientific discipline population geography,0.85,IAB15 Science
+scientific discipline religion geography,0.85,IAB15 Science
+scientific discipline social geography,0.85,IAB15 Science
+scientific discipline strategic geography,0.85,IAB15 Science
+scientific discipline time geography,0.85,IAB15 Science
+scientific discipline tourism geography,0.85,IAB15 Science
+scientific discipline transport geography,0.85,IAB15 Science
+scientific discipline urban geography,0.85,IAB15 Science
+scientific discipline celestial cartography,0.85,IAB15 Science
+scientific discipline planetary cartography,0.85,IAB15 Science
+scientific discipline topography,0.85,IAB15 Science
+scientific discipline applied linguistics,0.85,IAB15 Science
+scientific discipline composition studies,0.85,IAB15 Science
+scientific discipline computational linguistics,0.85,IAB15 Science
+scientific discipline etymology,0.85,IAB15 Science
+scientific discipline grammar,0.85,IAB15 Science
+scientific discipline grammatology,0.85,IAB15 Science
+scientific discipline historical linguistics,0.85,IAB15 Science
+scientific discipline history of linguistics,0.85,IAB15 Science
+scientific discipline interlinguistics,0.85,IAB15 Science
+scientific discipline lexicology,0.85,IAB15 Science
+scientific discipline linguistic typology,0.85,IAB15 Science
+scientific discipline morphology (linguistics),0.85,IAB15 Science
+scientific discipline natural language processing,0.85,IAB15 Science
+scientific discipline philology,0.85,IAB15 Science
+scientific discipline phonetics,0.85,IAB15 Science
+scientific discipline phonology,0.85,IAB15 Science
+scientific discipline pragmatics,0.85,IAB15 Science
+scientific discipline psycholinguistics,0.85,IAB15 Science
+scientific discipline rhetoric,0.85,IAB15 Science
+scientific discipline semantics,0.85,IAB15 Science
+scientific discipline semiotics(outline),0.85,IAB15 Science
+scientific discipline sociolinguistics,0.85,IAB15 Science
+scientific discipline syntax,0.85,IAB15 Science
+scientific discipline usage,0.85,IAB15 Science
+scientific discipline word usage,0.85,IAB15 Science
+scientific discipline american politics,0.85,IAB15 Science
+scientific discipline canadian politics,0.85,IAB15 Science
+scientific discipline civics,0.85,IAB15 Science
+scientific discipline health politics,0.85,IAB15 Science
+scientific discipline biopolitics,0.85,IAB15 Science
+scientific discipline comparative politics,0.85,IAB15 Science
+scientific discipline european studies,0.85,IAB15 Science
+scientific discipline geopolitics(political geography),0.85,IAB15 Science
+scientific discipline international relations,0.85,IAB15 Science
+scientific discipline international organizations,0.85,IAB15 Science
+scientific discipline nationalism studies,0.85,IAB15 Science
+scientific discipline peace and conflict studies,0.85,IAB15 Science
+scientific discipline policy studies,0.85,IAB15 Science
+scientific discipline political behavior,0.85,IAB15 Science
+scientific discipline political culture,0.85,IAB15 Science
+scientific discipline political history,0.85,IAB15 Science
+scientific discipline public administration,0.85,IAB15 Science
+scientific discipline public law,0.85,IAB15 Science
+scientific discipline psephology,0.85,IAB15 Science
+scientific discipline singapore politics,0.85,IAB15 Science
+scientific discipline abnormal psychology,0.85,IAB15 Science
+scientific discipline applied psychology,0.85,IAB15 Science
+scientific discipline biological psychology,0.85,IAB15 Science
+scientific discipline clinical neuropsychology,0.85,IAB15 Science
+scientific discipline clinical psychology,0.85,IAB15 Science
+scientific discipline cognitive psychology,0.85,IAB15 Science
+scientific discipline community psychology,0.85,IAB15 Science
+scientific discipline comparative psychology,0.85,IAB15 Science
+scientific discipline conservation psychology,0.85,IAB15 Science
+scientific discipline consumer psychology,0.85,IAB15 Science
+scientific discipline counseling psychology,0.85,IAB15 Science
+scientific discipline criminal psychology,0.85,IAB15 Science
+scientific discipline cultural psychologyasian psychologyblack psychology,0.85,IAB15 Science
+scientific discipline developmental psychology,0.85,IAB15 Science
+scientific discipline differential psychology,0.85,IAB15 Science
+scientific discipline ecological psychology,0.85,IAB15 Science
+scientific discipline educational psychology,0.85,IAB15 Science
+scientific discipline environmental psychology,0.85,IAB15 Science
+scientific discipline evolutionary psychology,0.85,IAB15 Science
+scientific discipline experimental psychology,0.85,IAB15 Science
+scientific discipline group psychology,0.85,IAB15 Science
+scientific discipline family psychology,0.85,IAB15 Science

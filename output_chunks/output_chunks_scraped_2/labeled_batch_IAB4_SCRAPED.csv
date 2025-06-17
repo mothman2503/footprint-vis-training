@@ -1,0 +1,795 @@
+text,confidence,iab_label
+job artistic occupations,0.85,IAB4 Careers
+job dance occupations,0.85,IAB4 Careers
+job entertainer occupations,0.85,IAB4 Careers
+job film and television occupations,0.85,IAB4 Careers
+job theatre personnel,0.85,IAB4 Careers
+job writing occupations,0.85,IAB4 Careers
+job corporate titles,0.85,IAB4 Careers
+job industrial occupationslist of metalworking occupationslist of railway industry occupations,0.85,IAB4 Careers
+job sewing occupations,0.85,IAB4 Careers
+job metalworking occupations,0.85,IAB4 Careers
+job railway industry occupations,0.85,IAB4 Careers
+job computer occupations,0.85,IAB4 Careers
+job healthcare occupations,0.85,IAB4 Careers
+job scientific occupations,0.85,IAB4 Careers
+job professional driver types,0.85,IAB4 Careers
+job profession,0.85,IAB4 Careers
+job work (human activity),0.85,IAB4 Careers
+career anticipatory socialization,0.85,IAB4 Careers
+career professional,0.85,IAB4 Careers
+career first professional degree,0.85,IAB4 Careers
+career professional association(or body),0.85,IAB4 Careers
+career professional boundaries,0.85,IAB4 Careers
+career professional class,0.85,IAB4 Careers
+career professional degree,0.85,IAB4 Careers
+career professional development,0.85,IAB4 Careers
+career professional responsibility,0.85,IAB4 Careers
+career professional ethics,0.85,IAB4 Careers
+career professionalization,0.85,IAB4 Careers
+career semiprofession,0.85,IAB4 Careers
+career norwegiancentre for the study of professions,0.85,IAB4 Careers
+career occupations,0.85,IAB4 Careers
+"career abbott, andrew (1988).the system of professions: an essay on the division of expert labor. chicago:university of chicago press.isbn9780226000688.",0.85,IAB4 Careers
+"career brint, steven g (1994).in an age of experts: the changing role of professionals in politics and public life.princeton university press.isbn9780691033990.",0.85,IAB4 Careers
+"career corfield, p. j. (1995).power and the professions in britain, 1700-1850. london:routledge.isbn9780415097567.",0.85,IAB4 Careers
+"career dezalay, yves; sugarman, david (1995).professional competition and professional power: lawyers, accountants and the social construction of markets.routledge.isbn9780415093620.",0.85,IAB4 Careers
+"career freidson, eliot (15 may 1988).professional powers: a study of the institutionalization of formal knowledge.university of chicago press.isbn9780226262253.oclc26287874.",0.85,IAB4 Careers
+"career jacob, joseph m (1999).doctors & rules: a sociology of professional values(2nd ed.). new brunswick and london:transaction publishers.isbn9780765804778.oclc39313497.ol1914768w.",0.85,IAB4 Careers
+"career montgomery, jonathan (1989). ""medicine, accountability, and professionalism"".journal of law and society.16(3):319–39.doi:10.2307/1409987.hdl:10822/833082.jstor1409987.",0.85,IAB4 Careers
+career germany,0.85,IAB4 Careers
+career united states,0.85,IAB4 Careers
+career france,0.85,IAB4 Careers
+career bnf data,0.85,IAB4 Careers
+career japan,0.85,IAB4 Careers
+career czech republic,0.85,IAB4 Careers
+career latvia,0.85,IAB4 Careers
+career israel,0.85,IAB4 Careers
+career historical dictionary of switzerland,0.85,IAB4 Careers
+"employment objective factor theoryassumes that the applicants are rational. the choice, therefore, is exercised after an objective assessment of the tangible benefits of the job. factors may include the salary, other benefits, location, opportunities for career advancement, etc.",0.85,IAB4 Careers
+"employment subjective factor theorysuggests that decision making is dominated by social and psychological factors. the status of the job, reputation of the organization, and other similar factors plays an important role.",0.85,IAB4 Careers
+"employment critical contact theoryadvances the idea that a candidate's observations while interacting with the organization plays a vital role in decision making. for example, how the recruiter keeps in touch with the candidate, the promptness of response and similar factors are important. this theory is more valid with experienced professionals.",0.85,IAB4 Careers
+employment the downsizing or the restructuring of an organization (54%).,0.85,IAB4 Careers
+employment new challenges or opportunities that arise (30%).,0.85,IAB4 Careers
+employment poor or ineffective leadership (25%).,0.85,IAB4 Careers
+employment having a poor relationship with a manager(s) (22%).,0.85,IAB4 Careers
+employment for the improvement of work/life balance (21%).,0.85,IAB4 Careers
+employment contributions are not being recognized (21%).,0.85,IAB4 Careers
+"employment for better compensation and benefits (18%),",0.85,IAB4 Careers
+employment for better alignment with personal and organizational values (17%).,0.85,IAB4 Careers
+employment personal strengths and capabilities are not a good fit with an organization (16%).,0.85,IAB4 Careers
+employment the financial instability of an organization (13%).,0.85,IAB4 Careers
+employment an organization relocated (12%).,0.85,IAB4 Careers
+"employment career information describes information that supports career and learning choices. an important sub-set of career information is labour market information (lmi), such as salaries of various professions, employment rate in various professions, available training programs, and current job openings.",0.85,IAB4 Careers
+"employment career counselingassesses people's interests, personality, values and skills, and helps them to explore career options and research graduate and professional schools. career counseling provides one-on-one or group professional assistance in exploration and decision making tasks related to choosing a major/occupation, transitioning into the world of work or further professional training.",0.85,IAB4 Careers
+employment job satisfaction,0.85,IAB4 Careers
+employment curriculum vitae,0.85,IAB4 Careers
+employment employment,0.85,IAB4 Careers
+employment profession,0.85,IAB4 Careers
+employment portfolio career,0.85,IAB4 Careers
+employment anticipatory socialization,0.85,IAB4 Careers
+"employment united nations (2002), handbook on career counseling",0.85,IAB4 Careers
+employment academic tenure,0.85,IAB4 Careers
+employment casual,0.85,IAB4 Careers
+employment contingent work,0.85,IAB4 Careers
+employment full-time job,0.85,IAB4 Careers
+employment gig worker,0.85,IAB4 Careers
+employment job sharing,0.85,IAB4 Careers
+employment part-time job,0.85,IAB4 Careers
+employment self-employment,0.85,IAB4 Careers
+employment side job,0.85,IAB4 Careers
+employment skilled workerjourneymantechniciantradesperson,0.85,IAB4 Careers
+employment independent contractor,0.85,IAB4 Careers
+employment labour hire,0.85,IAB4 Careers
+employment temporary work,0.85,IAB4 Careers
+employment laborer,0.85,IAB4 Careers
+employment wage labour,0.85,IAB4 Careers
+employment journeyman,0.85,IAB4 Careers
+employment technician,0.85,IAB4 Careers
+employment tradesperson,0.85,IAB4 Careers
+employment application,0.85,IAB4 Careers
+employment background check,0.85,IAB4 Careers
+employment business networking,0.85,IAB4 Careers
+employment cover letter,0.85,IAB4 Careers
+employment drug testing,0.85,IAB4 Careers
+employment employment contract,0.85,IAB4 Careers
+employment employment counsellor,0.85,IAB4 Careers
+employment executive searchlist,0.85,IAB4 Careers
+employment induction programme,0.85,IAB4 Careers
+employment job fair,0.85,IAB4 Careers
+employment job fraud,0.85,IAB4 Careers
+employment job hunting,0.85,IAB4 Careers
+employment job interview,0.85,IAB4 Careers
+employment letter of recommendation,0.85,IAB4 Careers
+employment onboarding,0.85,IAB4 Careers
+employment overqualification,0.85,IAB4 Careers
+employment person–environment fit,0.85,IAB4 Careers
+employment personality–job fit theory,0.85,IAB4 Careers
+employment personality hire,0.85,IAB4 Careers
+employment probation,0.85,IAB4 Careers
+employment realistic job preview,0.85,IAB4 Careers
+employment recruitment,0.85,IAB4 Careers
+employment résumé,0.85,IAB4 Careers
+employment simultaneous recruiting of new graduates,0.85,IAB4 Careers
+employment underemployment,0.85,IAB4 Careers
+employment work-at-home scheme,0.85,IAB4 Careers
+employment list,0.85,IAB4 Careers
+employment cooperative,0.85,IAB4 Careers
+employment employee,0.85,IAB4 Careers
+employment employer,0.85,IAB4 Careers
+employment internship,0.85,IAB4 Careers
+employment job,0.85,IAB4 Careers
+employment permanent employment,0.85,IAB4 Careers
+employment supervisor,0.85,IAB4 Careers
+employment volunteering,0.85,IAB4 Careers
+employment blue-collar,0.85,IAB4 Careers
+employment green-collar,0.85,IAB4 Careers
+employment grey-collar,0.85,IAB4 Careers
+employment pink-collar,0.85,IAB4 Careers
+employment precariat,0.85,IAB4 Careers
+employment white-collar,0.85,IAB4 Careers
+employment red-collar,0.85,IAB4 Careers
+employment new-collar,0.85,IAB4 Careers
+employment no-collar,0.85,IAB4 Careers
+employment orange-collar,0.85,IAB4 Careers
+employment scarlet-collar,0.85,IAB4 Careers
+employment black-collar,0.85,IAB4 Careers
+employment gold-collar,0.85,IAB4 Careers
+employment apprenticeship,0.85,IAB4 Careers
+employment artisanmaster craftsman,0.85,IAB4 Careers
+employment avocation,0.85,IAB4 Careers
+employment career assessment,0.85,IAB4 Careers
+employment career counseling,0.85,IAB4 Careers
+employment career development,0.85,IAB4 Careers
+employment coaching,0.85,IAB4 Careers
+employment creative class,0.85,IAB4 Careers
+employment educationcontinuing educatione-learningemployabilityfurther educationgraduate schoolinduction trainingknowledge workerlicensurelifelong learningoverspecializationpractice-based professional learningprofessional associationprofessional certificationprofessional developmentprofessional schoolreflective practiceretrainingvocational educationvocational schoolvocational university,0.85,IAB4 Careers
+employment mentorship,0.85,IAB4 Careers
+employment occupational outlook handbook,0.85,IAB4 Careers
+employment practice firm,0.85,IAB4 Careers
+employment professionoperatorprofessional,0.85,IAB4 Careers
+employment tradesman,0.85,IAB4 Careers
+employment vocation,0.85,IAB4 Careers
+employment master craftsman,0.85,IAB4 Careers
+employment continuing education,0.85,IAB4 Careers
+employment e-learning,0.85,IAB4 Careers
+employment employability,0.85,IAB4 Careers
+employment further education,0.85,IAB4 Careers
+employment graduate school,0.85,IAB4 Careers
+employment induction training,0.85,IAB4 Careers
+employment knowledge worker,0.85,IAB4 Careers
+employment licensure,0.85,IAB4 Careers
+employment lifelong learning,0.85,IAB4 Careers
+employment overspecialization,0.85,IAB4 Careers
+employment practice-based professional learning,0.85,IAB4 Careers
+employment professional association,0.85,IAB4 Careers
+employment professional certification,0.85,IAB4 Careers
+employment professional development,0.85,IAB4 Careers
+employment professional school,0.85,IAB4 Careers
+employment reflective practice,0.85,IAB4 Careers
+employment retraining,0.85,IAB4 Careers
+employment vocational education,0.85,IAB4 Careers
+employment vocational school,0.85,IAB4 Careers
+employment vocational university,0.85,IAB4 Careers
+employment operator,0.85,IAB4 Careers
+employment professional,0.85,IAB4 Careers
+employment break,0.85,IAB4 Careers
+employment break room,0.85,IAB4 Careers
+employment career break,0.85,IAB4 Careers
+employment furlough,0.85,IAB4 Careers
+employment gap year,0.85,IAB4 Careers
+employment leave of absence,0.85,IAB4 Careers
+employment long service leave,0.85,IAB4 Careers
+"employment no call, no show",0.85,IAB4 Careers
+employment sabbatical,0.85,IAB4 Careers
+employment sick leave,0.85,IAB4 Careers
+employment time clock,0.85,IAB4 Careers
+employment 35-hour workweek,0.85,IAB4 Careers
+employment four-day week,0.85,IAB4 Careers
+employment eight-hour day,0.85,IAB4 Careers
+employment 996 working hour system,0.85,IAB4 Careers
+employment flextime,0.85,IAB4 Careers
+employment on-call,0.85,IAB4 Careers
+employment overtime,0.85,IAB4 Careers
+employment remote work,0.85,IAB4 Careers
+employment six-hour day,0.85,IAB4 Careers
+employment shift work,0.85,IAB4 Careers
+employment working time,0.85,IAB4 Careers
+employment workweek and weekend,0.85,IAB4 Careers
+employment global labor arbitrage,0.85,IAB4 Careers
+employment income bracket,0.85,IAB4 Careers
+employment income tax,0.85,IAB4 Careers
+employment living wage,0.85,IAB4 Careers
+employment maximum wage,0.85,IAB4 Careers
+employment national average salaryworldeurope,0.85,IAB4 Careers
+employment minimum wagecanadahong kongeuropeunited states,0.85,IAB4 Careers
+employment progressive wagesingapore,0.85,IAB4 Careers
+employment overtime rate,0.85,IAB4 Careers
+employment paid time off,0.85,IAB4 Careers
+employment performance-related pay,0.85,IAB4 Careers
+employment salary cap,0.85,IAB4 Careers
+employment wage compression,0.85,IAB4 Careers
+employment working poor,0.85,IAB4 Careers
+employment world,0.85,IAB4 Careers
+employment europe,0.85,IAB4 Careers
+employment canada,0.85,IAB4 Careers
+employment hong kong,0.85,IAB4 Careers
+employment united states,0.85,IAB4 Careers
+employment singapore,0.85,IAB4 Careers
+employment annual leave,0.85,IAB4 Careers
+employment casual friday,0.85,IAB4 Careers
+employment child care,0.85,IAB4 Careers
+employment disability insurance,0.85,IAB4 Careers
+employment health insurance,0.85,IAB4 Careers
+employment life insurance,0.85,IAB4 Careers
+employment marriage leave,0.85,IAB4 Careers
+employment parental leave,0.85,IAB4 Careers
+employment pensionby country,0.85,IAB4 Careers
+employment sick leaveunited states,0.85,IAB4 Careers
+employment take-home vehicle,0.85,IAB4 Careers
+employment by country,0.85,IAB4 Careers
+employment crunch,0.85,IAB4 Careers
+employment epilepsy and employment,0.85,IAB4 Careers
+employment human factors and ergonomics,0.85,IAB4 Careers
+employment karoshi,0.85,IAB4 Careers
+employment countries by rate of fatal workplace accidents,0.85,IAB4 Careers
+employment occupational burnout,0.85,IAB4 Careers
+employment occupational disease,0.85,IAB4 Careers
+employment occupational exposure limit,0.85,IAB4 Careers
+employment occupational health psychology,0.85,IAB4 Careers
+employment occupational injury,0.85,IAB4 Careers
+employment occupational noise,0.85,IAB4 Careers
+employment occupational stress,0.85,IAB4 Careers
+employment personal protective equipment,0.85,IAB4 Careers
+employment repetitive strain injury,0.85,IAB4 Careers
+employment right to situnited states,0.85,IAB4 Careers
+employment sick building syndrome,0.85,IAB4 Careers
+employment work accidentoccupational fatality,0.85,IAB4 Careers
+employment workers' compensation,0.85,IAB4 Careers
+employment workers' right to access the toilet,0.85,IAB4 Careers
+employment workplace health promotion,0.85,IAB4 Careers
+employment workplace phobia,0.85,IAB4 Careers
+employment workplace wellness,0.85,IAB4 Careers
+employment occupational fatality,0.85,IAB4 Careers
+employment affirmative action,0.85,IAB4 Careers
+employment equal pay for equal work,0.85,IAB4 Careers
+employment gender pay gap,0.85,IAB4 Careers
+employment glass ceiling,0.85,IAB4 Careers
+employment corporate collapses and scandalsaccounting scandalscontrol fraudcorporate behaviourcorporate crime,0.85,IAB4 Careers
+employment discrimination,0.85,IAB4 Careers
+employment exploitation of labour,0.85,IAB4 Careers
+employment dress code,0.85,IAB4 Careers
+employment employee handbook,0.85,IAB4 Careers
+employment employee monitoring,0.85,IAB4 Careers
+employment evaluation,0.85,IAB4 Careers
+employment labour law,0.85,IAB4 Careers
+employment sexual harassment,0.85,IAB4 Careers
+employment sleeping while on duty,0.85,IAB4 Careers
+employment unreported employment,0.85,IAB4 Careers
+employment wage theft,0.85,IAB4 Careers
+employment whistleblower,0.85,IAB4 Careers
+employment workplace bullying,0.85,IAB4 Careers
+employment workplace harassment,0.85,IAB4 Careers
+employment workplace incivility,0.85,IAB4 Careers
+employment accounting scandals,0.85,IAB4 Careers
+employment control fraud,0.85,IAB4 Careers
+employment corporate behaviour,0.85,IAB4 Careers
+employment corporate crime,0.85,IAB4 Careers
+employment boreout,0.85,IAB4 Careers
+employment careerism,0.85,IAB4 Careers
+employment civil conscription,0.85,IAB4 Careers
+employment conscription,0.85,IAB4 Careers
+employment critique of work,0.85,IAB4 Careers
+employment dead-end job,0.85,IAB4 Careers
+employment mcjob,0.85,IAB4 Careers
+employment organizational commitment,0.85,IAB4 Careers
+employment refusal of work,0.85,IAB4 Careers
+employment slaverybonded labourhuman traffickinglabour camppenal labourpeonagetruck wagesunfree labourwage slavery,0.85,IAB4 Careers
+employment work ethic,0.85,IAB4 Careers
+employment work–life interfacedownshiftingslow living,0.85,IAB4 Careers
+employment workaholic,0.85,IAB4 Careers
+employment bonded labour,0.85,IAB4 Careers
+employment human trafficking,0.85,IAB4 Careers
+employment labour camp,0.85,IAB4 Careers
+employment penal labour,0.85,IAB4 Careers
+employment peonage,0.85,IAB4 Careers
+employment truck wages,0.85,IAB4 Careers
+employment unfree labour,0.85,IAB4 Careers
+employment wage slavery,0.85,IAB4 Careers
+employment downshifting,0.85,IAB4 Careers
+employment slow living,0.85,IAB4 Careers
+employment at-will employment,0.85,IAB4 Careers
+employment dismissalbanishment roomconstructive dismissalwrongful dismissal,0.85,IAB4 Careers
+employment employee offboarding,0.85,IAB4 Careers
+employment exit interview,0.85,IAB4 Careers
+employment layoff,0.85,IAB4 Careers
+employment notice period,0.85,IAB4 Careers
+employment pink slip,0.85,IAB4 Careers
+employment resignationletter of resignation,0.85,IAB4 Careers
+employment restructuring,0.85,IAB4 Careers
+employment retirementmandatory retirementretirement ageretirement planning,0.85,IAB4 Careers
+employment severance packagegolden handshakegolden parachute,0.85,IAB4 Careers
+employment turnover,0.85,IAB4 Careers
+employment banishment room,0.85,IAB4 Careers
+employment constructive dismissal,0.85,IAB4 Careers
+employment wrongful dismissal,0.85,IAB4 Careers
+employment letter of resignation,0.85,IAB4 Careers
+employment mandatory retirement,0.85,IAB4 Careers
+employment retirement age,0.85,IAB4 Careers
+employment retirement planning,0.85,IAB4 Careers
+employment golden handshake,0.85,IAB4 Careers
+employment golden parachute,0.85,IAB4 Careers
+employment barriers to entry,0.85,IAB4 Careers
+employment discouraged worker,0.85,IAB4 Careers
+employment economic depressiongreat depressionlong depression,0.85,IAB4 Careers
+employment frictional unemployment,0.85,IAB4 Careers
+employment full employment,0.85,IAB4 Careers
+employment graduate unemployment,0.85,IAB4 Careers
+employment involuntary unemployment,0.85,IAB4 Careers
+employment jobless recovery,0.85,IAB4 Careers
+employment phillips curve,0.85,IAB4 Careers
+employment recessiongreat recessionjob losses caused by the great recessionlists of recessionsrecession-proof job,0.85,IAB4 Careers
+employment reserve army of labour,0.85,IAB4 Careers
+employment structural unemployment,0.85,IAB4 Careers
+employment technological unemployment,0.85,IAB4 Careers
+employment types of unemployment,0.85,IAB4 Careers
+employment unemployment benefits,0.85,IAB4 Careers
+"employment unemployment convention, 1919",0.85,IAB4 Careers
+employment unemployment extension,0.85,IAB4 Careers
+employment countries by unemployment rate,0.85,IAB4 Careers
+employment employment-to-population ratiolist,0.85,IAB4 Careers
+employment wage curve,0.85,IAB4 Careers
+employment youth unemployment,0.85,IAB4 Careers
+employment great depression,0.85,IAB4 Careers
+employment long depression,0.85,IAB4 Careers
+employment great recession,0.85,IAB4 Careers
+employment job losses caused by the great recession,0.85,IAB4 Careers
+employment lists of recessions,0.85,IAB4 Careers
+employment recession-proof job,0.85,IAB4 Careers
+employment workfare,0.85,IAB4 Careers
+employment unemployment insurance,0.85,IAB4 Careers
+employment make-work job,0.85,IAB4 Careers
+employment job creation program,0.85,IAB4 Careers
+employment job creation index,0.85,IAB4 Careers
+employment job guarantee,0.85,IAB4 Careers
+employment employer of last resort,0.85,IAB4 Careers
+employment guaranteed minimum income,0.85,IAB4 Careers
+employment right to work,0.85,IAB4 Careers
+employment historical:,0.85,IAB4 Careers
+employment u.s.a.:,0.85,IAB4 Careers
+employment civil works administration,0.85,IAB4 Careers
+employment works progress administration,0.85,IAB4 Careers
+employment bullshit job,0.85,IAB4 Careers
+employment busy work,0.85,IAB4 Careers
+employment credentialism and educational inflation,0.85,IAB4 Careers
+employment emotional labor,0.85,IAB4 Careers
+employment evil corporation,0.85,IAB4 Careers
+employment going postal,0.85,IAB4 Careers
+employment kiss up kick down,0.85,IAB4 Careers
+employment labor rights,0.85,IAB4 Careers
+employment narcissism in the workplace,0.85,IAB4 Careers
+employment post-work society,0.85,IAB4 Careers
+employment presenteeism,0.85,IAB4 Careers
+employment psychopathy in the workplace,0.85,IAB4 Careers
+employment sunday scaries,0.85,IAB4 Careers
+employment slow movement (culture),0.85,IAB4 Careers
+employment toxic leader,0.85,IAB4 Careers
+employment toxic workplace,0.85,IAB4 Careers
+employment workhouse,0.85,IAB4 Careers
+employment aspects of corporations,0.85,IAB4 Careers
+employment aspects of jobs,0.85,IAB4 Careers
+employment aspects of occupations,0.85,IAB4 Careers
+employment aspects of organizations,0.85,IAB4 Careers
+employment aspects of workplaces,0.85,IAB4 Careers
+employment corporate titles,0.85,IAB4 Careers
+employment organized labor,0.85,IAB4 Careers
+employment germany,0.85,IAB4 Careers
+employment czech republic,0.85,IAB4 Careers
+workplace kiss up kick down,0.85,IAB4 Careers
+workplace toxic workplace,0.85,IAB4 Careers
+workplace workplace aggression: a specific type of aggression that occurs in the workplace.,0.85,IAB4 Careers
+workplace workplace bullying: the tendency of individuals or groups to use persistent aggressive or unreasonable behavior against a co-worker or subordinate.,0.85,IAB4 Careers
+workplace workplace conflict: a specific type of conflict that occurs in the workplace.,0.85,IAB4 Careers
+workplace workplace culture: the social behaviors and norms in the workplace.,0.85,IAB4 Careers
+workplace workplace counterproductive behaviour: employee behavior that goes against the goals of an organization.,0.85,IAB4 Careers
+workplace workplace cyber-aggression: workplace e-mail or text messages that threaten or frighten employees.,0.85,IAB4 Careers
+workplace workplace democracy: the application of democracy in all its forms to the workplace.,0.85,IAB4 Careers
+workplace workplace deviance: deliberate or intentional desire to cause harm to an organization.,0.85,IAB4 Careers
+"workplace workplace discrimination: discrimination in hiring, promotion, job assignment, termination, and compensation.",0.85,IAB4 Careers
+"workplace workplace diversity: theory that in a global marketplace, a company that employs a diverse workforce is better able to understand the demographics of the marketplace it serves.",0.85,IAB4 Careers
+workplace workplace emotions: emotions in the workplace play a large role in how an entire organization communicates within itself and to the outside world.,0.85,IAB4 Careers
+workplace workplace employee factors leading to job promotion.,0.85,IAB4 Careers
+workplace laziness in the workplace which could lead toindustrial accidentsor other things.,0.85,IAB4 Careers
+workplace workplace empowerment: provides employees with opportunities to make their own decisions with regards to their tasks.,0.85,IAB4 Careers
+workplace workplace evaluation: a tool employers use to review the performance of an employee.,0.85,IAB4 Careers
+"workplace feminisation of the workplace: trend towards greater employment of women, and of men willing and able to operate with these more 'feminine' modes of interaction.",0.85,IAB4 Careers
+"workplace workplace relationships: directly related to several other area of study including cohesion, job satisfaction, organizational commitment and intention to leave.",0.85,IAB4 Careers
+workplace workplace gender inequality: relates to wage discrimination and career advancement.,0.85,IAB4 Careers
+"workplace workplace gossip: idle talk or rumor, especially about the personal or private affairs of others.",0.85,IAB4 Careers
+"workplace workplace harassment: offensive, belittling or threatening behavior directed at an individual worker or a group of workers.",0.85,IAB4 Careers
+workplace workplace health surveillance: the removal of the causative factors of disease.,0.85,IAB4 Careers
+workplace workplace hazard controls for covid-19: measures employed to control the spread of covid-19,0.85,IAB4 Careers
+workplace workplace humor: comedy that revolves around the inner workings of various jobs.,0.85,IAB4 Careers
+"workplace workplace incivility: low-intensity deviant workplace behavior such as rudeness, discourtesy and displaying a lack of regard for others.",0.85,IAB4 Careers
+workplace workplace intervention: scheme to improve both organizational and individual health as well as help workers manage job stress.,0.85,IAB4 Careers
+workplace workplace jargon: highly specialized terminology or needlessly complicated and obfuscated phrases sometimes used by managers or colleagues.,0.85,IAB4 Careers
+workplace workplace listening: a type of active listening that is generally employed in a professional environment.,0.85,IAB4 Careers
+workplace mobbing: similar concept to workplace bullying.,0.85,IAB4 Careers
+"workplace workplace morale: workplace events play a large part in changing employee morale, such as heavy layoffs, the cancellation of overtime, canceling benefits programs, and the lack of union representation.",0.85,IAB4 Careers
+workplace workplace menopause:the impactmenopausesymptoms can have on attendance and performance in the workplace.,0.85,IAB4 Careers
+workplace workplace narcissism,0.85,IAB4 Careers
+workplace workplace phobia: an actual or imagined confrontation with the workplace or certain stimuli at the workplace causes a prominent anxiety reaction in a person.,0.85,IAB4 Careers
+workplace workplace politics: the use of one's individual or assigned power within an employing organization for the purpose of obtaining advantages beyond one's legitimate authority.,0.85,IAB4 Careers
+"workplace workplace privacy: employees typically must relinquish some of their privacy while at the workplace, but how much can be a contentious issue.",0.85,IAB4 Careers
+workplace workplace probation: a status given to new employees of a company or business.,0.85,IAB4 Careers
+workplace workplace psychopathy: psychopaths can do enormous damage when they are positioned in senior management roles,0.85,IAB4 Careers
+workplace workplace revenge: refers to the general action of purposeful retaliation within the workplace in an attempt to seek justice.,0.85,IAB4 Careers
+workplace workplace sabotage: when disgruntled workers damage or destroy equipment or interfere with the smooth running of a workplace.,0.85,IAB4 Careers
+workplace workplace safety: occupational safety and health is a category of management responsibility in places of employment.,0.85,IAB4 Careers
+workplace workplace spirituality: a grassroots movement with individuals seeking to live their faith and/or spiritual values in the workplace.,0.85,IAB4 Careers
+workplace workplace strategy: the dynamic alignment of an organization's work patterns with the work environment to enable peak performance and reduce costs.,0.85,IAB4 Careers
+"workplace workplace stress: the harmful physical and emotional response that occurs when there is a poor match between job demands and the capabilities, resources, or needs of the worker.",0.85,IAB4 Careers
+workplace workplace surveillance: businesses use workplace surveillance as a way of monitoring the activities of their employees.,0.85,IAB4 Careers
+"workplace workplace swearing: in the uk, swearing in the workplace can be an act of gross misconduct under certain circumstances.",0.85,IAB4 Careers
+workplace professional development: skills and knowledge attained for both personal development and career advancement.,0.85,IAB4 Careers
+workplace workplace violenceviolence that originates from employees or employers and threatens employers and/or other employees.,0.85,IAB4 Careers
+workplace workplace wellness: program offered by some employers to support behavior conducive to the health of employees.,0.85,IAB4 Careers
+workplace corporation,0.85,IAB4 Careers
+workplace employment,0.85,IAB4 Careers
+workplace factory,0.85,IAB4 Careers
+workplace office,0.85,IAB4 Careers
+workplace organization,0.85,IAB4 Careers
+workplace whistleblower,0.85,IAB4 Careers
+workplace organized labour portal,0.85,IAB4 Careers
+workplace ron friedman (2015).the best place to work: the art and science of creating an extraordinary workplace. tarcherperigee.isbn978-0399165603.,0.85,IAB4 Careers
+workplace absenteeism,0.85,IAB4 Careers
+workplace abusive supervision,0.85,IAB4 Careers
+workplace aggression,0.85,IAB4 Careers
+workplace anti-pattern,0.85,IAB4 Careers
+workplace artificial intelligence,0.85,IAB4 Careers
+workplace bullying,0.85,IAB4 Careers
+workplace climate,0.85,IAB4 Careers
+workplace culture,0.85,IAB4 Careers
+workplace computer surveillance,0.85,IAB4 Careers
+workplace conflict,0.85,IAB4 Careers
+workplace control freak,0.85,IAB4 Careers
+workplace counterproductive behaviour,0.85,IAB4 Careers
+workplace coworking,0.85,IAB4 Careers
+workplace culture of fear,0.85,IAB4 Careers
+workplace democracy,0.85,IAB4 Careers
+workplace deviance,0.85,IAB4 Careers
+workplace discrimination,0.85,IAB4 Careers
+workplace diversity,0.85,IAB4 Careers
+workplace divide and rule,0.85,IAB4 Careers
+workplace drug tests,0.85,IAB4 Careers
+workplace effects of overtime,0.85,IAB4 Careers
+workplace emotional labor,0.85,IAB4 Careers
+workplace emotions,0.85,IAB4 Careers
+workplace employee assistance,0.85,IAB4 Careers
+workplace employee engagement,0.85,IAB4 Careers
+workplace employee experience,0.85,IAB4 Careers
+workplace employee monitoring,0.85,IAB4 Careers
+workplace employee morale,0.85,IAB4 Careers
+workplace employee recognition,0.85,IAB4 Careers
+workplace employee silence,0.85,IAB4 Careers
+workplace employee surveys,0.85,IAB4 Careers
+workplace empowerment,0.85,IAB4 Careers
+workplace evaluation,0.85,IAB4 Careers
+workplace feminisation,0.85,IAB4 Careers
+workplace generations,0.85,IAB4 Careers
+workplace goofing off,0.85,IAB4 Careers
+workplace gossip,0.85,IAB4 Careers
+workplace happiness,0.85,IAB4 Careers
+workplace harassment,0.85,IAB4 Careers
+workplace health promotion,0.85,IAB4 Careers
+workplace health surveillance,0.85,IAB4 Careers
+workplace hostile work environment,0.85,IAB4 Careers
+workplace humor,0.85,IAB4 Careers
+workplace incivility,0.85,IAB4 Careers
+workplace inequality,0.85,IAB4 Careers
+workplace intervention,0.85,IAB4 Careers
+workplace jargon,0.85,IAB4 Careers
+workplace kick the cat,0.85,IAB4 Careers
+workplace listening,0.85,IAB4 Careers
+workplace machiavellianism,0.85,IAB4 Careers
+workplace menopause,0.85,IAB4 Careers
+workplace micromanagement,0.85,IAB4 Careers
+workplace mobbing,0.85,IAB4 Careers
+workplace narcissism,0.85,IAB4 Careers
+workplace office politics,0.85,IAB4 Careers
+workplace overwork,0.85,IAB4 Careers
+workplace parkinson's law,0.85,IAB4 Careers
+workplace performance appraisal,0.85,IAB4 Careers
+workplace personality clash,0.85,IAB4 Careers
+workplace phobia,0.85,IAB4 Careers
+workplace positive psychology,0.85,IAB4 Careers
+workplace privacy,0.85,IAB4 Careers
+workplace probation,0.85,IAB4 Careers
+workplace profanity,0.85,IAB4 Careers
+workplace psychopathy,0.85,IAB4 Careers
+workplace quality of working life,0.85,IAB4 Careers
+workplace queen bee syndrome,0.85,IAB4 Careers
+workplace rat race,0.85,IAB4 Careers
+workplace relationships,0.85,IAB4 Careers
+workplace revenge,0.85,IAB4 Careers
+workplace robotics safety,0.85,IAB4 Careers
+workplace role conflict,0.85,IAB4 Careers
+workplace sabotage,0.85,IAB4 Careers
+workplace spirituality,0.85,IAB4 Careers
+workplace strategy,0.85,IAB4 Careers
+workplace stress,0.85,IAB4 Careers
+workplace toxic leader,0.85,IAB4 Careers
+workplace training,0.85,IAB4 Careers
+workplace turnover,0.85,IAB4 Careers
+workplace undermining,0.85,IAB4 Careers
+workplace violence,0.85,IAB4 Careers
+workplace virtual,0.85,IAB4 Careers
+workplace wellness,0.85,IAB4 Careers
+workplace work–family conflict,0.85,IAB4 Careers
+workplace workload,0.85,IAB4 Careers
+workplace workplace harassment,0.85,IAB4 Careers
+workplace workwear,0.85,IAB4 Careers
+workplace headquarters,0.85,IAB4 Careers
+workplace job,0.85,IAB4 Careers
+workplace job sharing,0.85,IAB4 Careers
+workplace labour movement,0.85,IAB4 Careers
+workplace labor rights,0.85,IAB4 Careers
+workplace remote work,0.85,IAB4 Careers
+workplace strike action,0.85,IAB4 Careers
+workplace trade union,0.85,IAB4 Careers
+workplace aspects of corporations,0.85,IAB4 Careers
+workplace aspects of jobs,0.85,IAB4 Careers
+workplace aspects of occupations,0.85,IAB4 Careers
+workplace aspects of organizations,0.85,IAB4 Careers
+workplace germany,0.85,IAB4 Careers
+workplace czech republic,0.85,IAB4 Careers
+jobs top,0.85,IAB4 Careers
+jobs 0–9,0.85,IAB4 Careers
+jobs a/b tester,0.85,IAB4 Careers
+jobs application analyst,0.85,IAB4 Careers
+jobs business analyst,0.85,IAB4 Careers
+jobs computer operator,0.85,IAB4 Careers
+jobs computer repair technician,0.85,IAB4 Careers
+jobs computer scientist,0.85,IAB4 Careers
+jobs computer analyst,0.85,IAB4 Careers
+jobs data entry clerk,0.85,IAB4 Careers
+jobs database administrator,0.85,IAB4 Careers
+jobs data analyst,0.85,IAB4 Careers
+jobs data designer,0.85,IAB4 Careers
+jobs data scientist,0.85,IAB4 Careers
+jobs data engineer,0.85,IAB4 Careers
+jobs graphic designer,0.85,IAB4 Careers
+jobs hardware engineer,0.85,IAB4 Careers
+jobs information systems technician,0.85,IAB4 Careers
+jobs it assistant,0.85,IAB4 Careers
+jobs it consultant,0.85,IAB4 Careers
+jobs network analyst,0.85,IAB4 Careers
+jobs network administrator,0.85,IAB4 Careers
+jobs programmer,0.85,IAB4 Careers
+jobs product manager,0.85,IAB4 Careers
+jobs project manager,0.85,IAB4 Careers
+jobs rapid prototyper,0.85,IAB4 Careers
+jobs scrum master,0.85,IAB4 Careers
+jobs security engineer,0.85,IAB4 Careers
+jobs software analyst,0.85,IAB4 Careers
+jobs software architect,0.85,IAB4 Careers
+jobs software design,0.85,IAB4 Careers
+jobs software engineer,0.85,IAB4 Careers
+jobs software project manager,0.85,IAB4 Careers
+jobs software quality analyst,0.85,IAB4 Careers
+jobs software test engineer (tester),0.85,IAB4 Careers
+jobs solution architect,0.85,IAB4 Careers
+jobs support technician (help desk),0.85,IAB4 Careers
+jobs system administrator,0.85,IAB4 Careers
+jobs systems analyst,0.85,IAB4 Careers
+jobs systems architect,0.85,IAB4 Careers
+jobs test engineer,0.85,IAB4 Careers
+jobs user experience designer,0.85,IAB4 Careers
+jobs user interaction designer,0.85,IAB4 Careers
+jobs user researcher,0.85,IAB4 Careers
+jobs video game developer,0.85,IAB4 Careers
+jobs virtual assistant,0.85,IAB4 Careers
+jobs web developer,0.85,IAB4 Careers
+jobs website administrator,0.85,IAB4 Careers
+jobs bureau of labor statistics jobs list database in text,0.85,IAB4 Careers
+careers anesthesiologist,0.85,IAB4 Careers
+careers anesthesiology fellow,0.85,IAB4 Careers
+careers certified registered nurse anesthetist,0.85,IAB4 Careers
+careers registered respiratory therapist,0.85,IAB4 Careers
+careers anesthesiologist assistant,0.85,IAB4 Careers
+careers cardiologist,0.85,IAB4 Careers
+careers cardiology fellow,0.85,IAB4 Careers
+careers cardiologyphysician assistant,0.85,IAB4 Careers
+careers cardiac scientist,0.85,IAB4 Careers
+careers cardiovascular technologist,0.85,IAB4 Careers
+careers intensivist,0.85,IAB4 Careers
+careers neonatologist,0.85,IAB4 Careers
+careers critical care medicinephysician assistant,0.85,IAB4 Careers
+careers critical care nurse practitioner,0.85,IAB4 Careers
+careers critical care registered nurse,0.85,IAB4 Careers
+careers critical care respiratory therapist,0.85,IAB4 Careers
+careers dentist,0.85,IAB4 Careers
+careers dental hygienist,0.85,IAB4 Careers
+careers denturist,0.85,IAB4 Careers
+careers dental assistant,0.85,IAB4 Careers
+careers dental technician,0.85,IAB4 Careers
+careers dermatologist,0.85,IAB4 Careers
+careers dermatologyphysician assistant,0.85,IAB4 Careers
+careers dietitian,0.85,IAB4 Careers
+careers emergency physician,0.85,IAB4 Careers
+careers emergencyphysician assistant,0.85,IAB4 Careers
+careers emergency nurse practitioner,0.85,IAB4 Careers
+careers flight nurse,0.85,IAB4 Careers
+careers certified emergencynursing assistant,0.85,IAB4 Careers
+careers certified emergencyregistered nurse,0.85,IAB4 Careers
+careers certified emergencyregistered respiratory therapist,0.85,IAB4 Careers
+careers emergency medical technician- critical care paramedic,0.85,IAB4 Careers
+careers emergency medical technician- paramedic,0.85,IAB4 Careers
+careers emergency medical technician- intermediate 99,0.85,IAB4 Careers
+careers emergency medical technician- intermediate 85,0.85,IAB4 Careers
+careers emergency medical technician- basic,0.85,IAB4 Careers
+careers endocrinologist,0.85,IAB4 Careers
+careers endocrinologyphysician assistant,0.85,IAB4 Careers
+careers gastroenterologist,0.85,IAB4 Careers
+careers gastroenterologyphysician assistant,0.85,IAB4 Careers
+careers genetic counselor/counsellor,0.85,IAB4 Careers
+careers geriatrician,0.85,IAB4 Careers
+careers geriatric medicinephysician assistant,0.85,IAB4 Careers
+careers gerontological nurse practitioner,0.85,IAB4 Careers
+careers occupational therapist,0.85,IAB4 Careers
+careers haematologist,0.85,IAB4 Careers
+careers haematologyphysician assistant,0.85,IAB4 Careers
+careers medical laboratory technician,0.85,IAB4 Careers
+careers phlebotomist,0.85,IAB4 Careers
+careers nephrologist,0.85,IAB4 Careers
+careers nephrologyphysician assistant,0.85,IAB4 Careers
+careers dialysis technician,0.85,IAB4 Careers
+careers neurologist,0.85,IAB4 Careers
+careers neurologyphysician assistant,0.85,IAB4 Careers
+careers speech language pathologist,0.85,IAB4 Careers
+careers audiologist,0.85,IAB4 Careers
+careers neuropsychologist,0.85,IAB4 Careers
+careers neurodiagnostic technologist,0.85,IAB4 Careers
+careers oncologist,0.85,IAB4 Careers
+careers oncologyphysician assistant,0.85,IAB4 Careers
+careers radiation therapist,0.85,IAB4 Careers
+careers medical physicist,0.85,IAB4 Careers
+careers ophthalmologist,0.85,IAB4 Careers
+careers eye surgery,0.85,IAB4 Careers
+careers optometrist,0.85,IAB4 Careers
+careers occupational therapist- low vision rehab,0.85,IAB4 Careers
+"careers otolaryngologist(ear, nose and throat physician)",0.85,IAB4 Careers
+careers otorhinolaryngologyphysician assistant,0.85,IAB4 Careers
+careers healthcare chaplain,0.85,IAB4 Careers
+careers pathologist,0.85,IAB4 Careers
+careers pulmonologist,0.85,IAB4 Careers
+careers pulmonology/respirologyphysician assistant,0.85,IAB4 Careers
+careers community health centerclinician,0.85,IAB4 Careers
+careers general practitioner,0.85,IAB4 Careers
+careers primary care physician,0.85,IAB4 Careers
+careers internist,0.85,IAB4 Careers
+careers physician assistant,0.85,IAB4 Careers
+careers family nurse practitioner,0.85,IAB4 Careers
+careers pharmacist,0.85,IAB4 Careers
+careers pediatrician,0.85,IAB4 Careers
+careers pediatric physician assistant,0.85,IAB4 Careers
+careers neonatal nurse practitioner,0.85,IAB4 Careers
+careers pediatric nurse practitioner,0.85,IAB4 Careers
+careers occupational therapist- neonatal/ pediatric,0.85,IAB4 Careers
+careers pediatric nurse,0.85,IAB4 Careers
+careers pediatric respiratory therapist,0.85,IAB4 Careers
+careers pharmacy technician,0.85,IAB4 Careers
+careers podiatric surgeon,0.85,IAB4 Careers
+careers doctor of podiatric medicine,0.85,IAB4 Careers
+careers podiatrist,0.85,IAB4 Careers
+careers chiropodist,0.85,IAB4 Careers
+careers psychiatrist,0.85,IAB4 Careers
+careers psychiatryphysician assistant,0.85,IAB4 Careers
+careers psychologist,0.85,IAB4 Careers
+careers psychiatric nurse practitioner,0.85,IAB4 Careers
+careers mental health nurse practitioner,0.85,IAB4 Careers
+careers social worker,0.85,IAB4 Careers
+careers mental health counselor,0.85,IAB4 Careers
+careers community health worker,0.85,IAB4 Careers
+careers medical officer of health,0.85,IAB4 Careers
+careers environmental health officer,0.85,IAB4 Careers
+careers epidemiologist,0.85,IAB4 Careers
+careers public health nurse,0.85,IAB4 Careers
+careers orthopedic physician,0.85,IAB4 Careers
+careers orthopaedic physician´s assistant,0.85,IAB4 Careers
+careers sport psychologist,0.85,IAB4 Careers
+careers physical therapist,0.85,IAB4 Careers
+careers physical therapy assistant,0.85,IAB4 Careers
+careers occupational therapy assistant,0.85,IAB4 Careers
+careers orthopaedic technologistor prosthetist & orthotist,0.85,IAB4 Careers
+careers chiropractor,0.85,IAB4 Careers
+careers biokineticist,0.85,IAB4 Careers
+careers athletic trainer,0.85,IAB4 Careers
+careers yoga instructor,0.85,IAB4 Careers
+careers massagetherapist,0.85,IAB4 Careers
+careers radiologist,0.85,IAB4 Careers
+careers radiologyphysician assistant,0.85,IAB4 Careers
+"careers radiotherapist, also known as aradiation therapistortherapeutic radiographer",0.85,IAB4 Careers
+"careers radiographer, also known as aradiologic technologistct radiographerinterventional radiographermammographerneuroradiographermedical dosimetry technologistradiologist practitioner assistantreporting radiographersonographer",0.85,IAB4 Careers
+careers ct radiographer,0.85,IAB4 Careers
+careers interventional radiographer,0.85,IAB4 Careers
+careers mammographer,0.85,IAB4 Careers
+careers neuroradiographer,0.85,IAB4 Careers
+careers medical dosimetry technologist,0.85,IAB4 Careers
+careers radiologist practitioner assistant,0.85,IAB4 Careers
+careers reporting radiographer,0.85,IAB4 Careers
+careers sonographer,0.85,IAB4 Careers
+careers obstetrician,0.85,IAB4 Careers
+careers gynaecologist,0.85,IAB4 Careers
+careers ob/gynphysician assistant,0.85,IAB4 Careers
+careers women's health nurse practitioner,0.85,IAB4 Careers
+careers nurse-midwife,0.85,IAB4 Careers
+careers midwife,0.85,IAB4 Careers
+careers lactation consultant,0.85,IAB4 Careers
+careers general doctor,0.85,IAB4 Careers
+careers bariatric surgeon,0.85,IAB4 Careers
+careers cardiothoracic surgeon,0.85,IAB4 Careers
+careers cardiac surgeon,0.85,IAB4 Careers
+careers hepatic biliary pancreatic surgeon,0.85,IAB4 Careers
+careers neurosurgeon,0.85,IAB4 Careers
+careers surgeryphysician assistant,0.85,IAB4 Careers
+careers urologist,0.85,IAB4 Careers
+careers urologyphysician assistant,0.85,IAB4 Careers
+careers media related tohealthcare occupationsat wikimedia commons,0.85,IAB4 Careers
+works biologist,0.85,IAB4 Careers
+works botanist,0.85,IAB4 Careers
+works clinical pharmaceutical scientist,0.85,IAB4 Careers
+works ecologist,0.85,IAB4 Careers
+works geneticist,0.85,IAB4 Careers
+works herpetologist,0.85,IAB4 Careers
+works medical laboratory scientist,0.85,IAB4 Careers
+works microbiologist,0.85,IAB4 Careers
+works neuroscientist,0.85,IAB4 Careers
+works physician,0.85,IAB4 Careers
+works veterinarian,0.85,IAB4 Careers
+works zoologist,0.85,IAB4 Careers
+works aeronautical engineer,0.85,IAB4 Careers
+"works biomedical 
+ engineer",0.85,IAB4 Careers
+works chemical engineer,0.85,IAB4 Careers
+works civil engineer,0.85,IAB4 Careers
+works computer engineer,0.85,IAB4 Careers
+works electrical engineer,0.85,IAB4 Careers
+works engineering technician,0.85,IAB4 Careers
+works engineering technologist,0.85,IAB4 Careers
+works mechanical engineer,0.85,IAB4 Careers
+works petrochemicalengineer,0.85,IAB4 Careers
+works computational scientist,0.85,IAB4 Careers
+works actuary,0.85,IAB4 Careers
+works demographic marketer,0.85,IAB4 Careers
+works statistician,0.85,IAB4 Careers
+works government scientist,0.85,IAB4 Careers
+works healthcare science,0.85,IAB4 Careers
+"works hiwi–  a german abbreviation for ""assistant scientist""",0.85,IAB4 Careers
+works inventor,0.85,IAB4 Careers
+works psychologist,0.85,IAB4 Careers
+works research fellow,0.85,IAB4 Careers
+works school science technician,0.85,IAB4 Careers
+works archaeologist,0.85,IAB4 Careers
+works astronaut,0.85,IAB4 Careers
+works astronomer,0.85,IAB4 Careers
+works biochemist,0.85,IAB4 Careers
+works chemist,0.85,IAB4 Careers
+works forester,0.85,IAB4 Careers
+works geographer,0.85,IAB4 Careers
+works naturalist,0.85,IAB4 Careers
+works oceanographer,0.85,IAB4 Careers
+works paleontologist,0.85,IAB4 Careers
+works pathologist,0.85,IAB4 Careers
+works geologist,0.85,IAB4 Careers
+works geoprofessions,0.85,IAB4 Careers
+works petroleum geologist,0.85,IAB4 Careers
+works anthropologist,0.85,IAB4 Careers
+works economist,0.85,IAB4 Careers
+works historian,0.85,IAB4 Careers
+works linguist,0.85,IAB4 Careers
+works political scientist,0.85,IAB4 Careers
+works sociologist,0.85,IAB4 Careers
+works urban planner,0.85,IAB4 Careers
+works science portal,0.85,IAB4 Careers
+works lists of occupations,0.85,IAB4 Careers

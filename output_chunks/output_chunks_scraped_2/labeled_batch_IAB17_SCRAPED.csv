@@ -1,0 +1,98 @@
+text,confidence,iab_label
+sport breakdancing,0.85,IAB17 Sports
+sport color guard (flag spinning),0.85,IAB17 Sports
+sport dancing,0.85,IAB17 Sports
+sport cheerleading,0.85,IAB17 Sports
+sport dancesport,0.85,IAB17 Sports
+sport dragon danceandlion dance,0.85,IAB17 Sports
+sport figure skating,0.85,IAB17 Sports
+sport freerunning,0.85,IAB17 Sports
+sport high kick,0.85,IAB17 Sports
+sport paragliding,0.85,IAB17 Sports
+sport parkour,0.85,IAB17 Sports
+sport pole sports,0.85,IAB17 Sports
+sport quadrobics,0.85,IAB17 Sports
+sport stunt,0.85,IAB17 Sports
+sport trampolining,0.85,IAB17 Sports
+sport aerobatics,0.85,IAB17 Sports
+sport air racingcluster ballooninghopper ballooningdrone racing,0.85,IAB17 Sports
+sport cluster ballooning,0.85,IAB17 Sports
+sport hopper ballooning,0.85,IAB17 Sports
+sport drone racing,0.85,IAB17 Sports
+sport gliding,0.85,IAB17 Sports
+sport hang glidingpowered hang glider,0.85,IAB17 Sports
+sport human-powered aircraft,0.85,IAB17 Sports
+sport model aircraft,0.85,IAB17 Sports
+sport parachutingbase jumpingskysurfingwingsuit flyingbodyflight(indoor skydiving),0.85,IAB17 Sports
+sport paraglidingpowered paragliding(paramotoring),0.85,IAB17 Sports
+sport ultralight aviation,0.85,IAB17 Sports
+sport powered hang glider,0.85,IAB17 Sports
+sport base jumping,0.85,IAB17 Sports
+sport skysurfing,0.85,IAB17 Sports
+sport wingsuit flying,0.85,IAB17 Sports
+sport bodyflight(indoor skydiving),0.85,IAB17 Sports
+sport powered paragliding(paramotoring),0.85,IAB17 Sports
+sport bull-leapingcourse landaisejallikatturecortes,0.85,IAB17 Sports
+sport bullfightingspanish-style bullfighting,0.85,IAB17 Sports
+sport combat de reines,0.85,IAB17 Sports
+sport idi probak,0.85,IAB17 Sports
+sport kambala,0.85,IAB17 Sports
+sport pacu jawi,0.85,IAB17 Sports
+sport running of the bulls,0.85,IAB17 Sports
+sport tōgyū,0.85,IAB17 Sports
+sport yak polo,0.85,IAB17 Sports
+sport yak racing,0.85,IAB17 Sports
+sport yak skiing,0.85,IAB17 Sports
+sport course landaise,0.85,IAB17 Sports
+sport jallikattu,0.85,IAB17 Sports
+sport recortes,0.85,IAB17 Sports
+sport spanish-style bullfighting,0.85,IAB17 Sports
+sport buzkashi,0.85,IAB17 Sports
+sport barrel racing,0.85,IAB17 Sports
+sport campdrafting,0.85,IAB17 Sports
+sport cirit,0.85,IAB17 Sports
+sport charreada,0.85,IAB17 Sports
+sport chilean rodeo,0.85,IAB17 Sports
+sport chuckwagon racing,0.85,IAB17 Sports
+sport cross country,0.85,IAB17 Sports
+sport cutting,0.85,IAB17 Sports
+sport dressage,0.85,IAB17 Sports
+sport endurance riding,0.85,IAB17 Sports
+sport english pleasure,0.85,IAB17 Sports
+sport equitation,0.85,IAB17 Sports
+sport eventing,0.85,IAB17 Sports
+sport equestrian vaulting,0.85,IAB17 Sports
+sport gymkhana,0.85,IAB17 Sports
+sport harness racing,0.85,IAB17 Sports
+sport hobby horse polo,0.85,IAB17 Sports
+sport trick riding,0.85,IAB17 Sports
+sport horse racing,0.85,IAB17 Sports
+"sport horse polo, orpolo",0.85,IAB17 Sports
+sport horseball,0.85,IAB17 Sports
+sport jineteada gaucha,0.85,IAB17 Sports
+sport jousting,0.85,IAB17 Sports
+sport mounted games,0.85,IAB17 Sports
+sport mounted archery,0.85,IAB17 Sports
+sport organized horse fighting,0.85,IAB17 Sports
+sport pato,0.85,IAB17 Sports
+sport pleasure driving,0.85,IAB17 Sports
+sport reining,0.85,IAB17 Sports
+sport rodeo,0.85,IAB17 Sports
+sport show hunter(british),0.85,IAB17 Sports
+sport show jumping,0.85,IAB17 Sports
+sport steeplechase,0.85,IAB17 Sports
+sport sur-papakh,0.85,IAB17 Sports
+sport team penning,0.85,IAB17 Sports
+sport tent pegging,0.85,IAB17 Sports
+sport western pleasure,0.85,IAB17 Sports
+sport angling,0.85,IAB17 Sports
+sport big-game fishing,0.85,IAB17 Sports
+sport casting,0.85,IAB17 Sports
+sport noodling,0.85,IAB17 Sports
+sport spearfishing,0.85,IAB17 Sports
+sport sport fishing,0.85,IAB17 Sports
+sport surf fishing,0.85,IAB17 Sports
+sport rock fishing,0.85,IAB17 Sports
+sport fly fishing,0.85,IAB17 Sports
+sport ice fishing,0.85,IAB17 Sports
+sport bass fishing,0.85,IAB17 Sports

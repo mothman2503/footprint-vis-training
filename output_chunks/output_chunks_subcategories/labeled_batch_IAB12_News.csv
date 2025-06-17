@@ -1,0 +1,4 @@
+text,iab_label,confidence
+International News,IAB12 News,0.95
+National News,IAB12 News,0.95
+Local News,IAB12 News,0.95

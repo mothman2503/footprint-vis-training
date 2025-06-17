@@ -28,10 +28,12 @@ for file, folder in batch_files:
     # Determine source based on folder name
     if folder.startswith("output_chunks/output_chunks_synthetic"):
         df["source"] = "synthetic"
-    elif folder.startswith("output_chunks/output_chunks_natural"):
-        df["source"] = "natural"
-    elif folder.startswith("output_chunks/output_chunks_manual"):
-        df["source"] = "manual"
+    elif folder.startswith("output_chunks/output_chunks_pseudo_labeled"):
+        df["source"] = "pseudo labeled"
+    elif folder.startswith("output_chunks/output_chunks_scraped"):
+        df["source"] = "scraped"
+    elif folder.startswith("output_chunks/output_chunks_subcategories"):
+        df["source"] = "subcategories"
     else:
         df["source"] = "unknown"  # fallback (safe guard)
     

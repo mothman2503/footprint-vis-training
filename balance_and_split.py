@@ -1,5 +1,7 @@
+
 import pandas as pd
 import numpy as np
+import re
 import os
 from sklearn.model_selection import train_test_split
 
@@ -9,7 +11,7 @@ OUTPUT_FOLDER = "balanced_split_output"
 CLASS_FOLDER = os.path.join(OUTPUT_FOLDER, "classes")
 MISSING_FOLDER = os.path.join(OUTPUT_FOLDER, "missing_classes")
 MAX_SAMPLES_PER_CLASS = 2000
-CONFIDENCE_THRESHOLD = 0.45
+CONFIDENCE_THRESHOLD = 0.2
 
 # Load full dataset
 df_all = pd.read_csv(INPUT_FILE)
@@ -48,7 +50,7 @@ print(f"\n🔍 Saving low-confidence 'missing' samples for underrepresented clas
 class_counts = balanced_df["iab_label"].value_counts()
 for label in class_counts.index:
     current_count = class_counts[label]
-    missing_count = (MAX_SAMPLES_PER_CLASS - current_count)*2
+    missing_count = (MAX_SAMPLES_PER_CLASS - current_count) * 2
     if missing_count > 0:
         missing_candidates = df_low_conf[df_low_conf["iab_label"] == label]
         if not missing_candidates.empty:
@@ -80,19 +82,28 @@ print(f"\n✅ Saved splits: train ({len(train_df)}), val ({len(val_df)}), test (
 
 # Generate metadata
 def generate_metadata(df, filename):
+
+
     source_exists = "source" in df.columns
     if source_exists:
         meta = df.groupby("iab_label").agg(
             num_samples=("text", "count"),
             avg_confidence=("confidence", "mean"),
             num_synthetic=("source", lambda x: (x == "synthetic").sum()),
-            num_natural=("source", lambda x: (x == "natural").sum()),
-            num_manual=("source", lambda x: (x == "manual").sum())
+            num_pseudo_labeled=("source", lambda x: (x == "pseudo labeled").sum()),
+            num_scraped=("source", lambda x: (x == "scraped").sum()),
+            num_subcategories=("source", lambda x: (x == "subcategories").sum())
         ).reset_index()
 
         meta["pct_synthetic"] = (meta["num_synthetic"] / meta["num_samples"]).round(3)
-        meta["pct_natural"] = (meta["num_natural"] / meta["num_samples"]).round(3)
-        meta["pct_manual"] = (meta["num_manual"] / meta["num_samples"]).round(3)
+        meta["pct_pseudo_labeled"] = (meta["num_pseudo_labeled"] / meta["num_samples"]).round(3)
+        meta["pct_scraped"] = (meta["num_scraped"] / meta["num_samples"]).round(3)
+        meta["pct_subcategories"] = (meta["num_subcategories"] / meta["num_samples"]).round(3)
+
+        meta["Synthetic"] = meta["num_synthetic"]
+        meta["Pseudo Labeled"] = meta["num_pseudo_labeled"]
+        meta["Scraped"] = meta["num_scraped"]
+        meta["Subcategories"] = meta["num_subcategories"]
 
     else:
         print("⚠️ No 'source' column found → skipping source breakdown.")
@@ -101,21 +112,26 @@ def generate_metadata(df, filename):
             avg_confidence=("confidence", "mean")
         ).reset_index()
 
+    # Extract the numeric part of the IAB label and create a temporary sort column
+    meta["iab_number"] = meta["iab_label"].apply(lambda x: int(re.search(r"IAB(\d+)", x).group(1)))
+    # Sort the DataFrame by that number
+    meta = meta.sort_values("iab_number").drop(columns="iab_number")
+
     meta.to_csv(os.path.join(OUTPUT_FOLDER, filename), index=False)
     print(f"📊 Saved: {filename}")
+    return meta
 
-generate_metadata(train_df, "metadata_train.csv")
-generate_metadata(val_df, "metadata_val.csv")
-generate_metadata(test_df, "metadata_test.csv")
-generate_metadata(balanced_df, "metadata_balanced.csv")
+meta_df = generate_metadata(balanced_df, "metadata_balanced.csv")
+# NEW: Print per-class summary including confidence and missing samples
+print("\n📋 Class Summary:")
+print(f"\n{'Status':<6} {'IAB Label':<35} {'Count':>6} {'Confidence':>10}\n____________________________________________________________\n")
+for _, row in meta_df.iterrows():
+    label = row["iab_label"]
+    count = int(row["num_samples"])
+    conf = round(row["avg_confidence"], 3)
+    missing = max(0, 2000 - count)
+    emoji = "✅" if missing == 0 else "⚠️\u200A"
+    print(f"{emoji}     {label:<35} {count:>6} {conf:>10.3f}")
 
-metadata_path = os.path.join(OUTPUT_FOLDER, "metadata_balanced.csv")
-if os.path.exists(metadata_path):
-    meta_df = pd.read_csv(metadata_path)
-    low_conf_classes = meta_df[meta_df["avg_confidence"] < 0.75]
-    if not low_conf_classes.empty:
-        print(f"\n⚠️ WARNING: {len(low_conf_classes)} class(es) have average confidence below 0.75!")
-        print("Classes affected:")
-        print(low_conf_classes[["iab_label", "avg_confidence"]])
-    else:
-        print("\n✅ All classes have average confidence ≥ 0.75.")
+
+    

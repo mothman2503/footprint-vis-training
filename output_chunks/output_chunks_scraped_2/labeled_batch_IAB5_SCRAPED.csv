@@ -1,0 +1,1811 @@
+text,confidence,iab_label
+university algeria,0.85,IAB5 Education
+university angola,0.85,IAB5 Education
+university benin,0.85,IAB5 Education
+university botswana,0.85,IAB5 Education
+university burkina faso,0.85,IAB5 Education
+university burundi,0.85,IAB5 Education
+university cameroon,0.85,IAB5 Education
+university cape verde,0.85,IAB5 Education
+university central african republic,0.85,IAB5 Education
+university chad,0.85,IAB5 Education
+university comoros,0.85,IAB5 Education
+university congo,0.85,IAB5 Education
+university democratic republic of the congo,0.85,IAB5 Education
+university djibouti,0.85,IAB5 Education
+university egypt,0.85,IAB5 Education
+university eritrea,0.85,IAB5 Education
+university ethiopia,0.85,IAB5 Education
+university equatorial guinea,0.85,IAB5 Education
+university eswatini,0.85,IAB5 Education
+university gabon,0.85,IAB5 Education
+university the gambia,0.85,IAB5 Education
+university ghana,0.85,IAB5 Education
+university guinea,0.85,IAB5 Education
+university guinea-bissau,0.85,IAB5 Education
+university ivory coast,0.85,IAB5 Education
+university kenya,0.85,IAB5 Education
+university lesotho,0.85,IAB5 Education
+university liberia,0.85,IAB5 Education
+university libya,0.85,IAB5 Education
+university madagascar,0.85,IAB5 Education
+university malawi,0.85,IAB5 Education
+university mali,0.85,IAB5 Education
+university mauritania,0.85,IAB5 Education
+university mauritius,0.85,IAB5 Education
+university morocco,0.85,IAB5 Education
+university mozambique,0.85,IAB5 Education
+university namibia,0.85,IAB5 Education
+university niger,0.85,IAB5 Education
+university nigeria,0.85,IAB5 Education
+university rwanda,0.85,IAB5 Education
+university são tomé and príncipe,0.85,IAB5 Education
+university senegal,0.85,IAB5 Education
+university seychelles,0.85,IAB5 Education
+university sierra leone,0.85,IAB5 Education
+university somalia,0.85,IAB5 Education
+university somaliland,0.85,IAB5 Education
+university south sudan,0.85,IAB5 Education
+university sudan,0.85,IAB5 Education
+university south africa,0.85,IAB5 Education
+university tanzania,0.85,IAB5 Education
+university togo,0.85,IAB5 Education
+university tunisia,0.85,IAB5 Education
+university uganda,0.85,IAB5 Education
+university zambia,0.85,IAB5 Education
+university zimbabwe,0.85,IAB5 Education
+university antigua and barbuda,0.85,IAB5 Education
+university argentina,0.85,IAB5 Education
+university bahamas,0.85,IAB5 Education
+university barbados,0.85,IAB5 Education
+university belize,0.85,IAB5 Education
+university bolivia,0.85,IAB5 Education
+university brazil,0.85,IAB5 Education
+university canada,0.85,IAB5 Education
+university cayman islands,0.85,IAB5 Education
+university chile,0.85,IAB5 Education
+university colombia,0.85,IAB5 Education
+university costa rica,0.85,IAB5 Education
+university cuba,0.85,IAB5 Education
+university dominica,0.85,IAB5 Education
+university dominican republic,0.85,IAB5 Education
+university ecuador,0.85,IAB5 Education
+university el salvador,0.85,IAB5 Education
+university grenada,0.85,IAB5 Education
+university guatemala,0.85,IAB5 Education
+university guyana,0.85,IAB5 Education
+university haiti,0.85,IAB5 Education
+university honduras,0.85,IAB5 Education
+university jamaica,0.85,IAB5 Education
+university mexico,0.85,IAB5 Education
+university nicaragua,0.85,IAB5 Education
+university panama,0.85,IAB5 Education
+university paraguay,0.85,IAB5 Education
+university peru,0.85,IAB5 Education
+university saint kitts and nevis,0.85,IAB5 Education
+university saint vincent and the grenadines,0.85,IAB5 Education
+university suriname,0.85,IAB5 Education
+university trinidad and tobago,0.85,IAB5 Education
+university united states,0.85,IAB5 Education
+university uruguay,0.85,IAB5 Education
+university venezuela,0.85,IAB5 Education
+university afghanistan,0.85,IAB5 Education
+university bahrain,0.85,IAB5 Education
+university bangladesh,0.85,IAB5 Education
+university bhutan,0.85,IAB5 Education
+university brunei,0.85,IAB5 Education
+university cambodia,0.85,IAB5 Education
+university china (mainland),0.85,IAB5 Education
+university east timor,0.85,IAB5 Education
+university hong kong,0.85,IAB5 Education
+university india,0.85,IAB5 Education
+university indonesia,0.85,IAB5 Education
+university iran,0.85,IAB5 Education
+university iraq,0.85,IAB5 Education
+university israel,0.85,IAB5 Education
+university japan,0.85,IAB5 Education
+university jordan,0.85,IAB5 Education
+university kazakhstan,0.85,IAB5 Education
+university kuwait,0.85,IAB5 Education
+university kyrgyzstan,0.85,IAB5 Education
+university laos,0.85,IAB5 Education
+university lebanon,0.85,IAB5 Education
+university malaysia,0.85,IAB5 Education
+university macau,0.85,IAB5 Education
+university mongolia,0.85,IAB5 Education
+university myanmar,0.85,IAB5 Education
+university nepal,0.85,IAB5 Education
+university north korea,0.85,IAB5 Education
+university oman,0.85,IAB5 Education
+university pakistan,0.85,IAB5 Education
+university palestine,0.85,IAB5 Education
+university philippines,0.85,IAB5 Education
+university qatar,0.85,IAB5 Education
+university saudi arabia,0.85,IAB5 Education
+university singapore,0.85,IAB5 Education
+university south korea,0.85,IAB5 Education
+university sri lanka,0.85,IAB5 Education
+university syria,0.85,IAB5 Education
+university taiwan,0.85,IAB5 Education
+university tajikistan,0.85,IAB5 Education
+university thailand,0.85,IAB5 Education
+university turkmenistan,0.85,IAB5 Education
+university united arab emirates,0.85,IAB5 Education
+university uzbekistan,0.85,IAB5 Education
+university vietnam,0.85,IAB5 Education
+university yemen,0.85,IAB5 Education
+university albania,0.85,IAB5 Education
+university andorra,0.85,IAB5 Education
+university armenia,0.85,IAB5 Education
+university austria,0.85,IAB5 Education
+university azerbaijan,0.85,IAB5 Education
+university belarus,0.85,IAB5 Education
+university belgium,0.85,IAB5 Education
+university bosnia and herzegovina,0.85,IAB5 Education
+university bulgaria,0.85,IAB5 Education
+university croatia,0.85,IAB5 Education
+university cyprus,0.85,IAB5 Education
+university czech republic,0.85,IAB5 Education
+university denmarkfaroe islandsgreenland,0.85,IAB5 Education
+university estonia,0.85,IAB5 Education
+university finland,0.85,IAB5 Education
+university france,0.85,IAB5 Education
+university georgia,0.85,IAB5 Education
+university germany,0.85,IAB5 Education
+university gibraltar,0.85,IAB5 Education
+university greece,0.85,IAB5 Education
+university hungary,0.85,IAB5 Education
+university iceland,0.85,IAB5 Education
+university ireland,0.85,IAB5 Education
+university italy,0.85,IAB5 Education
+university kosovo,0.85,IAB5 Education
+university latvia,0.85,IAB5 Education
+university liechtenstein,0.85,IAB5 Education
+university lithuania,0.85,IAB5 Education
+university luxembourg,0.85,IAB5 Education
+university malta,0.85,IAB5 Education
+university moldova,0.85,IAB5 Education
+university monaco,0.85,IAB5 Education
+university montenegro,0.85,IAB5 Education
+university netherlands,0.85,IAB5 Education
+university northern cyprus,0.85,IAB5 Education
+university north macedonia,0.85,IAB5 Education
+university norway,0.85,IAB5 Education
+university poland,0.85,IAB5 Education
+university portugal,0.85,IAB5 Education
+university romania,0.85,IAB5 Education
+university russia,0.85,IAB5 Education
+university san marino,0.85,IAB5 Education
+university serbia,0.85,IAB5 Education
+university slovakia,0.85,IAB5 Education
+university slovenia,0.85,IAB5 Education
+university spain,0.85,IAB5 Education
+university sweden,0.85,IAB5 Education
+university switzerland,0.85,IAB5 Education
+university turkey,0.85,IAB5 Education
+university ukraine,0.85,IAB5 Education
+university united kingdom:universities;colleges offering he coursesenglandnorthern irelandscotlandwales,0.85,IAB5 Education
+university vatican city,0.85,IAB5 Education
+university faroe islands,0.85,IAB5 Education
+university greenland,0.85,IAB5 Education
+university england,0.85,IAB5 Education
+university northern ireland,0.85,IAB5 Education
+university scotland,0.85,IAB5 Education
+university wales,0.85,IAB5 Education
+university australia,0.85,IAB5 Education
+university cook islands,0.85,IAB5 Education
+university fiji,0.85,IAB5 Education
+university french polynesia,0.85,IAB5 Education
+university new zealand,0.85,IAB5 Education
+university nauru,0.85,IAB5 Education
+university niue,0.85,IAB5 Education
+university palau,0.85,IAB5 Education
+university papua new guinea,0.85,IAB5 Education
+university samoa,0.85,IAB5 Education
+university solomon islands,0.85,IAB5 Education
+university tokelau,0.85,IAB5 Education
+university tonga,0.85,IAB5 Education
+university tuvalu,0.85,IAB5 Education
+university vanuatu,0.85,IAB5 Education
+university wallis and futuna,0.85,IAB5 Education
+university international schools,0.85,IAB5 Education
+university education articles by country,0.85,IAB5 Education
+university for-profit universities and colleges,0.85,IAB5 Education
+university largest universities and university networks by enrollment,0.85,IAB5 Education
+university lists of universities and colleges,0.85,IAB5 Education
+university world universities and colleges,0.85,IAB5 Education
+university university directory worldwide,0.85,IAB5 Education
+university international college database,0.85,IAB5 Education
+university middle ages (pre-1500),0.85,IAB5 Education
+university early modern age (1501–1800),0.85,IAB5 Education
+university late modern age (1801–1945),0.85,IAB5 Education
+university contemporary (post-1945),0.85,IAB5 Education
+university hispanic america (1538–1812),0.85,IAB5 Education
+university spanish philippines (1589–1898),0.85,IAB5 Education
+university thirteen colonies (1636–1769),0.85,IAB5 Education
+university oldest universities in continuous operation,0.85,IAB5 Education
+field canon law,0.85,IAB5 Education
+field church history,0.85,IAB5 Education
+field field ministrypastoral counselingpastoral theologyreligious educationtechniqueshomileticsliturgysacred musicmissiology,0.85,IAB5 Education
+field hermeneutics,0.85,IAB5 Education
+field scriptural study and languagesbiblical hebrewbiblical studies/sacred scriptureclassical arabickoine greeklatinold church slavonicpalivedic sanskrit,0.85,IAB5 Education
+field theology(outline)dogmatic theologyecclesiologysacramental theologysystematic theologychristian ethicshindu ethicsmoral theologyhistorical theology,0.85,IAB5 Education
+field pastoral counseling,0.85,IAB5 Education
+field pastoral theology,0.85,IAB5 Education
+field religious educationtechniques,0.85,IAB5 Education
+field homiletics,0.85,IAB5 Education
+field liturgy,0.85,IAB5 Education
+field sacred music,0.85,IAB5 Education
+field missiology,0.85,IAB5 Education
+field biblical hebrew,0.85,IAB5 Education
+field biblical studies/sacred scripture,0.85,IAB5 Education
+field classical arabic,0.85,IAB5 Education
+field koine greek,0.85,IAB5 Education
+field latin,0.85,IAB5 Education
+field old church slavonic,0.85,IAB5 Education
+field pali,0.85,IAB5 Education
+field vedic sanskrit,0.85,IAB5 Education
+field dogmatic theology,0.85,IAB5 Education
+field ecclesiology,0.85,IAB5 Education
+field sacramental theology,0.85,IAB5 Education
+field systematic theology,0.85,IAB5 Education
+field christian ethics,0.85,IAB5 Education
+field hindu ethics,0.85,IAB5 Education
+field moral theology,0.85,IAB5 Education
+field historical theology,0.85,IAB5 Education
+field anthropological criminology,0.85,IAB5 Education
+field anthropological linguisticssynchronic linguistics(ordescriptive linguistics)diachronic linguistics(orhistorical linguistics)ethnolinguisticssemiotic anthropologysociolinguistics,0.85,IAB5 Education
+field anthrozoology,0.85,IAB5 Education
+field biological anthropologygene-culture coevolutionevolutionary anthropologyforensic anthropologyhuman behavioral ecologyhuman evolutionmedical anthropologymolecular anthropologyneuroanthropologynutritional anthropologypaleoanthropologypopulation geneticsprimatology,0.85,IAB5 Education
+field biocultural anthropology,0.85,IAB5 Education
+field synchronic linguistics(ordescriptive linguistics),0.85,IAB5 Education
+field diachronic linguistics(orhistorical linguistics),0.85,IAB5 Education
+field ethnolinguistics,0.85,IAB5 Education
+field semiotic anthropology,0.85,IAB5 Education
+field sociolinguistics,0.85,IAB5 Education
+field gene-culture coevolution,0.85,IAB5 Education
+field evolutionary anthropology,0.85,IAB5 Education
+field forensic anthropology,0.85,IAB5 Education
+field human behavioral ecology,0.85,IAB5 Education
+field human evolution,0.85,IAB5 Education
+field medical anthropology,0.85,IAB5 Education
+field molecular anthropology,0.85,IAB5 Education
+field neuroanthropology,0.85,IAB5 Education
+field nutritional anthropology,0.85,IAB5 Education
+field paleoanthropology,0.85,IAB5 Education
+field population genetics,0.85,IAB5 Education
+field primatology,0.85,IAB5 Education
+field cultural anthropologyanthropology of developmentanthropology of religionapplied anthropologycognitive anthropologycyborg anthropologydigital anthropologydigital cultureecological anthropologyeconomic anthropologyenvironmental anthropologyethnobiologyethnobotanyethnographyethnohistoryethnologyethnomuseologyethnomusicologyfeminist anthropologyfolklorekinshiplegal anthropologymythologymissiologypolitical anthropologypolitical economic anthropologypsychological anthropologypublic anthropologysymbolic anthropologytranspersonal anthropologyurban anthropology,0.85,IAB5 Education
+field linguistic anthropology,0.85,IAB5 Education
+field social anthropologyanthropology of artanthropology of institutionsanthropology of mediavisual anthropology,0.85,IAB5 Education
+field anthropology of development,0.85,IAB5 Education
+field anthropology of religion,0.85,IAB5 Education
+field applied anthropology,0.85,IAB5 Education
+field cognitive anthropology,0.85,IAB5 Education
+field cyborg anthropology,0.85,IAB5 Education
+field digital anthropology,0.85,IAB5 Education
+field digital culture,0.85,IAB5 Education
+field ecological anthropology,0.85,IAB5 Education
+field economic anthropology,0.85,IAB5 Education
+field environmental anthropology,0.85,IAB5 Education
+field ethnobiology,0.85,IAB5 Education
+field ethnobotany,0.85,IAB5 Education
+field ethnography,0.85,IAB5 Education
+field ethnohistory,0.85,IAB5 Education
+field ethnology,0.85,IAB5 Education
+field ethnomuseology,0.85,IAB5 Education
+field ethnomusicology,0.85,IAB5 Education
+field feminist anthropology,0.85,IAB5 Education
+field folklore,0.85,IAB5 Education
+field kinship,0.85,IAB5 Education
+field legal anthropology,0.85,IAB5 Education
+field mythology,0.85,IAB5 Education
+field political anthropology,0.85,IAB5 Education
+field political economic anthropology,0.85,IAB5 Education
+field psychological anthropology,0.85,IAB5 Education
+field public anthropology,0.85,IAB5 Education
+field symbolic anthropology,0.85,IAB5 Education
+field transpersonal anthropology,0.85,IAB5 Education
+field urban anthropology,0.85,IAB5 Education
+field anthropology of art,0.85,IAB5 Education
+field anthropology of institutions,0.85,IAB5 Education
+field anthropology of media,0.85,IAB5 Education
+field visual anthropology,0.85,IAB5 Education
+field aerial archaeology,0.85,IAB5 Education
+field aviation archaeology,0.85,IAB5 Education
+field anthracology,0.85,IAB5 Education
+field archaeo-optics,0.85,IAB5 Education
+field archaeoacoustics,0.85,IAB5 Education
+field archaeoastronomy,0.85,IAB5 Education
+field archaeogeography,0.85,IAB5 Education
+field archaeological culture,0.85,IAB5 Education
+field archaeological theorygreat ages archaeologyfunctionalismprocessualismpost-processualismcognitive archaeologygender archaeologyfeminist archaeology,0.85,IAB5 Education
+field archaeometryarchaeogeneticsbioarchaeologycomputational archaeologydendrochronologygeoarchaeologyisotope analysispalynologyradiocarbon datingzooarchaeology,0.85,IAB5 Education
+field archaeology of religion and ritual,0.85,IAB5 Education
+field archaeology of trade,0.85,IAB5 Education
+field archaeomythology,0.85,IAB5 Education
+field architectural analytics,0.85,IAB5 Education
+field battlefield archaeology,0.85,IAB5 Education
+field calceology,0.85,IAB5 Education
+field conflict archaeology,0.85,IAB5 Education
+field data archaeology,0.85,IAB5 Education
+field digital archaeology,0.85,IAB5 Education
+field experimental archaeology,0.85,IAB5 Education
+field environmental archaeology,0.85,IAB5 Education
+field ethnoarchaeology,0.85,IAB5 Education
+field forensic archaeology,0.85,IAB5 Education
+field glyptology,0.85,IAB5 Education
+field history of archaeology,0.85,IAB5 Education
+field household archaeology,0.85,IAB5 Education
+field landscape archaeologyandlandscape history,0.85,IAB5 Education
+field manuscriptology,0.85,IAB5 Education
+field maritime archaeology,0.85,IAB5 Education
+field media archaeology,0.85,IAB5 Education
+field modern archaeologysettlement archaeology,0.85,IAB5 Education
+field music archaeology,0.85,IAB5 Education
+field osteology,0.85,IAB5 Education
+field palaeoarchaeology,0.85,IAB5 Education
+field paleoethnobotany,0.85,IAB5 Education
+field paleopathology,0.85,IAB5 Education
+field paleoradiology,0.85,IAB5 Education
+field taphonomy,0.85,IAB5 Education
+field urban archaeology,0.85,IAB5 Education
+field historical archaeologyprehistoric archaeologyprotohistoric archaeologybiblical archaeologyclassical archaeologyegyptologyassyriologyetruscologynear eastern archaeologymedieval archaeologypost-medieval archaeologyindustrial archaeologycontemporary archaeology,0.85,IAB5 Education
+field great ages archaeology,0.85,IAB5 Education
+field functionalism,0.85,IAB5 Education
+field processualism,0.85,IAB5 Education
+field post-processualism,0.85,IAB5 Education
+field cognitive archaeology,0.85,IAB5 Education
+field gender archaeology,0.85,IAB5 Education
+field feminist archaeology,0.85,IAB5 Education
+field archaeogenetics,0.85,IAB5 Education
+field bioarchaeology,0.85,IAB5 Education
+field computational archaeology,0.85,IAB5 Education
+field dendrochronology,0.85,IAB5 Education
+field geoarchaeology,0.85,IAB5 Education
+field isotope analysis,0.85,IAB5 Education
+field palynology,0.85,IAB5 Education
+field radiocarbon dating,0.85,IAB5 Education
+field zooarchaeology,0.85,IAB5 Education
+field settlement archaeology,0.85,IAB5 Education
+field prehistoric archaeology,0.85,IAB5 Education
+field protohistoric archaeology,0.85,IAB5 Education
+field biblical archaeology,0.85,IAB5 Education
+field classical archaeology,0.85,IAB5 Education
+field egyptology,0.85,IAB5 Education
+field assyriology,0.85,IAB5 Education
+field etruscology,0.85,IAB5 Education
+field near eastern archaeology,0.85,IAB5 Education
+field medieval archaeology,0.85,IAB5 Education
+field post-medieval archaeology,0.85,IAB5 Education
+field industrial archaeology,0.85,IAB5 Education
+field contemporary archaeology,0.85,IAB5 Education
+field african historysouth african historyegyptian historyeast and central african historynigerian history,0.85,IAB5 Education
+field pan-american historynorth american historyamerican historycanadian historymexican historycuban historysouth american historylatin american historybrazilian historycolombian historyvenezuelan historyperuvian historyargentine historypre-columbian eramayan historyaztec historyinca historymississippian culture,0.85,IAB5 Education
+field ancient historyancient greek history(outline)ancient roman history(outline)history of the roman republichistory of the roman empireancient egyptian history(outline)ancient chinese history(outline)ancient middle eastern history,0.85,IAB5 Education
+field asian historychinese historyjapanese historykorean historymongolian historyindian history(outline)turkish historyiranian historyphilippine historyindonesian history,0.85,IAB5 Education
+field european historybritish historyfrench historygerman historydutch historyitalian historyspanish historyportuguese historypolish historybalkan historyscandinavian historyswedish historynorwegian historydanish historyfinnish historyicelandic historyrussian history,0.85,IAB5 Education
+field australian history,0.85,IAB5 Education
+field economic history,0.85,IAB5 Education
+field environmental history,0.85,IAB5 Education
+field intellectual history,0.85,IAB5 Education
+field modern history,0.85,IAB5 Education
+field political history,0.85,IAB5 Education
+field scientific history,0.85,IAB5 Education
+field technological history,0.85,IAB5 Education
+field world history,0.85,IAB5 Education
+field public history,0.85,IAB5 Education
+field south african history,0.85,IAB5 Education
+field egyptian history,0.85,IAB5 Education
+field east and central african history,0.85,IAB5 Education
+field nigerian history,0.85,IAB5 Education
+field north american historyamerican historycanadian historymexican historycuban history,0.85,IAB5 Education
+field south american historylatin american historybrazilian historycolombian historyvenezuelan historyperuvian historyargentine history,0.85,IAB5 Education
+field pre-columbian eramayan historyaztec historyinca historymississippian culture,0.85,IAB5 Education
+field american history,0.85,IAB5 Education
+field canadian history,0.85,IAB5 Education
+field mexican history,0.85,IAB5 Education
+field cuban history,0.85,IAB5 Education
+field latin american history,0.85,IAB5 Education
+field brazilian history,0.85,IAB5 Education
+field colombian history,0.85,IAB5 Education
+field venezuelan history,0.85,IAB5 Education
+field peruvian history,0.85,IAB5 Education
+field argentine history,0.85,IAB5 Education
+field mayan history,0.85,IAB5 Education
+field aztec history,0.85,IAB5 Education
+field inca history,0.85,IAB5 Education
+field mississippian culture,0.85,IAB5 Education
+field ancient greek history(outline),0.85,IAB5 Education
+field ancient roman history(outline)history of the roman republichistory of the roman empire,0.85,IAB5 Education
+field ancient egyptian history(outline),0.85,IAB5 Education
+field ancient chinese history(outline),0.85,IAB5 Education
+field ancient middle eastern history,0.85,IAB5 Education
+field history of the roman republic,0.85,IAB5 Education
+field history of the roman empire,0.85,IAB5 Education
+field chinese history,0.85,IAB5 Education
+field japanese history,0.85,IAB5 Education
+field korean history,0.85,IAB5 Education
+field mongolian history,0.85,IAB5 Education
+field indian history(outline),0.85,IAB5 Education
+field turkish history,0.85,IAB5 Education
+field iranian history,0.85,IAB5 Education
+field philippine history,0.85,IAB5 Education
+field indonesian history,0.85,IAB5 Education
+field british history,0.85,IAB5 Education
+field french history,0.85,IAB5 Education
+field german history,0.85,IAB5 Education
+field dutch history,0.85,IAB5 Education
+field italian history,0.85,IAB5 Education
+field spanish history,0.85,IAB5 Education
+field portuguese history,0.85,IAB5 Education
+field polish history,0.85,IAB5 Education
+field balkan history,0.85,IAB5 Education
+field scandinavian historyswedish historynorwegian historydanish historyfinnish historyicelandic history,0.85,IAB5 Education
+field russian history,0.85,IAB5 Education
+field swedish history,0.85,IAB5 Education
+field norwegian history,0.85,IAB5 Education
+field danish history,0.85,IAB5 Education
+field finnish history,0.85,IAB5 Education
+field icelandic history,0.85,IAB5 Education
+field classics(outline),0.85,IAB5 Education
+field languagesbusiness englishclassical languagemodern languagestandard englishworld englishes,0.85,IAB5 Education
+field applied linguistics,0.85,IAB5 Education
+field comics studies,0.85,IAB5 Education
+field composition studies,0.85,IAB5 Education
+field computational linguistics,0.85,IAB5 Education
+field discourse analysis,0.85,IAB5 Education
+field english studies,0.85,IAB5 Education
+field etymology,0.85,IAB5 Education
+field grammar,0.85,IAB5 Education
+field historical linguistics,0.85,IAB5 Education
+field history of linguistics,0.85,IAB5 Education
+field interlinguistics,0.85,IAB5 Education
+field lexicology,0.85,IAB5 Education
+field linguistic typology,0.85,IAB5 Education
+field morphology,0.85,IAB5 Education
+field natural language processing,0.85,IAB5 Education
+field philosophy of language,0.85,IAB5 Education
+field philosophy of linguistics,0.85,IAB5 Education
+field linguistic philosophy,0.85,IAB5 Education
+field philology,0.85,IAB5 Education
+field phonetics,0.85,IAB5 Education
+field phonology,0.85,IAB5 Education
+field pragmatics,0.85,IAB5 Education
+field psycholinguistics,0.85,IAB5 Education
+field semantics,0.85,IAB5 Education
+field semiotics(outline),0.85,IAB5 Education
+field syntax,0.85,IAB5 Education
+field terminology science,0.85,IAB5 Education
+field rhetoric,0.85,IAB5 Education
+field usage,0.85,IAB5 Education
+field word usage,0.85,IAB5 Education
+field business english,0.85,IAB5 Education
+field classical language,0.85,IAB5 Education
+field modern language,0.85,IAB5 Education
+field standard english,0.85,IAB5 Education
+field world englishes,0.85,IAB5 Education
+field meta-philosophy,0.85,IAB5 Education
+field metaphysics(outline)ontologyteleologyphilosophy of mindphilosophy of artificial intelligencephilosophy of perceptionphilosophy of painphilosophy of space and timephilosophy of actiondeterminismandfree will,0.85,IAB5 Education
+field epistemology(outline)justificationreasoning errors,0.85,IAB5 Education
+"field ethics(outline)meta-ethicsnormative ethicsvirtue ethicsapplied ethicsanimal rightsbioethicsenvironmental ethicsmoral psychology,descriptive ethics,value theory",0.85,IAB5 Education
+field aesthetics(outline) /philosophy of art,0.85,IAB5 Education
+field social philosophyandpolitical philosophyanarchism(outline)feminist philosophymanosphere schools of gender dynamicslibertarianism(outline)marxism,0.85,IAB5 Education
+field philosophical traditions and schoolsplatonismaristotelianismanalytic philosophycontinental philosophyeastern philosophyfeminist philosophy,0.85,IAB5 Education
+field history of philosophyancient philosophymedieval philosophyscholasticismhumanism(outline)modern philosophycontemporary philosophy,0.85,IAB5 Education
+field logic(outline)philosophical logicmathematical logic,0.85,IAB5 Education
+field applied philosophyphilosophy of educationphilosophy of historyphilosophy of religionphilosophy of languagephilosophy of lawphilosophy of mathematicsphilosophy of musicphilosophy of sciencephilosophy of social sciencephilosophy of physicsphilosophy of biologyphilosophy of chemistryphilosophy of economicsphilosophy of psychologyphilosophy of engineeringsystems philosophy,0.85,IAB5 Education
+field ontology,0.85,IAB5 Education
+field teleology,0.85,IAB5 Education
+field philosophy of mindphilosophy of artificial intelligencephilosophy of perceptionphilosophy of pain,0.85,IAB5 Education
+field philosophy of space and time,0.85,IAB5 Education
+field philosophy of action,0.85,IAB5 Education
+field determinismandfree will,0.85,IAB5 Education
+field philosophy of artificial intelligence,0.85,IAB5 Education
+field philosophy of perception,0.85,IAB5 Education
+field philosophy of pain,0.85,IAB5 Education
+field justification,0.85,IAB5 Education
+field reasoning errors,0.85,IAB5 Education
+field meta-ethics,0.85,IAB5 Education
+field normative ethicsvirtue ethics,0.85,IAB5 Education
+field applied ethicsanimal rightsbioethicsenvironmental ethics,0.85,IAB5 Education
+"field moral psychology,descriptive ethics,value theory",0.85,IAB5 Education
+field virtue ethics,0.85,IAB5 Education
+field animal rights,0.85,IAB5 Education
+field bioethics,0.85,IAB5 Education
+field environmental ethics,0.85,IAB5 Education
+field anarchism(outline),0.85,IAB5 Education
+field feminist philosophy,0.85,IAB5 Education
+field manosphere schools of gender dynamics,0.85,IAB5 Education
+field libertarianism(outline),0.85,IAB5 Education
+field marxism,0.85,IAB5 Education
+field platonism,0.85,IAB5 Education
+field aristotelianism,0.85,IAB5 Education
+field analytic philosophy,0.85,IAB5 Education
+field continental philosophy,0.85,IAB5 Education
+field eastern philosophy,0.85,IAB5 Education
+field ancient philosophy,0.85,IAB5 Education
+field medieval philosophyscholasticismhumanism(outline),0.85,IAB5 Education
+field modern philosophy,0.85,IAB5 Education
+field contemporary philosophy,0.85,IAB5 Education
+field scholasticism,0.85,IAB5 Education
+field humanism(outline),0.85,IAB5 Education
+field philosophical logic,0.85,IAB5 Education
+field mathematical logic,0.85,IAB5 Education
+field philosophy of education,0.85,IAB5 Education
+field philosophy of history,0.85,IAB5 Education
+field philosophy of religion,0.85,IAB5 Education
+field philosophy of law,0.85,IAB5 Education
+field philosophy of mathematics,0.85,IAB5 Education
+field philosophy of music,0.85,IAB5 Education
+field philosophy of sciencephilosophy of social sciencephilosophy of physicsphilosophy of biologyphilosophy of chemistryphilosophy of economicsphilosophy of psychology,0.85,IAB5 Education
+field philosophy of engineering,0.85,IAB5 Education
+field systems philosophy,0.85,IAB5 Education
+field philosophy of social science,0.85,IAB5 Education
+field philosophy of physics,0.85,IAB5 Education
+field philosophy of biology,0.85,IAB5 Education
+field philosophy of chemistry,0.85,IAB5 Education
+field philosophy of economics,0.85,IAB5 Education
+field philosophy of psychology,0.85,IAB5 Education
+field abrahamic religionschristianity(outline)christian theology(outline)islam(outline)/islamic studiesjudaism(outline)/jewish studies,0.85,IAB5 Education
+field apologetics,0.85,IAB5 Education
+field indian religionsbuddhism(outline)/buddhist studieshinduism(outline)jainismsikhism(outline),0.85,IAB5 Education
+field east asian religionschinese folk religionconfucianismshintodaoism(outline)i-kuan taocaodaismchondogyotenrikyooomoto,0.85,IAB5 Education
+field other religionsafrican religionsancient egyptian religionnative american religionsgnosticismoccultesotericismmysticismspiritualitynew religious movementssumerian religionzoroastrianism,0.85,IAB5 Education
+field comparative religion,0.85,IAB5 Education
+field mythologyandfolklore,0.85,IAB5 Education
+field theism,0.85,IAB5 Education
+field irreligionagnosticismatheism(outline) andreligious humanismnontheism,0.85,IAB5 Education
+field christianity(outline)christian theology(outline),0.85,IAB5 Education
+field islam(outline)/islamic studies,0.85,IAB5 Education
+field judaism(outline)/jewish studies,0.85,IAB5 Education
+field christian theology(outline),0.85,IAB5 Education
+field buddhism(outline)/buddhist studies,0.85,IAB5 Education
+field hinduism(outline),0.85,IAB5 Education
+field jainism,0.85,IAB5 Education
+field sikhism(outline),0.85,IAB5 Education
+field chinese folk religion,0.85,IAB5 Education
+field confucianism,0.85,IAB5 Education
+field shinto,0.85,IAB5 Education
+field daoism(outline),0.85,IAB5 Education
+field i-kuan tao,0.85,IAB5 Education
+field caodaism,0.85,IAB5 Education
+field chondogyo,0.85,IAB5 Education
+field tenrikyo,0.85,IAB5 Education
+field oomoto,0.85,IAB5 Education
+field african religions,0.85,IAB5 Education
+field ancient egyptian religion,0.85,IAB5 Education
+field native american religions,0.85,IAB5 Education
+field gnosticism,0.85,IAB5 Education
+field occult,0.85,IAB5 Education
+field esotericism,0.85,IAB5 Education
+field mysticism,0.85,IAB5 Education
+field spirituality,0.85,IAB5 Education
+field new religious movements,0.85,IAB5 Education
+field sumerian religion,0.85,IAB5 Education
+field zoroastrianism,0.85,IAB5 Education
+field agnosticism,0.85,IAB5 Education
+field atheism(outline) andreligious humanism,0.85,IAB5 Education
+field nontheism,0.85,IAB5 Education
+field acquired taste,0.85,IAB5 Education
+field aftertaste,0.85,IAB5 Education
+field appetite,0.85,IAB5 Education
+field artisanal food,0.85,IAB5 Education
+field cooking,0.85,IAB5 Education
+field cuisine,0.85,IAB5 Education
+field culinary arts,0.85,IAB5 Education
+field culinary tourism,0.85,IAB5 Education
+field delicacy,0.85,IAB5 Education
+field diet,0.85,IAB5 Education
+field flavor,0.85,IAB5 Education
+field food choice,0.85,IAB5 Education
+field food pairing,0.85,IAB5 Education
+field food photography,0.85,IAB5 Education
+field food preparation,0.85,IAB5 Education
+field food presentation,0.85,IAB5 Education
+field food safety,0.85,IAB5 Education
+field food security,0.85,IAB5 Education
+field food studies,0.85,IAB5 Education
+field gastronomy,0.85,IAB5 Education
+field gourmet,0.85,IAB5 Education
+field palatability,0.85,IAB5 Education
+field specialty foods,0.85,IAB5 Education
+field traditional food,0.85,IAB5 Education
+field poetry,0.85,IAB5 Education
+field comparative literature,0.85,IAB5 Education
+field english literature,0.85,IAB5 Education
+field world literatureamerican literaturebritish literature,0.85,IAB5 Education
+field history of literaturemedieval literaturepost-colonial literaturepost-modern literature,0.85,IAB5 Education
+field literary theorycritical theory(outline)literary criticismpoeticsrhetoric,0.85,IAB5 Education
+field literary genre,0.85,IAB5 Education
+field creative writingcreative nonfictionfictionwriting(outline)non-fictionwritingliterary journalismpoetryscreenwritingplaywrighting,0.85,IAB5 Education
+field american literature,0.85,IAB5 Education
+field british literature,0.85,IAB5 Education
+field medieval literature,0.85,IAB5 Education
+field post-colonial literature,0.85,IAB5 Education
+field post-modern literature,0.85,IAB5 Education
+field critical theory(outline),0.85,IAB5 Education
+field literary criticism,0.85,IAB5 Education
+field poetics,0.85,IAB5 Education
+field creative nonfiction,0.85,IAB5 Education
+field fictionwriting(outline),0.85,IAB5 Education
+field non-fictionwriting,0.85,IAB5 Education
+field literary journalism,0.85,IAB5 Education
+field screenwriting,0.85,IAB5 Education
+field playwrighting,0.85,IAB5 Education
+"field music(outline)accompanyingchamber musicchurch musicmusical compositionconductingchoral conductingorchestral conductingwind ensemble conductingearly musicjazz studies(outline)music educationmusic historymusic genremusic theorymusicologyhistorical musicologysystematic musicologyethnomusicologyorganologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussionrecordingorchestral studies",0.85,IAB5 Education
+field dance(outline)choreographydance notationethnochoreologyhistory of dance,0.85,IAB5 Education
+field television(outline)television studies,0.85,IAB5 Education
+field theatre(outline)historyactingdirectingstage designpuppetrydramaturgyscenographymusical theatre,0.85,IAB5 Education
+field film(outline)animationlive actionfilmmakingfilm criticismfilm genrefilm studiesfilm theory,0.85,IAB5 Education
+field oral literaturepublic speakingperformance poetryspoken wordstorytelling,0.85,IAB5 Education
+field electronic gamearcade gameaudio gameoutline of video games,0.85,IAB5 Education
+field accompanying,0.85,IAB5 Education
+field chamber music,0.85,IAB5 Education
+field church music,0.85,IAB5 Education
+field musical composition,0.85,IAB5 Education
+field conductingchoral conductingorchestral conductingwind ensemble conducting,0.85,IAB5 Education
+field early music,0.85,IAB5 Education
+field jazz studies(outline),0.85,IAB5 Education
+field music education,0.85,IAB5 Education
+field music history,0.85,IAB5 Education
+field music genre,0.85,IAB5 Education
+field music theory,0.85,IAB5 Education
+field musicologyhistorical musicologysystematic musicology,0.85,IAB5 Education
+"field organologyorganandhistorical keyboardspianostrings,harp,oud, andguitar(outline)singingwoodwinds,brass, andpercussion",0.85,IAB5 Education
+field recording,0.85,IAB5 Education
+field orchestral studies,0.85,IAB5 Education
+field choral conducting,0.85,IAB5 Education
+field orchestral conducting,0.85,IAB5 Education
+field wind ensemble conducting,0.85,IAB5 Education
+field historical musicology,0.85,IAB5 Education
+field systematic musicology,0.85,IAB5 Education
+field organandhistorical keyboards,0.85,IAB5 Education
+field piano,0.85,IAB5 Education
+"field strings,harp,oud, andguitar(outline)",0.85,IAB5 Education
+field singing,0.85,IAB5 Education
+"field woodwinds,brass, andpercussion",0.85,IAB5 Education
+field choreography,0.85,IAB5 Education
+field dance notation,0.85,IAB5 Education
+field ethnochoreology,0.85,IAB5 Education
+field history of dance,0.85,IAB5 Education
+field television studies,0.85,IAB5 Education
+field history,0.85,IAB5 Education
+field acting,0.85,IAB5 Education
+field directing,0.85,IAB5 Education
+field stage design,0.85,IAB5 Education
+field puppetry,0.85,IAB5 Education
+field dramaturgy,0.85,IAB5 Education
+field scenography,0.85,IAB5 Education
+field musical theatre,0.85,IAB5 Education
+field animation,0.85,IAB5 Education
+field live action,0.85,IAB5 Education
+field filmmaking,0.85,IAB5 Education
+field film criticism,0.85,IAB5 Education
+field film genre,0.85,IAB5 Education
+field film studies,0.85,IAB5 Education
+field film theory,0.85,IAB5 Education
+field public speaking,0.85,IAB5 Education
+field performance poetry,0.85,IAB5 Education
+field spoken word,0.85,IAB5 Education
+field storytelling,0.85,IAB5 Education
+field arcade game,0.85,IAB5 Education
+field audio game,0.85,IAB5 Education
+field outline of video games,0.85,IAB5 Education
+field craft,0.85,IAB5 Education
+field fine arts,0.85,IAB5 Education
+field forgery,0.85,IAB5 Education
+field graphic artsdrawing(outline)painting(outline)photography(outline),0.85,IAB5 Education
+field sculpture(outline),0.85,IAB5 Education
+field drawing(outline),0.85,IAB5 Education
+field painting(outline),0.85,IAB5 Education
+field photography(outline),0.85,IAB5 Education
+field agricultural economics,0.85,IAB5 Education
+field anarchist economics,0.85,IAB5 Education
+field applied economics,0.85,IAB5 Education
+field behavioural economics,0.85,IAB5 Education
+field bioeconomics,0.85,IAB5 Education
+field business,0.85,IAB5 Education
+field complexity economics,0.85,IAB5 Education
+field computational economics,0.85,IAB5 Education
+field consumer economics,0.85,IAB5 Education
+field development economics,0.85,IAB5 Education
+field digital economy,0.85,IAB5 Education
+field ecological economics,0.85,IAB5 Education
+field econometrics,0.85,IAB5 Education
+field economic geography,0.85,IAB5 Education
+field economic sector,0.85,IAB5 Education
+field economic sociology,0.85,IAB5 Education
+field economic systems,0.85,IAB5 Education
+field economic value,0.85,IAB5 Education
+field energy economics,0.85,IAB5 Education
+field entrepreneurial economics,0.85,IAB5 Education
+field environmental economics,0.85,IAB5 Education
+field evolutionary economics,0.85,IAB5 Education
+field experimental economics,0.85,IAB5 Education
+field feminist economics,0.85,IAB5 Education
+field financial economics,0.85,IAB5 Education
+field financial econometrics,0.85,IAB5 Education
+field green economics,0.85,IAB5 Education
+field growth economics,0.85,IAB5 Education
+field human development theory,0.85,IAB5 Education
+field industrial organization,0.85,IAB5 Education
+field information economics,0.85,IAB5 Education
+field institutional economics,0.85,IAB5 Education
+field international economics,0.85,IAB5 Education
+field islamic economics,0.85,IAB5 Education
+field jel classification codesin searching for articles by fields in economics journals,0.85,IAB5 Education
+field knowledge economy,0.85,IAB5 Education
+field labor economics,0.85,IAB5 Education
+field law and economics,0.85,IAB5 Education
+field macroeconomics,0.85,IAB5 Education
+field managerial economics,0.85,IAB5 Education
+field market economy,0.85,IAB5 Education
+field marxian economics,0.85,IAB5 Education
+field mathematical economics,0.85,IAB5 Education
+field microeconomics,0.85,IAB5 Education
+field monetary economics,0.85,IAB5 Education
+field neuroeconomics,0.85,IAB5 Education
+field participatory economics,0.85,IAB5 Education
+field political economy,0.85,IAB5 Education
+field public finance,0.85,IAB5 Education
+field public economics,0.85,IAB5 Education
+field real estate economics,0.85,IAB5 Education
+field resource economics,0.85,IAB5 Education
+field social choice theory,0.85,IAB5 Education
+field socialist economics,0.85,IAB5 Education
+field socioeconomics,0.85,IAB5 Education
+field transport economics,0.85,IAB5 Education
+field welfare economics,0.85,IAB5 Education
+field cartography(outline),0.85,IAB5 Education
+field navigation,0.85,IAB5 Education
+field human geographycultural geographyfeminist geographyeconomic geographydevelopment geographyhistorical geographytime geographypolitical geography&geopoliticsmilitary geographystrategic geographypopulation geographysocial geographybehavioral geographychildren's geographieshealth geographytourism geographyurban geography,0.85,IAB5 Education
+field environmental geography,0.85,IAB5 Education
+field physical geographybiogeography,0.85,IAB5 Education
+field cultural geographyfeminist geography,0.85,IAB5 Education
+field economic geographydevelopment geography,0.85,IAB5 Education
+field historical geography,0.85,IAB5 Education
+field time geography,0.85,IAB5 Education
+field political geography&geopoliticsmilitary geographystrategic geography,0.85,IAB5 Education
+field population geography,0.85,IAB5 Education
+field social geographybehavioral geographychildren's geographieshealth geographytourism geography,0.85,IAB5 Education
+field urban geography,0.85,IAB5 Education
+field feminist geography,0.85,IAB5 Education
+field development geography,0.85,IAB5 Education
+field military geography,0.85,IAB5 Education
+field strategic geography,0.85,IAB5 Education
+field behavioral geography,0.85,IAB5 Education
+field children's geographies,0.85,IAB5 Education
+field health geography,0.85,IAB5 Education
+field tourism geography,0.85,IAB5 Education
+field biogeography,0.85,IAB5 Education
+field climatologypalaeoclimatologycoastal geographygeomorphologygeodesyhydrology/hydrographyglaciologylimnologybiogeochemistryoceanographylandscape ecologypalaeogeography,0.85,IAB5 Education
+field regional geography,0.85,IAB5 Education
+field remote sensing,0.85,IAB5 Education
+field climatologypalaeoclimatology,0.85,IAB5 Education
+field coastal geography,0.85,IAB5 Education
+field geomorphology,0.85,IAB5 Education
+field geodesy,0.85,IAB5 Education
+field hydrology/hydrographyglaciologylimnologybiogeochemistryoceanography,0.85,IAB5 Education
+field landscape ecology,0.85,IAB5 Education
+field palaeogeography,0.85,IAB5 Education
+field palaeoclimatology,0.85,IAB5 Education
+field glaciology,0.85,IAB5 Education
+field limnology,0.85,IAB5 Education
+field biogeochemistry,0.85,IAB5 Education
+field oceanography,0.85,IAB5 Education
+field african studies,0.85,IAB5 Education
+field american studiesappalachian studiescanadian studieslatin american studies,0.85,IAB5 Education
+field asian studiescentral asian studieseast asian studiesiranian studiesjapanology(japanese studies)korean studiessinology(outline) (chinese studies)indology(south asian studies)bengal studiesdravidian studies(dravidology)tamilologypakistan studiessindhologysoutheast asian studies,0.85,IAB5 Education
+field european studiesceltic studiesgerman studiesindo-european studiesscandinavian studiesslavic studies,0.85,IAB5 Education
+field australian studies,0.85,IAB5 Education
+field pacific studies,0.85,IAB5 Education
+field middle east studiesturkology(turkish studies),0.85,IAB5 Education
+field russianandeastern european studies,0.85,IAB5 Education
+field appalachian studies,0.85,IAB5 Education
+field canadian studies,0.85,IAB5 Education
+field latin american studies,0.85,IAB5 Education
+field central asian studies,0.85,IAB5 Education
+field east asian studies,0.85,IAB5 Education
+field iranian studies,0.85,IAB5 Education
+field japanology(japanese studies),0.85,IAB5 Education
+field korean studies,0.85,IAB5 Education
+field sinology(outline) (chinese studies),0.85,IAB5 Education
+field indology(south asian studies)bengal studiesdravidian studies(dravidology)tamilologypakistan studiessindhology,0.85,IAB5 Education
+field southeast asian studies,0.85,IAB5 Education
+field bengal studies,0.85,IAB5 Education
+field dravidian studies(dravidology)tamilology,0.85,IAB5 Education
+field pakistan studies,0.85,IAB5 Education
+field sindhology,0.85,IAB5 Education
+field tamilology,0.85,IAB5 Education
+field celtic studies,0.85,IAB5 Education
+field german studies,0.85,IAB5 Education
+field indo-european studies,0.85,IAB5 Education
+field scandinavian studies,0.85,IAB5 Education
+field slavic studies,0.85,IAB5 Education
+field turkology(turkish studies),0.85,IAB5 Education
+field cultural studies,0.85,IAB5 Education
+field ethnic studies,0.85,IAB5 Education
+field culturology,0.85,IAB5 Education
+field cross-cultural studies,0.85,IAB5 Education
+field business economics,0.85,IAB5 Education
+field business ethics,0.85,IAB5 Education
+field business studies,0.85,IAB5 Education
+field decision science,0.85,IAB5 Education
+field entrepreneurship,0.85,IAB5 Education
+field human resources management,0.85,IAB5 Education
+field management,0.85,IAB5 Education
+field organizational behavior,0.85,IAB5 Education
+field organization theory,0.85,IAB5 Education
+field project management,0.85,IAB5 Education
+field quality control,0.85,IAB5 Education
+field strategy,0.85,IAB5 Education
+field american politics,0.85,IAB5 Education
+field canadian politics,0.85,IAB5 Education
+field civics,0.85,IAB5 Education
+field comparative politics,0.85,IAB5 Education
+field european studies,0.85,IAB5 Education
+field geopolitics(political geography),0.85,IAB5 Education
+field international relations,0.85,IAB5 Education
+field international organizations,0.85,IAB5 Education
+field nationalism studies,0.85,IAB5 Education
+field peace and conflict studies,0.85,IAB5 Education
+field policy studies,0.85,IAB5 Education
+field political behavior,0.85,IAB5 Education
+field political culture,0.85,IAB5 Education
+field political philosophy,0.85,IAB5 Education
+field psephology,0.85,IAB5 Education
+field public administrationnonprofit administrationnon-governmental organization (ngo) administration,0.85,IAB5 Education
+field public policy,0.85,IAB5 Education
+field nonprofit administration,0.85,IAB5 Education
+field non-governmental organization (ngo) administration,0.85,IAB5 Education
+field abnormal psychology,0.85,IAB5 Education
+field applied psychology,0.85,IAB5 Education
+field asian psychology,0.85,IAB5 Education
+field biological psychology,0.85,IAB5 Education
+field black psychology,0.85,IAB5 Education
+field clinical psychology,0.85,IAB5 Education
+field clinical neuropsychology,0.85,IAB5 Education
+field cognitive psychology,0.85,IAB5 Education
+field community psychology,0.85,IAB5 Education
+field comparative psychology,0.85,IAB5 Education
+field conservation psychology,0.85,IAB5 Education
+field consumer psychology,0.85,IAB5 Education
+field counseling psychology,0.85,IAB5 Education
+field criminal psychology,0.85,IAB5 Education
+field cultural psychology,0.85,IAB5 Education
+field developmental psychology,0.85,IAB5 Education
+field differential psychology,0.85,IAB5 Education
+field ecological psychology,0.85,IAB5 Education
+field educational psychology,0.85,IAB5 Education
+field environmental psychology,0.85,IAB5 Education
+field evolutionary psychology,0.85,IAB5 Education
+field experimental psychology,0.85,IAB5 Education
+field group psychology,0.85,IAB5 Education
+field family psychology,0.85,IAB5 Education
+field feminine psychology,0.85,IAB5 Education
+field forensic psychology,0.85,IAB5 Education
+field forensic developmental psychology,0.85,IAB5 Education
+field health psychology,0.85,IAB5 Education
+field humanistic psychology,0.85,IAB5 Education
+field indigenous psychology,0.85,IAB5 Education
+field legal psychology,0.85,IAB5 Education
+field mathematical psychology,0.85,IAB5 Education
+field media psychology,0.85,IAB5 Education
+field medical psychology,0.85,IAB5 Education
+field military psychology,0.85,IAB5 Education
+field moral psychologyanddescriptive ethics,0.85,IAB5 Education
+field music psychology,0.85,IAB5 Education
+field neuropsychology,0.85,IAB5 Education
+field occupational psychology,0.85,IAB5 Education
+field occupational health psychology,0.85,IAB5 Education
+field organizational psychology,0.85,IAB5 Education
+field parapsychology(outline),0.85,IAB5 Education
+field pediatric psychology,0.85,IAB5 Education
+field pedology (children study),0.85,IAB5 Education
+field personality psychology,0.85,IAB5 Education
+field phenomenology,0.85,IAB5 Education
+field political psychology,0.85,IAB5 Education
+field positive psychology,0.85,IAB5 Education
+field problem solving,0.85,IAB5 Education
+field psychoanalysis,0.85,IAB5 Education
+field psychometrics,0.85,IAB5 Education
+field psychology of religion,0.85,IAB5 Education
+field psychopathologychild psychopathology,0.85,IAB5 Education
+field psychophysics,0.85,IAB5 Education
+field quantitative psychology,0.85,IAB5 Education
+field rehabilitation psychology,0.85,IAB5 Education
+field school psychology,0.85,IAB5 Education
+field social psychology,0.85,IAB5 Education
+field sport psychology,0.85,IAB5 Education
+field traffic psychology,0.85,IAB5 Education
+field transpersonal psychology,0.85,IAB5 Education
+field travel psychology,0.85,IAB5 Education
+field child psychopathology,0.85,IAB5 Education
+field analytical sociology,0.85,IAB5 Education
+field applied sociologypolitical sociologypublic sociologysocial engineeringleisure studies,0.85,IAB5 Education
+field architectural sociology,0.85,IAB5 Education
+field behavioral sociology,0.85,IAB5 Education
+field chinese sociology,0.85,IAB5 Education
+field collective behavioractivismsocial movements,0.85,IAB5 Education
+field social phenomenon,0.85,IAB5 Education
+field community informaticssocial network analysis,0.85,IAB5 Education
+field comparative sociology,0.85,IAB5 Education
+field conflict theory,0.85,IAB5 Education
+field critical sociology,0.85,IAB5 Education
+field cultural sociology,0.85,IAB5 Education
+field criminology/criminal justice(outline),0.85,IAB5 Education
+field critical management studies,0.85,IAB5 Education
+field demography/population,0.85,IAB5 Education
+field digital sociology,0.85,IAB5 Education
+field dramaturgical sociology,0.85,IAB5 Education
+field educational sociology,0.85,IAB5 Education
+field empirical sociology,0.85,IAB5 Education
+field environmental sociology,0.85,IAB5 Education
+field evolutionary sociology,0.85,IAB5 Education
+field feminist sociology,0.85,IAB5 Education
+field figurational sociology,0.85,IAB5 Education
+field futures studies(outline),0.85,IAB5 Education
+field historical sociology,0.85,IAB5 Education
+field human ecology,0.85,IAB5 Education
+field humanistic sociology,0.85,IAB5 Education
+field industrial sociology,0.85,IAB5 Education
+field interactionism,0.85,IAB5 Education
+field internet sociology,0.85,IAB5 Education
+field interpretive sociologyphenomenologyethnomethodologysymbolic interactionismsocial constructionism,0.85,IAB5 Education
+field jealousy sociology,0.85,IAB5 Education
+field macrosociology,0.85,IAB5 Education
+field marxist sociology,0.85,IAB5 Education
+field mathematical sociology,0.85,IAB5 Education
+field medical sociology,0.85,IAB5 Education
+field mesosociology,0.85,IAB5 Education
+field microsociology,0.85,IAB5 Education
+field military sociology,0.85,IAB5 Education
+field natural resource sociology,0.85,IAB5 Education
+field organizational studies,0.85,IAB5 Education
+field phenomenological sociology,0.85,IAB5 Education
+field policy sociology,0.85,IAB5 Education
+field polish sociology,0.85,IAB5 Education
+field postcolonialism,0.85,IAB5 Education
+field psychoanalytic sociology,0.85,IAB5 Education
+field science studies/science and technology studies,0.85,IAB5 Education
+field sexology,0.85,IAB5 Education
+field social capital,0.85,IAB5 Education
+field social change,0.85,IAB5 Education
+field social conflict theory,0.85,IAB5 Education
+field social controlpure sociology,0.85,IAB5 Education
+field social economy,0.85,IAB5 Education
+field social philosophy,0.85,IAB5 Education
+field social policy,0.85,IAB5 Education
+field social research,0.85,IAB5 Education
+field social transformationcomputational sociologyeconomic sociology/socioeconomicseconomic developmentsocial development,0.85,IAB5 Education
+field sociology of aging,0.85,IAB5 Education
+field sociology of agriculture,0.85,IAB5 Education
+field sociology of art,0.85,IAB5 Education
+field sociology of autism,0.85,IAB5 Education
+field sociology of childhood,0.85,IAB5 Education
+field sociology of conflict,0.85,IAB5 Education
+field sociology of culture,0.85,IAB5 Education
+field sociology of cyberspace,0.85,IAB5 Education
+field sociology of deviance,0.85,IAB5 Education
+field sociology of development,0.85,IAB5 Education
+field sociology of disaster,0.85,IAB5 Education
+field sociology of education,0.85,IAB5 Education
+field sociology of emotions,0.85,IAB5 Education
+field sociology of fatherhood,0.85,IAB5 Education
+field sociology of film,0.85,IAB5 Education
+field sociology of finance,0.85,IAB5 Education
+field sociology of food,0.85,IAB5 Education
+field sociology of gender,0.85,IAB5 Education
+field sociology of generations,0.85,IAB5 Education
+field sociology of globalization,0.85,IAB5 Education
+field sociology of government,0.85,IAB5 Education
+field sociology of health and illness,0.85,IAB5 Education
+field sociology of human consciousness,0.85,IAB5 Education
+field sociology of immigration,0.85,IAB5 Education
+field sociology of knowledge,0.85,IAB5 Education
+field sociology of language,0.85,IAB5 Education
+field sociology of law,0.85,IAB5 Education
+field sociology of leisure,0.85,IAB5 Education
+field sociology of literature,0.85,IAB5 Education
+field sociology of markets,0.85,IAB5 Education
+field sociology of marriage,0.85,IAB5 Education
+field sociology of motherhood,0.85,IAB5 Education
+field sociology of music,0.85,IAB5 Education
+field sociology of natural resources,0.85,IAB5 Education
+field sociology of organizations,0.85,IAB5 Education
+"field sociology of peace, war, and social conflict",0.85,IAB5 Education
+field sociology of punishment,0.85,IAB5 Education
+field sociology of race and ethnic relations,0.85,IAB5 Education
+field sociology of religion,0.85,IAB5 Education
+field sociology of risk,0.85,IAB5 Education
+field sociology of science,0.85,IAB5 Education
+field sociology of scientific knowledge,0.85,IAB5 Education
+field sociology of social change,0.85,IAB5 Education
+field sociology of social movements,0.85,IAB5 Education
+field sociology of space,0.85,IAB5 Education
+field sociology of sport,0.85,IAB5 Education
+field sociology of technology,0.85,IAB5 Education
+field sociology of terrorism,0.85,IAB5 Education
+field sociology of the body,0.85,IAB5 Education
+field sociology of the family,0.85,IAB5 Education
+field sociology of the history of science,0.85,IAB5 Education
+field sociology of the internet,0.85,IAB5 Education
+field sociology of work,0.85,IAB5 Education
+field social theory,0.85,IAB5 Education
+field social stratification,0.85,IAB5 Education
+field sociological theory,0.85,IAB5 Education
+field sociobiology,0.85,IAB5 Education
+field sociocybernetics,0.85,IAB5 Education
+field sociomusicology,0.85,IAB5 Education
+field structural sociology,0.85,IAB5 Education
+field theoretical sociology,0.85,IAB5 Education
+field urban studiesorurban sociology/rural sociology,0.85,IAB5 Education
+field victimology,0.85,IAB5 Education
+field visual sociology,0.85,IAB5 Education
+field political sociology,0.85,IAB5 Education
+field public sociology,0.85,IAB5 Education
+field social engineering,0.85,IAB5 Education
+field leisure studies,0.85,IAB5 Education
+field activism,0.85,IAB5 Education
+field social movements,0.85,IAB5 Education
+field social network analysis,0.85,IAB5 Education
+field ethnomethodology,0.85,IAB5 Education
+field symbolic interactionism,0.85,IAB5 Education
+field social constructionism,0.85,IAB5 Education
+field pure sociology,0.85,IAB5 Education
+field computational sociology,0.85,IAB5 Education
+field economic sociology/socioeconomicseconomic developmentsocial development,0.85,IAB5 Education
+field economic development,0.85,IAB5 Education
+field social development,0.85,IAB5 Education
+field aerobiology,0.85,IAB5 Education
+field anatomycomparative anatomyhuman anatomy(outline),0.85,IAB5 Education
+field bacteriology,0.85,IAB5 Education
+field biochemistry(outline),0.85,IAB5 Education
+field bioinformatics,0.85,IAB5 Education
+field biophysics(outline),0.85,IAB5 Education
+field biotechnology(outline),0.85,IAB5 Education
+field botany(outline)ethnobotanyphycology,0.85,IAB5 Education
+field cell biology(outline),0.85,IAB5 Education
+field chronobiology,0.85,IAB5 Education
+field cognitive biology,0.85,IAB5 Education
+field computational biology,0.85,IAB5 Education
+field conservation biology,0.85,IAB5 Education
+field cryobiology,0.85,IAB5 Education
+field developmental biologyembryologygerontologyteratology,0.85,IAB5 Education
+field ecology(outline)agroecologyethnoecologyhuman ecologylandscape ecology,0.85,IAB5 Education
+field forensic biology,0.85,IAB5 Education
+field genetics(outline)behavioural geneticsmolecular geneticspopulation genetics,0.85,IAB5 Education
+field geobiology,0.85,IAB5 Education
+field endocrinology,0.85,IAB5 Education
+field evolution(outline)systematicstaxonomy,0.85,IAB5 Education
+field histology,0.85,IAB5 Education
+field human biology,0.85,IAB5 Education
+field immunology(outline),0.85,IAB5 Education
+field linnaean taxonomy,0.85,IAB5 Education
+field marine biology,0.85,IAB5 Education
+field mathematical biology,0.85,IAB5 Education
+field microbiology,0.85,IAB5 Education
+field molecular biology,0.85,IAB5 Education
+field mycology,0.85,IAB5 Education
+field neuroscience(outline)behavioral neuroscienceneurophysicscomputational neuroscience,0.85,IAB5 Education
+field nutrition(outline),0.85,IAB5 Education
+field paleobiologypaleontology,0.85,IAB5 Education
+field parasitology,0.85,IAB5 Education
+field pathologyanatomical pathologyclinical pathologydermatopathologyforensic pathologyhematopathologyhistopathologymolecular pathologysurgical pathologyphytopathology,0.85,IAB5 Education
+field physiologyhuman physiologyexercise physiology,0.85,IAB5 Education
+field population biology,0.85,IAB5 Education
+field quantum biology,0.85,IAB5 Education
+field structural biology,0.85,IAB5 Education
+field systems biology,0.85,IAB5 Education
+field theoretical biology,0.85,IAB5 Education
+field toxicology,0.85,IAB5 Education
+field virologymolecular virology,0.85,IAB5 Education
+field xenobiology,0.85,IAB5 Education
+field zoology(outline)animal communicationsapiologyarachnologyarthropodologybatrachologybryozoologycarcinologycetologycnidariologyentomologyforensic entomologyethnozoologyethologyhelminthologyherpetologyichthyology(outline)invertebrate zoologymammalogycynologyfelinologymalacologyconchologylimacologyteuthologymyriapodologymyrmecology(outline)nematologyneuroethologyoologyornithology(outline)planktologyprimatologyzootomyzoosemiotics,0.85,IAB5 Education
+field comparative anatomy,0.85,IAB5 Education
+field human anatomy(outline),0.85,IAB5 Education
+field phycology,0.85,IAB5 Education
+field embryology,0.85,IAB5 Education
+field gerontology,0.85,IAB5 Education
+field teratology,0.85,IAB5 Education
+field agroecology,0.85,IAB5 Education
+field ethnoecology,0.85,IAB5 Education
+field behavioural genetics,0.85,IAB5 Education
+field molecular genetics,0.85,IAB5 Education
+field systematics,0.85,IAB5 Education
+field taxonomy,0.85,IAB5 Education
+field behavioral neuroscience,0.85,IAB5 Education
+field neurophysics,0.85,IAB5 Education
+field computational neuroscience,0.85,IAB5 Education
+field paleontology,0.85,IAB5 Education
+field anatomical pathology,0.85,IAB5 Education
+field clinical pathology,0.85,IAB5 Education
+field dermatopathology,0.85,IAB5 Education
+field forensic pathology,0.85,IAB5 Education
+field hematopathology,0.85,IAB5 Education
+field histopathology,0.85,IAB5 Education
+field molecular pathology,0.85,IAB5 Education
+field surgical pathology,0.85,IAB5 Education
+field phytopathology,0.85,IAB5 Education
+field human physiologyexercise physiology,0.85,IAB5 Education
+field exercise physiology,0.85,IAB5 Education
+field molecular virology,0.85,IAB5 Education
+field animal communications,0.85,IAB5 Education
+field apiology,0.85,IAB5 Education
+field arachnology,0.85,IAB5 Education
+field arthropodology,0.85,IAB5 Education
+field batrachology,0.85,IAB5 Education
+field bryozoology,0.85,IAB5 Education
+field carcinology,0.85,IAB5 Education
+field cetology,0.85,IAB5 Education
+field cnidariology,0.85,IAB5 Education
+field entomologyforensic entomology,0.85,IAB5 Education
+field ethnozoology,0.85,IAB5 Education
+field ethology,0.85,IAB5 Education
+field helminthology,0.85,IAB5 Education
+field herpetology,0.85,IAB5 Education
+field ichthyology(outline),0.85,IAB5 Education
+field invertebrate zoology,0.85,IAB5 Education
+field mammalogycynologyfelinology,0.85,IAB5 Education
+field malacologyconchologylimacologyteuthology,0.85,IAB5 Education
+field myriapodology,0.85,IAB5 Education
+field myrmecology(outline),0.85,IAB5 Education
+field nematology,0.85,IAB5 Education
+field neuroethology,0.85,IAB5 Education
+field oology,0.85,IAB5 Education
+field ornithology(outline),0.85,IAB5 Education
+field planktology,0.85,IAB5 Education
+field zootomy,0.85,IAB5 Education
+field zoosemiotics,0.85,IAB5 Education
+field forensic entomology,0.85,IAB5 Education
+field cynology,0.85,IAB5 Education
+field felinology,0.85,IAB5 Education
+field conchology,0.85,IAB5 Education
+field limacology,0.85,IAB5 Education
+field teuthology,0.85,IAB5 Education
+field agrochemistry,0.85,IAB5 Education
+field analytical chemistry,0.85,IAB5 Education
+field astrochemistry,0.85,IAB5 Education
+field atmospheric chemistry,0.85,IAB5 Education
+field catalysts,0.85,IAB5 Education
+field chemical engineering(outline),0.85,IAB5 Education
+field chemical biology,0.85,IAB5 Education
+field chemical physics,0.85,IAB5 Education
+field cheminformatics,0.85,IAB5 Education
+field computational chemistry,0.85,IAB5 Education
+field cosmochemistry,0.85,IAB5 Education
+field environmental chemistry,0.85,IAB5 Education
+field femtochemistry,0.85,IAB5 Education
+field flow chemistry,0.85,IAB5 Education
+field forensic chemistry,0.85,IAB5 Education
+field geochemistry,0.85,IAB5 Education
+field green chemistry,0.85,IAB5 Education
+field histochemistry,0.85,IAB5 Education
+field hydrogenation,0.85,IAB5 Education
+field immunochemistry,0.85,IAB5 Education
+field inorganic chemistry,0.85,IAB5 Education
+field marine chemistry,0.85,IAB5 Education
+field mathematical chemistry,0.85,IAB5 Education
+field mechanochemistry,0.85,IAB5 Education
+field medicinal chemistry,0.85,IAB5 Education
+field molecular mechanics,0.85,IAB5 Education
+field nanotechnology,0.85,IAB5 Education
+field natural product chemistry,0.85,IAB5 Education
+field neurochemistry,0.85,IAB5 Education
+field nuclear chemistry,0.85,IAB5 Education
+field oenology,0.85,IAB5 Education
+field organic chemistry(outline),0.85,IAB5 Education
+field organometallic chemistry,0.85,IAB5 Education
+field petrochemistry,0.85,IAB5 Education
+field pharmacology,0.85,IAB5 Education
+field photochemistry,0.85,IAB5 Education
+field physical chemistryelectrochemistryphysical organic chemistry,0.85,IAB5 Education
+field phytochemistry,0.85,IAB5 Education
+field polymer chemistry,0.85,IAB5 Education
+field quantum chemistry,0.85,IAB5 Education
+field radiochemistry,0.85,IAB5 Education
+field soil chemistry,0.85,IAB5 Education
+field solid-state chemistry,0.85,IAB5 Education
+field sonochemistry,0.85,IAB5 Education
+field supramolecular chemistry,0.85,IAB5 Education
+field surface chemistry,0.85,IAB5 Education
+field synthetic chemistry,0.85,IAB5 Education
+field systems chemistry,0.85,IAB5 Education
+field theoretical chemistry,0.85,IAB5 Education
+field thermochemistry,0.85,IAB5 Education
+field electrochemistry,0.85,IAB5 Education
+field physical organic chemistry,0.85,IAB5 Education
+field atmospheric science,0.85,IAB5 Education
+field climatology,0.85,IAB5 Education
+field ecology,0.85,IAB5 Education
+field edaphology,0.85,IAB5 Education
+field environmental science,0.85,IAB5 Education
+field forensic geology,0.85,IAB5 Education
+field gemology,0.85,IAB5 Education
+field geography(outline),0.85,IAB5 Education
+field geology(outline),0.85,IAB5 Education
+field geophysics(outline),0.85,IAB5 Education
+field hydrogeology,0.85,IAB5 Education
+field hydrology(outline),0.85,IAB5 Education
+field meteorology(outline),0.85,IAB5 Education
+field mineralogy,0.85,IAB5 Education
+field pedology,0.85,IAB5 Education
+field paleontologypaleobiologypaleoecology,0.85,IAB5 Education
+field petrology,0.85,IAB5 Education
+"field planetary science(alternatively, a part ofspace science)",0.85,IAB5 Education
+field sedimentology,0.85,IAB5 Education
+field seismology,0.85,IAB5 Education
+field soil science,0.85,IAB5 Education
+field speleology,0.85,IAB5 Education
+field tectonics,0.85,IAB5 Education
+field volcanology,0.85,IAB5 Education
+field paleobiology,0.85,IAB5 Education
+field paleoecology,0.85,IAB5 Education
+field acoustics(outline)quantum acoustics,0.85,IAB5 Education
+field agrophysics,0.85,IAB5 Education
+field applied physics(outline)accelerator physicscommunication physics,0.85,IAB5 Education
+field astrophysics,0.85,IAB5 Education
+field atmospheric physicsatmospheric electricity,0.85,IAB5 Education
+"field atomic, molecular, and optical physics",0.85,IAB5 Education
+field atomic physics,0.85,IAB5 Education
+field biophysics(outline)neurophysics,0.85,IAB5 Education
+field classical physics,0.85,IAB5 Education
+field computational physics,0.85,IAB5 Education
+field condensed matter physics,0.85,IAB5 Education
+field cryogenics,0.85,IAB5 Education
+field digital physics,0.85,IAB5 Education
+field dynamicsanalytical dynamicsastrodynamicsbrownian dynamicsfile dynamicsflight dynamicsfluid dynamicsaerodynamicshydrodynamicsfractional dynamicsgeodynamicsmolecular dynamicsnewtonian dynamicslangevin dynamicsquantum chromodynamicsquantum electrodynamicsrelativistic dynamicsstellar dynamicssystem dynamicsthermodynamicsvehicle dynamics,0.85,IAB5 Education
+field econophysics,0.85,IAB5 Education
+field electromagnetismelectricityelectrostaticmagnetism,0.85,IAB5 Education
+field engineering physics,0.85,IAB5 Education
+field experimental physics,0.85,IAB5 Education
+field geophysics(outline)biogeophysicsgeomagnetism,0.85,IAB5 Education
+field kinematicsfluid kinematicsrelativistic kinematics,0.85,IAB5 Education
+field kineticselectrokineticshomeokinetics,0.85,IAB5 Education
+field laser physics,0.85,IAB5 Education
+field materials physics,0.85,IAB5 Education
+field mathematical physics,0.85,IAB5 Education
+field medical physics,0.85,IAB5 Education
+field mechanicsanalytical mechanicsapplied mechanicsballisticsbiomechanicscelestial mechanicsclassical mechanicscontinuum mechanicsfluid mechanicscompressible flowgas mechanicsfracture mechanicshamiltonian mechanicshydraulicslagrangian mechanicsmatrix mechanicsmolecular mechanicsoptomechanicsparticle mechanicsquantum mechanicsrelativistic mechanicsrelativistic quantum mechanicssoil mechanicssolid mechanicsstatistical mechanicsquantum statistical mechanics,0.85,IAB5 Education
+field mineral physics,0.85,IAB5 Education
+field molecular physics,0.85,IAB5 Education
+field nuclear physics,0.85,IAB5 Education
+field opticsgeometrical opticsphysical opticsquantum optics,0.85,IAB5 Education
+field particle physics,0.85,IAB5 Education
+field petrophysics,0.85,IAB5 Education
+field photonics,0.85,IAB5 Education
+field physical chemistry,0.85,IAB5 Education
+field plasma physics,0.85,IAB5 Education
+field polymer physics,0.85,IAB5 Education
+field quantum physicsquantum technology,0.85,IAB5 Education
+field radiophysics,0.85,IAB5 Education
+field relativitygeneral relativityspecial relativity,0.85,IAB5 Education
+field social physics,0.85,IAB5 Education
+field soil physics,0.85,IAB5 Education
+field solid state physics,0.85,IAB5 Education
+field spintronics,0.85,IAB5 Education
+field staticsfluid statics,0.85,IAB5 Education
+field statistical physics,0.85,IAB5 Education
+field surface physics,0.85,IAB5 Education
+field theoretical physicsquantum field theoryquantum gravity,0.85,IAB5 Education
+field thermal physics,0.85,IAB5 Education
+field quantum acoustics,0.85,IAB5 Education
+field accelerator physics,0.85,IAB5 Education
+field communication physics,0.85,IAB5 Education
+field atmospheric electricity,0.85,IAB5 Education
+field analytical dynamics,0.85,IAB5 Education
+field astrodynamics,0.85,IAB5 Education
+field brownian dynamics,0.85,IAB5 Education
+field file dynamics,0.85,IAB5 Education
+field flight dynamics,0.85,IAB5 Education
+field fluid dynamicsaerodynamicshydrodynamics,0.85,IAB5 Education
+field fractional dynamics,0.85,IAB5 Education
+field geodynamics,0.85,IAB5 Education
+field molecular dynamics,0.85,IAB5 Education
+field newtonian dynamics,0.85,IAB5 Education
+field langevin dynamics,0.85,IAB5 Education
+field quantum chromodynamics,0.85,IAB5 Education
+field quantum electrodynamics,0.85,IAB5 Education
+field relativistic dynamics,0.85,IAB5 Education
+field stellar dynamics,0.85,IAB5 Education
+field system dynamics,0.85,IAB5 Education
+field thermodynamics,0.85,IAB5 Education
+field vehicle dynamics,0.85,IAB5 Education
+field aerodynamics,0.85,IAB5 Education
+field hydrodynamics,0.85,IAB5 Education
+field electricityelectrostatic,0.85,IAB5 Education
+field magnetism,0.85,IAB5 Education
+field electrostatic,0.85,IAB5 Education
+field biogeophysics,0.85,IAB5 Education
+field geomagnetism,0.85,IAB5 Education
+field fluid kinematics,0.85,IAB5 Education
+field relativistic kinematics,0.85,IAB5 Education
+field electrokinetics,0.85,IAB5 Education
+field homeokinetics,0.85,IAB5 Education
+field analytical mechanics,0.85,IAB5 Education
+field applied mechanics,0.85,IAB5 Education
+field ballistics,0.85,IAB5 Education
+field biomechanics,0.85,IAB5 Education
+field celestial mechanics,0.85,IAB5 Education
+field classical mechanics,0.85,IAB5 Education
+field continuum mechanics,0.85,IAB5 Education
+field fluid mechanicscompressible flowgas mechanics,0.85,IAB5 Education
+field fracture mechanics,0.85,IAB5 Education
+field hamiltonian mechanics,0.85,IAB5 Education
+field hydraulics,0.85,IAB5 Education
+field lagrangian mechanics,0.85,IAB5 Education
+field matrix mechanics,0.85,IAB5 Education
+field optomechanics,0.85,IAB5 Education
+field particle mechanics,0.85,IAB5 Education
+field quantum mechanics,0.85,IAB5 Education
+field relativistic mechanics,0.85,IAB5 Education
+field relativistic quantum mechanics,0.85,IAB5 Education
+field soil mechanics,0.85,IAB5 Education
+field solid mechanics,0.85,IAB5 Education
+field statistical mechanicsquantum statistical mechanics,0.85,IAB5 Education
+field compressible flow,0.85,IAB5 Education
+field gas mechanics,0.85,IAB5 Education
+field quantum statistical mechanics,0.85,IAB5 Education
+field geometrical optics,0.85,IAB5 Education
+field physical optics,0.85,IAB5 Education
+field quantum optics,0.85,IAB5 Education
+field quantum technology,0.85,IAB5 Education
+field general relativity,0.85,IAB5 Education
+field special relativity,0.85,IAB5 Education
+field fluid statics,0.85,IAB5 Education
+field quantum field theory,0.85,IAB5 Education
+field quantum gravity,0.85,IAB5 Education
+field aerospace engineeringaerospace architectureaerospace physiologyaerospace manufacturingastronauticsspace architecturespace colonizationspace commercializationspace-based economyspace industryspace manufacturingspace tourismspace environmentspace logisticsspace foodspace medicineneuroscience in spacespace religionspace sexspace survivalspace warfarespace writingaeronauticscontrol engineeringhuman spaceflightrobotic spacecraftspace corrosion,0.85,IAB5 Education
+field space technologyspace telescopesspace-based radarspace-based solar powerspacecraft designspacecraft propulsion,0.85,IAB5 Education
+field asteroid-impact avoidance,0.85,IAB5 Education
+field astrobiology,0.85,IAB5 Education
+field astrobotany,0.85,IAB5 Education
+field astrochemistrytheoretical astronomy,0.85,IAB5 Education
+field cosmologyphysical cosmology,0.85,IAB5 Education
+field micro-g environment research,0.85,IAB5 Education
+field space archaeology,0.85,IAB5 Education
+field space exploration,0.85,IAB5 Education
+field space law,0.85,IAB5 Education
+field space nuclear power,0.85,IAB5 Education
+field aerospace architecture,0.85,IAB5 Education
+field aerospace physiology,0.85,IAB5 Education
+field aerospace manufacturing,0.85,IAB5 Education
+field astronauticsspace architecturespace colonizationspace commercializationspace-based economyspace industryspace manufacturingspace tourismspace environmentspace logisticsspace foodspace medicineneuroscience in spacespace religionspace sexspace survivalspace warfarespace writing,0.85,IAB5 Education
+field aeronautics,0.85,IAB5 Education
+field control engineering,0.85,IAB5 Education
+field human spaceflight,0.85,IAB5 Education
+field robotic spacecraft,0.85,IAB5 Education
+field space corrosion,0.85,IAB5 Education
+field space architecture,0.85,IAB5 Education
+field space colonization,0.85,IAB5 Education
+field space commercializationspace-based economyspace industryspace manufacturingspace tourism,0.85,IAB5 Education
+field space environment,0.85,IAB5 Education
+field space logistics,0.85,IAB5 Education
+field space food,0.85,IAB5 Education
+field space medicineneuroscience in space,0.85,IAB5 Education
+field space religion,0.85,IAB5 Education
+field space sex,0.85,IAB5 Education
+field space survival,0.85,IAB5 Education
+field space warfare,0.85,IAB5 Education
+field space writing,0.85,IAB5 Education
+field space-based economy,0.85,IAB5 Education
+field space industry,0.85,IAB5 Education
+field space manufacturing,0.85,IAB5 Education
+field space tourism,0.85,IAB5 Education
+field neuroscience in space,0.85,IAB5 Education
+field space telescopes,0.85,IAB5 Education
+field space-based radar,0.85,IAB5 Education
+field space-based solar power,0.85,IAB5 Education
+field spacecraft design,0.85,IAB5 Education
+field spacecraft propulsion,0.85,IAB5 Education
+field theoretical astronomy,0.85,IAB5 Education
+field physical cosmology,0.85,IAB5 Education
+field astronomy(outline)archaeoastronomyastrometryamateur astronomyforensic astronomyextragalactic astronomygalactic astronomyhigh-energy astronomyobservational astronomyradio astronomymicrowave astronomysubmillimetre astronomyinfrared astronomyoptical astronomyuv astronomyx-ray astronomygamma-ray astronomycosmic-ray astronomyneutrino astronomygravitational wave astronomyphotometryspectroscopystellar astronomysolar astronomy,0.85,IAB5 Education
+field astrophysicscelestial mechanicscompact objectscomputational astrophysicsgravitational astronomyblack holesinterstellar mediumnumerical simulationsastrophysical plasmagalaxy formation and evolutionhigh-energy astrophysicshydrodynamicsmagnetohydrodynamicsstar formationorbital mechanicsphysical cosmologyrelativistic astrophysicsstellar astrophysicshelioseismologysolar physicsstellar evolutionstellar nucleosynthesisspace plasma physics,0.85,IAB5 Education
+"field planetary science(alternatively, a part ofearth science)atmospheric scienceexoplanetologyplanetary formationplanetary ringsmagnetospheresplanetary geologyplanetary surfacessmall solar system bodies",0.85,IAB5 Education
+field astrometry,0.85,IAB5 Education
+field amateur astronomy,0.85,IAB5 Education
+field forensic astronomy,0.85,IAB5 Education
+field extragalactic astronomy,0.85,IAB5 Education
+field galactic astronomy,0.85,IAB5 Education
+field high-energy astronomy,0.85,IAB5 Education
+field observational astronomyradio astronomymicrowave astronomysubmillimetre astronomyinfrared astronomyoptical astronomyuv astronomyx-ray astronomygamma-ray astronomycosmic-ray astronomyneutrino astronomygravitational wave astronomy,0.85,IAB5 Education
+field photometry,0.85,IAB5 Education
+field spectroscopy,0.85,IAB5 Education
+field stellar astronomysolar astronomy,0.85,IAB5 Education
+field radio astronomy,0.85,IAB5 Education
+field microwave astronomy,0.85,IAB5 Education
+field submillimetre astronomy,0.85,IAB5 Education
+field infrared astronomy,0.85,IAB5 Education
+field optical astronomy,0.85,IAB5 Education
+field uv astronomy,0.85,IAB5 Education
+field x-ray astronomy,0.85,IAB5 Education
+field gamma-ray astronomy,0.85,IAB5 Education
+field cosmic-ray astronomy,0.85,IAB5 Education
+field neutrino astronomy,0.85,IAB5 Education
+field gravitational wave astronomy,0.85,IAB5 Education
+field solar astronomy,0.85,IAB5 Education
+field compact objects,0.85,IAB5 Education
+field computational astrophysics,0.85,IAB5 Education
+field gravitational astronomyblack holes,0.85,IAB5 Education
+field interstellar medium,0.85,IAB5 Education
+field numerical simulationsastrophysical plasmagalaxy formation and evolutionhigh-energy astrophysicshydrodynamicsmagnetohydrodynamicsstar formation,0.85,IAB5 Education
+field orbital mechanics,0.85,IAB5 Education
+field relativistic astrophysics,0.85,IAB5 Education
+field stellar astrophysicshelioseismologysolar physicsstellar evolutionstellar nucleosynthesis,0.85,IAB5 Education
+field space plasma physics,0.85,IAB5 Education
+field black holes,0.85,IAB5 Education
+field astrophysical plasma,0.85,IAB5 Education
+field galaxy formation and evolution,0.85,IAB5 Education
+field high-energy astrophysics,0.85,IAB5 Education
+field magnetohydrodynamics,0.85,IAB5 Education
+field star formation,0.85,IAB5 Education
+field helioseismology,0.85,IAB5 Education
+field solar physics,0.85,IAB5 Education
+field stellar evolution,0.85,IAB5 Education
+field stellar nucleosynthesis,0.85,IAB5 Education
+field exoplanetology,0.85,IAB5 Education
+field planetary formation,0.85,IAB5 Education
+field planetary rings,0.85,IAB5 Education
+field magnetospheres,0.85,IAB5 Education
+field planetary geology,0.85,IAB5 Education
+field planetary surfaces,0.85,IAB5 Education
+field small solar system bodies,0.85,IAB5 Education
+field theory of computationautomata theory(formal languages)computability theorycomputational complexity theoryconcurrency theory,0.85,IAB5 Education
+field vlsi design,0.85,IAB5 Education
+field operating systems,0.85,IAB5 Education
+field algorithmsrandomized algorithmsdistributed algorithmsparallel algorithmscomputational geometry,0.85,IAB5 Education
+field database,0.85,IAB5 Education
+field data science,0.85,IAB5 Education
+field data structures,0.85,IAB5 Education
+field computer architecture,0.85,IAB5 Education
+"field computer communications (networks)information theoryinternet,world wide webwireless computing(mobile computing)ubiquitous computingcloud computing",0.85,IAB5 Education
+field computer program,0.85,IAB5 Education
+field computer programming,0.85,IAB5 Education
+field computer securityandreliabilitycryptanalysiscryptographyfault-tolerant computing,0.85,IAB5 Education
+field distributed computinggrid computing,0.85,IAB5 Education
+field parallel computinghigh-performance computing,0.85,IAB5 Education
+field quantum computing,0.85,IAB5 Education
+field computer graphicsimage processingscientific visualization,0.85,IAB5 Education
+field software engineeringformal methods(formal verification),0.85,IAB5 Education
+field programming languagesprogramming paradigmsimperative programmingobject-oriented programmingfunctional programminglogic programmingconcurrent programmingprogram semanticstype theorycompilers,0.85,IAB5 Education
+field human–computer interaction,0.85,IAB5 Education
+"field information science(outline)data managementdata miningdatabase(outline)relational databasedistributed databaseobject databaseinformation retrievalinformation managementinformation systeminformation technologyknowledge managementmultimedia,hypermediasound and music computingquantum information",0.85,IAB5 Education
+field theoretical computer science,0.85,IAB5 Education
+field artificial intelligence(outline)cognitive scienceautomated reasoningmachine learningartificial neural networksupport vector machinenatural language processing(computational linguistics)computer vision(outline)expert systemsrobotics(outline),0.85,IAB5 Education
+"field computing inmathematics,natural sciences,engineering, andmedicinenumerical analysisalgebraic (symbolic) computationcomputational number theorycomputational mathematicsscientific computing (computational science)computational biology (bioinformatics)computational physicscomputational chemistrycomputational neurosciencecomputer-aided engineeringfinite element analysiscomputational fluid dynamics",0.85,IAB5 Education
+"field computing insocial sciences,arts,humanities, andprofessionscomputational economicscomputational sociologycomputational financedigital humanities(humanities computing)history of computer hardwarehistory of computer science(outline)humanistic informaticscommunity informatics",0.85,IAB5 Education
+field automata theory(formal languages),0.85,IAB5 Education
+field computability theory,0.85,IAB5 Education
+field computational complexity theory,0.85,IAB5 Education
+field concurrency theory,0.85,IAB5 Education
+field randomized algorithms,0.85,IAB5 Education
+field distributed algorithms,0.85,IAB5 Education
+field parallel algorithms,0.85,IAB5 Education
+field computational geometry,0.85,IAB5 Education
+field information theory,0.85,IAB5 Education
+"field internet,world wide web",0.85,IAB5 Education
+field wireless computing(mobile computing),0.85,IAB5 Education
+field ubiquitous computing,0.85,IAB5 Education
+field cloud computing,0.85,IAB5 Education
+field cryptanalysis,0.85,IAB5 Education
+field cryptography,0.85,IAB5 Education
+field fault-tolerant computing,0.85,IAB5 Education
+field grid computing,0.85,IAB5 Education
+field high-performance computing,0.85,IAB5 Education
+field image processing,0.85,IAB5 Education
+field scientific visualization,0.85,IAB5 Education
+field formal methods(formal verification),0.85,IAB5 Education
+field programming paradigmsimperative programmingobject-oriented programmingfunctional programminglogic programmingconcurrent programming,0.85,IAB5 Education
+field program semantics,0.85,IAB5 Education
+field type theory,0.85,IAB5 Education
+field compilers,0.85,IAB5 Education
+field imperative programming,0.85,IAB5 Education
+field object-oriented programming,0.85,IAB5 Education
+field functional programming,0.85,IAB5 Education
+field logic programming,0.85,IAB5 Education
+field concurrent programming,0.85,IAB5 Education
+field data management,0.85,IAB5 Education
+field data mining,0.85,IAB5 Education
+field database(outline)relational databasedistributed databaseobject database,0.85,IAB5 Education
+field information retrieval,0.85,IAB5 Education
+field information management,0.85,IAB5 Education
+field information system,0.85,IAB5 Education
+field information technology,0.85,IAB5 Education
+field knowledge management,0.85,IAB5 Education
+"field multimedia,hypermediasound and music computing",0.85,IAB5 Education
+field quantum information,0.85,IAB5 Education
+field relational database,0.85,IAB5 Education
+field distributed database,0.85,IAB5 Education
+field object database,0.85,IAB5 Education
+field sound and music computing,0.85,IAB5 Education
+field cognitive scienceautomated reasoningmachine learningartificial neural networksupport vector machinenatural language processing(computational linguistics)computer vision(outline),0.85,IAB5 Education
+field expert systems,0.85,IAB5 Education
+field robotics(outline),0.85,IAB5 Education
+field automated reasoning,0.85,IAB5 Education
+field machine learningartificial neural networksupport vector machine,0.85,IAB5 Education
+field natural language processing(computational linguistics),0.85,IAB5 Education
+field computer vision(outline),0.85,IAB5 Education
+field artificial neural network,0.85,IAB5 Education
+field support vector machine,0.85,IAB5 Education
+field numerical analysis,0.85,IAB5 Education
+field algebraic (symbolic) computation,0.85,IAB5 Education
+field computational number theory,0.85,IAB5 Education
+field computational mathematics,0.85,IAB5 Education
+field scientific computing (computational science),0.85,IAB5 Education
+field computational biology (bioinformatics),0.85,IAB5 Education
+field computer-aided engineeringfinite element analysiscomputational fluid dynamics,0.85,IAB5 Education
+field finite element analysis,0.85,IAB5 Education
+field computational fluid dynamics,0.85,IAB5 Education
+field computational finance,0.85,IAB5 Education
+field digital humanities(humanities computing),0.85,IAB5 Education
+field history of computer hardware,0.85,IAB5 Education
+field history of computer science(outline),0.85,IAB5 Education
+field humanistic informatics,0.85,IAB5 Education
+field community informatics,0.85,IAB5 Education
+field mathematical logicset theoryproof theorymodel theoryrecursion theorymodal logicintuitionistic logic,0.85,IAB5 Education
+field set theory,0.85,IAB5 Education
+field proof theory,0.85,IAB5 Education
+field model theory,0.85,IAB5 Education
+field recursion theory,0.85,IAB5 Education
+field modal logic,0.85,IAB5 Education
+field intuitionistic logic,0.85,IAB5 Education
+field philosophical logiclogical reasoningmodal logicdeontic logicdoxastic logic,0.85,IAB5 Education
+field logical reasoning,0.85,IAB5 Education
+field modal logicdeontic logicdoxastic logic,0.85,IAB5 Education
+field deontic logic,0.85,IAB5 Education
+field doxastic logic,0.85,IAB5 Education
+field logic in computer scienceprogramming language semanticsformal methods(formal verification)type theorylogic programmingmulti-valued logicfuzzy logic,0.85,IAB5 Education
+field programming language semantics,0.85,IAB5 Education
+field multi-valued logicfuzzy logic,0.85,IAB5 Education
+field fuzzy logic,0.85,IAB5 Education
+field algebra(outline)group theoryring theorycommutative algebrafield theorylinear algebra(vector space)multilinear algebrauniversal algebrahomological algebradifferential algebralattice theory(order theory)representation theoryk-theorycategory theorytopos theory,0.85,IAB5 Education
+field analysisreal analysiscalculus(outline)complex analysisfunctional analysisoperator theorynon-standard analysisharmonic analysisfourier analysisp-adic analysisordinary differential equationspartial differential equations,0.85,IAB5 Education
+field probability theorymeasure theoryintegral geometryergodic theorystochastic process,0.85,IAB5 Education
+field geometry(outline) andtopologygeneral topologyalgebraic topologygeometric topologydifferential topologyalgebraic geometryprojective geometryaffine geometrynon-euclidean geometryconvex geometrydiscrete geometryintegral geometryeuclidean geometryfinite geometrygalois geometrynoncommutative geometrysolid geometrytrigonometry,0.85,IAB5 Education
+field number theoryanalytic number theoryalgebraic number theorygeometric number theoryarithmeticarithmetic combinatorics,0.85,IAB5 Education
+field logicandfoundations of mathematicsset theoryproof theorymodel theoryrecursion theorymodal logicintuitionistic logic,0.85,IAB5 Education
+field group theory,0.85,IAB5 Education
+field ring theorycommutative algebra,0.85,IAB5 Education
+field field theory,0.85,IAB5 Education
+field linear algebra(vector space),0.85,IAB5 Education
+field multilinear algebra,0.85,IAB5 Education
+field universal algebra,0.85,IAB5 Education
+field homological algebra,0.85,IAB5 Education
+field differential algebra,0.85,IAB5 Education
+field lattice theory(order theory),0.85,IAB5 Education
+field representation theory,0.85,IAB5 Education
+field k-theory,0.85,IAB5 Education
+field category theorytopos theory,0.85,IAB5 Education
+field commutative algebra,0.85,IAB5 Education
+field topos theory,0.85,IAB5 Education
+field real analysiscalculus(outline),0.85,IAB5 Education
+field complex analysis,0.85,IAB5 Education
+field functional analysisoperator theory,0.85,IAB5 Education
+field non-standard analysis,0.85,IAB5 Education
+field harmonic analysisfourier analysis,0.85,IAB5 Education
+field p-adic analysis,0.85,IAB5 Education
+field ordinary differential equations,0.85,IAB5 Education
+field partial differential equations,0.85,IAB5 Education
+field calculus(outline),0.85,IAB5 Education
+field operator theory,0.85,IAB5 Education
+field fourier analysis,0.85,IAB5 Education
+field measure theoryintegral geometry,0.85,IAB5 Education
+field ergodic theory,0.85,IAB5 Education
+field stochastic process,0.85,IAB5 Education
+field integral geometry,0.85,IAB5 Education
+field general topology,0.85,IAB5 Education
+field algebraic topology,0.85,IAB5 Education
+field geometric topology,0.85,IAB5 Education
+field differential topology,0.85,IAB5 Education
+field algebraic geometry,0.85,IAB5 Education
+field projective geometry,0.85,IAB5 Education
+field affine geometry,0.85,IAB5 Education
+field non-euclidean geometry,0.85,IAB5 Education
+field convex geometry,0.85,IAB5 Education
+field discrete geometry,0.85,IAB5 Education
+field euclidean geometry,0.85,IAB5 Education
+field finite geometry,0.85,IAB5 Education
+field galois geometry,0.85,IAB5 Education
+field noncommutative geometry,0.85,IAB5 Education
+field solid geometry,0.85,IAB5 Education
+field trigonometry,0.85,IAB5 Education
+field analytic number theory,0.85,IAB5 Education
+field algebraic number theory,0.85,IAB5 Education
+field geometric number theory,0.85,IAB5 Education
+field arithmetic,0.85,IAB5 Education
+field arithmetic combinatorics,0.85,IAB5 Education
+field approximation theory,0.85,IAB5 Education
+field operations researchmathematical optimizationlinear programmingdynamic programmingassignment problemdecision analysisinventory theoryschedulingreal options analysissystems analysisstochastic processesoptimal maintenance,0.85,IAB5 Education
+field dynamical systemschaos theoryfractal geometry,0.85,IAB5 Education
+field mathematical physicsquantum mechanicsquantum field theoryquantum gravitystring theorystatistical mechanics,0.85,IAB5 Education
+field theory of computationcomputational complexity theory,0.85,IAB5 Education
+field steganography,0.85,IAB5 Education
+field combinatorics(outline)coding theory,0.85,IAB5 Education
+field graph theory,0.85,IAB5 Education
+field game theory,0.85,IAB5 Education
+field mathematical optimization,0.85,IAB5 Education
+field linear programming,0.85,IAB5 Education
+field dynamic programming,0.85,IAB5 Education
+field assignment problem,0.85,IAB5 Education
+field decision analysis,0.85,IAB5 Education
+field inventory theory,0.85,IAB5 Education
+field scheduling,0.85,IAB5 Education
+field real options analysis,0.85,IAB5 Education
+field systems analysis,0.85,IAB5 Education
+field stochastic processes,0.85,IAB5 Education
+field optimal maintenance,0.85,IAB5 Education
+field chaos theory,0.85,IAB5 Education
+field fractal geometry,0.85,IAB5 Education
+field quantum gravitystring theory,0.85,IAB5 Education
+field statistical mechanics,0.85,IAB5 Education
+field string theory,0.85,IAB5 Education
+field coding theory,0.85,IAB5 Education
+field mathematical statistics,0.85,IAB5 Education
+field actuarial science,0.85,IAB5 Education
+field demography,0.85,IAB5 Education
+field computational statisticsdata miningregression(outline)simulationbootstrap (statistics),0.85,IAB5 Education
+field design of experimentsblock designandanalysis of varianceresponse surface methodology,0.85,IAB5 Education
+field sample surveysampling theory,0.85,IAB5 Education
+field statistical modellingbiostatisticsepidemiologymultivariate analysisstructural equation modeltime seriesreliability theoryquality control,0.85,IAB5 Education
+field statistical theorydecision theorymathematical statisticsprobability(outline)survey methodology,0.85,IAB5 Education
+field regression(outline),0.85,IAB5 Education
+field simulationbootstrap (statistics),0.85,IAB5 Education
+field bootstrap (statistics),0.85,IAB5 Education
+field block designandanalysis of variance,0.85,IAB5 Education
+field response surface methodology,0.85,IAB5 Education
+field sampling theory,0.85,IAB5 Education
+field biostatisticsepidemiology,0.85,IAB5 Education
+field multivariate analysisstructural equation modeltime series,0.85,IAB5 Education
+field reliability theory,0.85,IAB5 Education
+field epidemiology,0.85,IAB5 Education
+field structural equation model,0.85,IAB5 Education
+field time series,0.85,IAB5 Education
+field decision theory,0.85,IAB5 Education
+field mathematical statisticsprobability(outline),0.85,IAB5 Education
+field survey methodology,0.85,IAB5 Education
+field probability(outline),0.85,IAB5 Education
+field network science,0.85,IAB5 Education
+field conceptual systems,0.85,IAB5 Education
+field communications system,0.85,IAB5 Education
+field complex system,0.85,IAB5 Education
+field cyberneticsbiocyberneticsengineering cyberneticsmanagement cyberneticsmedical cyberneticsnew cyberneticssecond-order cyberneticssociocybernetics,0.85,IAB5 Education
+field control theoryaffect control theorycontrol engineeringcontrol systemsdynamical systemsperceptual control theory,0.85,IAB5 Education
+field operations research,0.85,IAB5 Education
+field systems biologycomputational systems biologysynthetic biologysystems immunologysystems neuroscience,0.85,IAB5 Education
+field system dynamicssocial dynamics,0.85,IAB5 Education
+field systems ecologyecosystem ecology,0.85,IAB5 Education
+field systems engineeringbiological systems engineeringearth systems engineering and managemententerprise systems engineeringsystems analysis,0.85,IAB5 Education
+field systems theory in anthropology,0.85,IAB5 Education
+field systems psychologyergonomicsfamily systems theorysystemic therapy,0.85,IAB5 Education
+field systems theorybiochemical systems theoryecological systems theorydevelopmental systems theorygeneral systems theoryliving systems theorylti system theorysociotechnical systems theorymathematical system theoryworld-systems theory,0.85,IAB5 Education
+field biocybernetics,0.85,IAB5 Education
+field engineering cybernetics,0.85,IAB5 Education
+field management cybernetics,0.85,IAB5 Education
+field medical cybernetics,0.85,IAB5 Education
+field new cybernetics,0.85,IAB5 Education
+field second-order cybernetics,0.85,IAB5 Education
+field affect control theory,0.85,IAB5 Education
+field control systems,0.85,IAB5 Education
+field dynamical systems,0.85,IAB5 Education
+field perceptual control theory,0.85,IAB5 Education
+field computational systems biology,0.85,IAB5 Education
+field synthetic biology,0.85,IAB5 Education
+field systems immunology,0.85,IAB5 Education
+field systems neuroscience,0.85,IAB5 Education
+field social dynamics,0.85,IAB5 Education
+field ecosystem ecology,0.85,IAB5 Education
+field biological systems engineering,0.85,IAB5 Education
+field earth systems engineering and management,0.85,IAB5 Education
+field enterprise systems engineering,0.85,IAB5 Education
+field ergonomics,0.85,IAB5 Education
+field family systems theory,0.85,IAB5 Education
+field systemic therapy,0.85,IAB5 Education
+field biochemical systems theory,0.85,IAB5 Education
+field ecological systems theory,0.85,IAB5 Education
+field developmental systems theory,0.85,IAB5 Education
+field general systems theory,0.85,IAB5 Education
+field living systems theory,0.85,IAB5 Education
+field lti system theory,0.85,IAB5 Education
+field sociotechnical systems theory,0.85,IAB5 Education
+field mathematical system theory,0.85,IAB5 Education
+field world-systems theory,0.85,IAB5 Education
+field aeroponics,0.85,IAB5 Education
+field agrology,0.85,IAB5 Education
+field agronomy,0.85,IAB5 Education
+field animal husbandry(animal science)beekeeping(apiculture),0.85,IAB5 Education
+field anthroponics,0.85,IAB5 Education
+field agricultural engineeringbiological systems engineeringfood engineering,0.85,IAB5 Education
+field aquaculture,0.85,IAB5 Education
+field aquaponics,0.85,IAB5 Education
+field enology,0.85,IAB5 Education
+field entomology,0.85,IAB5 Education
+field fogponics,0.85,IAB5 Education
+field food scienceculinary arts,0.85,IAB5 Education
+field forestry,0.85,IAB5 Education
+field horticulture,0.85,IAB5 Education
+field hydroponics,0.85,IAB5 Education
+field plant science(outline)pomology,0.85,IAB5 Education
+field pest control,0.85,IAB5 Education
+field purification,0.85,IAB5 Education
+field viticulture,0.85,IAB5 Education
+field beekeeping(apiculture),0.85,IAB5 Education
+field food engineering,0.85,IAB5 Education
+field pomology,0.85,IAB5 Education
+field architecture(outline)interior architecturelandscape architecture,0.85,IAB5 Education
+field historic preservation,0.85,IAB5 Education
+field interior design(interior architecture),0.85,IAB5 Education
+field landscape architecture(landscape planning),0.85,IAB5 Education
+field landscape design,0.85,IAB5 Education
+field urban planning(urban design),0.85,IAB5 Education
+field visual communicationgraphic designtype designtechnical drawing,0.85,IAB5 Education
+field industrial design(product design)ergonomics(outline)toy and amusement design,0.85,IAB5 Education
+field user experience designinteraction designinformation architectureuser interface designuser experience evaluation,0.85,IAB5 Education
+field decorative arts,0.85,IAB5 Education
+field fashion design,0.85,IAB5 Education
+field textile design,0.85,IAB5 Education
+field interior architecture,0.85,IAB5 Education
+field landscape architecture,0.85,IAB5 Education
+field graphic designtype design,0.85,IAB5 Education
+field technical drawing,0.85,IAB5 Education
+field type design,0.85,IAB5 Education
+field ergonomics(outline),0.85,IAB5 Education
+field toy and amusement design,0.85,IAB5 Education
+field interaction design,0.85,IAB5 Education
+field information architecture,0.85,IAB5 Education
+field user interface design,0.85,IAB5 Education
+field user experience evaluation,0.85,IAB5 Education
+field accountingaccounting researchaccounting scholarship,0.85,IAB5 Education
+field business administration,0.85,IAB5 Education
+field business analysis,0.85,IAB5 Education
+field business law,0.85,IAB5 Education
+field e-business,0.85,IAB5 Education
+field finance(outline),0.85,IAB5 Education
+field industrial and labor relationscollective bargaininghuman resourcesorganizational studieslabor economicslabor history,0.85,IAB5 Education
+field information systems(business informatics)management information systemshealth informatics,0.85,IAB5 Education
+field information technology(outline),0.85,IAB5 Education
+field international trade,0.85,IAB5 Education
+field management(outline),0.85,IAB5 Education
+field marketing(outline),0.85,IAB5 Education
+field operations management,0.85,IAB5 Education
+field purchasing,0.85,IAB5 Education
+field risk managementandinsurance,0.85,IAB5 Education
+field systems science,0.85,IAB5 Education
+field accounting research,0.85,IAB5 Education
+field accounting scholarship,0.85,IAB5 Education
+field collective bargaining,0.85,IAB5 Education
+field human resources,0.85,IAB5 Education
+field labor history,0.85,IAB5 Education
+field management information systems,0.85,IAB5 Education
+field health informatics,0.85,IAB5 Education
+field comparative education,0.85,IAB5 Education
+field critical pedagogy,0.85,IAB5 Education
+field curriculum and instructionalternative educationearly childhood educationelementary educationsecondary educationhigher educationmastery learningcooperative learningagricultural educationart educationbilingual educationchemistry educationcounselor educationlanguage educationlegal educationmathematics educationmedical educationmilitary education and trainingmusic educationnursing educationoutdoor educationpeace educationphysical education/sports coachingphysics educationreading educationreligious educationscience educationspecial educationsex educationsociology of educationtechnology educationvocational education,0.85,IAB5 Education
+field educational leadership,0.85,IAB5 Education
+field educational philosophy,0.85,IAB5 Education
+field educational technology,0.85,IAB5 Education
+field distance education,0.85,IAB5 Education
+field alternative education,0.85,IAB5 Education
+field early childhood education,0.85,IAB5 Education
+field elementary education,0.85,IAB5 Education
+field secondary education,0.85,IAB5 Education
+field higher education,0.85,IAB5 Education
+field mastery learning,0.85,IAB5 Education
+field cooperative learning,0.85,IAB5 Education
+field agricultural education,0.85,IAB5 Education
+field art education,0.85,IAB5 Education
+field bilingual education,0.85,IAB5 Education
+field chemistry education,0.85,IAB5 Education
+field counselor education,0.85,IAB5 Education
+field language education,0.85,IAB5 Education
+field legal education,0.85,IAB5 Education
+field mathematics education,0.85,IAB5 Education
+field medical education,0.85,IAB5 Education
+field military education and training,0.85,IAB5 Education
+field nursing education,0.85,IAB5 Education
+field outdoor education,0.85,IAB5 Education
+field peace education,0.85,IAB5 Education
+field physical education/sports coaching,0.85,IAB5 Education
+field physics education,0.85,IAB5 Education
+field reading education,0.85,IAB5 Education
