@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
 
 # Load model and tokenizer
-model_dir = "distilbert_output"  # or "tinybert_output"
+model_dir = "bert_output"  # or "tinybert_output"
 model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 
