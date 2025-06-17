@@ -1,525 +1,183 @@
-text,labels,confidence,source,iab_label
-how to stay fit without a gym,,0.19,synthetic,IAB7 Health & Fitness
-misfit shine activity tracker hardware review,,0.19,pseudo labeled,IAB7 Health & Fitness
-ten servings fruit vegetables day five needed good health,,0.19,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people reduce their risk of heart disease.,,0.19,synthetic,IAB7 Health & Fitness
-Exercise can help people cope with chronic pain.,,0.19,synthetic,IAB7 Health & Fitness
-Exercise can help people feel more confident and empowered.,,0.19,synthetic,IAB7 Health & Fitness
-older people enhance quality life 20 mins walk every day,,0.19,pseudo labeled,IAB7 Health & Fitness
-Exercise should be done regularly to achieve the greatest benefits.,,0.19,synthetic,IAB7 Health & Fitness
-subway says yoga mat chemical phased next week,,0.19,pseudo labeled,IAB7 Health & Fitness
-willing run 5 minutes day youll live longer,,0.19,pseudo labeled,IAB7 Health & Fitness
-annual pelvic exams healthy women necessary,,0.19,pseudo labeled,IAB7 Health & Fitness
-marin ranked healthiest county california 5th year running,,0.19,pseudo labeled,IAB7 Health & Fitness
-stocks watch herbalife dollar general aeropostale,,0.19,pseudo labeled,IAB7 Health & Fitness
-fittest city boulder colo tops list,,0.19,pseudo labeled,IAB7 Health & Fitness
-planet fitness member told cover,,0.19,pseudo labeled,IAB7 Health & Fitness
-subway yoga mat chemical almost bread,,0.19,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people reduce their risk of osteoporosis.,,0.19,synthetic,IAB7 Health & Fitness
-google get shape firm set announce google fit platform next week,,0.19,pseudo labeled,IAB7 Health & Fitness
-"By following your doctor's orders and making healthy lifestyle choices, you can live a full and active life.",,0.19,synthetic,IAB7 Health & Fitness
-healthy heart young adult may increase mental sharpness midlife,,0.19,pseudo labeled,IAB7 Health & Fitness
-double duty spring cleaning keep healthy tidy,,0.19,pseudo labeled,IAB7 Health & Fitness
-google previews fit software development kit healthtracking apps,,0.19,pseudo labeled,IAB7 Health & Fitness
-facebook enters fitness tracking acquisition moves app maker,,0.19,pseudo labeled,IAB7 Health & Fitness
-google details android wear introduces google fit,,0.19,pseudo labeled,IAB7 Health & Fitness
-Bodybuilders often face challenges related to body image and self-esteem.,,0.19,synthetic,IAB7 Health & Fitness
-run every day keep deadly diseases bay,,0.19,pseudo labeled,IAB7 Health & Fitness
-american ninja warriors first female finalist workout inspiration,,0.19,pseudo labeled,IAB7 Health & Fitness
-lowcarb vegan diet help lose weight control cholesterol,,0.19,pseudo labeled,IAB7 Health & Fitness
-5 new herbalife bull arguments refuted,,0.19,pseudo labeled,IAB7 Health & Fitness
-rob kardashian rob kardashian vows get shape,,0.19,pseudo labeled,IAB7 Health & Fitness
-facebook invests future wearables fitness app acquisition,,0.19,pseudo labeled,IAB7 Health & Fitness
-kim kardashians ketogenic diet combats obesity epilepsy cancer depression,,0.19,pseudo labeled,IAB7 Health & Fitness
-palm beach county ranks 14th healthiest state,,0.19,pseudo labeled,IAB7 Health & Fitness
-"These include getting regular exercise, eating a healthy diet, and getting enough sleep.",,0.19,synthetic,IAB7 Health & Fitness
-how to prevent shin splints,,0.19,synthetic,IAB7 Health & Fitness
-"Exercise can help people live longer, healthier lives.",,0.19,synthetic,IAB7 Health & Fitness
-how to incorporate yoga into fitness routine,,0.19,synthetic,IAB7 Health & Fitness
-how to increase stamina naturally,,0.19,synthetic,IAB7 Health & Fitness
-facebook buys moves fitness tracking app,,0.19,pseudo labeled,IAB7 Health & Fitness
-kim kardashian working hard shape dday,,0.19,pseudo labeled,IAB7 Health & Fitness
-sonoma county 12th healthiest county california,,0.19,pseudo labeled,IAB7 Health & Fitness
-meet exercise guidelines postbreast cancer diagnosis,,0.19,pseudo labeled,IAB7 Health & Fitness
-ackman vs herbalife drama nj professor gets cameo role,,0.18,pseudo labeled,IAB7 Health & Fitness
-fish exercise help thwart colon cancers return,,0.18,pseudo labeled,IAB7 Health & Fitness
-los angeles based herbalife facing ftc inquiry shares plunge,,0.18,pseudo labeled,IAB7 Health & Fitness
-7 million signups doesnt guarantee health laws success,,0.18,pseudo labeled,IAB7 Health & Fitness
-- Occupational therapy,,0.18,synthetic,IAB7 Health & Fitness
-yoga mat ingredient almost subway bread,,0.18,pseudo labeled,IAB7 Health & Fitness
-washtenaw county tops health factors among michigan counties,,0.18,pseudo labeled,IAB7 Health & Fitness
-"Bicycling is an accessible and affordable form of exercise, making it a viable option for people of all ages and fitness levels.",,0.18,synthetic,IAB7 Health & Fitness
-7 health buzzwords really mean,,0.18,pseudo labeled,IAB7 Health & Fitness
-Physical therapists help orthopedic patients regain their mobility and function.,,0.18,synthetic,IAB7 Health & Fitness
-Bodybuilding has been linked to eating disorders and other health problems.,,0.18,synthetic,IAB7 Health & Fitness
-So take some time to learn about nutrition.,,0.18,synthetic,IAB7 Health & Fitness
-how to improve ankle mobility,,0.18,synthetic,IAB7 Health & Fitness
-how to reduce muscle inflammation,,0.18,synthetic,IAB7 Health & Fitness
-toned woman quits gym fit,,0.18,pseudo labeled,IAB7 Health & Fitness
-atlanta one fittest,,0.18,pseudo labeled,IAB7 Health & Fitness
-review hbos normal heart hits right notes,,0.18,pseudo labeled,IAB7 Health & Fitness
-dark chocolate may improve walking ability,,0.18,pseudo labeled,IAB7 Health & Fitness
-doug camilli shia labeouf checks rehab,,0.18,pseudo labeled,IAB7 Health & Fitness
-strength training benefits for women,,0.18,synthetic,IAB7 Health & Fitness
-"Key figures in the weight loss industry include Dr. Oz, Dr. Phil, and Jenny Craig.",,0.18,synthetic,IAB7 Health & Fitness
-best exercises for glutes,,0.18,synthetic,IAB7 Health & Fitness
-southwest high school students celebrate kick butts day expose dangers,,0.18,pseudo labeled,IAB7 Health & Fitness
-weightloss surgery reverses diabetes woman battling obesity,,0.18,pseudo labeled,IAB7 Health & Fitness
-selena gomezs kin wants go rehab,,0.18,pseudo labeled,IAB7 Health & Fitness
-benefits of sauna for recovery,,0.18,synthetic,IAB7 Health & Fitness
-medina county ranked 4 healthiest state second consecutive year,,0.18,pseudo labeled,IAB7 Health & Fitness
-misfit pebble partner bring fitness tracking pebble watches,,0.18,pseudo labeled,IAB7 Health & Fitness
-three indiana counties ranked states healthiest,,0.18,pseudo labeled,IAB7 Health & Fitness
-michigan counties ranked healthiness,,0.18,pseudo labeled,IAB7 Health & Fitness
-Some of the benefits of physical activity for deaf people include:,,0.18,synthetic,IAB7 Health & Fitness
-kim kardashian strict exercise regime wedding,,0.18,pseudo labeled,IAB7 Health & Fitness
-healthy buzzwords junk food labels trick consumers,,0.17,pseudo labeled,IAB7 Health & Fitness
-tanning way tomb us health department plan,,0.17,pseudo labeled,IAB7 Health & Fitness
-healthy buzzwords get people believe healthier foods,,0.17,pseudo labeled,IAB7 Health & Fitness
-health institute sedgwick county ranks 75th healthy lifestyle,,0.17,pseudo labeled,IAB7 Health & Fitness
-google takes human body find healthy person looks like,,0.17,pseudo labeled,IAB7 Health & Fitness
-running little 30 minutes week reduces risk early death,,0.17,pseudo labeled,IAB7 Health & Fitness
-fhfa director mel watt plan fannie mae freddie mac,,0.17,pseudo labeled,IAB7 Health & Fitness
-**Lifestyle changes**,,0.17,synthetic,IAB7 Health & Fitness
-sector update consumer shares higher premarket herbalife 7 new,,0.17,pseudo labeled,IAB7 Health & Fitness
-rashes blisters lead major fitbit recall,,0.17,pseudo labeled,IAB7 Health & Fitness
-one hour exercise week reduces 50 risk alzheimers,,0.17,pseudo labeled,IAB7 Health & Fitness
-extra time enroll heath care deadline looms,,0.17,pseudo labeled,IAB7 Health & Fitness
-samsung everybody else cares health,,0.17,pseudo labeled,IAB7 Health & Fitness
-fitbit force racked 10000 skin irritation complaints,,0.17,pseudo labeled,IAB7 Health & Fitness
-- The development of new technologies to track and monitor walking activity.,,0.17,synthetic,IAB7 Health & Fitness
-eat proteinrich diet stay away stroke,,0.17,pseudo labeled,IAB7 Health & Fitness
-google attempts well google healthy human,,0.17,pseudo labeled,IAB7 Health & Fitness
-st louis ranks 41st 50 us metro fit city index,,0.17,pseudo labeled,IAB7 Health & Fitness
-run five minutes day may add years life,,0.17,pseudo labeled,IAB7 Health & Fitness
-apples new earpods come heart rate blood pressure sensors,,0.17,pseudo labeled,IAB7 Health & Fitness
-raleighcary metro ranks 13th fit city index,,0.17,pseudo labeled,IAB7 Health & Fitness
-The best way to walk for you will depend on your fitness level and goals.,,0.17,synthetic,IAB7 Health & Fitness
-study fistbumping hygienic shaking hands,,0.17,pseudo labeled,IAB7 Health & Fitness
-facebook acquires fitness activity tracking app moves,,0.17,pseudo labeled,IAB7 Health & Fitness
-antismoking kick butts day wednesday,,0.17,pseudo labeled,IAB7 Health & Fitness
-Cell phones can be used to promote health and well-being.,,0.17,synthetic,IAB7 Health & Fitness
-new iphone 5s fitness app makes getting shape simply breeze,,0.17,pseudo labeled,IAB7 Health & Fitness
-counties run health gamut,,0.17,pseudo labeled,IAB7 Health & Fitness
-orthorexia healthy diets go far,,0.17,pseudo labeled,IAB7 Health & Fitness
-shares herbalife destroyed report criminal investigation,,0.17,pseudo labeled,IAB7 Health & Fitness
-"Despite the risks, bodybuilding continues to attract individuals seeking to improve their physical appearance.",,0.17,synthetic,IAB7 Health & Fitness
-olive oil salad combined explain med diet success,,0.17,pseudo labeled,IAB7 Health & Fitness
-Improved cardiovascular health,,0.17,synthetic,IAB7 Health & Fitness
-diet reduces weight controls cholesterol,,0.17,pseudo labeled,IAB7 Health & Fitness
-adopting healthy lifestyle help control reverse heart disease,,0.17,pseudo labeled,IAB7 Health & Fitness
-lowcarb vegan diet reduce heart disease risk help lose weight,,0.17,pseudo labeled,IAB7 Health & Fitness
-regular walking may ease parkinsons symptoms,,0.17,pseudo labeled,IAB7 Health & Fitness
-Physical therapy is a safe and effective treatment option for a variety of conditions.,,0.17,synthetic,IAB7 Health & Fitness
-ranked 25th healthiest county illinois,,0.17,pseudo labeled,IAB7 Health & Fitness
-google define good health,,0.17,pseudo labeled,IAB7 Health & Fitness
-how to lose belly fat fast,,0.17,synthetic,IAB7 Health & Fitness
-watch kale,,0.17,pseudo labeled,IAB7 Health & Fitness
-best smartwatch for fitness tracking,,0.17,synthetic,IAB7 Health & Fitness
-how to relieve muscle soreness,,0.17,synthetic,IAB7 Health & Fitness
-People with diabetes need to get regular exercise.,,0.17,synthetic,IAB7 Health & Fitness
-ryan lewis ryan lewis launches health centre fundraiser honour,,0.17,pseudo labeled,IAB7 Health & Fitness
-best fitness apps for tracking,,0.17,synthetic,IAB7 Health & Fitness
-study running 5 minutes day could add years life,,0.17,pseudo labeled,IAB7 Health & Fitness
-jessica simpson instagram weight loss plan star weds eric johnson,,0.17,pseudo labeled,IAB7 Health & Fitness
-herbalife probes going months,,0.17,pseudo labeled,IAB7 Health & Fitness
-britney spears works bizarre sauna suit top picture,,0.17,pseudo labeled,IAB7 Health & Fitness
-"In the 19th century, physical therapy emerged as a distinct profession, and in the 20th century, it became increasingly recognized as an essential part of healthcare.",,0.17,synthetic,IAB7 Health & Fitness
-healthiest forsyth named georgias healthiest county,,0.17,pseudo labeled,IAB7 Health & Fitness
-excessive exercise could put heart disease patients risk,,0.17,pseudo labeled,IAB7 Health & Fitness
-Nutrition is a lifelong journey.,,0.17,synthetic,IAB7 Health & Fitness
-Exercise can help people reduce their risk of type 2 diabetes.,,0.17,synthetic,IAB7 Health & Fitness
-samsungs health event hype substance,,0.17,pseudo labeled,IAB7 Health & Fitness
-fitbit force recalled due skin irritation,,0.17,pseudo labeled,IAB7 Health & Fitness
-stretching exercises for flexibility,,0.17,synthetic,IAB7 Health & Fitness
-samsung thinks watch could future health,,0.17,pseudo labeled,IAB7 Health & Fitness
-poor physical activity level blamed rising obesity rate us,,0.17,pseudo labeled,IAB7 Health & Fitness
-portland ranked 3rd fittest city us,,0.16,pseudo labeled,IAB7 Health & Fitness
-buncombe ranked 18th healthiest county,,0.16,pseudo labeled,IAB7 Health & Fitness
-oklahoma students participate kick butts day events help end youth,,0.16,pseudo labeled,IAB7 Health & Fitness
-samsung sdi reveal curved battery perfect wearables like gear fit,,0.16,pseudo labeled,IAB7 Health & Fitness
-heart rate sensor comparison samsung galaxy s5 vs galaxy s4 vs iphone,,0.16,pseudo labeled,IAB7 Health & Fitness
-ecigarettes help smokers kick butt,,0.16,pseudo labeled,IAB7 Health & Fitness
-perfect day kick butts,,0.16,pseudo labeled,IAB7 Health & Fitness
-eastern ohio counties average healthwise,,0.16,pseudo labeled,IAB7 Health & Fitness
-flickr channels instagram runkeepers breeze app facebook nearby friends,,0.16,pseudo labeled,IAB7 Health & Fitness
-lululemon criticized antisunscreen slogan company bags,,0.16,pseudo labeled,IAB7 Health & Fitness
-kirstie alley rejoins jenny craig wants lose 30 pounds,,0.16,pseudo labeled,IAB7 Health & Fitness
-fitbit still leads wearables market irritating competitors,,0.16,pseudo labeled,IAB7 Health & Fitness
-diet beverages help shed extra kilos,,0.16,pseudo labeled,IAB7 Health & Fitness
-senior citizens maintain mobility engaging moderate physical activity,,0.16,pseudo labeled,IAB7 Health & Fitness
-subway yoga mat chemical almost gone,,0.16,pseudo labeled,IAB7 Health & Fitness
-facebook acquires protogeo oy maker fitness tracking app moves,,0.16,pseudo labeled,IAB7 Health & Fitness
-dc area ranked fittest nation,,0.16,pseudo labeled,IAB7 Health & Fitness
-eat protein,,0.16,pseudo labeled,IAB7 Health & Fitness
-dr mehmet oz hot seat senate panel weight loss products,,0.16,pseudo labeled,IAB7 Health & Fitness
-drink milk women may delay knee osteoarthritis,,0.16,pseudo labeled,IAB7 Health & Fitness
-weight loss surgery treats type 2 diabetes obese patients,,0.16,pseudo labeled,IAB7 Health & Fitness
-google baseline 5 things know goog healthy human project,,0.16,pseudo labeled,IAB7 Health & Fitness
-rare film footage shows fdr walking,,0.16,pseudo labeled,IAB7 Health & Fitness
-running life,,0.16,pseudo labeled,IAB7 Health & Fitness
-yoga poses for beginners,,0.16,synthetic,IAB7 Health & Fitness
-toby kebbell doctor doom new fantastic four,,0.16,pseudo labeled,IAB7 Health & Fitness
-"Exercise can be done at home, at the gym, or outdoors.",,0.16,synthetic,IAB7 Health & Fitness
-sheryl sandbergs leaninorg,,0.16,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people reduce their risk of falls.,,0.16,synthetic,IAB7 Health & Fitness
-Exercise can help people improve their cognitive function.,,0.16,synthetic,IAB7 Health & Fitness
-top supplements for joint health,,0.16,synthetic,IAB7 Health & Fitness
-cameron diaz feels better 41 21 antiaging diet workout tips,,0.16,pseudo labeled,IAB7 Health & Fitness
-"Eating a healthy diet, getting regular exercise, and taking your medication as prescribed can all help to improve your symptoms.",,0.16,synthetic,IAB7 Health & Fitness
-best home treadmill for small space,,0.16,synthetic,IAB7 Health & Fitness
-healthy habits help adults reverse risk heart disease,,0.16,pseudo labeled,IAB7 Health & Fitness
-Spas are a great way to improve your overall health and well-being.,,0.16,synthetic,IAB7 Health & Fitness
-"The Importance of Self-Care for Women's Health: Prioritizing Physical, Mental, and Emotional Well-being",,0.16,synthetic,IAB7 Health & Fitness
-"There are many different ways to walk, from leisurely strolls to brisk walks to power walking.",,0.16,synthetic,IAB7 Health & Fitness
-how to choose the right protein powder,,0.16,synthetic,IAB7 Health & Fitness
-vessyl smart cup might change entire weight loss scenario,,0.16,pseudo labeled,IAB7 Health & Fitness
-"Spas can help you live a longer, healthier, and happier life.",,0.16,synthetic,IAB7 Health & Fitness
-shia labeouf checks rehab,,0.16,pseudo labeled,IAB7 Health & Fitness
-cvd patients get much exercise,,0.16,pseudo labeled,IAB7 Health & Fitness
-foam roller exercises for back pain,,0.16,synthetic,IAB7 Health & Fitness
-"Lifestyle changes, such as getting regular exercise, eating a healthy diet, and getting enough sleep, can also help to prevent and treat headaches and migraines.",,0.16,synthetic,IAB7 Health & Fitness
-breast lifts outpacing implants 2to1 natural tissue procedures often,,0.15,pseudo labeled,IAB7 Health & Fitness
-commonly used drug restores blood flow oxygenstarved muscles boys,,0.15,pseudo labeled,IAB7 Health & Fitness
-highintensity exercise could hurt heart health,,0.15,pseudo labeled,IAB7 Health & Fitness
-physical activity help older adults maintain mobility,,0.15,pseudo labeled,IAB7 Health & Fitness
-google introduce glucosesensing smart contact lenses video,,0.15,pseudo labeled,IAB7 Health & Fitness
-kansas city area counties among healthiest kansas missouri,,0.15,pseudo labeled,IAB7 Health & Fitness
-much highintensity exercise could hurt heart health,,0.15,pseudo labeled,IAB7 Health & Fitness
-daily running lower death risk,,0.15,pseudo labeled,IAB7 Health & Fitness
-eating 7 portions fruits vegetables day may significantly reduce,,0.15,pseudo labeled,IAB7 Health & Fitness
-"Birds are social creatures, and they need to interact with other birds in order to stay healthy and happy.",,0.15,synthetic,IAB7 Health & Fitness
-man loses nearly 400 pounds meeting inspiring friend online,,0.15,pseudo labeled,IAB7 Health & Fitness
-samsung wants health data plan,,0.15,pseudo labeled,IAB7 Health & Fitness
-how to improve VO2 max,,0.15,synthetic,IAB7 Health & Fitness
-"Weight loss has become a global phenomenon, with an estimated 1.9 billion adults worldwide being overweight or obese.",,0.15,synthetic,IAB7 Health & Fitness
-"These treatments include medication, physical therapy, and psychological counseling.",,0.15,synthetic,IAB7 Health & Fitness
-health watch,,0.15,pseudo labeled,IAB7 Health & Fitness
-carlisle pa sentinel dont forget core icy challenge,,0.15,pseudo labeled,IAB7 Health & Fitness
-how to build core strength,,0.15,synthetic,IAB7 Health & Fitness
-Exercise can help people manage their blood sugar levels.,,0.15,synthetic,IAB7 Health & Fitness
-lauren silverman back shape,,0.15,pseudo labeled,IAB7 Health & Fitness
-kim kardashian goes makeupfree last prewedding workout photos,,0.15,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people lose weight and keep it off.,,0.15,synthetic,IAB7 Health & Fitness
-premeal water drinking cheapest weight loss treatment,,0.15,pseudo labeled,IAB7 Health & Fitness
-healthy lifestyle cuts negative effects stress,,0.15,pseudo labeled,IAB7 Health & Fitness
-"These strategies include eating a healthy diet, getting regular physical activity, and making lifestyle changes that promote weight loss.",,0.15,synthetic,IAB7 Health & Fitness
-facebook acquires maker fitness tracking app moves let operate,,0.15,pseudo labeled,IAB7 Health & Fitness
-regular walking could improve parkinsons symptoms,,0.15,pseudo labeled,IAB7 Health & Fitness
-chris brown booted rehab,,0.15,pseudo labeled,IAB7 Health & Fitness
-elderly benefit supervised physical activity,,0.15,pseudo labeled,IAB7 Health & Fitness
-yoga for better sleep,,0.15,synthetic,IAB7 Health & Fitness
-runkeepers new breeze app goes beyond workouts count daily steps via,,0.15,pseudo labeled,IAB7 Health & Fitness
-need 7 servings fruits vegetables day,,0.15,pseudo labeled,IAB7 Health & Fitness
-google x sets define healthy human,,0.15,pseudo labeled,IAB7 Health & Fitness
-wedding countdown kim kardashian kanye west hit gym together,,0.15,pseudo labeled,IAB7 Health & Fitness
-seven portions fruits veggies better fiveaday,,0.15,pseudo labeled,IAB7 Health & Fitness
-Current Trends: There are a number of current trends in men's health.,,0.15,synthetic,IAB7 Health & Fitness
-weight loss bariatric surgery lowers risk uterine cancer,,0.15,pseudo labeled,IAB7 Health & Fitness
-Future Possibilities: There are a number of future possibilities for men's health.,,0.15,synthetic,IAB7 Health & Fitness
-dc ranked fittest city nation,,0.15,pseudo labeled,IAB7 Health & Fitness
-smartwatch make phone calls monitor heartrate,,0.15,pseudo labeled,IAB7 Health & Fitness
-glaxosmithkline recalls alli weightloss drug,,0.15,pseudo labeled,IAB7 Health & Fitness
-losing 172 pounds really looks like,,0.15,pseudo labeled,IAB7 Health & Fitness
-six pack gotta heart top list,,0.15,pseudo labeled,IAB7 Health & Fitness
-slideshow pennsylvanias healthiest counties,,0.15,pseudo labeled,IAB7 Health & Fitness
-robin william checks rehab,,0.15,pseudo labeled,IAB7 Health & Fitness
-breeze runkeeper steps activity level,,0.15,pseudo labeled,IAB7 Health & Fitness
-"Exercise has been a part of human life for centuries, with evidence of physical activity dating back to ancient civilizations.",,0.15,synthetic,IAB7 Health & Fitness
-benefits of collagen supplements,,0.15,synthetic,IAB7 Health & Fitness
-"Physical therapy can help patients improve their mobility, reduce pain, and regain function.",,0.15,synthetic,IAB7 Health & Fitness
-facebook gets fitness tracking purchase popular iphone app moves,,0.15,pseudo labeled,IAB7 Health & Fitness
-google wants index optimize body,,0.15,pseudo labeled,IAB7 Health & Fitness
-top cardio workouts at home,,0.15,synthetic,IAB7 Health & Fitness
-seniors daily moderate exercise helps avoid walking disability,,0.15,pseudo labeled,IAB7 Health & Fitness
-get rid loose skin fat weight loss,,0.15,pseudo labeled,IAB7 Health & Fitness
-active women cut risk cancer,,0.14,pseudo labeled,IAB7 Health & Fitness
-avicii afrojack fight health problems miami,,0.14,pseudo labeled,IAB7 Health & Fitness
-exercises for shoulder mobility,,0.14,synthetic,IAB7 Health & Fitness
-washington ranked fittest city us heres,,0.14,pseudo labeled,IAB7 Health & Fitness
-Lifestyle changes are the cornerstone of diabetes management.,,0.14,synthetic,IAB7 Health & Fitness
-"Lifestyle changes, such as eating a healthy diet, getting regular exercise, and quitting smoking, can help to reduce the risk of heart disease.",,0.14,synthetic,IAB7 Health & Fitness
-recall weight loss drug alli,,0.14,pseudo labeled,IAB7 Health & Fitness
-rare 1937 film shows fdr walking,,0.14,pseudo labeled,IAB7 Health & Fitness
-Herbs can be a safe and effective way to improve your health and well-being.,,0.14,synthetic,IAB7 Health & Fitness
-smartwatch monitor heart rate,,0.14,pseudo labeled,IAB7 Health & Fitness
-This is due in part to the growing popularity of natural and holistic approaches to health.,,0.14,synthetic,IAB7 Health & Fitness
-Nutrition is a key component of a healthy lifestyle.,,0.14,synthetic,IAB7 Health & Fitness
-fun sun sunscreen protecting harmful rays,,0.14,pseudo labeled,IAB7 Health & Fitness
-"By making healthy choices, you can improve your overall health and well-being.",,0.14,synthetic,IAB7 Health & Fitness
-The passage of the Medicare Act in 1965 led to a significant increase in the demand for physical therapy services.,,0.14,synthetic,IAB7 Health & Fitness
-core stability exercises,,0.14,synthetic,IAB7 Health & Fitness
-foods that aid muscle recovery,,0.14,synthetic,IAB7 Health & Fitness
-tips for building muscle mass,,0.14,synthetic,IAB7 Health & Fitness
-iphone 6 rumors weather fitness features,,0.14,pseudo labeled,IAB7 Health & Fitness
-bodyweight exercises for full body,,0.14,synthetic,IAB7 Health & Fitness
-plant based protein sources,,0.14,synthetic,IAB7 Health & Fitness
-"There are many different types of exercise, so everyone can find an activity that they enjoy.",,0.14,synthetic,IAB7 Health & Fitness
-livingston county deemed healthiest,,0.14,pseudo labeled,IAB7 Health & Fitness
-going organic benefit health,,0.14,pseudo labeled,IAB7 Health & Fitness
-prediabetic teen drops 200 pounds,,0.14,pseudo labeled,IAB7 Health & Fitness
-middlesex county healthiest mass hampden worst,,0.14,pseudo labeled,IAB7 Health & Fitness
-adopting healthy habits help adults lower heart disease risk,,0.14,pseudo labeled,IAB7 Health & Fitness
-yearly pelvic exams longer recommended many women,,0.14,pseudo labeled,IAB7 Health & Fitness
-home features analyses healthy lifestyle undo heart,,0.14,pseudo labeled,IAB7 Health & Fitness
-doctors say fist bumps could healthier,,0.14,pseudo labeled,IAB7 Health & Fitness
-misfit pebble partner bring fitness tracking pebble users,,0.14,pseudo labeled,IAB7 Health & Fitness
-learning forum wellness fair parsippany may 15,,0.14,pseudo labeled,IAB7 Health & Fitness
-"It can also help to strengthen muscles and bones, and improve flexibility.",,0.14,synthetic,IAB7 Health & Fitness
-shia labeouf heads rehab,,0.14,pseudo labeled,IAB7 Health & Fitness
-selena gets advice join rehab,,0.14,pseudo labeled,IAB7 Health & Fitness
-common drug may help treat effects muscle disease boys,,0.14,pseudo labeled,IAB7 Health & Fitness
-glow county named nys healthiest,,0.14,pseudo labeled,IAB7 Health & Fitness
-us regulator launches investigation herbalife,,0.14,pseudo labeled,IAB7 Health & Fitness
-obesity surgery gives longlasting help type 2 diabetes beats medicines,,0.14,pseudo labeled,IAB7 Health & Fitness
-fed offers dual message health us economy,,0.14,pseudo labeled,IAB7 Health & Fitness
-"Barbecue and grilling can be a healthy way to cook food, as it can help to reduce the amount of fat in the meat.",,0.14,synthetic,IAB7 Health & Fitness
-bionic pancreas outperforms insulin pump,,0.14,pseudo labeled,IAB7 Health & Fitness
-force activitytracking wristband recalled fitbit due risk skin irritation,,0.14,pseudo labeled,IAB7 Health & Fitness
-It is important to find an exercise routine that is challenging but also enjoyable.,,0.14,synthetic,IAB7 Health & Fitness
-fist bump better hygiene,,0.14,pseudo labeled,IAB7 Health & Fitness
-chittenden declared vts healthiest county,,0.14,pseudo labeled,IAB7 Health & Fitness
-eat seven portions fruit veg day say experts,,0.14,pseudo labeled,IAB7 Health & Fitness
-connected health finally live name,,0.14,pseudo labeled,IAB7 Health & Fitness
-"With the right support, deaf people can enjoy the same benefits of physical activity as hearing people.",,0.14,synthetic,IAB7 Health & Fitness
-elderly find moderate physical activity winning way avoid mobility problems,,0.14,pseudo labeled,IAB7 Health & Fitness
-access health ct ceo leaving federal job,,0.14,pseudo labeled,IAB7 Health & Fitness
-12 rules healthy separation,,0.14,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people reduce their risk of stroke.,,0.14,synthetic,IAB7 Health & Fitness
-april 11 samsung galaxy s5 gear 2 gear 2 neo gear fit arrive canada,,0.13,pseudo labeled,IAB7 Health & Fitness
-ralph lauren debuts heart ratesensing shi,,0.13,pseudo labeled,IAB7 Health & Fitness
-watching sodium intake,,0.13,pseudo labeled,IAB7 Health & Fitness
-apples ios 8 includes health monitoring app,,0.13,pseudo labeled,IAB7 Health & Fitness
-tips for staying active as you age,,0.13,synthetic,IAB7 Health & Fitness
-pavlok wristband new technology shock skip workout,,0.13,pseudo labeled,IAB7 Health & Fitness
-physical activity reduces major mobility disability older adults,,0.13,pseudo labeled,IAB7 Health & Fitness
-samsung gear 2 smartwatches gear fit band launched india,,0.13,pseudo labeled,IAB7 Health & Fitness
-fitbit force users report roughly 10000 cases skin irritation,,0.13,pseudo labeled,IAB7 Health & Fitness
-dynamic stretching vs static stretching,,0.13,synthetic,IAB7 Health & Fitness
-rolling stones return stage highenergy show,,0.13,pseudo labeled,IAB7 Health & Fitness
-corals choose reefs healthy smell,,0.13,pseudo labeled,IAB7 Health & Fitness
-older californians rank tops nation healthy behaviors still face challenges,,0.13,pseudo labeled,IAB7 Health & Fitness
-sneaky kendall jenner films khloe kardashians bouncing bum workout,,0.13,pseudo labeled,IAB7 Health & Fitness
-resveratrol may associated improved health,,0.13,pseudo labeled,IAB7 Health & Fitness
-healthy women skip pelvic exam,,0.13,pseudo labeled,IAB7 Health & Fitness
-home celebrity kirstie alley gives diet company returns jenny craig,,0.13,pseudo labeled,IAB7 Health & Fitness
-strength training for seniors,,0.13,synthetic,IAB7 Health & Fitness
-how to measure body fat percentage,,0.13,synthetic,IAB7 Health & Fitness
-meal prep for muscle gain,,0.13,synthetic,IAB7 Health & Fitness
-update 1ecb boe call abs rehabilitation,,0.13,pseudo labeled,IAB7 Health & Fitness
-weightloss drug alli recalled glaxosmithkline,,0.13,pseudo labeled,IAB7 Health & Fitness
-fitbit recalls force activitytracking wristband due risk skin irritation,,0.13,pseudo labeled,IAB7 Health & Fitness
-americans experience health law depends live,,0.13,pseudo labeled,IAB7 Health & Fitness
-The development of new technologies has also had a major impact on the field of physical therapy.,,0.13,synthetic,IAB7 Health & Fitness
-"With proper treatment, most people with thyroid disease can live full and active lives.",,0.13,synthetic,IAB7 Health & Fitness
-health matters know mers,,0.13,pseudo labeled,IAB7 Health & Fitness
-wikipedia health,,0.13,pseudo labeled,IAB7 Health & Fitness
-ackmans pershing preview documentary herbalife may 2nd,,0.13,pseudo labeled,IAB7 Health & Fitness
-five day healthy enough,,0.13,pseudo labeled,IAB7 Health & Fitness
-"Lifestyle changes that can help manage asthma include avoiding triggers, getting regular exercise, and eating a healthy diet.",,0.13,synthetic,IAB7 Health & Fitness
-Low-fat cooking can help people lose weight and improve their overall health.,,0.13,synthetic,IAB7 Health & Fitness
-kris jenner flaunts bikini body kim lost 56 lbs lowcarb ketogenic diet,,0.13,pseudo labeled,IAB7 Health & Fitness
-twin cities rank high wellbeing,,0.13,pseudo labeled,IAB7 Health & Fitness
-Exercise can help people improve their balance and coordination.,,0.13,synthetic,IAB7 Health & Fitness
-hunterdon healthiest county new jersey somerset second,,0.13,pseudo labeled,IAB7 Health & Fitness
-"There are a number of things that can be done to lower cholesterol levels, including eating a healthy diet, exercising regularly, and quitting smoking",,0.13,synthetic,IAB7 Health & Fitness
-Notable events in the history of walking include:,,0.13,synthetic,IAB7 Health & Fitness
-healthy habits may slow cell aging protect stress,,0.13,pseudo labeled,IAB7 Health & Fitness
-"It has played a significant role in promoting physical fitness, reducing crime rates, and empowering marginalized communities.",,0.13,synthetic,IAB7 Health & Fitness
-healthy habits may slow cellular signs aging,,0.13,pseudo labeled,IAB7 Health & Fitness
-ackman wins round ftc starts herbalife probe,,0.13,pseudo labeled,IAB7 Health & Fitness
-"There are a number of key figures in the history of physical therapy, including Mary McMillan, Elizabeth Kenny, and Herman Kabat.",,0.13,synthetic,IAB7 Health & Fitness
-dallas ranked 38th fittest city,,0.13,pseudo labeled,IAB7 Health & Fitness
-Key Figures: There are a number of key figures in the history of men's health.,,0.13,synthetic,IAB7 Health & Fitness
-amanda bynes looks healthy several photos thanking fans,,0.13,pseudo labeled,IAB7 Health & Fitness
-fattest fittest cities us,,0.13,pseudo labeled,IAB7 Health & Fitness
-247 walkin clinics good health care option,,0.13,pseudo labeled,IAB7 Health & Fitness
-mixed olive oil veggies may cut blood pressure,,0.13,pseudo labeled,IAB7 Health & Fitness
-moderate exercise helps maintain mobility older adults study,,0.13,pseudo labeled,IAB7 Health & Fitness
-weight loss blogger says shape didnt want show bikini body,,0.13,pseudo labeled,IAB7 Health & Fitness
-"The AND website has a wealth of information on nutrition, including articles, recipes, and tips.",,0.13,synthetic,IAB7 Health & Fitness
-supreme court limits slightly epa program regulate ghgs,,0.13,pseudo labeled,IAB7 Health & Fitness
-avoid processed red meat failureproof heart,,0.13,pseudo labeled,IAB7 Health & Fitness
-fistbumps healthier handshakes,,0.13,pseudo labeled,IAB7 Health & Fitness
-"By improving men's health, we can improve the health and well-being of everyone.",,0.13,synthetic,IAB7 Health & Fitness
-emma stone struggles keep weight video,,0.13,pseudo labeled,IAB7 Health & Fitness
-hbos true detective season finale locks ratings high,,0.13,pseudo labeled,IAB7 Health & Fitness
-much sunscreen really need body,,0.13,pseudo labeled,IAB7 Health & Fitness
-overweight underweight people share health risks,,0.13,pseudo labeled,IAB7 Health & Fitness
-county ranks among illinois healthiest counties,,0.13,pseudo labeled,IAB7 Health & Fitness
-health rankings kane co 9th healthiest county state,,0.12,pseudo labeled,IAB7 Health & Fitness
-diet key,,0.12,pseudo labeled,IAB7 Health & Fitness
-run keep brain young,,0.12,pseudo labeled,IAB7 Health & Fitness
-"It promotes physical and mental well-being, providing opportunities for exercise, stress relief, and social interaction.",,0.12,synthetic,IAB7 Health & Fitness
-lack leisuretime physical activity linked increased obesity particularly,,0.12,pseudo labeled,IAB7 Health & Fitness
-running minutes per day cuts risk dying early,,0.12,pseudo labeled,IAB7 Health & Fitness
-"Vegetarian diets can be nutritionally adequate and provide numerous health benefits, including reduced risk of heart disease, stroke, and certain types of cancer.",,0.12,synthetic,IAB7 Health & Fitness
-lowcarbohydrate diet reduced inflammation,,0.12,pseudo labeled,IAB7 Health & Fitness
-"They can help you to get in shape, improve your coordination, and increase your flexibility.",,0.12,synthetic,IAB7 Health & Fitness
-It can also help prevent injuries and promote overall health and well-being.,,0.12,synthetic,IAB7 Health & Fitness
-how to improve shoulder flexibility,,0.12,synthetic,IAB7 Health & Fitness
-"By making healthy lifestyle choices and getting regular medical checkups, you can help to reduce your risk of heart disease.",,0.12,synthetic,IAB7 Health & Fitness
-best supplements for joint recovery,,0.12,synthetic,IAB7 Health & Fitness
-importance of balance training,,0.12,synthetic,IAB7 Health & Fitness
-tips for effective strength training,,0.12,synthetic,IAB7 Health & Fitness
-Controversies: There have been a number of controversies in the history of men's health.,,0.12,synthetic,IAB7 Health & Fitness
-how to improve squat depth,,0.12,synthetic,IAB7 Health & Fitness
-importance of protein in diet,,0.12,synthetic,IAB7 Health & Fitness
-how to recover from overtraining,,0.12,synthetic,IAB7 Health & Fitness
-benefits of magnesium supplements,,0.12,synthetic,IAB7 Health & Fitness
-high protein breakfast recipes,,0.12,synthetic,IAB7 Health & Fitness
-"Martial arts can be practiced for a variety of reasons, including self-defense, fitness, and personal development.",,0.12,synthetic,IAB7 Health & Fitness
-"Overweight and obesity are major risk factors for a number of chronic diseases, including heart disease, stroke, type 2 diabetes, and cancer.",,0.12,synthetic,IAB7 Health & Fitness
-"The causes of overweight and obesity are complex, but they include factors such as genetics, diet, physical activity, and lifestyle.",,0.12,synthetic,IAB7 Health & Fitness
-worth using steroid shots back pain,,0.12,pseudo labeled,IAB7 Health & Fitness
-energy drink cocktails boost desire drink,,0.12,pseudo labeled,IAB7 Health & Fitness
-google interested health deterred regulations,,0.12,pseudo labeled,IAB7 Health & Fitness
-Deafness and its impact on physical activity,,0.12,synthetic,IAB7 Health & Fitness
-Reduced risk of obesity,,0.12,synthetic,IAB7 Health & Fitness
-There are many resources available to help deaf people participate in physical activity.,,0.12,synthetic,IAB7 Health & Fitness
-getting hitched could key healthy hearts married people experience lower,,0.12,pseudo labeled,IAB7 Health & Fitness
-"Lifestyle changes, such as regular exercise and a healthy diet, can also help to improve symptoms of ADD.",,0.12,synthetic,IAB7 Health & Fitness
-court dismisses suit accusing hp exceo hurd fraud,,0.12,pseudo labeled,IAB7 Health & Fitness
-"There is no cure for diabetes, but it can be managed with medication, diet, and exercise.",,0.12,synthetic,IAB7 Health & Fitness
-wikipedia reliable source health advice,,0.12,pseudo labeled,IAB7 Health & Fitness
-healthy women skip routine pelvic exams experts state,,0.12,pseudo labeled,IAB7 Health & Fitness
-diet beverages may help shed extra kilos,,0.12,pseudo labeled,IAB7 Health & Fitness
-fistbumping healthier way greeting,,0.12,pseudo labeled,IAB7 Health & Fitness
-managing bp home works highrisk patients,,0.12,pseudo labeled,IAB7 Health & Fitness
-aspirinaday habit safe everyone fda warns,,0.12,pseudo labeled,IAB7 Health & Fitness
-provoorem utah ranked first galluphealthways community wellbeing index,,0.12,pseudo labeled,IAB7 Health & Fitness
-jogging memory exercise regularly keep brain robust,,0.12,pseudo labeled,IAB7 Health & Fitness
-mice study may offer fountain youth humans,,0.12,pseudo labeled,IAB7 Health & Fitness
-doctors routine pelvic exams needed healthy women,,0.12,pseudo labeled,IAB7 Health & Fitness
-city rank wellbeing list,,0.12,pseudo labeled,IAB7 Health & Fitness
-chittenden vermonts healthiest county according report finds inequality,,0.12,pseudo labeled,IAB7 Health & Fitness
-resveratrol supplements may health benefits,,0.12,pseudo labeled,IAB7 Health & Fitness
-meal prep ideas for weight loss,,0.11,synthetic,IAB7 Health & Fitness
-healthiest counties minnesota,,0.11,pseudo labeled,IAB7 Health & Fitness
-demarco stepping deputy director role fhfa,,0.11,pseudo labeled,IAB7 Health & Fitness
-medicares health looking,,0.11,pseudo labeled,IAB7 Health & Fitness
-jogging memory exercise regularly keep brain active,,0.11,pseudo labeled,IAB7 Health & Fitness
-cheryl burke gave yoyo dieting good lost 15 lbs,,0.11,pseudo labeled,IAB7 Health & Fitness
-Some of the key figures in the history of walking include:,,0.11,synthetic,IAB7 Health & Fitness
-im size 24 im healthy woman one 6m britons denial,,0.11,pseudo labeled,IAB7 Health & Fitness
-fountain youth filled blood,,0.11,pseudo labeled,IAB7 Health & Fitness
-turkey spends much less health oecd average,,0.11,pseudo labeled,IAB7 Health & Fitness
-joan rivers blasts lena dunham body positive messages,,0.11,pseudo labeled,IAB7 Health & Fitness
-health wellbeing simple steps avoid misery hay fever spring,,0.11,pseudo labeled,IAB7 Health & Fitness
-Improved balance and coordination,,0.11,synthetic,IAB7 Health & Fitness
-healthy meal ideas for busy lifestyle,,0.11,synthetic,IAB7 Health & Fitness
-"Despite these challenges, there are many ways that deaf people can participate in physical activity.",,0.11,synthetic,IAB7 Health & Fitness
-insulin pumps vs daily injections type 2,,0.11,pseudo labeled,IAB7 Health & Fitness
-how to improve balance and coordination,,0.11,synthetic,IAB7 Health & Fitness
-married improve heart health,,0.11,pseudo labeled,IAB7 Health & Fitness
-moderate physical activity could help older adults maintain mobility,,0.11,pseudo labeled,IAB7 Health & Fitness
-replacing handshakes fist bumps may save health,,0.11,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a good way to reduce the risk of developing metabolic syndrome.,,0.11,synthetic,IAB7 Health & Fitness
-"In the 19th century, the first weight loss clinics were opened, and the first diet books were published.",,0.11,synthetic,IAB7 Health & Fitness
-"With the right support, people with arthritis can live full and active lives.",,0.11,synthetic,IAB7 Health & Fitness
-credit suisse settles fhfa 885 million,,0.11,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a popular and effective way to reduce the risk of heart disease and other chronic diseases.,,0.11,synthetic,IAB7 Health & Fitness
-breast lifts way,,0.11,pseudo labeled,IAB7 Health & Fitness
-"People with diabetes need to make healthy choices about food, exercise, and medication.",,0.11,synthetic,IAB7 Health & Fitness
-"Low-fat cooking is a good way to reduce the risk of developing chronic diseases such as heart disease, stroke, and type 2 diabetes.",,0.11,synthetic,IAB7 Health & Fitness
-electronic cigarette users likelier kick butt,,0.11,pseudo labeled,IAB7 Health & Fitness
-- IBS and Crohn's Disease can make it difficult to exercise and maintain a healthy weight,,0.11,synthetic,IAB7 Health & Fitness
-Low-fat cooking can help people improve their cholesterol levels and blood pressure.,,0.11,synthetic,IAB7 Health & Fitness
-survey smartphone important hygiene americans,,0.11,pseudo labeled,IAB7 Health & Fitness
-healthy women skip pelvic exam doctors group says,,0.11,pseudo labeled,IAB7 Health & Fitness
-4 ways happy day life body,,0.11,pseudo labeled,IAB7 Health & Fitness
-fda approves marketing rewalk exoskeleton let paraplegics walk,,0.11,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a good way to improve the overall health and well-being of people.,,0.11,synthetic,IAB7 Health & Fitness
-Controversies in the history of walking include:,,0.11,synthetic,IAB7 Health & Fitness
-Is Brazilian healthy?,,0.11,synthetic,IAB7 Health & Fitness
-editorial timely call health check,,0.11,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a good way to improve the health of the population.,,0.11,synthetic,IAB7 Health & Fitness
-healthy women skip annual pelvic exam doctors group says,,0.11,pseudo labeled,IAB7 Health & Fitness
-Treatment for thyroid disease typically involves taking thyroid hormone replacement medication.,,0.1,synthetic,IAB7 Health & Fitness
-"If you have thyroid disease, it is important to be proactive in managing your condition.",,0.1,synthetic,IAB7 Health & Fitness
-fist bumps healthier handshakes,,0.1,pseudo labeled,IAB7 Health & Fitness
-"The World Health Organization (WHO) defines overweight as having a body mass index (BMI) of 25 or more, and obesity as having a BMI of 30 or more.",,0.1,synthetic,IAB7 Health & Fitness
-Low-fat cooking is a healthy and sustainable way to eat.,,0.1,synthetic,IAB7 Health & Fitness
-Low-fat cooking is a good way to reduce the risk of developing obesity.,,0.1,synthetic,IAB7 Health & Fitness
-Women are more likely to develop thyroid disease than men.,,0.1,synthetic,IAB7 Health & Fitness
-importance of warm up and cool down,,0.1,synthetic,IAB7 Health & Fitness
-"With proper treatment and management, people with arthritis can live full and active lives.",,0.1,synthetic,IAB7 Health & Fitness
-"These plans will be tailored to each individual's needs and preferences, and will be more likely to help people lose weight and keep it off.",,0.1,synthetic,IAB7 Health & Fitness
-google maps android gets voice controls elevation info cyclists,,0.1,pseudo labeled,IAB7 Health & Fitness
-how to improve flexibility,,0.1,synthetic,IAB7 Health & Fitness
-Spas can help you improve your mental health and well-being.,,0.1,synthetic,IAB7 Health & Fitness
-young mices blood recharges old mices brain,,0.1,pseudo labeled,IAB7 Health & Fitness
-olive oil lowers blood pressure,,0.1,pseudo labeled,IAB7 Health & Fitness
-Is Ethiopian healthy?,,0.1,synthetic,IAB7 Health & Fitness
-spin cycle paltrow martin try keep clean,,0.1,pseudo labeled,IAB7 Health & Fitness
-fist bumps hygienic handshakes,,0.1,pseudo labeled,IAB7 Health & Fitness
-harris admired teenagers body,,0.1,pseudo labeled,IAB7 Health & Fitness
-obese teenagers high salt intake age faster peers,,0.1,pseudo labeled,IAB7 Health & Fitness
-ringgit strengthens twoweek high,,0.1,pseudo labeled,IAB7 Health & Fitness
-ackman bets 1 billion herbalife,,0.1,pseudo labeled,IAB7 Health & Fitness
-optimum vitamin levels cuts risk premature death half,,0.1,pseudo labeled,IAB7 Health & Fitness
-"Barbecue and grilling can be a healthy way to cook food, but it is important to be aware of the potential risks.",,0.1,synthetic,IAB7 Health & Fitness
-overweight people less closer death underweight,,0.1,pseudo labeled,IAB7 Health & Fitness
-Nutrition is a key component of a healthy lifestyle and can help to improve overall health and well-being.,,0.1,synthetic,IAB7 Health & Fitness
-"Treatment options for arthritis include medication, physical therapy, and surgery.",,0.1,synthetic,IAB7 Health & Fitness
-samsung push common wearables base,,0.1,pseudo labeled,IAB7 Health & Fitness
-kirstie alley gains back 30 pounds rejoins jenny craig video,,0.1,pseudo labeled,IAB7 Health & Fitness
-There are many different ways that deaf people can participate in physical activity.,,0.1,synthetic,IAB7 Health & Fitness
-"Key risk factors for heart disease include high blood pressure, high cholesterol, diabetes, obesity, and smoking.",,0.1,synthetic,IAB7 Health & Fitness
-It is a cost-effective way to improve health and function.,,0.09,synthetic,IAB7 Health & Fitness
-high protein vegetarian meals,,0.09,synthetic,IAB7 Health & Fitness
-importance of dynamic warm up,,0.09,synthetic,IAB7 Health & Fitness
-"By working together, we can improve the health and well-being of men.",,0.09,synthetic,IAB7 Health & Fitness
-intermittent fasting schedule,,0.09,synthetic,IAB7 Health & Fitness
-pebble adds misfit activity tracking jawbone connects wrist nest,,0.09,pseudo labeled,IAB7 Health & Fitness
-Orthopedic rehabilitation is an important part of the recovery process for orthopedic patients.,,0.09,synthetic,IAB7 Health & Fitness
-"Some of the most popular weight loss products and services include diet pills, meal replacement shakes, and weight loss surgery.",,0.09,synthetic,IAB7 Health & Fitness
-"A healthy diet can help to prevent chronic diseases such as heart disease, stroke, type 2 diabetes, and some types of cancer.",,0.09,synthetic,IAB7 Health & Fitness
-hkiff review interesting dot 2 dot concept draws slowly,,0.09,pseudo labeled,IAB7 Health & Fitness
-"Japanese cuisine is known for its health benefits, and is often considered to be one of the healthiest cuisines in the world.",,0.09,synthetic,IAB7 Health & Fitness
-"In the meantime, there are many things that people with arthritis can do to manage their symptoms and live full and active lives.",,0.09,synthetic,IAB7 Health & Fitness
-olive oil lower blood pressure,,0.09,pseudo labeled,IAB7 Health & Fitness
-"There is also a growing emphasis on self-management strategies, such as exercise, relaxation techniques, and lifestyle changes.",,0.09,synthetic,IAB7 Health & Fitness
-"Notable events in the history of low-fat cooking include the publication of Pritikin's book ""The Pritikin Program"" in 1979 and the launch of the Ornish Diet in 1983.",,0.09,synthetic,IAB7 Health & Fitness
-ecigs help quitting smoking less,,0.09,pseudo labeled,IAB7 Health & Fitness
-fistbumps highfives hygienic handshakes,,0.09,pseudo labeled,IAB7 Health & Fitness
-Birds also need a healthy diet that is specifically designed for their needs.,,0.09,synthetic,IAB7 Health & Fitness
-Start slowly and gradually increase your distance and intensity over time.,,0.09,synthetic,IAB7 Health & Fitness
-It can also be a great way to get exercise and fresh air.,,0.09,synthetic,IAB7 Health & Fitness
-It is a fun and challenging way to get exercise and improve your hand-eye coordination.,,0.09,synthetic,IAB7 Health & Fitness
-healthy county,,0.09,pseudo labeled,IAB7 Health & Fitness
-structured activity aids mobility elderly,,0.09,pseudo labeled,IAB7 Health & Fitness
-inhaled insulin afrezza faq,,0.09,pseudo labeled,IAB7 Health & Fitness
-william walkercnn,,0.09,pseudo labeled,IAB7 Health & Fitness
-joan rivers points lena dunhams weight audio clip,,0.09,pseudo labeled,IAB7 Health & Fitness
-dan jensen supports shave november,,0.09,pseudo labeled,IAB7 Health & Fitness
-rob kardashian lean,,0.09,pseudo labeled,IAB7 Health & Fitness
-adam clayton control rehab,,0.09,pseudo labeled,IAB7 Health & Fitness
-eighthgrade students perform living stations cross,,0.09,pseudo labeled,IAB7 Health & Fitness
-It is important to talk to your doctor about your cholesterol levels and to make lifestyle changes to lower your risk of heart disease and stroke,,0.09,synthetic,IAB7 Health & Fitness
-"High levels of cholesterol can be caused by a number of factors, including diet, obesity, smoking, and genetics",,0.09,synthetic,IAB7 Health & Fitness
-yes need wear sunscreen everywhere heres,,0.09,pseudo labeled,IAB7 Health & Fitness
-spring cleaning helps stave allergy symptoms experts,,0.09,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a good way to prevent the development of chronic diseases.,,0.09,synthetic,IAB7 Health & Fitness
-Low-fat cooking is a good way to reduce the risk of developing fatty liver disease.,,0.09,synthetic,IAB7 Health & Fitness
-physical activity program reduces risk major mobility disability among older,,0.09,pseudo labeled,IAB7 Health & Fitness
-The ideal level of HDL cholesterol is greater than 60 mg/dL,,0.09,synthetic,IAB7 Health & Fitness
-usdcad hit 11000 12 weeks uob group,,0.09,pseudo labeled,IAB7 Health & Fitness
-7 steps skinfriendly summer,,0.09,pseudo labeled,IAB7 Health & Fitness
-There are two types of cholesterol: low-density lipoprotein (LDL) and high-density lipoprotein (HDL),,0.09,synthetic,IAB7 Health & Fitness
-emma stone weight struggle,,0.09,pseudo labeled,IAB7 Health & Fitness
-The ideal level of total cholesterol is less than 200 mg/dL,,0.09,synthetic,IAB7 Health & Fitness
-ecigs may help quit smoking,,0.08,pseudo labeled,IAB7 Health & Fitness
-take deep breath us air getting cleaner,,0.08,pseudo labeled,IAB7 Health & Fitness
-"Some people believe that artificial ingredients are harmful to health, while others believe that they are safe.",,0.08,synthetic,IAB7 Health & Fitness
-"Spas can help you improve your sleep, boost your energy levels, and improve your overall mood.",,0.08,synthetic,IAB7 Health & Fitness
-health glutenfree recipes,,0.08,pseudo labeled,IAB7 Health & Fitness
-fda approves ajinomotos nocalorie sweetener,,0.08,pseudo labeled,IAB7 Health & Fitness
-Low-fat cooking is a good way to reduce the risk of developing pancreatitis.,,0.08,synthetic,IAB7 Health & Fitness
-"The history of weight loss can be traced back to ancient times, when people used a variety of methods to lose weight, including fasting, exercise, and herbal remedies.",,0.08,synthetic,IAB7 Health & Fitness
-"Causes: Sleep apnea can be caused by anatomical factors, such as enlarged tonsils or a narrow airway, or by medical conditions like obesity.",,0.08,synthetic,IAB7 Health & Fitness
-"Low-fat cooking is a good way to eat more fruits, vegetables, and whole grains.",,0.08,synthetic,IAB7 Health & Fitness
-Low-fat cooking is a good way to reduce the risk of developing gallstones.,,0.08,synthetic,IAB7 Health & Fitness
-"By following these tips, you can help to reduce your risk of getting sick.",,0.07,synthetic,IAB7 Health & Fitness
-electronic cigarettes may help people stop smoking,,0.07,pseudo labeled,IAB7 Health & Fitness
-It is also a great way to improve your hand-eye coordination and reflexes.,,0.07,synthetic,IAB7 Health & Fitness
+text,iab_label,confidence,source,labels
+importance of posture in fitness,IAB7 Health & Fitness,0.195,synthetic,
+importance of electrolytes in fitness,IAB7 Health & Fitness,0.19,synthetic,
+gym jessica simpsons weight loss reaches new levels,IAB7 Health & Fitness,0.19,pseudo labeled,
+google developing health data app fit take apple,IAB7 Health & Fitness,0.19,pseudo labeled,
+kim kardashian fights kanye marriage woes gym,IAB7 Health & Fitness,0.19,pseudo labeled,
+fbi herbalife investigation whats going,IAB7 Health & Fitness,0.19,pseudo labeled,
+work smarter hightech fitnesstracking shirt,IAB7 Health & Fitness,0.185,pseudo labeled,
+google fit health service announcement expected,IAB7 Health & Fitness,0.185,pseudo labeled,
+facebook sets sights fitness buying activitytracking app moves,IAB7 Health & Fitness,0.185,pseudo labeled,
+ftc starts herbalife investigation shares drop,IAB7 Health & Fitness,0.185,pseudo labeled,
+health tracking platform google fit may unveiled google io 2014,IAB7 Health & Fitness,0.185,pseudo labeled,
+sanofi regeneron prep pcsk9 cardio contender fda review phiii,IAB7 Health & Fitness,0.185,pseudo labeled,
+"In the early 19th century, exercise began to be recognized as a way to improve health and fitness.",IAB7 Health & Fitness,0.185,synthetic,
+jada pinkett smith gets physical,IAB7 Health & Fitness,0.185,pseudo labeled,
+mcauliffe puts focus womens health,IAB7 Health & Fitness,0.185,pseudo labeled,
+gym memberships cellphone contracts 35 percent americans,IAB7 Health & Fitness,0.18,pseudo labeled,
+rob kardashian hits gym picture,IAB7 Health & Fitness,0.18,pseudo labeled,
+fitbit makes app windows phone base,IAB7 Health & Fitness,0.18,pseudo labeled,
+angelina jolie forced yoga,IAB7 Health & Fitness,0.18,pseudo labeled,
+google fit androids new health fitness tracking platform,IAB7 Health & Fitness,0.18,pseudo labeled,
+kimyes divorce inevitable gym using advertising,IAB7 Health & Fitness,0.18,pseudo labeled,
+So make nutrition a priority in your life.,IAB7 Health & Fitness,0.18,synthetic,
+herbalife faces ftc inquiry shares plunge,IAB7 Health & Fitness,0.175,pseudo labeled,
+"The Importance of Exercise for Women's Health: Reducing Risk of Chronic Diseases, Improving Mood, Boosting Energy Levels",IAB7 Health & Fitness,0.175,synthetic,
+samsung galaxy s5 review fitnessconscious smartphone,IAB7 Health & Fitness,0.175,pseudo labeled,
+importance of rest days in fitness,IAB7 Health & Fitness,0.17,synthetic,
+google fit android take apple healthkit,IAB7 Health & Fitness,0.17,pseudo labeled,
+google fit android take apple ios healthkit services,IAB7 Health & Fitness,0.17,pseudo labeled,
+importance of consistency in fitness,IAB7 Health & Fitness,0.17,synthetic,
+lululemon shares rally new chief gets warm welcome,IAB7 Health & Fitness,0.17,pseudo labeled,
+adidass latest app allows users put instagram photos trainers,IAB7 Health & Fitness,0.17,pseudo labeled,
+"Bicycling has played a significant role in promoting fitness, reducing carbon emissions, and fostering a sense of community.",IAB7 Health & Fitness,0.165,synthetic,
+gym told woman wear clothes intimidating,IAB7 Health & Fitness,0.165,pseudo labeled,
+importance of mental toughness in fitness,IAB7 Health & Fitness,0.165,synthetic,
+Influence on Fitness: The Benefits of Quitting Smoking,IAB7 Health & Fitness,0.165,synthetic,
+running seven minutes day cuts risk dying heart disease,IAB7 Health & Fitness,0.165,pseudo labeled,
+pilates vs yoga for toning,IAB7 Health & Fitness,0.165,synthetic,
+lululemon earnings preview analysts saying,IAB7 Health & Fitness,0.165,pseudo labeled,
+needs gym youve got kim kardashian rapper says kimmy makes,IAB7 Health & Fitness,0.165,pseudo labeled,
+even 5minute run great heart health,IAB7 Health & Fitness,0.165,pseudo labeled,
+american fitness index 2014 washington among healthiest cities,IAB7 Health & Fitness,0.165,pseudo labeled,
+microsoft fitness band arrive q4 rival samsung gear fit,IAB7 Health & Fitness,0.165,pseudo labeled,
+american heart association celebrates national walking day april 2,IAB7 Health & Fitness,0.16,pseudo labeled,
+yoga for core strength,IAB7 Health & Fitness,0.16,synthetic,
+google fit health service coming report,IAB7 Health & Fitness,0.16,pseudo labeled,
+importance of mental health in fitness,IAB7 Health & Fitness,0.16,synthetic,
+dark chocolate good health exact reason,IAB7 Health & Fitness,0.16,pseudo labeled,
+calories burned doing yoga,IAB7 Health & Fitness,0.16,synthetic,
+google fit service allow users consolidate health fitness,IAB7 Health & Fitness,0.16,pseudo labeled,
+"Sexuality is a complex and multifaceted aspect of human health and fitness that encompasses a wide range of physical, emotional, and social dimensions.",IAB7 Health & Fitness,0.16,synthetic,
+dark chocolate boosts peoples walking ability,IAB7 Health & Fitness,0.16,pseudo labeled,
+facebooks fitness app buy location location location,IAB7 Health & Fitness,0.16,pseudo labeled,
+google starts processing requests users exercising right,IAB7 Health & Fitness,0.16,pseudo labeled,
+herbalife facing ftc inquiry,IAB7 Health & Fitness,0.16,pseudo labeled,
+facebook looks break fitness market latest moves acquisition,IAB7 Health & Fitness,0.16,pseudo labeled,
+"Bicycling has a positive influence on physical and mental health, promoting cardiovascular fitness, reducing stress, and improving overall well-being.",IAB7 Health & Fitness,0.16,synthetic,
+burn planet fitness ground,IAB7 Health & Fitness,0.16,pseudo labeled,
+"Physical therapy has been around for centuries, with its roots in ancient Greece and China.",IAB7 Health & Fitness,0.16,synthetic,
+lululemon athletica inc surges earnings beat ceo pledges global expansion,IAB7 Health & Fitness,0.155,pseudo labeled,
+google previews google fit apis sharing fitnesslogging info,IAB7 Health & Fitness,0.155,pseudo labeled,
+quick short runs pack health benefits,IAB7 Health & Fitness,0.155,pseudo labeled,
+tweet feet national walking day,IAB7 Health & Fitness,0.155,pseudo labeled,
+short runs pack health benefits,IAB7 Health & Fitness,0.155,pseudo labeled,
+infographic spotify says australians love love keep fit,IAB7 Health & Fitness,0.155,pseudo labeled,
+So get out there and start walking!,IAB7 Health & Fitness,0.155,synthetic,
+Paintball is a great way to stay active and healthy.,IAB7 Health & Fitness,0.155,synthetic,
+Current trends in walking include:,IAB7 Health & Fitness,0.155,synthetic,
+ftc opens inquiry herbalife,IAB7 Health & Fitness,0.15,pseudo labeled,
+ftc launches civil probe herbalife ltd,IAB7 Health & Fitness,0.15,pseudo labeled,
+ralph lauren debuts polo tech fitness tracker shirt us open,IAB7 Health & Fitness,0.15,pseudo labeled,
+seattle tones moves us fitness study,IAB7 Health & Fitness,0.15,pseudo labeled,
+ftc probe targets herbalife,IAB7 Health & Fitness,0.15,pseudo labeled,
+charlotte jumps 27 fitness ranking,IAB7 Health & Fitness,0.15,pseudo labeled,
+fitness motivation quotes,IAB7 Health & Fitness,0.15,synthetic,
+"Swimming is a great way to reduce your risk of chronic diseases, such as heart disease, stroke, and type 2 diabetes.",IAB7 Health & Fitness,0.15,synthetic,
+ralph lauren testing fitness tracking shirt us open,IAB7 Health & Fitness,0.15,pseudo labeled,
+yale bodyshames naturally slim student name health,IAB7 Health & Fitness,0.145,pseudo labeled,
+google play fitness details leak ahead google io,IAB7 Health & Fitness,0.145,pseudo labeled,
+gym tells woman cover toned body intimidated others,IAB7 Health & Fitness,0.145,pseudo labeled,
+miley cyrus addresses drug rumors im poster child good health,IAB7 Health & Fitness,0.145,pseudo labeled,
+Swimming is a safe and enjoyable way to get exercise and improve your overall health.,IAB7 Health & Fitness,0.145,synthetic,
+microsoft rival samsung fitness tracker ios android windows,IAB7 Health & Fitness,0.145,pseudo labeled,
+common gym mistakes to avoid,IAB7 Health & Fitness,0.145,synthetic,
+apples hiring medical professionals hints fitness features rumoured,IAB7 Health & Fitness,0.14,pseudo labeled,
+new fitness report says need get shape dallas,IAB7 Health & Fitness,0.14,pseudo labeled,
+end fitness bands wearable tech feels ready move forward,IAB7 Health & Fitness,0.14,pseudo labeled,
+kim kardashian avoids photographers legging gym,IAB7 Health & Fitness,0.14,pseudo labeled,
+how to incorporate fitness into daily routine,IAB7 Health & Fitness,0.14,synthetic,
+exercise wards diabetes pregnancy,IAB7 Health & Fitness,0.14,pseudo labeled,
+guy behind nutrition facts energy guides,IAB7 Health & Fitness,0.14,pseudo labeled,
+rob kardashian flying personal trainer paris keep fit sister kims,IAB7 Health & Fitness,0.14,pseudo labeled,
+best fitness podcasts to follow,IAB7 Health & Fitness,0.14,synthetic,
+facebook buys fitnesstracking app moves,IAB7 Health & Fitness,0.14,pseudo labeled,
+google fit curate steps calories heart rate biometric data,IAB7 Health & Fitness,0.14,pseudo labeled,
+john kerrys visit exercise success modiobama meet,IAB7 Health & Fitness,0.14,pseudo labeled,
+apples new headphones track heart rate blood pressure leak ios 8,IAB7 Health & Fitness,0.14,pseudo labeled,
+fit woman told gym cover,IAB7 Health & Fitness,0.14,pseudo labeled,
+criminal probe launched herbalife,IAB7 Health & Fitness,0.135,pseudo labeled,
+drama ever end lululemon,IAB7 Health & Fitness,0.135,pseudo labeled,
+roundup herbalife facing ftc inquiry investment bank agrees pay 25m,IAB7 Health & Fitness,0.135,pseudo labeled,
+yoga mat chemical almost bread subway says,IAB7 Health & Fitness,0.135,pseudo labeled,
+canada stocks watch snclavalin lululemon aecon,IAB7 Health & Fitness,0.135,pseudo labeled,
+facebook eyes fitness tracking market buys moves,IAB7 Health & Fitness,0.135,pseudo labeled,
+run life jogging seven minues day slashes heart disease risks,IAB7 Health & Fitness,0.135,pseudo labeled,
+google fit announced android version ios 8 healthkit nike adidas,IAB7 Health & Fitness,0.135,pseudo labeled,
+gym tells woman cover intimidating members,IAB7 Health & Fitness,0.135,pseudo labeled,
+"Walking has many health benefits, including reducing the risk of heart disease, stroke, type 2 diabetes, and some types of cancer.",IAB7 Health & Fitness,0.13,synthetic,
+how to develop a morning fitness routine,IAB7 Health & Fitness,0.13,synthetic,
+nurse giving advice mens health tinder,IAB7 Health & Fitness,0.13,pseudo labeled,
+importance of breathing in exercise,IAB7 Health & Fitness,0.13,synthetic,
+modesty new abercrombie,IAB7 Health & Fitness,0.13,pseudo labeled,
+Bicycling is a rewarding activity that offers both physical and mental benefits.,IAB7 Health & Fitness,0.13,synthetic,
+apple planning fitness tracking earpods,IAB7 Health & Fitness,0.13,pseudo labeled,
+chocolate pills cardiovascular health,IAB7 Health & Fitness,0.13,pseudo labeled,
+rob kardashian spotted gym amid sizzurp concerns need rehab,IAB7 Health & Fitness,0.13,pseudo labeled,
+subway says yoga mat chemical almost bread,IAB7 Health & Fitness,0.13,pseudo labeled,
+facebook buys fitness tracker startup behind moves,IAB7 Health & Fitness,0.13,pseudo labeled,
+kate middleton turns extreme diet stay slim better skin,IAB7 Health & Fitness,0.13,pseudo labeled,
+lululemon says profits held steady fourth quarter revenue 7 per cent,IAB7 Health & Fitness,0.13,pseudo labeled,
+recall fitbit force activitytracking wristband,IAB7 Health & Fitness,0.13,pseudo labeled,
+google fit official aims help give complete picture fitness,IAB7 Health & Fitness,0.13,pseudo labeled,
+video beats announces athletefriendly powerbeats 2 wireless earphones,IAB7 Health & Fitness,0.13,pseudo labeled,
+health trigger words trump nutritional labels food purchases,IAB7 Health & Fitness,0.13,pseudo labeled,
+"The integration of appliances with health and fitness trackers has emerged as a trend, providing insights into calorie consumption and nutritional information.",IAB7 Health & Fitness,0.125,synthetic,
+hoosier kids join kick butts campaign,IAB7 Health & Fitness,0.125,pseudo labeled,
+The future of physical therapy is bright.,IAB7 Health & Fitness,0.125,synthetic,
+io google fit unveiled health fitness tracking platform,IAB7 Health & Fitness,0.125,pseudo labeled,
+- The growing popularity of walking as a form of exercise.,IAB7 Health & Fitness,0.125,synthetic,
+"Walking is one of the oldest and most natural forms of exercise, dating back to the earliest days of human history.",IAB7 Health & Fitness,0.125,synthetic,
+chocolate walk dark chocolate boosts endurance,IAB7 Health & Fitness,0.125,pseudo labeled,
+running five minutes day really help live longer,IAB7 Health & Fitness,0.125,pseudo labeled,
+"These therapies include acupuncture, massage therapy, and yoga.",IAB7 Health & Fitness,0.125,synthetic,
+google fit platform preview time get healthy,IAB7 Health & Fitness,0.125,pseudo labeled,
+"Exercise is a powerful tool that can help people live healthier, happier, and longer lives.",IAB7 Health & Fitness,0.125,synthetic,
+5 reasons youll want workout omsignals smart shirts list,IAB7 Health & Fitness,0.125,pseudo labeled,
+herbalife target unusually high options trading hlf,IAB7 Health & Fitness,0.125,pseudo labeled,
+sweet truth dark chocolate help pad patients walk better,IAB7 Health & Fitness,0.125,pseudo labeled,
+lululemon holds busiest retail season,IAB7 Health & Fitness,0.12,pseudo labeled,
+"Walking is a great way to stay active and healthy, and it can be enjoyed by people of all ages and fitness levels.",IAB7 Health & Fitness,0.12,synthetic,
+apple eyeing full health fitness platform report says,IAB7 Health & Fitness,0.12,pseudo labeled,
+running five minutes day good life,IAB7 Health & Fitness,0.12,pseudo labeled,
+importance minding health,IAB7 Health & Fitness,0.12,pseudo labeled,
+exercise heart disease much help lot,IAB7 Health & Fitness,0.12,pseudo labeled,
+ivf move could prevent diseases,IAB7 Health & Fitness,0.12,pseudo labeled,
+running daily even minutes increases life span,IAB7 Health & Fitness,0.12,pseudo labeled,
+kids support national kick butts day,IAB7 Health & Fitness,0.12,pseudo labeled,
+apples iwatch could help launch new health fitness platform,IAB7 Health & Fitness,0.12,pseudo labeled,
+moderate exercise key heart health,IAB7 Health & Fitness,0.12,pseudo labeled,
+Exercise can help people improve their overall quality of life.,IAB7 Health & Fitness,0.12,synthetic,
+meet jessica simpsons wedding weight loss trainer,IAB7 Health & Fitness,0.12,pseudo labeled,
+johnson county named healthiest kansas second straight year,IAB7 Health & Fitness,0.12,pseudo labeled,
+ymcas presenting healthy kids day,IAB7 Health & Fitness,0.12,pseudo labeled,
+facebook buys startup behind fitness tracker app moves,IAB7 Health & Fitness,0.12,pseudo labeled,
+Importance of Self-Care for Parents: Maintaining Physical and Mental Health,IAB7 Health & Fitness,0.12,synthetic,
+keep fitness coach pocket samsung galaxy s5,IAB7 Health & Fitness,0.12,pseudo labeled,
+benefits of circuit training,IAB7 Health & Fitness,0.12,synthetic,
+The future of physical therapy is full of possibilities.,IAB7 Health & Fitness,0.12,synthetic,
+facebook acquired fitnesstracking app moves,IAB7 Health & Fitness,0.115,pseudo labeled,
+samsung introduces wearable health tracker geeks insurance,IAB7 Health & Fitness,0.115,pseudo labeled,
+acdcs malcolm young takes break band focus health,IAB7 Health & Fitness,0.115,pseudo labeled,
+google apple fight heart healthcare defines latest,IAB7 Health & Fitness,0.115,pseudo labeled,
+lana del reys ultraviolence leads healthy us album chart,IAB7 Health & Fitness,0.115,pseudo labeled,
+tatami foldable yoga mats,IAB7 Health & Fitness,0.115,synthetic,
+running 7 minutes day halves heart death risk,IAB7 Health & Fitness,0.115,pseudo labeled,
+im size 24 im healthy happy lose weight woman,IAB7 Health & Fitness,0.115,pseudo labeled,
+subway yoga mat ingredient removed week,IAB7 Health & Fitness,0.115,pseudo labeled,
+facebook acquires fitness tracking mobile app,IAB7 Health & Fitness,0.115,pseudo labeled,
+stayathome moms rise,IAB7 Health & Fitness,0.115,pseudo labeled,
+lululemon lulu sees buying pressure ahead q4 report,IAB7 Health & Fitness,0.115,pseudo labeled,
+fasting lower diabetes risk prediabetes,IAB7 Health & Fitness,0.115,pseudo labeled,
+5minute run help live longer,IAB7 Health & Fitness,0.115,pseudo labeled,
+facebook acquires alwayson fitness tracking app moves,IAB7 Health & Fitness,0.115,pseudo labeled,
+ottawa county ranked healthiest michigan,IAB7 Health & Fitness,0.115,pseudo labeled,
+healthy kids day planned april 26 miami county ymca,IAB7 Health & Fitness,0.115,pseudo labeled,
+facebook sashays fitness space moves acquisition,IAB7 Health & Fitness,0.115,pseudo labeled,
+running 5 minutes day help live longer,IAB7 Health & Fitness,0.115,pseudo labeled,
+womans crop top intimidating planet fitness,IAB7 Health & Fitness,0.115,pseudo labeled,
+fasting reduce cholesterol levels people prediabetes,IAB7 Health & Fitness,0.115,pseudo labeled,
+runkeeper launches new steptracking breeze app,IAB7 Health & Fitness,0.11,pseudo labeled,
+human barbie valeria lukyanova posts workout video extreme diet,IAB7 Health & Fitness,0.11,pseudo labeled,
+runkeeper launches life tracking app breeze make fitbit irrelevant,IAB7 Health & Fitness,0.11,pseudo labeled,
+herbalife ltd nysehlf provides fy 14 results,IAB7 Health & Fitness,0.11,pseudo labeled,

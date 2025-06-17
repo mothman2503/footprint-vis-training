@@ -10,7 +10,7 @@ INPUT_FILE = "labeled_zero_shot_output_combined.csv"
 OUTPUT_FOLDER = "balanced_split_output"
 CLASS_FOLDER = os.path.join(OUTPUT_FOLDER, "classes")
 MISSING_FOLDER = os.path.join(OUTPUT_FOLDER, "missing_classes")
-MAX_SAMPLES_PER_CLASS = 2000
+MAX_SAMPLES_PER_CLASS = 1000
 CONFIDENCE_THRESHOLD = 0.2
 
 # Load full dataset
@@ -129,7 +129,7 @@ for _, row in meta_df.iterrows():
     label = row["iab_label"]
     count = int(row["num_samples"])
     conf = round(row["avg_confidence"], 3)
-    missing = max(0, 2000 - count)
+    missing = max(0, MAX_SAMPLES_PER_CLASS - count)
     emoji = "✅" if missing == 0 else "⚠️\u200A"
     print(f"{emoji}     {label:<35} {count:>6} {conf:>10.3f}")
 

@@ -36,6 +36,14 @@ for file, folder in batch_files:
         df["source"] = "subcategories"
     else:
         df["source"] = "unknown"  # fallback (safe guard)
+
+    # Determine source based on folder name
+    if folder.startswith("output_chunks/output_chunks_synthetic_TOP_QUALITY"):
+        df["confidence"] = 1.0
+    elif folder.startswith("output_chunks/output_chunks_synthetic_GOOD_QUALITY"):
+        df["confidence"] = 0.9
+    else:
+        df["confidence"] = df["confidence"] * 0.8
     
     df_list.append(df)
 
