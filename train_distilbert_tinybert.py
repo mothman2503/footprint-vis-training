@@ -1,14 +1,20 @@
+import os
+import json
 import pandas as pd
 import torch
-from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
-from transformers.trainer_utils import EvalPrediction
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import accuracy_score, f1_score
-from datasets import Dataset
-import numpy as np
 import argparse
 import joblib
-import json
+import numpy as np
+from datasets import Dataset
+from transformers import (
+    AutoTokenizer,
+    AutoModelForSequenceClassification,
+    Trainer,
+    TrainingArguments,
+    EvalPrediction
+)
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import accuracy_score, f1_score
 
 MODEL_CHOICES = {
     "distilbert": "distilbert-base-uncased",
@@ -53,6 +59,8 @@ def compute_metrics(eval_pred: EvalPrediction):
     }
 
 def train_model(model_name_key, train_file, val_file, test_file, output_dir, use_weights):
+    os.makedirs(output_dir, exist_ok=True)
+
     model_name = MODEL_CHOICES[model_name_key]
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=len(FIXED_LABEL_LIST))
