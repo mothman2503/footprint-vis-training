@@ -7,6 +7,7 @@ from sklearn.metrics import accuracy_score, f1_score
 from datasets import Dataset
 import numpy as np
 import argparse
+import joblib
 
 # --- CONFIG ---
 MODEL_CHOICES = {
@@ -14,6 +15,16 @@ MODEL_CHOICES = {
     "tinybert": "prajjwal1/bert-tiny",
     "bert": "bert-base-uncased"
 }
+
+# Fixed label list to ensure consistent label order
+FIXED_LABEL_LIST = [
+    "IAB1 Arts & Entertainment", "IAB2 Automotive", "IAB3 Business", "IAB4 Careers",
+    "IAB5 Education", "IAB6 Family & Parenting", "IAB7 Health & Fitness", "IAB8 Food & Drink",
+    "IAB9 Hobbies & Interests", "IAB10 Home & Garden", "IAB11 Law, Gov’t & Politics",
+    "IAB12 News", "IAB13 Personal Finance", "IAB14 Society", "IAB15 Science", "IAB16 Pets",
+    "IAB17 Sports", "IAB18 Style & Fashion", "IAB19 Technology & Computing", "IAB20 Travel",
+    "IAB21 Real Estate", "IAB22 Shopping", "IAB23 Religion & Spirituality", "IAB24 Uncategorized"
+]
 
 # --- LOAD DATA ---
 def load_and_prepare_data(train_path, val_path, test_path):
@@ -25,7 +36,8 @@ def load_and_prepare_data(train_path, val_path, test_path):
         df.drop(columns=["labels"], inplace=True, errors="ignore")
 
     le = LabelEncoder()
-    train_df["label"] = le.fit_transform(train_df["iab_label"])
+    le.fit(FIXED_LABEL_LIST)
+    train_df["label"] = le.transform(train_df["iab_label"])
     val_df["label"] = le.transform(val_df["iab_label"])
     test_df["label"] = le.transform(test_df["iab_label"])
 
@@ -48,9 +60,11 @@ def compute_metrics(eval_pred: EvalPrediction):
 def train_model(model_name_key, train_file, val_file, test_file, output_dir, use_weights):
     model_name = MODEL_CHOICES[model_name_key]
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=24)
+    model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=len(FIXED_LABEL_LIST))
 
     train_df, val_df, test_df, label_encoder = load_and_prepare_data(train_file, val_file, test_file)
+
+    joblib.dump(label_encoder, f"{output_dir}/label_encoder.joblib")
 
     train_dataset = Dataset.from_dict({**tokenize_data(train_df, tokenizer), "label": train_df["label"].tolist()})
     val_dataset = Dataset.from_dict({**tokenize_data(val_df, tokenizer), "label": val_df["label"].tolist()})
