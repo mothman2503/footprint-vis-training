@@ -1,14 +1,13 @@
 from transformers import AutoTokenizer, AutoModelForSequenceClassification
 import torch
-import numpy as np
 
-# Load model + tokenizer from your output folder
+# Load model and tokenizer
 model_dir = "distilbert_output"  # or "tinybert_output"
 model = AutoModelForSequenceClassification.from_pretrained(model_dir)
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 
-# Label mapping (you'll need this from your encoder)
-label_names = [  # Update these with your actual 24 class labels
+# Label list (ensure this matches your training labels)
+label_names = [
     "IAB1 Arts & Entertainment", "IAB2 Automotive", "IAB3 Business", 
     "IAB4 Careers", "IAB5 Education", "IAB6 Family & Parenting", 
     "IAB7 Health & Fitness", "IAB8 Food & Drink", "IAB9 Hobbies & Interests", 
@@ -21,16 +20,23 @@ label_names = [  # Update these with your actual 24 class labels
     "IAB24 Illegal Content"
 ]
 
-# 🔍 Your test phrase
-test_text = "cricket"
-# Tokenize and predict
-inputs = tokenizer(test_text, return_tensors="pt", truncation=True, padding=True)
-with torch.no_grad():
-    outputs = model(**inputs)
-    logits = outputs.logits
-    predicted_class = torch.argmax(logits, dim=1).item()
-    confidence = torch.softmax(logits, dim=1).max().item()
+# Interactive loop
+print("🧠 Enter a search phrase to classify (type 'exit' to quit):")
+while True:
+    text = input("> ").strip()
+    if text.lower() == "exit":
+        break
+    if not text:
+        continue
 
-# Show prediction
-print(f"Input: {test_text}")
-print(f"Predicted class: {label_names[predicted_class]} (confidence: {confidence:.2f})")
+    inputs = tokenizer(text, return_tensors="pt", truncation=True, padding=True)
+    with torch.no_grad():
+        outputs = model(**inputs)
+        logits = outputs.logits
+        probs = torch.softmax(logits, dim=1).squeeze()
+        predicted_idx = torch.argmax(probs).item()
+        predicted_label = label_names[predicted_idx]
+        confidence = probs[predicted_idx].item()
+
+    print(f"🔍 Predicted class: {predicted_label} (confidence: {confidence:.2f})")
+    print("-" * 50)
