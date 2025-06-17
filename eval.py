@@ -22,8 +22,7 @@ label_names = [  # Update these with your actual 24 class labels
 ]
 
 # 🔍 Your test phrase
-test_text = "vegan chocolate cake recipe"
-
+test_text = "cricket"
 # Tokenize and predict
 inputs = tokenizer(test_text, return_tensors="pt", truncation=True, padding=True)
 with torch.no_grad():
