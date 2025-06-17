@@ -121,9 +121,9 @@ def train_model(model_name_key, train_file, val_file, test_file, output_dir, use
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", choices=MODEL_CHOICES.keys(), required=True)
-    parser.add_argument("--train_file", default="train.csv")
-    parser.add_argument("--val_file", default="val.csv")
-    parser.add_argument("--test_file", default="test.csv")
+    parser.add_argument("--train_file", default="balanced_and_split/train.csv")
+    parser.add_argument("--val_file", default="balanced_and_split/val.csv")
+    parser.add_argument("--test_file", default="balanced_and_split/test.csv")
     parser.add_argument("--output_dir", default="./model_output")
     parser.add_argument("--no_confidence_weights", action="store_true")
     args = parser.parse_args()
